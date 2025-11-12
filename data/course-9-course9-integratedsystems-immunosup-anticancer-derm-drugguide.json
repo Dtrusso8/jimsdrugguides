@@ -1,0 +1,1831 @@
+{
+  "title": "Course9 IntegratedSystems Immunosup&AntiCancer&Derm DrugGuide",
+  "course": "Course 9",
+  "courseSlug": "course-9",
+  "tags": [
+    "Anti-Neoplastics",
+    "Biologics (Monoclonal Antibodies \"-MAB\")",
+    "Dermatologic Pharmacology",
+    "Immunosuppressants",
+    "Targeted Inhibitors (\"-IB\")",
+    "Traditional Chemotherapeutics"
+  ],
+  "tables": [
+    {
+      "headers": [
+        "IMMUNOSUPPRESSANTS",
+        "IMMUNOSUPPRESSANTS",
+        "IMMUNOSUPPRESSANTS",
+        "IMMUNOSUPPRESSANTS"
+      ],
+      "rows": [
+        [
+          "Transplant rejection",
+          "Autoimmune/Inflammatory",
+          "Myleoproliferative",
+          "DMARDs"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "INHIBITORS OF INFLAMMATORY CYTOKINE PRODUCTION",
+        "INHIBITORS OF INFLAMMATORY CYTOKINE PRODUCTION"
+      ],
+      "rows": [
+        [
+          "GLUCOCORTICOIDS (ALSO INHIBIT PROSTGLANDIN PRODUCTION)",
+          "CALCINEURIN INHIBITORS"
+        ],
+        [
+          "Dexamethasone",
+          "Cyclosporin"
+        ],
+        [
+          "Hydrocortisone",
+          "Tacrolimus (Prograf)"
+        ],
+        [
+          "Prednisone",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "INHIBITORS OF INFLAMMATORY CYTOKINE ACTIVITY",
+        "INHIBITORS OF INFLAMMATORY CYTOKINE ACTIVITY",
+        "INHIBITORS OF INFLAMMATORY CYTOKINE ACTIVITY",
+        "INHIBITORS OF INFLAMMATORY CYTOKINE ACTIVITY"
+      ],
+      "rows": [
+        [
+          "CYTOKINE ANTIBODIES",
+          "CYTOKINE RECEPTOR ANTIBODIES",
+          "CYTOKINE RECEPTOR ANTIBODIES",
+          "CYTOKINE RECEPTOR ANTAGONIST"
+        ],
+        [
+          "TNFa",
+          "CD20 (B-CELL RECEPTOR)",
+          "CD20 (B-CELL RECEPTOR)",
+          "IL-1 RECEPTOR (VARIOUS)"
+        ],
+        [
+          "Adalimumab (Humira)",
+          "Rituximab",
+          "(Rituxan)",
+          "Anakinra (Kineret)"
+        ],
+        [
+          "Certolizumab (Cimzia)",
+          "Ofatunumab (Kesimpta™)",
+          "Ofatunumab (Kesimpta™)",
+          ""
+        ],
+        [
+          "Etanercept (Enbrel)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Golimumab (Simponi)",
+          "IL-2 RECEPTOR (T-CELL)",
+          "IL-2 RECEPTOR (T-CELL)",
+          ""
+        ],
+        [
+          "Infliximab (Remicade)",
+          "Basiliximab (Simulect)",
+          "Basiliximab (Simulect)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "B CELL ACTIVATING FACTOR (BAFF)",
+          "IL-4 RECEPTOR",
+          "IL-4 RECEPTOR",
+          ""
+        ],
+        [
+          "Belimumab (Benlysta)",
+          "Dupilumab (Dupixent™)",
+          "Dupilumab (Dupixent™)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "IL-1b",
+          "IL-6 RECEPTOR",
+          "IL-6 RECEPTOR",
+          ""
+        ],
+        [
+          "Canakinumab (Ilaris™)",
+          "Tocilizumab (Actemra)",
+          "Tocilizumab (Actemra)",
+          ""
+        ],
+        [
+          "",
+          "Sarilumab (Kevzara)",
+          "Sarilumab (Kevzara)",
+          ""
+        ],
+        [
+          "IL-12 & IL-23",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Guselkumab (Tremfya - IL-23 only)",
+          "IL-17 RECEPTOR",
+          "IL-17 RECEPTOR",
+          ""
+        ],
+        [
+          "Ustekinumab (Stelara)",
+          "Brodalumab (Siliq)",
+          "Brodalumab (Siliq)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "IL-13",
+          "IL-31 RECEPTOR",
+          "IL-31 RECEPTOR",
+          ""
+        ],
+        [
+          "Tralokinumab (Adbry™)",
+          "Nemolizumab (Nemluvio™)",
+          "Nemolizumab (Nemluvio™)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "IL-17",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Secukinumab (Cosentyx)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ixekizumab (Taltz)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Bimekizumab (Bimzelx)",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "INHIBITORS OF T-CELL PROLIFERATION/ACTIVATION",
+        "INHIBITORS OF T-CELL PROLIFERATION/ACTIVATION",
+        "INHIBITORS OF T-CELL PROLIFERATION/ACTIVATION",
+        "INHIBITORS OF T-CELL PROLIFERATION/ACTIVATION",
+        "INHIBITORS OF T-CELL PROLIFERATION/ACTIVATION"
+      ],
+      "rows": [
+        [
+          "T CELL RECEPTOR INHIBITOR",
+          "IL-2 SIGNALING INHIBITORS",
+          "IL-2 SIGNALING INHIBITORS",
+          "DNA SYNTHESIS INHIBITORS",
+          "DNA SYNTHESIS INHIBITORS"
+        ],
+        [
+          "",
+          "mTOR INHIBITORS (PROLIFERATION)",
+          "JAK INHIBITORS<br>(IL-2 SIGNALING)",
+          "GPAT INHIBITOR (PURINE SYNTHESIS)",
+          "GPAT INHIBITOR (PURINE SYNTHESIS)"
+        ],
+        [
+          "Abatacept (Orencia)",
+          "Sirolimus/Rapamycin",
+          "Abrocitinib (Cibinqo)",
+          "Azathi",
+          "oprine"
+        ],
+        [
+          "",
+          "Everolimus (Afinitor™)",
+          "Baricitinib (Olumiant)",
+          "Mycoph",
+          "enolate"
+        ],
+        [
+          "",
+          "",
+          "Delgocitinib (Corectim)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Deucravacitinib (Sotyktu)",
+          "DHFR INHIB. (FOLATE SYNTH.)",
+          "DHFR INHIB. (FOLATE SYNTH.)"
+        ],
+        [
+          "",
+          "",
+          "Fedratinib (Inrebic)",
+          "Methotrexate",
+          "Methotrexate"
+        ],
+        [
+          "",
+          "",
+          "Filgotinib (Jyselica)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Oclacitinib (Apoquel)",
+          "DHODH INHIB. (PYRIMIDINE SYNTH.)",
+          "DHODH INHIB. (PYRIMIDINE SYNTH.)"
+        ],
+        [
+          "",
+          "",
+          "Pacritinib (Vonjo)",
+          "Leflunomide",
+          "Leflunomide"
+        ],
+        [
+          "",
+          "",
+          "Peficitinib (Smyraf)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Ruxolitinib (Jakafi)",
+          "DNA CROSSLINKING AGENT",
+          "DNA CROSSLINKING AGENT"
+        ],
+        [
+          "",
+          "",
+          "Tofacitinib (Xeljanz)",
+          "Cyclophosphamide",
+          "Cyclophosphamide"
+        ],
+        [
+          "",
+          "",
+          "Upadacitinib (Rinvoq)",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "INHIBITORS OF LEUKOCYTE EXTRAVASATION (a4b7 INTEGRIN)",
+        "INHIBITORS OF LEUKOCYTE EXTRAVASATION (a4b7 INTEGRIN)"
+      ],
+      "rows": [
+        [
+          "Vedolizumab (Entyvio)",
+          "Natalizumab (Tysabri)"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "ANTI-NEOPLASTICS"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "TRADITIONAL CHEMOTHERAPEUTICS"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "PHASE NON-SPECIFIC",
+        "PHASE NON-SPECIFIC",
+        "PHASE NON-SPECIFIC",
+        "PHASE NON-SPECIFIC",
+        "S PHASE DRUGS",
+        "S PHASE DRUGS",
+        "S PHASE DRUGS",
+        "S PHASE DRUGS",
+        "S PHASE DRUGS",
+        "S PHASE DRUGS",
+        "G2 PHASE DRUGS",
+        "G2 PHASE DRUGS",
+        "G2 PHASE DRUGS",
+        "M PHASE DRUGS",
+        "M PHASE DRUGS",
+        "M PHASE DRUGS"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "DNA X-LINKING DRUGS (ALKYLATING AGENTS)",
+          "DNA X-LINKING DRUGS (ALKYLATING AGENTS)",
+          "DNA X-LINKING DRUGS (ALKYLATING AGENTS)",
+          "DNA X-LINKING DRUGS (ALKYLATING AGENTS)",
+          "ANTIMETABOLITES",
+          "ANTIMETABOLITES",
+          "ANTIMETABOLITES",
+          "TOPOISOMERASE INHIBITORS",
+          "TOPOISOMERASE INHIBITORS",
+          "TOPOISOMERASE INHIBITORS",
+          "DNA BINDING AGENTS",
+          "DNA BINDING AGENTS",
+          "DNA BINDING AGENTS",
+          "MICROTUBULE INHIBITORS",
+          "MICROTUBULE INHIBITORS",
+          "MICROTUBULE INHIBITORS"
+        ],
+        [
+          "",
+          "NITROGEN MUSTARDS",
+          "NITROGEN MUSTARDS",
+          "",
+          "",
+          "FOLATE ANTAGS",
+          "",
+          "TOPO I",
+          "TOPO I",
+          "TOPO I",
+          "",
+          "DNA SCISSION",
+          "",
+          "",
+          "VINCA ALKALOIDS",
+          ""
+        ],
+        [
+          "Bendamustine",
+          "Bendamustine",
+          "Bendamustine",
+          "Bendamustine",
+          "Methotrexate",
+          "Methotrexate",
+          "Methotrexate",
+          "",
+          "CAMPTOTHECINS",
+          "",
+          "Bleomycin",
+          "Bleomycin",
+          "Bleomycin",
+          "Vinblastine",
+          "Vinblastine",
+          "Vinblastine"
+        ],
+        [
+          "Chlorambucil",
+          "Chlorambucil",
+          "Chlorambucil",
+          "Chlorambucil",
+          "Pemetrexed",
+          "Pemetrexed",
+          "Pemetrexed",
+          "Irinotecan",
+          "Irinotecan",
+          "Irinotecan",
+          "Ozogamicin",
+          "Ozogamicin",
+          "Ozogamicin",
+          "Vincristine",
+          "Vincristine",
+          "Vincristine"
+        ],
+        [
+          "Cyclophosphamide",
+          "Cyclophosphamide",
+          "Cyclophosphamide",
+          "Cyclophosphamide",
+          "Pralatexate",
+          "Pralatexate",
+          "Pralatexate",
+          "Topotecan",
+          "Topotecan",
+          "Topotecan",
+          "",
+          "",
+          "",
+          "Vinorelbine",
+          "Vinorelbine",
+          "Vinorelbine"
+        ],
+        [
+          "Estramustine",
+          "Estramustine",
+          "Estramustine",
+          "Estramustine",
+          "",
+          "",
+          "",
+          "Govitecan",
+          "Govitecan",
+          "Govitecan",
+          "",
+          "X-SCRIPTION INHIB.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ifosfamide",
+          "Ifosfamide",
+          "Ifosfamide",
+          "Ifosfamide",
+          "",
+          "PURINE ANALOGS",
+          "",
+          "",
+          "",
+          "",
+          "Dactinomycin",
+          "Dactinomycin",
+          "Dactinomycin",
+          "",
+          "TAXANES",
+          ""
+        ],
+        [
+          "Mechlorethamine",
+          "Mechlorethamine",
+          "Mechlorethamine",
+          "Mechlorethamine",
+          "6-Mercaptopurine",
+          "6-Mercaptopurine",
+          "6-Mercaptopurine",
+          "TOPO II",
+          "TOPO II",
+          "TOPO II",
+          "",
+          "",
+          "",
+          "Cabazitaxel",
+          "Cabazitaxel",
+          "Cabazitaxel"
+        ],
+        [
+          "Melphalan",
+          "Melphalan",
+          "Melphalan",
+          "Melphalan",
+          "Azathioprine",
+          "Azathioprine",
+          "Azathioprine",
+          "",
+          "PODOPHYLLOTOXIN",
+          "",
+          "",
+          "",
+          "",
+          "Docetaxel",
+          "Docetaxel",
+          "Docetaxel"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Cladribine",
+          "Cladribine",
+          "Cladribine",
+          "Etoposide",
+          "Etoposide",
+          "Etoposide",
+          "",
+          "",
+          "",
+          "Ixabepilone",
+          "Ixabepilone",
+          "Ixabepilone"
+        ],
+        [
+          "",
+          "ALKYLSUFONATES",
+          "ALKYLSUFONATES",
+          "",
+          "Clofarabine",
+          "Clofarabine",
+          "Clofarabine",
+          "Teniposide",
+          "Teniposide",
+          "Teniposide",
+          "",
+          "",
+          "",
+          "Paclitaxel",
+          "Paclitaxel",
+          "Paclitaxel"
+        ],
+        [
+          "Busulfan",
+          "Busulfan",
+          "Busulfan",
+          "Busulfan",
+          "Fludarabine",
+          "Fludarabine",
+          "Fludarabine",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Nelarabine",
+          "Nelarabine",
+          "Nelarabine",
+          "",
+          "ANTHRACYCLINES",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "KETONE ANAL",
+          ""
+        ],
+        [
+          "",
+          "ETHYLENIMINES",
+          "ETHYLENIMINES",
+          "",
+          "Pentostatin",
+          "Pentostatin",
+          "Pentostatin",
+          "Doxorubicin",
+          "Doxorubicin",
+          "Doxorubicin",
+          "",
+          "",
+          "",
+          "Eribulin",
+          "Eribulin",
+          "Eribulin"
+        ],
+        [
+          "Thiotepa",
+          "Thiotepa",
+          "Thiotepa",
+          "Thiotepa",
+          "Thioguanine",
+          "Thioguanine",
+          "Thioguanine",
+          "Daunorubicin",
+          "Daunorubicin",
+          "Daunorubicin",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Idarubicin",
+          "Idarubicin",
+          "Idarubicin",
+          "",
+          "",
+          "",
+          "",
+          "EPOTHILONE",
+          ""
+        ],
+        [
+          "",
+          "HYDRAZINE/TRIAZINE",
+          "HYDRAZINE/TRIAZINE",
+          "",
+          "",
+          "PYRIMIDINE ANALOG",
+          "",
+          "Epirubicin",
+          "Epirubicin",
+          "Epirubicin",
+          "",
+          "",
+          "",
+          "Ixabepilone",
+          "Ixabepilone",
+          "Ixabepilone"
+        ],
+        [
+          "Dacarbazine",
+          "Dacarbazine",
+          "Dacarbazine",
+          "Dacarbazine",
+          "5-Fluorouracil",
+          "5-Fluorouracil",
+          "5-Fluorouracil",
+          "Valrubicin",
+          "Valrubicin",
+          "Valrubicin",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Procarbazine",
+          "Procarbazine",
+          "Procarbazine",
+          "Procarbazine",
+          "Azacitidine",
+          "Azacitidine",
+          "Azacitidine",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "DOLASTATIN",
+          ""
+        ],
+        [
+          "Temozolomide",
+          "Temozolomide",
+          "Temozolomide",
+          "Temozolomide",
+          "Capecitabine",
+          "Capecitabine",
+          "Capecitabine",
+          "",
+          "ANTHRACENEDIONE",
+          "",
+          "",
+          "",
+          "",
+          "Monomethyl auristatin",
+          "Monomethyl auristatin",
+          "Monomethyl auristatin"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Cytarabine/Cytosine arabinoside",
+          "Cytarabine/Cytosine arabinoside",
+          "Cytarabine/Cytosine arabinoside",
+          "Mitoxantrone",
+          "Mitoxantrone",
+          "Mitoxantrone",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Decitabine",
+          "Decitabine",
+          "Decitabine",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "NITROSOUREAS",
+          "NITROSOUREAS",
+          "",
+          "Floxuridine",
+          "Floxuridine",
+          "Floxuridine",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Carmustine",
+          "Carmustine",
+          "Carmustine",
+          "Carmustine",
+          "Gemcitabine",
+          "Gemcitabine",
+          "Gemcitabine",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Lomustine",
+          "Lomustine",
+          "Lomustine",
+          "Lomustine",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Semustine",
+          "Semustine",
+          "Semustine",
+          "Semustine",
+          "",
+          "RIBONUCLEOTIDE REDUCTASE INHIB.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Streptozosin",
+          "Streptozosin",
+          "Streptozosin",
+          "Streptozosin",
+          "",
+          "RIBONUCLEOTIDE REDUCTASE INHIB.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Hydroxyurea",
+          "Hydroxyurea",
+          "Hydroxyurea",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "PLATINUM DRUGS",
+          "PLATINUM DRUGS",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Cisplatin",
+          "Cisplatin",
+          "Cisplatin",
+          "Cisplatin",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Carboplatin",
+          "Carboplatin",
+          "Carboplatin",
+          "Carboplatin",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Oxaliplatin",
+          "Oxaliplatin",
+          "Oxaliplatin",
+          "Oxaliplatin",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "ANTIBIOTIC",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Mitomycin C",
+          "Mitomycin C",
+          "Mitomycin C",
+          "Mitomycin C",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "TARGETED INHIBITORS (\"-ib\")"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "RECEPTOR TYROSINE KINASE INHIBITORS",
+        "RECEPTOR TYROSINE KINASE INHIBITORS",
+        "RECEPTOR TYROSINE KINASE INHIBITORS",
+        "RECEPTOR TYROSINE KINASE INHIBITORS",
+        "RECEPTOR TYROSINE KINASE INHIBITORS",
+        "RECEPTOR TYROSINE KINASE INHIBITORS",
+        "RECEPTOR TYROSINE KINASE INHIBITORS",
+        "RECEPTOR TYROSINE KINASE INHIBITORS",
+        "RECEPTOR TYROSINE KINASE INHIBITORS"
+      ],
+      "rows": [
+        [
+          "ALK",
+          "EGFR",
+          "FGFR",
+          "FLT-3",
+          "c-MET",
+          "RET",
+          "TrkA/B/C",
+          "VEGFR",
+          "MULTIPLE"
+        ],
+        [
+          "Alectinib",
+          "Afatinib",
+          "Erdafitinib",
+          "Gilteritinib",
+          "Capmatinib",
+          "Pralsetinib",
+          "Entrectinib",
+          "Fruquintinib",
+          "Brigatinib"
+        ],
+        [
+          "Ceritinib",
+          "Dacomitinib",
+          "Pemigatinib",
+          "Midostaurin",
+          "Tepotinib",
+          "Selpercatinib",
+          "Larotrectinib",
+          "",
+          "Lenvatinib"
+        ],
+        [
+          "Crizotinib",
+          "Erlotinib",
+          "",
+          "Quizartinib",
+          "",
+          "",
+          "",
+          "",
+          "Loralatinib"
+        ],
+        [
+          "",
+          "Gefitinib",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Pazopanib"
+        ],
+        [
+          "",
+          "Lapatinib",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Regorafenib"
+        ],
+        [
+          "",
+          "Neratinib",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Sorafenib"
+        ],
+        [
+          "",
+          "Osimertinib",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Sunitinib"
+        ],
+        [
+          "",
+          "Tucatinib",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "NON-RECEPTOR TYROSINE KINASE INHIBITORS",
+        "NON-RECEPTOR TYROSINE KINASE INHIBITORS"
+      ],
+      "rows": [
+        [
+          "BCR-ABL",
+          "BTK"
+        ],
+        [
+          "Asciminib",
+          "Acalabrutinib"
+        ],
+        [
+          "Bosutinib",
+          "Ibrutinib"
+        ],
+        [
+          "Dasatinib",
+          "Orelabrutinib"
+        ],
+        [
+          "Imatinib",
+          "Tirabrutinib"
+        ],
+        [
+          "Nilotinib",
+          "Zanubrutinib"
+        ],
+        [
+          "Ponatinib",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "NON-RECEPTOR SERINE/THREONINE KINASE INHIBITORS",
+        "NON-RECEPTOR SERINE/THREONINE KINASE INHIBITORS",
+        "NON-RECEPTOR SERINE/THREONINE KINASE INHIBITORS",
+        "NON-RECEPTOR SERINE/THREONINE KINASE INHIBITORS",
+        "NON-RECEPTOR SERINE/THREONINE KINASE INHIBITORS"
+      ],
+      "rows": [
+        [
+          "AKT",
+          "RAF",
+          "CDK4/6",
+          "MEK1/2",
+          "mTOR"
+        ],
+        [
+          "Capivasertib",
+          "Dabrafenib",
+          "Abemaciclib",
+          "Binimetinib",
+          "Everolimus"
+        ],
+        [
+          "",
+          "Encorafinib",
+          "Palbociclib",
+          "Cobimetinib",
+          ""
+        ],
+        [
+          "",
+          "Vemurafenib",
+          "Ribociclib",
+          "Trametinib",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "NON-PROTEIN KINASE INHIBITORS",
+        "NON-PROTEIN KINASE INHIBITORS",
+        "NON-PROTEIN KINASE INHIBITORS",
+        "NON-PROTEIN KINASE INHIBITORS",
+        "NON-PROTEIN KINASE INHIBITORS",
+        "NON-PROTEIN KINASE INHIBITORS"
+      ],
+      "rows": [
+        [
+          "PI3K",
+          "SONIC HEDGEHOG",
+          "ISOCITRATE DH-1",
+          "K-RAS",
+          "PARP",
+          "PROTEOSOME"
+        ],
+        [
+          "Alpelisib",
+          "Glasdegib",
+          "Enasidenib",
+          "Adagrasib",
+          "Olaparib",
+          "Bortezomib"
+        ],
+        [
+          "Duvelisib",
+          "",
+          "Ivosidenib",
+          "Sotorasib",
+          "Niraparib",
+          "Carfilzomib"
+        ],
+        [
+          "Idelalisib",
+          "",
+          "Olutasidenib",
+          "",
+          "Rucaparib",
+          "Ixazomib"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Talazoparib",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "BIOLOGICS  (MONOCLONAL ANTIBODIES “-mab”)"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "TUMOR CELL SURFACE RECEPTOR TARGETS",
+        "TUMOR CELL SURFACE RECEPTOR TARGETS",
+        "TUMOR CELL SURFACE RECEPTOR TARGETS",
+        "TUMOR CELL SURFACE RECEPTOR TARGETS",
+        "TUMOR CELL SURFACE RECEPTOR TARGETS",
+        "TUMOR CELL SURFACE RECEPTOR TARGETS"
+      ],
+      "rows": [
+        [
+          "CD19",
+          "CD20",
+          "CD22",
+          "CD30",
+          "CD33",
+          "CD38"
+        ],
+        [
+          "Blinatumomab",
+          "Ibritumomab",
+          "Inotuzumab1",
+          "Brentuximab",
+          "Gemtuzumab1",
+          "Daratumumab"
+        ],
+        [
+          "",
+          "Obinutuzumab",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Ofatumumab",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Rituximab",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Tositumomab",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)",
+        "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)",
+        "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)",
+        "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)",
+        "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)",
+        "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)"
+      ],
+      "rows": [
+        [
+          "CD52",
+          "EGFR (HER1/2/3/4)",
+          "NECTIN-4",
+          "TISSUE FACTOR",
+          "TROP-2",
+          "MULTIPLE"
+        ],
+        [
+          "Alemtuzumab",
+          "Cetuximab (HER1)",
+          "Enfortumab2",
+          "Tisotumab2",
+          "Sacituzumab3",
+          "Amivantamab"
+        ],
+        [
+          "",
+          "Margetuximab (HER2)",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Necitunumab (HER1)",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Panitumumab (HER1)",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Pertuzumab (HER2)",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Trastuzumab (HER2)",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "GROWTH FACTOR TARGET (VEGF)"
+      ],
+      "rows": [
+        [
+          "Bevacizumab"
+        ],
+        [
+          "Aflibercept"
+        ],
+        [
+          "Ramucirumab"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "IMMUNOTHERAPY TARGETS",
+        "IMMUNOTHERAPY TARGETS"
+      ],
+      "rows": [
+        [
+          "TUMOR CELL SURFACE RECEPTOR",
+          "T CELL RECEPTORS"
+        ],
+        [
+          "PD-L1",
+          "PD1"
+        ],
+        [
+          "Atezolizumab",
+          "Cemiplimab"
+        ],
+        [
+          "Avelumab",
+          "Pembrolizumab"
+        ],
+        [
+          "Durvalumab",
+          "Dostarlimab"
+        ],
+        [
+          "",
+          "Nivolumab"
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "CTLA-4"
+        ],
+        [
+          "",
+          "Ipilimumab"
+        ],
+        [
+          "",
+          "Tremelimumab"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "DERMATOLOGIC PHARMACOLOGY"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "SCABIES & LICE",
+        "SCABIES & LICE",
+        "SCABIES & LICE",
+        "SCABIES & LICE"
+      ],
+      "rows": [
+        [
+          "VG Na+ CHANNEL ACTIVATOR",
+          "CHOLINESTERASE INHIBITOR",
+          "GLUTAMATE-GATED Cl- CHANNEL ACTIVATOR",
+          "GABA-A RECEPTOR BLOCKER"
+        ],
+        [
+          "Permethrin",
+          "Malathion",
+          "Ivermectin",
+          "Lindane"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "ACUTE INFLAMMATORY SKIN DISORDERS",
+        "ACUTE INFLAMMATORY SKIN DISORDERS",
+        "ACUTE INFLAMMATORY SKIN DISORDERS"
+      ],
+      "rows": [
+        [
+          "CONTACT DERMATITIS",
+          "URTICARIA",
+          "ERYTHEMA MULTIFORME"
+        ],
+        [
+          "CORTICOSTEROIDS",
+          "ANTIHISTAMINES - 1st GENERATION",
+          "TREAT CAUSE"
+        ],
+        [
+          "Hydrocortisone (T)",
+          "Diphenhydramine (Benadryl) (O)",
+          "Antibiotics (T/O)"
+        ],
+        [
+          "",
+          "Chlorpheniramine (O)",
+          ""
+        ],
+        [
+          "CALCINEURIN INHIBITORS",
+          "",
+          "TREAT SYMPTOMS"
+        ],
+        [
+          "Tacrolimus (T)",
+          "ANTIHISTAMINES - 2nd GENERATION",
+          "Anti-histamines (O)"
+        ],
+        [
+          "",
+          "Cetirizine (Zyrtec) (O)",
+          "Steroids (T/O)"
+        ],
+        [
+          "",
+          "Fexofenadine (Allegra) (O)",
+          ""
+        ],
+        [
+          "",
+          "Loratadine (Claritin) (O)",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "CHRONIC INFLAMMATORY SKIN DISORDERS"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "ATOPIC DERMATITIS (ECZEMA)",
+        "ATOPIC DERMATITIS (ECZEMA)",
+        "ATOPIC DERMATITIS (ECZEMA)",
+        "ATOPIC DERMATITIS (ECZEMA)",
+        "ATOPIC DERMATITIS (ECZEMA)"
+      ],
+      "rows": [
+        [
+          "INTERMITTENT",
+          "INTERMITTENT",
+          "PERSISTENT",
+          "PERSISTENT",
+          "PERSISTENT"
+        ],
+        [
+          "MOISTURIZERS/EMOLLIENTS",
+          "CORTICOSTEROIDS",
+          "CALCINEURIN INHIB",
+          "JAK INHIBITORS",
+          "IL-4 RECEPTOR ANTIBODY"
+        ],
+        [
+          "Various",
+          "Topical",
+          "Cyclosporin (T)",
+          "Abrocitinib (O)",
+          "Dupilumab (SC)"
+        ],
+        [
+          "",
+          "",
+          "Tacrolimus (T)",
+          "Baricitinib (O)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Pimecrolimus (T)",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "SEBORRHEIC DERMATITIS (Dandruff)",
+        "SEBORRHEIC DERMATITIS (Dandruff)",
+        "SEBORRHEIC DERMATITIS (Dandruff)",
+        "SEBORRHEIC DERMATITIS (Dandruff)"
+      ],
+      "rows": [
+        [
+          "ANTI-FUNGALS (topical)",
+          "ANTI-FUNGALS (topical)",
+          "ANTI-FUNGALS (topical)",
+          "ANTI-FUNGALS (topical)"
+        ],
+        [
+          "Salicylic acid",
+          "Ketoconazole",
+          "Selenium sulfide (Selsun Blue)",
+          "Pyrithione zinc"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "PSORIASIS",
+        "PSORIASIS",
+        "PSORIASIS",
+        "PSORIASIS"
+      ],
+      "rows": [
+        [
+          "IMMUOSUPPRESSANTS",
+          "IMMUOSUPPRESSANTS",
+          "IMMUOSUPPRESSANTS",
+          "IMMUOSUPPRESSANTS"
+        ],
+        [
+          "LIMITED",
+          "MODERATE/SEVERE",
+          "MODERATE/SEVERE",
+          "MODERATE/SEVERE"
+        ],
+        [
+          "CORTICOSTEROIDS1",
+          "TNF-a INHIBITORS",
+          "IL-17 INHIBITORS",
+          "OTHER"
+        ],
+        [
+          "Topical",
+          "Adalimumab",
+          "Secukinumab",
+          "FOLATE INHIBITORS"
+        ],
+        [
+          "",
+          "Certolizumab",
+          "Ixekizumab",
+          "Methotrexate"
+        ],
+        [
+          "VIT D ANALOGS",
+          "Golimumab",
+          "",
+          ""
+        ],
+        [
+          "Calcipotriene (T)",
+          "Infliximab",
+          "IL-17R INHIB.",
+          "CALCINEURIN INHIBITORS"
+        ],
+        [
+          "Calcitriol (T)",
+          "Etanercept",
+          "Brodalumab",
+          "Cyclosporin"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "IL-23 INHIBITORS",
+          "PDE4 INHIBITOR"
+        ],
+        [
+          "",
+          "",
+          "Guselkumab",
+          "Apremilast"
+        ],
+        [
+          "",
+          "",
+          "Risankizumab",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "LICHEN PLANUS",
+        "LICHEN PLANUS",
+        "LICHEN PLANUS"
+      ],
+      "rows": [
+        [
+          "LOCALIZED",
+          "GENERALIZED",
+          "GENERALIZED"
+        ],
+        [
+          "CORTICOSTEROIDS",
+          "CORTICOSTEROIDS",
+          "RETINOIDS"
+        ],
+        [
+          "Topical",
+          "Oral",
+          "Acitretin (O)"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "FOLLICULAR DISORDERS",
+        "FOLLICULAR DISORDERS",
+        "FOLLICULAR DISORDERS",
+        "FOLLICULAR DISORDERS"
+      ],
+      "rows": [
+        [
+          "ACNE",
+          "ROSACEA",
+          "HIDRADENITIS",
+          "ALOPECIA AREATA"
+        ],
+        [
+          "MULTIPLE",
+          "ANTIBIOTICS",
+          "ANTIBIOTICS",
+          "CORTICOSTEROIDS"
+        ],
+        [
+          "Benzoylperoxide (T)",
+          "Metronidazole (T)",
+          "Clindamycin (T)",
+          "Topical"
+        ],
+        [
+          "",
+          "Tetracyclines (O)",
+          "Doxycycline (O)",
+          ""
+        ],
+        [
+          "RETINOIDS",
+          "",
+          "Clindamycin (O) + rifampin (O)",
+          ""
+        ],
+        [
+          "Tretinoin (T)",
+          "a1 AGONISTS",
+          "",
+          ""
+        ],
+        [
+          "Isotretinoin (O)",
+          "Brimonidine",
+          "ANTI-INFLAMMATORIES",
+          ""
+        ],
+        [
+          "Adapalene (T)",
+          "Oxymetazoline",
+          "Adalimumab",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "ANTIBIOTICS",
+          "ANTI-INFLAMMATORY/PARASITIC",
+          "ANTI-ANDROGEN",
+          ""
+        ],
+        [
+          "Clindamycin (T)",
+          "Ivermectin",
+          "Spironolactone",
+          ""
+        ],
+        [
+          "Erythromycin (T)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Doxycycline (O)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "ANTI-ANDROGEN",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Spironolactone (O)",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

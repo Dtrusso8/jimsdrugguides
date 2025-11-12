@@ -1,0 +1,1098 @@
+{
+  "title": "2025 Course3 Circulation DrugGuide",
+  "course": "Course 3",
+  "courseSlug": "course-3",
+  "tags": [],
+  "tables": [
+    {
+      "headers": [
+        "ANTI-CLOTTING DRUGS"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "“CLOT PREVENTERS”"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "1° HEMOSTASIS",
+        "1° HEMOSTASIS",
+        "1° HEMOSTASIS",
+        "1° HEMOSTASIS",
+        "1° HEMOSTASIS"
+      ],
+      "rows": [
+        [
+          "COX1/2 INHIBITORS",
+          "P2Y12 INHIBITORS<br>(ADP receptor inhibitors)",
+          "GPIIb/IIIa INHIBS",
+          "PDE3 INHIBITORS",
+          "PAR-1 INHIBITORS"
+        ],
+        [
+          "",
+          "IRREVERSIBLE",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Aspirin",
+          "Clopidogrel",
+          "Abciximab",
+          "Dipyridamole",
+          "Vorapaxar"
+        ],
+        [
+          "",
+          "Prasugrel",
+          "Eptifibatide",
+          "Cilostazol",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Tirofiban",
+          "",
+          ""
+        ],
+        [
+          "",
+          "REVERSIBLE",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Ticagrelor",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Cangrelor",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "2° HEMOSTASIS",
+        "2° HEMOSTASIS",
+        "2° HEMOSTASIS",
+        "2° HEMOSTASIS"
+      ],
+      "rows": [
+        [
+          "PARENTERAL",
+          "PARENTERAL",
+          "PARENTERAL",
+          "PARENTERAL"
+        ],
+        [
+          "DIRECT-ACTING",
+          "DIRECT-ACTING",
+          "INDIRECT-ACTING (Heparins)",
+          "INDIRECT-ACTING (Heparins)"
+        ],
+        [
+          "FACTOR II (THROMBIN)",
+          "FACTOR Xa",
+          "FACTOR II (THROMBIN)",
+          "FACTOR Xa"
+        ],
+        [
+          "Argatroban (IV)",
+          "",
+          "",
+          "Dalteparin (SubQ)"
+        ],
+        [
+          "Bivalirudin (IV)",
+          "",
+          "",
+          "Enoxaparin (SubQ)"
+        ],
+        [
+          "Desirudin (SubQ)",
+          "",
+          "",
+          "Fondaparinux (SubQ)"
+        ],
+        [
+          "Hirudin",
+          "",
+          "",
+          "Nadroparin (SubQ)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Tinzaparin (SubQ)"
+        ],
+        [
+          "",
+          "",
+          "Unfractionated Heparin (IV, SubQ)",
+          "Unfractionated Heparin (IV, SubQ)"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "ORAL",
+        "ORAL",
+        "ORAL"
+      ],
+      "rows": [
+        [
+          "DIRECT-ACTING (DOACs1)",
+          "DIRECT-ACTING (DOACs1)",
+          "INDIRECT-ACTING"
+        ],
+        [
+          "FACTOR II (THROMBIN)",
+          "FACTOR Xa",
+          "VITAMIN K ANTAGONIST (VKA)"
+        ],
+        [
+          "Dabigatran",
+          "Apixaban",
+          "Warfarin/Coumadin"
+        ],
+        [
+          "",
+          "Rivaroxaban",
+          ""
+        ],
+        [
+          "",
+          "Edoxaban",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "THROMBLYTIC DRUGS (a.k.a. “CLOT BUSTERS”)"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "PLAMINOGEN ACTIVATORS",
+        "PLAMINOGEN ACTIVATORS",
+        "PLAMINOGEN ACTIVATORS"
+      ],
+      "rows": [
+        [
+          "1st generation (not fibrin-specific)",
+          "2nd generation (fibrin-specific)",
+          "3rd generation (more fibrin-specific)"
+        ],
+        [
+          "Streptokinase",
+          "Alteplase",
+          "Tenecteplase"
+        ],
+        [
+          "Urokinase",
+          "",
+          "Reteplase"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "ANTI-HYPERTENSIVES",
+        "ANTI-HYPERTENSIVES",
+        "ANTI-HYPERTENSIVES",
+        "ANTI-HYPERTENSIVES",
+        "ANTI-HYPERTENSIVES",
+        "ANTI-HYPERTENSIVES",
+        "ANTI-HYPERTENSIVES",
+        "ANTI-HYPERTENSIVES",
+        "ANTI-HYPERTENSIVES"
+      ],
+      "rows": [
+        [
+          "DIRUETICS",
+          "DIRUETICS",
+          "DIRUETICS",
+          "DIRUETICS",
+          "VASODILATORS",
+          "VASODILATORS",
+          "VASODILATORS",
+          "ANTI-ANGIOTENSIN",
+          "SYMPATHOLYTICS"
+        ],
+        [
+          "LOOP",
+          "LOOP",
+          "LOOP",
+          "LOOP",
+          "Ca2+ RELEASE INHIB.",
+          "Ca2+ RELEASE INHIB.",
+          "Ca2+ RELEASE INHIB.",
+          "ACE INHIBITORS",
+          "1-SELECTIVE ANTAGONISTS"
+        ],
+        [
+          "Furosemide",
+          "Furosemide",
+          "Furosemide",
+          "Furosemide",
+          "Hydralazine",
+          "Hydralazine",
+          "Hydralazine",
+          "Benzapril",
+          "Metoprolol (1)"
+        ],
+        [
+          "Torsemide",
+          "Torsemide",
+          "Torsemide",
+          "Torsemide",
+          "Minoxidil",
+          "Minoxidil",
+          "Minoxidil",
+          "Captopril",
+          "Acebutolol (1)"
+        ],
+        [
+          "Bumetanide",
+          "Bumetanide",
+          "Bumetanide",
+          "Bumetanide",
+          "",
+          "",
+          "",
+          "Enalapril",
+          "Atenolol (1)"
+        ],
+        [
+          "Ethacrynic acid",
+          "Ethacrynic acid",
+          "Ethacrynic acid",
+          "Ethacrynic acid",
+          "K+ CHANNEL OPENERS",
+          "K+ CHANNEL OPENERS",
+          "K+ CHANNEL OPENERS",
+          "Fosinopril",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Diazoxide",
+          "Diazoxide",
+          "Diazoxide",
+          "Lisinopril",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Moexipril",
+          "NON-SELECTIVE b ANTAGONISTS"
+        ],
+        [
+          "THIAZIDE",
+          "THIAZIDE",
+          "THIAZIDE",
+          "THIAZIDE",
+          "Ca2+ CHAN. BLOCKERS (L-Type)",
+          "Ca2+ CHAN. BLOCKERS (L-Type)",
+          "Ca2+ CHAN. BLOCKERS (L-Type)",
+          "Perindopril",
+          "Nadolol (1/2)"
+        ],
+        [
+          "Hydrochlorothiazide",
+          "Hydrochlorothiazide",
+          "Hydrochlorothiazide",
+          "Hydrochlorothiazide",
+          "",
+          "DIHYDROPYRIDINES (DHPs)",
+          "",
+          "Quinapril",
+          "Nebivolol (1/2)"
+        ],
+        [
+          "Bendroflumethiazide",
+          "Bendroflumethiazide",
+          "Bendroflumethiazide",
+          "Bendroflumethiazide",
+          "Amlodipine",
+          "Amlodipine",
+          "Amlodipine",
+          "Ramipril",
+          "Pindolol (1/2)"
+        ],
+        [
+          "Chlorothiazide",
+          "Chlorothiazide",
+          "Chlorothiazide",
+          "Chlorothiazide",
+          "Clevidipine",
+          "Clevidipine",
+          "Clevidipine",
+          "Trandolapril",
+          "Propranolol (1/2)"
+        ],
+        [
+          "Chlortalidone",
+          "Chlortalidone",
+          "Chlortalidone",
+          "Chlortalidone",
+          "Felodipine",
+          "Felodipine",
+          "Felodipine",
+          "",
+          ""
+        ],
+        [
+          "Indapamide",
+          "Indapamide",
+          "Indapamide",
+          "Indapamide",
+          "Isradipine",
+          "Isradipine",
+          "Isradipine",
+          "",
+          "a1/b ANTAGONISTS"
+        ],
+        [
+          "Methyclothazide",
+          "Methyclothazide",
+          "Methyclothazide",
+          "Methyclothazide",
+          "Nicardipine",
+          "Nicardipine",
+          "Nicardipine",
+          "ARBs",
+          "Carvedilol (1, 1/2)"
+        ],
+        [
+          "Metolazone",
+          "Metolazone",
+          "Metolazone",
+          "Metolazone",
+          "Nifedipine",
+          "Nifedipine",
+          "Nifedipine",
+          "Azilsartan",
+          "Labetalol (1, 1/2)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Nimodipine",
+          "Nimodipine",
+          "Nimodipine",
+          "Candesartan",
+          ""
+        ],
+        [
+          "K+ SPARING",
+          "K+ SPARING",
+          "K+ SPARING",
+          "K+ SPARING",
+          "",
+          "",
+          "",
+          "Irbesartan",
+          "1 ANTAGONISTS"
+        ],
+        [
+          "",
+          "ALDOSTERONE ANTAG",
+          "",
+          "",
+          "",
+          "NON-DHPs",
+          "",
+          "Losartan",
+          "Prazosin"
+        ],
+        [
+          "Spironolactone",
+          "Spironolactone",
+          "Spironolactone",
+          "Spironolactone",
+          "Diltiazem",
+          "Diltiazem",
+          "Diltiazem",
+          "Olmesartan",
+          "Doxazosin"
+        ],
+        [
+          "Eplerenone",
+          "Eplerenone",
+          "Eplerenone",
+          "Eplerenone",
+          "Verapamil",
+          "Verapamil",
+          "Verapamil",
+          "Telmisartan",
+          "Terazosin"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Valsartan",
+          ""
+        ],
+        [
+          "",
+          "ENaC INHIBITORS",
+          "ENaC INHIBITORS",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2 AGONISTS"
+        ],
+        [
+          "Triamterene",
+          "Triamterene",
+          "Triamterene",
+          "Triamterene",
+          "",
+          "",
+          "",
+          "DIRECT RENIN INHIB.",
+          "Clonidine"
+        ],
+        [
+          "Amiloride",
+          "Amiloride",
+          "Amiloride",
+          "Amiloride",
+          "",
+          "",
+          "",
+          "Aliskiren",
+          "Methyldopa"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "ANTIHYPERLIPIDEMIC DRUGS",
+        "ANTIHYPERLIPIDEMIC DRUGS",
+        "ANTIHYPERLIPIDEMIC DRUGS",
+        "ANTIHYPERLIPIDEMIC DRUGS",
+        "ANTIHYPERLIPIDEMIC DRUGS",
+        "ANTIHYPERLIPIDEMIC DRUGS",
+        "ANTIHYPERLIPIDEMIC DRUGS",
+        "ANTIHYPERLIPIDEMIC DRUGS"
+      ],
+      "rows": [
+        [
+          "FIRST-LINE (PROVEN TO  RISK OF IHD)",
+          "FIRST-LINE (PROVEN TO  RISK OF IHD)",
+          "FIRST-LINE (PROVEN TO  RISK OF IHD)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "INCREASE LDL RECEPTOR EXPRESSION",
+          "INCREASE LDL RECEPTOR EXPRESSION",
+          "INCREASE LDL RECEPTOR EXPRESSION",
+          "INCREASE LDL RECEPTOR EXPRESSION",
+          "INCREASE LDL RECEPTOR EXPRESSION",
+          "OTHER MECHANISMS",
+          "OTHER MECHANISMS",
+          "OTHER MECHANISMS"
+        ],
+        [
+          "HMG CoA REDUCTASE INHIBITORS",
+          "NPC1 INHBITOR",
+          "PCSK9 INHIBITORS",
+          "PCSK9 INHIBITORS",
+          "BILE ACID BINDING AGENTS",
+          "VLDL RELEASE INHIBITOR",
+          "FIBRATES<br>(LPL ACTIVATORS)",
+          "OMEGA-3 FATTY ACIDS"
+        ],
+        [
+          "Low-intensity",
+          "Ezetimibe",
+          "ANTIBOODIES",
+          "ANTIBOODIES",
+          "Colestipol",
+          "Niacin",
+          "Clofibrate",
+          "Eicosapentaenoic acid"
+        ],
+        [
+          "Fluvastatin",
+          "",
+          "Alirocumab",
+          "Alirocumab",
+          "Cholestyramine",
+          "",
+          "Fenofibrate",
+          "Docosahexaenoic acid"
+        ],
+        [
+          "Lovastatin",
+          "",
+          "Evolocumab",
+          "Evolocumab",
+          "Colesevelam",
+          "",
+          "Gemfibrozil",
+          "α-linolenic"
+        ],
+        [
+          "Pravastatin",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Simvastatin",
+          "",
+          "PCSK9 siRNA",
+          "PCSK9 siRNA",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Inclisiran",
+          "Inclisiran",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "High-intensity",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Atorvastatin",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Rosuvastatin",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "ANTI-ARRHYTHMIC DRUGS",
+        "ANTI-ARRHYTHMIC DRUGS",
+        "ANTI-ARRHYTHMIC DRUGS",
+        "ANTI-ARRHYTHMIC DRUGS",
+        "ANTI-ARRHYTHMIC DRUGS",
+        "ANTI-ARRHYTHMIC DRUGS",
+        "ANTI-ARRHYTHMIC DRUGS"
+      ],
+      "rows": [
+        [
+          "CLASS I<br>Na+ CHANNEL BLOCKERS",
+          "CLASS I<br>Na+ CHANNEL BLOCKERS",
+          "CLASS I<br>Na+ CHANNEL BLOCKERS",
+          "CLASS II<br>1ANTAGONISTS",
+          "CLASS III<br>K+ CHANNEL BLOCKERS",
+          "CLASS IV<br>Ca2+ CHANNEL BLOCKERS",
+          "OTHER"
+        ],
+        [
+          "",
+          "CLASS IA",
+          "",
+          "SELECTIVE (b1)",
+          "",
+          "NON-DHPs",
+          "NUCLEOSIDE"
+        ],
+        [
+          "Disopyramide",
+          "Disopyramide",
+          "Disopyramide",
+          "Atenolol",
+          "Amiodarone",
+          "Diltiazem",
+          "Adenosine"
+        ],
+        [
+          "Quinidine",
+          "Quinidine",
+          "Quinidine",
+          "Esmolol",
+          "Dofetilide",
+          "Verapamil",
+          ""
+        ],
+        [
+          "Procainamide",
+          "Procainamide",
+          "Procainamide",
+          "Metoprolol",
+          "Dronedarone",
+          "",
+          "CARDIAC GLYCOSIDE"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Ibutilide",
+          "",
+          "Digoxin"
+        ],
+        [
+          "",
+          "CLASS IB",
+          "",
+          "NON-SELECTIVE",
+          "Sotalol",
+          "",
+          ""
+        ],
+        [
+          "Lidocaine",
+          "Lidocaine",
+          "Lidocaine",
+          "Carvedilol (a1, b1, b2)",
+          "",
+          "",
+          "MAGNESIUM"
+        ],
+        [
+          "Mexiletine",
+          "Mexiletine",
+          "Mexiletine",
+          "Propranolol (b1,b2)",
+          "",
+          "",
+          "Mg2+"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Timolol (b1,b2)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "CLASS IC",
+          "",
+          "",
+          "",
+          "",
+          "“FUNNY CHANNEL” INH."
+        ],
+        [
+          "Flecainide",
+          "Flecainide",
+          "Flecainide",
+          "",
+          "",
+          "",
+          "Ivabradine"
+        ],
+        [
+          "Propafenone",
+          "Propafenone",
+          "Propafenone",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "HEART FAILURE DRUGS",
+        "HEART FAILURE DRUGS",
+        "HEART FAILURE DRUGS",
+        "HEART FAILURE DRUGS",
+        "HEART FAILURE DRUGS",
+        "HEART FAILURE DRUGS",
+        "HEART FAILURE DRUGS",
+        "HEART FAILURE DRUGS",
+        "HEART FAILURE DRUGS",
+        "HEART FAILURE DRUGS",
+        "HEART FAILURE DRUGS",
+        "HEART FAILURE DRUGS"
+      ],
+      "rows": [
+        [
+          "PRELOAD",
+          "PRELOAD",
+          "PRELOAD",
+          "PRELOAD",
+          "PRELOAD",
+          "PRELOAD",
+          "PRELOAD",
+          "PRELOAD",
+          "",
+          "",
+          "",
+          "INOTROPY"
+        ],
+        [
+          "AFTERLOAD",
+          "",
+          "",
+          "",
+          "AFTERLOAD",
+          "AFTERLOAD",
+          "AFTERLOAD",
+          "AFTERLOAD",
+          "AFTERLOAD",
+          "AFTERLOAD",
+          "AFTERLOAD",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "CARDIAC REMODELING",
+          "CARDIAC REMODELING",
+          "CARDIAC REMODELING",
+          "CARDIAC REMODELING",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "NITRATES",
+          "DIURETICS",
+          "DIURETICS",
+          "DIURETICS",
+          "RAAS INHIBITORS",
+          "RAAS INHIBITORS",
+          "RAAS INHIBITORS",
+          "b1 ANTAGONISTS",
+          "ARTERIAL DILATORS",
+          "ARTERIAL DILATORS",
+          "ARTERIAL DILATORS",
+          ""
+        ],
+        [
+          "",
+          "",
+          "LOOP",
+          "",
+          "",
+          "ACE INHIBS",
+          "",
+          "",
+          "",
+          "Ca2+ REL. INH.",
+          "",
+          "Na+/K+ ATPase INHIB."
+        ],
+        [
+          "Nitroprusside",
+          "Furosemide",
+          "Furosemide",
+          "Furosemide",
+          "Benazepril",
+          "Benazepril",
+          "Benazepril",
+          "Bisoprolol",
+          "Hydralazine",
+          "Hydralazine",
+          "Hydralazine",
+          "Digoxin"
+        ],
+        [
+          "Isosorbide dinitrite",
+          "",
+          "",
+          "",
+          "Enalapril",
+          "Enalapril",
+          "Enalapril",
+          "Carvedilol",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "ALDOS. ANTAGS.",
+          "",
+          "Lisinopril",
+          "Lisinopril",
+          "Lisinopril",
+          "Metoprolol",
+          "",
+          "CCBs (DHPs)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Spironolactone",
+          "Spironolactone",
+          "Spironolactone",
+          "",
+          "",
+          "",
+          "",
+          "Amlodipine",
+          "Amlodipine",
+          "Amlodipine",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "ARBs",
+          "",
+          "",
+          "Felodipine",
+          "Felodipine",
+          "Felodipine",
+          ""
+        ],
+        [
+          "",
+          "NEPRILYSIN INHIBITOR",
+          "NEPRILYSIN INHIBITOR",
+          "NEPRILYSIN INHIBITOR",
+          "Losartan",
+          "Losartan",
+          "Losartan",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Sacubitril1",
+          "Sacubitril1",
+          "Sacubitril1",
+          "Valsartan1",
+          "Valsartan1",
+          "Valsartan1",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "SGLT2 INHIBITORS",
+          "SGLT2 INHIBITORS",
+          "SGLT2 INHIBITORS",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Dapagliflozin",
+          "Dapagliflozin",
+          "Dapagliflozin",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Empagliflozin",
+          "Empagliflozin",
+          "Empagliflozin",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "CARDIOGENIC SHOCK"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "VASOPRESSORS",
+        "VASOPRESSORS",
+        "VASOPRESSORS",
+        "INOTROPES",
+        "INOTROPES"
+      ],
+      "rows": [
+        [
+          "",
+          "a1 AGONIST",
+          "",
+          "b1 AGONIST",
+          "PDE3 INHIBITOR"
+        ],
+        [
+          "Phenylephrine",
+          "Phenylephrine",
+          "Phenylephrine",
+          "Dobutamine",
+          "Milrinone"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "a1/b1/b2/D1/D2 AGONISTS",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Epinephrine",
+          "Epinephrine",
+          "Epinephrine",
+          "",
+          ""
+        ],
+        [
+          "Norepinephrine",
+          "Norepinephrine",
+          "Norepinephrine",
+          "",
+          ""
+        ],
+        [
+          "Dopamine",
+          "Dopamine",
+          "Dopamine",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "VASOPRESSIN RECEPTOR 1A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Vasopressin (a.k.a ADH or AVP)",
+          "Vasopressin (a.k.a ADH or AVP)",
+          "Vasopressin (a.k.a ADH or AVP)",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

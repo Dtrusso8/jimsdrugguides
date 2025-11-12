@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Drug Guide Library</title>
+    <link rel="stylesheet" href="./src/styles.css">
+</head>
+<body>
+    <header class="site-header">
+        <h1>Drug Guide Library</h1>
+        <div class="mode-toggle">
+            <label class="toggle-label">
+                <input type="checkbox" id="teacher-mode-toggle">
+                <span>Teacher Mode</span>
+            </label>
+        </div>
+    </header>
+
+    <main class="layout">
+        <button type="button" class="filter-toggle" id="filter-toggle" aria-expanded="false" aria-controls="filters-panel">
+            Browse Filters
+        </button>
+        <aside class="filters" id="filters-panel">
+            <div class="filters-header">
+                <h2>Filters</h2>
+                <button type="button" class="sidebar-collapse-btn" id="sidebar-collapse-btn" aria-label="Collapse sidebar" title="Collapse sidebar">
+                    <span class="collapse-icon">◀</span>
+                </button>
+            </div>
+            <div class="filters-content">
+                <section>
+                    <h3>Courses</h3>
+                    <ul id="course-list" class="selection-list"></ul>
+                </section>
+                <section>
+                    <h3>Tags</h3>
+                    <ul id="tag-list" class="selection-list"></ul>
+                </section>
+            </div>
+        </aside>
+        <button type="button" class="sidebar-expand-btn" id="sidebar-expand-btn" aria-label="Expand sidebar" title="Expand sidebar">
+            <span class="expand-icon">☰</span>
+        </button>
+
+        <section class="content">
+            <div id="guide-header" class="guide-header">
+                <h2>Select a course or tag to view guides</h2>
+            </div>
+            <div id="guide-table-container" class="guide-table-container"></div>
+        </section>
+    </main>
+
+    <div id="drug-modal" class="modal hidden">
+        <div class="modal-content">
+            <button class="modal-close" id="modal-close-btn" aria-label="Close popup">&times;</button>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <template id="guide-table-template">
+        <table class="guide-table">
+            <thead></thead>
+            <tbody></tbody>
+        </table>
+    </template>
+
+    <script src="./src/main.js" type="module"></script>
+</body>
+</html>
+

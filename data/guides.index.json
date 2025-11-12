@@ -1,0 +1,56 @@
+{
+  "generated": "2025-11-12T16:26:32+0000",
+  "guides": [
+    {
+      "title": "2025 Course3 Circulation DrugGuide",
+      "course": "Course 3",
+      "courseSlug": "course-3",
+      "tags": [],
+      "slug": "course-3-2025-course3-circulation-drugguide",
+      "dataFile": "course-3-2025-course3-circulation-drugguide.json",
+      "fragment": "html/course-3-2025-course3-circulation-drugguide.html",
+      "sourceFile": "C:\\Users\\dtrusso\\OneDrive - University of North Carolina at Chapel Hill\\Personal\\Coding\\jims drug website\\Drug Guides\\Course 3\\2025-Course3-Circulation-DrugGuide.docx",
+      "tables": 13
+    },
+    {
+      "title": "Course2 MoleculesToCells DrugGuide AntiMicrobials V2",
+      "course": "Course 2",
+      "courseSlug": "course-2",
+      "tags": [],
+      "slug": "course-2-course2-moleculestocells-drugguide-antimicrobials-v2",
+      "dataFile": "course-2-course2-moleculestocells-drugguide-antimicrobials-v2.json",
+      "fragment": "html/course-2-course2-moleculestocells-drugguide-antimicrobials-v2.html",
+      "sourceFile": "C:\\Users\\dtrusso\\OneDrive - University of North Carolina at Chapel Hill\\Personal\\Coding\\jims drug website\\Drug Guides\\Course 2\\Course2-MoleculesToCells-DrugGuide-AntiMicrobials-V2.docx",
+      "tables": 22
+    },
+    {
+      "title": "Course9 IntegratedSystems Immunosup&AntiCancer&Derm DrugGuide",
+      "course": "Course 9",
+      "courseSlug": "course-9",
+      "tags": [
+        "Anti-Neoplastics",
+        "Biologics (Monoclonal Antibodies \"-MAB\")",
+        "Dermatologic Pharmacology",
+        "Immunosuppressants",
+        "Targeted Inhibitors (\"-IB\")",
+        "Traditional Chemotherapeutics"
+      ],
+      "slug": "course-9-course9-integratedsystems-immunosup-anticancer-derm-drugguide",
+      "dataFile": "course-9-course9-integratedsystems-immunosup-anticancer-derm-drugguide.json",
+      "fragment": "html/course-9-course9-integratedsystems-immunosup-anticancer-derm-drugguide.html",
+      "sourceFile": "C:\\Users\\dtrusso\\OneDrive - University of North Carolina at Chapel Hill\\Personal\\Coding\\jims drug website\\Drug Guides\\Course 9\\Course9-IntegratedSystems-Immunosup&AntiCancer&Derm-DrugGuide.docx",
+      "tables": 27
+    },
+    {
+      "title": "MoleculesToCells DrugGuide  Autonomic Nervous System",
+      "course": "Course 2",
+      "courseSlug": "course-2",
+      "tags": [],
+      "slug": "course-2-moleculestocells-drugguide-autonomic-nervous-system",
+      "dataFile": "course-2-moleculestocells-drugguide-autonomic-nervous-system.json",
+      "fragment": "html/course-2-moleculestocells-drugguide-autonomic-nervous-system.html",
+      "sourceFile": "C:\\Users\\dtrusso\\OneDrive - University of North Carolina at Chapel Hill\\Personal\\Coding\\jims drug website\\Drug Guides\\Course 2\\MoleculesToCells-DrugGuide- Autonomic Nervous System.docx",
+      "tables": 2
+    }
+  ]
+}
