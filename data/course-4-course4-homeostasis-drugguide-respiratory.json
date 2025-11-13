@@ -1,0 +1,3994 @@
+{
+  "title": "Course4 Homeostasis DrugGuide Respiratory",
+  "course": "Course 4",
+  "courseSlug": "course-4",
+  "tags": [
+    "ANTI-FUNGALS",
+    "ANTI-TUBERCULOSIS (Mycobacterium tuberculosis)",
+    "ANTI-VIRALS",
+    "ANTIBACTERIALS",
+    "CYSTIC FIBROSIS",
+    "DIURETICS",
+    "OBSTRUCTIVE LUNG DISEASE DRUGS (ASTHMA/COPD)",
+    "PRIMARY CARE DRUGS",
+    "PULMONARY ARTERIAL HYPERTENSION (PAH)"
+  ],
+  "tables": [
+    {
+      "headers": [
+        "RESPIRATORY SYSTEM"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "OBSTRUCTIVE LUNG DISEASE DRUGS (ASTHMA/COPD)"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "ANTI-INFLAMMATORIES",
+        "ANTI-INFLAMMATORIES",
+        "ANTI-INFLAMMATORIES",
+        "ANTI-INFLAMMATORIES",
+        "ANTI-INFLAMMATORIES"
+      ],
+      "rows": [
+        [
+          "CORTICOSTEROIDS",
+          "LEUKOTRIENE INHIBS.",
+          "BIOLOGICS",
+          "PDE4 INHIBITOR",
+          "MAST CELL STABILIZER"
+        ],
+        [
+          "Beclomethasone",
+          "5-LIPOXYGENASE INH.",
+          "IgE",
+          "Roflumilast",
+          "Cromolyn"
+        ],
+        [
+          "Budesonide",
+          "Zileuton",
+          "Omalizumab",
+          "",
+          ""
+        ],
+        [
+          "Fluticasone",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Mometasone",
+          "LEUKOTRIENE ANTAG.",
+          "IL-5",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Montelukast",
+          "Mepolizumab",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Zafirlukast",
+          "Reslizumab",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "IL-5 RECEPTOR",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Benralizumab",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "IL-4 RECEPTOR",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Dupilumab",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "TSLP1",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Tezepelumab",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "BRONCHODILATORS",
+        "BRONCHODILATORS",
+        "BRONCHODILATORS",
+        "BRONCHODILATORS",
+        "BRONCHODILATORS"
+      ],
+      "rows": [
+        [
+          "2 AGONISTS (SYMPATHETIC)",
+          "2 AGONISTS (SYMPATHETIC)",
+          "M3 ANTAGONISTS (PARASYMPATHETIC)",
+          "M3 ANTAGONISTS (PARASYMPATHETIC)",
+          "PDE4 INHIBITOR/<br>ADENOSINE RECEPTOR ANTAGONIST"
+        ],
+        [
+          "SHORT-ACTING b AGONISTS<br>(SABA)",
+          "LONG-ACTING b AGONISTS<br>(LABA)",
+          "SHORT-ACTING<br>MUSCARINIC ANTAG.<br>(SAMA)",
+          "LONG-ACTING<br>MUSCARINIC ANTAG. (LAMA)",
+          "METHYLXANTHINE"
+        ],
+        [
+          "Albuterol",
+          "Salmeterol",
+          "Ipratropium",
+          "Tiotropium",
+          "Theophylline"
+        ],
+        [
+          "Epinephrine",
+          "Formoterol",
+          "",
+          "Aclidinium",
+          ""
+        ],
+        [
+          "",
+          "Indacaterol",
+          "",
+          "Umeclidinium",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "BRONCHOCONSTRICTOR (For bronchial challenge test)",
+        "BRONCHOCONSTRICTOR (For bronchial challenge test)"
+      ],
+      "rows": [
+        [
+          "",
+          "M3 AGONIST (PARASYMPATHETIC)"
+        ],
+        [
+          "",
+          "Methacholine"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "PRIMARY CARE DRUGS"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "COUGH TREATMENTS",
+        "COUGH TREATMENTS",
+        "COUGH TREATMENTS",
+        "COUGH TREATMENTS"
+      ],
+      "rows": [
+        [
+          "REMOVE THE IRRITANT",
+          "REMOVE THE IRRITANT",
+          "INHIBIT COUGH SIGNALING",
+          "INHIBIT COUGH SIGNALING"
+        ],
+        [
+          "EXPECTORANT",
+          "MUCOLYTIC",
+          "ANTI-TUSSIVES",
+          "ANTI-TUSSIVES"
+        ],
+        [
+          "",
+          "",
+          "CENTRALLY-ACTING",
+          "PERIPHERALLY ACTING"
+        ],
+        [
+          "MECHANISM UNCLEAR",
+          "REDUCING AGENT",
+          "GLUTAMATE ANTAGONIST",
+          "VG Na+ CHANNEL BLOCKERS"
+        ],
+        [
+          "Guaifenesin",
+          "N-acetylcysteine",
+          "Dextromethorphan",
+          "Benzonatate"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Lidocaine"
+        ],
+        [
+          "",
+          "",
+          "OPIOID",
+          "Lignocaine"
+        ],
+        [
+          "",
+          "",
+          "Codeine*",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "DECONGESTANTS",
+        "DECONGESTANTS",
+        "DECONGESTANTS"
+      ],
+      "rows": [
+        [
+          "ANTI-HISTAMINES (H1 RECEPTOR ANTAGONISTS)",
+          "ANTI-HISTAMINES (H1 RECEPTOR ANTAGONISTS)",
+          "1 AGONISTS"
+        ],
+        [
+          "1st GENERATION (Cross BBB)",
+          "2nd GENERATION (Do not cross BBB)",
+          ""
+        ],
+        [
+          "Diphenhydramine",
+          "Loratadine",
+          "Pseudoephedrine"
+        ],
+        [
+          "Dimenhydrinate",
+          "Fexofenidine",
+          "Phenylephrine"
+        ],
+        [
+          "Chlorpheniramine",
+          "Ceterizine",
+          ""
+        ],
+        [
+          "Promethazine*",
+          "Desloratadine",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "PULMONARY ARTERIAL HYPERTENSION (PAH)"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "VASODILATORS",
+        "VASODILATORS",
+        "VASODILATORS"
+      ],
+      "rows": [
+        [
+          "INHIBITORS OF VASOCONSTRICTION",
+          "STIMULATORS OF VASORELAXATION",
+          "STIMULATORS OF VASORELAXATION"
+        ],
+        [
+          "ENDOTHELIN-1 ANTAGONIST",
+          "PHOSPHODIESTERASE-5 (PDE5) INHIBITORS",
+          "PROSTAGLANDIN-I2 ANALOGS"
+        ],
+        [
+          "Bosentan",
+          "Sildenafil (Viagra™/Revatio™)",
+          "Epoprostenol (Natural)"
+        ],
+        [
+          "Ambrisentan",
+          "Tadalafil (Cialis™/Adcirca™)",
+          "Iloprost (Analog)"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "CYSTIC FIBROSIS"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "TREAT CAUSE",
+        "TREAT CAUSE"
+      ],
+      "rows": [
+        [
+          "CYSTIC FIBROSIS TRANSMEMBRANE CONDUCTANCE (CFTR) MODULATORS",
+          "CYSTIC FIBROSIS TRANSMEMBRANE CONDUCTANCE (CFTR) MODULATORS"
+        ],
+        [
+          "CFTR CORRECTORS - Improve trafficking of F508del mutation",
+          "CFTR POTENTIATORS - Improve stability of G551D mutation"
+        ],
+        [
+          "Lumacaftor",
+          "Ivacaftor"
+        ],
+        [
+          "Elexacaftor",
+          ""
+        ],
+        [
+          "Tezacaftor",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "TREAT SYMPTOMS",
+        "TREAT SYMPTOMS",
+        "TREAT SYMPTOMS",
+        "TREAT SYMPTOMS"
+      ],
+      "rows": [
+        [
+          "NUTRITIONAL DEFICIENCIES",
+          "AIRWAY CLEARANCE THERAPY",
+          "INFLAMMATION",
+          "INFECTIONS"
+        ],
+        [
+          "PANCREATIC ENZYMES",
+          "BRONCHODILATOR (2 agon.)",
+          "NSAID",
+          "ANTIBIOTICS"
+        ],
+        [
+          "Various supplements",
+          "Albuterol (Inh)",
+          "Ibuprofen (High dose)",
+          "Various, including several<br>anti-pseudomonals"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Various, including several<br>anti-pseudomonals"
+        ],
+        [
+          "LIPID SOLUBLE VITAMINS",
+          "OSMOTIC AGENT",
+          "MACROLIDE",
+          ""
+        ],
+        [
+          "Vitamin A",
+          "Hypertonic saline (Inh)",
+          "Azithromycin",
+          ""
+        ],
+        [
+          "Vitamin D",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Vitamin E",
+          "MUCOLYTIC",
+          "",
+          ""
+        ],
+        [
+          "Vitamin K",
+          "Dornase alfa (Inh)",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "ANTIBACTERIALS",
+        "ANTIBACTERIALS",
+        "ANTIBACTERIALS",
+        "ANTIBACTERIALS",
+        "ANTIBACTERIALS",
+        "ANTIBACTERIALS",
+        "ANTIBACTERIALS",
+        "ANTIBACTERIALS"
+      ],
+      "rows": [
+        [
+          "SPECTRUM",
+          "Gram-positive",
+          "Gram-positive",
+          "G-pos./G-neg",
+          "G-pos./G-neg",
+          "Gram-negative",
+          "Gram-negative",
+          "Anti-Psuedomonals"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "DNA-AFFECTING DRUGS",
+          "DNA-AFFECTING DRUGS",
+          "DNA-AFFECTING DRUGS",
+          "DNA-AFFECTING DRUGS",
+          "DNA-AFFECTING DRUGS",
+          "DNA-AFFECTING DRUGS",
+          "DNA-AFFECTING DRUGS",
+          "DNA-AFFECTING DRUGS"
+        ],
+        [
+          "FOLATE SYNTH. INHIBS",
+          "FOLATE SYNTH. INHIBS",
+          "DNA DAMAGING DRUGS",
+          "DNA DAMAGING DRUGS",
+          "DNA DAMAGING DRUGS",
+          "DNA DAMAGING DRUGS",
+          "DNA DAMAGING DRUGS",
+          "DNA DAMAGING DRUGS"
+        ],
+        [
+          "SULFONAMIDES",
+          "SULFONAMIDES",
+          "NITROIMIDAZOLE",
+          "NITROIMIDAZOLE",
+          "NITROFURAN",
+          "NITROFURAN",
+          "FLUOROQUINOLONES",
+          "FLUOROQUINOLONES"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2nd GENERATION",
+          "2nd GENERATION"
+        ],
+        [
+          "Sulfadiazine 2 (Or)",
+          "Sulfadiazine 2 (Or)",
+          "Metronidazole (Or)",
+          "Metronidazole (Or)",
+          "Nitrofurantoin (Or)",
+          "Nitrofurantoin (Or)",
+          "Ciprofloxacin (IV/Or)",
+          "Ciprofloxacin (IV/Or)"
+        ],
+        [
+          "Sulfisoxazole (Or)",
+          "Sulfisoxazole (Or)",
+          "",
+          "",
+          "",
+          "",
+          "Norfloxacin (Or)",
+          "Norfloxacin (Or)"
+        ],
+        [
+          "Sulfamethoxazole 1 (IV/Or)",
+          "Sulfamethoxazole 1 (IV/Or)",
+          "",
+          "",
+          "",
+          "",
+          "Ofloxacin (IV/Or/Opth)",
+          "Ofloxacin (IV/Or/Opth)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3rd GENERATION",
+          "3rd GENERATION"
+        ],
+        [
+          "COMBO WITH…",
+          "COMBO WITH…",
+          "",
+          "",
+          "",
+          "",
+          "Levofloxacin (IV/Or)",
+          "Levofloxacin (IV/Or)"
+        ],
+        [
+          "1 Trimethoprim",
+          "1 Trimethoprim",
+          "",
+          "",
+          "",
+          "",
+          "4th GENERATION",
+          "4th GENERATION"
+        ],
+        [
+          "2 Pyrimethamine",
+          "2 Pyrimethamine",
+          "",
+          "",
+          "",
+          "",
+          "Moxifloxacin (IV/Or)",
+          "Moxifloxacin (IV/Or)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Gatifloxacin (Opth)",
+          "Gatifloxacin (Opth)"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "mRNA SYNTHESIS INHIBITORS"
+      ],
+      "rows": [
+        [
+          "Rifampin"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "CELL WALL SYNTHESIS INHIBITORS",
+        "CELL WALL SYNTHESIS INHIBITORS",
+        "CELL WALL SYNTHESIS INHIBITORS",
+        "CELL WALL SYNTHESIS INHIBITORS",
+        "CELL WALL SYNTHESIS INHIBITORS",
+        "CELL WALL SYNTHESIS INHIBITORS",
+        "CELL WALL SYNTHESIS INHIBITORS",
+        "CELL WALL SYNTHESIS INHIBITORS"
+      ],
+      "rows": [
+        [
+          "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+          "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+          "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+          "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+          "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+          "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+          "GLYCOPEPTIDES",
+          "GLYCOPEPTIDES"
+        ],
+        [
+          "PENICILLINS",
+          "PENICILLINS",
+          "PENICILLINS",
+          "MONOBACTAMS",
+          "CARBAPENEMS",
+          "CEPHALOSPORINS",
+          "D-ala-D-ala INHIB.",
+          "PG TRANS. INHIB."
+        ],
+        [
+          "Penicillin G (IV/IM)",
+          "Penicillin G (IV/IM)",
+          "Penicillin G (IV/IM)",
+          "Aztreonam (IV)",
+          "Doripenem (IV)",
+          "Cephalexin (1st) (Or)",
+          "Vancomycin (IV)",
+          "Bacitracin (Top)"
+        ],
+        [
+          "Penicillin V (Or)",
+          "Penicillin V (Or)",
+          "Penicillin V (Or)",
+          "",
+          "Ertapenam (IV)",
+          "Cefazolin (1st) (IV/IM)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Imipenem 4 (IV)",
+          "Cefaclor (2nd) (Or)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "LACTAMASE-RES",
+          "",
+          "",
+          "Meropenem 1, 5 (IV)",
+          "Cefotetan (2nd) (IV/IM)",
+          "",
+          ""
+        ],
+        [
+          "Dicloxacillin (Or)",
+          "Dicloxacillin (Or)",
+          "Dicloxacillin (Or)",
+          "",
+          "",
+          "Cefoxitin (2nd) (IV)",
+          "",
+          ""
+        ],
+        [
+          "Methacillin (IV)",
+          "Methacillin (IV)",
+          "Methacillin (IV)",
+          "",
+          "",
+          "Cefuroxime (2nd) (IV/IM)",
+          "",
+          ""
+        ],
+        [
+          "Nafcillin (IV)",
+          "Nafcillin (IV)",
+          "Nafcillin (IV)",
+          "",
+          "",
+          "Cefotaxime (3rd) (IV/IM)",
+          "",
+          ""
+        ],
+        [
+          "Oxacillin (IV/IM)",
+          "Oxacillin (IV/IM)",
+          "Oxacillin (IV/IM)",
+          "",
+          "",
+          "Cefixime (3rd) (Or/IV)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Cefdinir (3rd) (Or)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "AMINOPENICILLIN",
+          "",
+          "COMBO WITH LACTAMASE INHIBITORS",
+          "COMBO WITH LACTAMASE INHIBITORS",
+          "Ceftriaxone (3rd) (IV/IM)",
+          "",
+          ""
+        ],
+        [
+          "Ampicillin1 (IV/IM)",
+          "Ampicillin1 (IV/IM)",
+          "Ampicillin1 (IV/IM)",
+          "1 Sulbactam",
+          "1 Sulbactam",
+          "Ceftazidime (3rd) (IV/IM)",
+          "",
+          ""
+        ],
+        [
+          "Amoxicillin2 (Or)",
+          "Amoxicillin2 (Or)",
+          "Amoxicillin2 (Or)",
+          "2 Clavulanic acid",
+          "2 Clavulanic acid",
+          "Cefipime (4th) (IV/IM)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "3 Tazobactam",
+          "3 Tazobactam",
+          "Ceftaroline (5th) (IV)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "CARBOXYPENICILLIN",
+          "",
+          "4 Cilastatin",
+          "4 Cilastatin",
+          "Ceftobipriole (5th) (IV)",
+          "",
+          ""
+        ],
+        [
+          "Ticarcillin (IV)",
+          "Ticarcillin (IV)",
+          "Ticarcillin (IV)",
+          "5Vaborbactam",
+          "5Vaborbactam",
+          "Cefiderocol (5th) (IV)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "UREIDOPENICILLIN",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Piperacillin3 (IV)",
+          "Piperacillin3 (IV)",
+          "Piperacillin3 (IV)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "PROTEIN SYNTHESIS INHIBITORS",
+        "PROTEIN SYNTHESIS INHIBITORS",
+        "PROTEIN SYNTHESIS INHIBITORS",
+        "PROTEIN SYNTHESIS INHIBITORS",
+        "PROTEIN SYNTHESIS INHIBITORS",
+        "PROTEIN SYNTHESIS INHIBITORS"
+      ],
+      "rows": [
+        [
+          "30S RIBOSOMAL SUBUNIT",
+          "30S RIBOSOMAL SUBUNIT",
+          "50S RIBOSOMAL SUBUNIT",
+          "50S RIBOSOMAL SUBUNIT",
+          "50S RIBOSOMAL SUBUNIT",
+          "50S RIBOSOMAL SUBUNIT"
+        ],
+        [
+          "AMINOGLYCOSIDES",
+          "TETRACYLCINES",
+          "MACROLIDES",
+          "OXAZOLIDENONES",
+          "STREPTOGRAMINS",
+          "LINCOSAMIDES"
+        ],
+        [
+          "Streptomycin (IV/Or)",
+          "Tetracycline (Or)",
+          "Erythromycin (IV/Or)",
+          "Linezolid (IV/Or)",
+          "Dalfopristin* (IV)",
+          "Clindamycin (IM/Or)"
+        ],
+        [
+          "Neomycin (IV/Or)",
+          "Doxycycline (IV/Or)",
+          "Clarithromycin (IV/Or)",
+          "Posizolid",
+          "Quinupristin* (IV)",
+          ""
+        ],
+        [
+          "Gentamicin (IV/IM)",
+          "Minocycline (IV/Or)",
+          "Azithromycin (Or/IV)",
+          "",
+          "*Combined",
+          ""
+        ],
+        [
+          "Tobramycin (IV)",
+          "Tigecycline (IV)",
+          "",
+          "",
+          "",
+          "OTHER"
+        ],
+        [
+          "Amikacin (IV/IM)",
+          "",
+          "",
+          "",
+          "",
+          "Chloramphenicol (IV/Or)"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "CELL MEMBRANE DISRUPTORS",
+        "CELL MEMBRANE DISRUPTORS"
+      ],
+      "rows": [
+        [
+          "Polymixin B",
+          "Daptomycin"
+        ],
+        [
+          "Polymixin E (Colistin/Colisimethate)",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "ANTI-TUBERCULOSIS (Mycobacterium tuberculosis)"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "1st LINE (PROPHYLAXIS or LATENT INFECTION or DRUG-SENSITIVE ACTIVE INFECTION",
+        "1st LINE (PROPHYLAXIS or LATENT INFECTION or DRUG-SENSITIVE ACTIVE INFECTION",
+        "1st LINE (PROPHYLAXIS or LATENT INFECTION or DRUG-SENSITIVE ACTIVE INFECTION",
+        "1st LINE (PROPHYLAXIS or LATENT INFECTION or DRUG-SENSITIVE ACTIVE INFECTION"
+      ],
+      "rows": [
+        [
+          "MYCOLIC ACID SYNTHESIS INHIBITORS",
+          "CELL WALL SYNTHESIS INHIBITORS",
+          "RNA POLYMERASE INHIBITORS",
+          "UNCLEAR"
+        ],
+        [
+          "Isoniazid",
+          "Ethambutol",
+          "Rifampin (a.k.a. Rifampicin)",
+          "Pyrazimamide"
+        ],
+        [
+          "",
+          "",
+          "Rifapentine",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "2ND LINE (MDR-TB or XDR-TB)",
+        "2ND LINE (MDR-TB or XDR-TB)",
+        "2ND LINE (MDR-TB or XDR-TB)",
+        "2ND LINE (MDR-TB or XDR-TB)",
+        "2ND LINE (MDR-TB or XDR-TB)"
+      ],
+      "rows": [
+        [
+          "MYCOLIC ACID SYNTHESIS INHIBITORS",
+          "CELL WALL SYNTHESIS INHIBITORS.",
+          "PROTEIN SYNTHESIS INHIBITORS",
+          "DNA SYNTHESIS INHIBITORS",
+          "ATP SYNTHASE INHIBITOR"
+        ],
+        [
+          "",
+          "",
+          "AMINOGLYCOSIDES",
+          "FLUOROQUINOLONES",
+          ""
+        ],
+        [
+          "Ethionamide",
+          "Cycloserine",
+          "Streptomycin",
+          "Ciprofloxacin",
+          "Bedaquiline1"
+        ],
+        [
+          "Dalamanid",
+          "",
+          "Amikacin",
+          "Levofloxacin",
+          ""
+        ],
+        [
+          "Pretomanid1",
+          "",
+          "Capreomycin",
+          "Moxifloxacin",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "OXAZOLIDENONE",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Linezolid1",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "ANTI-FUNGALS"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "CELL MEMBRANE",
+        "CELL MEMBRANE",
+        "CELL MEMBRANE",
+        "CELL WALL",
+        "DNA",
+        "MICROTUBULES"
+      ],
+      "rows": [
+        [
+          "ERGOSTEROL<br>SYNTHESIS INHIBITORS",
+          "ERGOSTEROL<br>SYNTHESIS INHIBITORS",
+          "ERGOSTEROL BINDING AGENTS",
+          "",
+          "",
+          ""
+        ],
+        [
+          "LANOSTEROL DEMETHYLASE INHIB.",
+          "SQUALENE EPOXIDASE INH.",
+          "",
+          "GLUCAN SYNTHASE INHIBITORS",
+          "THYMIDYLATE SYNTHETASE INH.",
+          ""
+        ],
+        [
+          "AZOLES",
+          "ALLYLAMINES",
+          "POLYENES",
+          "ECHINOCANDINS",
+          "PYRIMIDINE ANAL.",
+          "PENICILLIN DERIV."
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)",
+        "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)",
+        "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)",
+        "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)",
+        "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)",
+        "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)"
+      ],
+      "rows": [
+        [
+          "IMIDAZOLES",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Clotrimazole",
+          "Terbinafine",
+          "Nystatin",
+          "",
+          "",
+          "Griseofulvin (o)"
+        ],
+        [
+          "Ketoconazole",
+          "Naftifine",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Miconazole",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "TRIAZOLES",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Fluconazole",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+        "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+        "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+        "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+        "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+        "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)"
+      ],
+      "rows": [
+        [
+          "TRIAZOLES",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Fluconazole (o)",
+          "",
+          "Amphotericin B (iv)",
+          "Anidulafungin (iv)",
+          "Flucytosine (o)",
+          ""
+        ],
+        [
+          "Isavuconazole (o/iv)",
+          "",
+          "",
+          "Caspofungin (iv)",
+          "",
+          ""
+        ],
+        [
+          "Itraconazole (o/iv)",
+          "",
+          "",
+          "Micafungin (iv)",
+          "",
+          ""
+        ],
+        [
+          "Posaconazole (o)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Voriconazole (o/iv)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Pneumocystis jirovecii (Pneumonia)"
+      ],
+      "rows": [
+        [
+          "Sulfamethoxazole/Trimethoprim (SMX/TMP)"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "ANTI-VIRALS"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "NUCLEOSIDE ANALOG DNA POLYMERASE INHIBITOR",
+        "GROUP I VIRUSES",
+        "GROUP I VIRUSES",
+        "GROUP I VIRUSES",
+        "GROUP I VIRUSES"
+      ],
+      "rows": [
+        [
+          "NUCLEOSIDE ANALOG DNA POLYMERASE INHIBITOR",
+          "ORAL/GENITAL HERPES",
+          "CHICKENPOX/SHINGLES",
+          "MONONUCLEOSIS",
+          "MONONUCLEOSIS"
+        ],
+        [
+          "NUCLEOSIDE ANALOG DNA POLYMERASE INHIBITOR",
+          "Herpes simplex (HSV)",
+          "Varicella zoster (VZV)",
+          "Cytomegalovirus (CMV)",
+          "Epstein-Barr virus (EBV)"
+        ],
+        [
+          "Acyclovir",
+          "",
+          "",
+          "",
+          "None approved"
+        ],
+        [
+          "Valacyclovir",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Peniciclovir",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Famciclovir",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Brivudine",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Cidofovir",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ganciclovir",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Valganciclovir",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "PPi ANALOG",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Foscarnet",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "GROUP IV VIRUSES",
+        "GROUP IV VIRUSES",
+        "GROUP IV VIRUSES",
+        "GROUP IV VIRUSES",
+        "GROUP IV VIRUSES"
+      ],
+      "rows": [
+        [
+          "SARS-CoV-2 (Covid-19)",
+          "HEPATITIS C",
+          "HEPATITIS C",
+          "HEPATITIS C",
+          "HEPATITIS C"
+        ],
+        [
+          "RNA POLYMERASE INHIBITORS",
+          "RNA POLY. INHIBITOR",
+          "PROTEASE INHIBITOR",
+          "ASSEMBLY INHIBITOR",
+          "MULTIPLE"
+        ],
+        [
+          "Remdesivir (Veklury™) - IV",
+          "Dasabuvir",
+          "Boceprevir",
+          "Daclatasvir",
+          "Ribavirin"
+        ],
+        [
+          "Molnupiravir (Lagevrio™) - Oral",
+          "Sofosbuvir3, 4, 5",
+          "Glecaprevir2",
+          "Elbasvir1",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Grazoprevir1",
+          "Ledipasvir3",
+          ""
+        ],
+        [
+          "PROTEASE INHIBITOR",
+          "",
+          "Paritaprevir",
+          "Ombitasvir",
+          ""
+        ],
+        [
+          "Nirmatrelvir + Ritonavir (Paxlovid™) - Oral",
+          "",
+          "Simeprevir",
+          "Pibrentasvir2",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Teleprevir",
+          "Velpatasvir4. 5",
+          ""
+        ],
+        [
+          "Monoclonal Abs - IV",
+          "",
+          "Voxilaprevir5",
+          "",
+          ""
+        ],
+        [
+          "Casirivimab + Imdevimab (REGN-COV2™)",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Bamlanivimab + Etesevimab",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Tixagevimab + Cilgavimab (Evusheld™)",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Sotrovimab (Xevudy™)",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "GROUP V VIRUSES",
+        "GROUP V VIRUSES",
+        "GROUP V VIRUSES",
+        "GROUP V VIRUSES",
+        "GROUP V VIRUSES"
+      ],
+      "rows": [
+        [
+          "INFLUENZA",
+          "INFLUENZA",
+          "INFLUENZA",
+          "RESPIRATORY SYNCYTIAL VIRUS (RSV)",
+          "RESPIRATORY SYNCYTIAL VIRUS (RSV)"
+        ],
+        [
+          "M2 INHIBITORS",
+          "RELEASE INHIBITORS",
+          "ENDONUCLEASE INHIB.",
+          "MULTIPLE",
+          "FUSION INHIBITOR"
+        ],
+        [
+          "Amantadine",
+          "Oseltamivir",
+          "Baloxavir",
+          "Ribavirin",
+          "Palivizumab"
+        ],
+        [
+          "Rimantadine",
+          "Zanamivir",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Peramivir",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "GROUP VI VIRUESES (HIV)",
+        "GROUP VI VIRUESES (HIV)",
+        "GROUP VI VIRUESES (HIV)",
+        "GROUP VI VIRUESES (HIV)",
+        "GROUP VI VIRUESES (HIV)"
+      ],
+      "rows": [
+        [
+          "ENTRY/FUSION INHIBS.",
+          "REVERSE TRANSCRIPTASE INHIBITORS",
+          "REVERSE TRANSCRIPTASE INHIBITORS",
+          "INTEGRASE INHIBS",
+          "PROTEASE INHIBS"
+        ],
+        [
+          "",
+          "NUCLEOSIDE (NRTI)",
+          "NON-NUCLEOSIDE (NNRTI)",
+          "",
+          ""
+        ],
+        [
+          "Enfuvirtide",
+          "Abacavir",
+          "Doravirine",
+          "Bictegravir",
+          "Atazanavir"
+        ],
+        [
+          "Fostemsavir",
+          "Didanosine",
+          "Efavirenz",
+          "Cabotegravir",
+          "Darunavir"
+        ],
+        [
+          "Maraviroc",
+          "Emtricitabine",
+          "Etravirine",
+          "Elvitegravir",
+          "Fosamprenavir"
+        ],
+        [
+          "Ibalizumab",
+          "Lamivudine",
+          "Nevirapine",
+          "Dolutegravir",
+          "Indinavir"
+        ],
+        [
+          "",
+          "Stavudine",
+          "Rilpivirine",
+          "Raltegravir",
+          "Lopinavir"
+        ],
+        [
+          "",
+          "Tenofovir",
+          "",
+          "",
+          "Ritonavir"
+        ],
+        [
+          "",
+          "Zidovudine",
+          "",
+          "",
+          "Saquinavir"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "GROUP VII VIRUSES (HEPATITIS B)",
+        "GROUP VII VIRUSES (HEPATITIS B)"
+      ],
+      "rows": [
+        [
+          "REVERSE TRASCRIPTASE INHIBITORS",
+          "DNA POLYMERASE INHIBITORS"
+        ],
+        [
+          "Adefovir",
+          "Entecavir"
+        ],
+        [
+          "Entecavir",
+          "Telbivudine"
+        ],
+        [
+          "Lamivudine",
+          ""
+        ],
+        [
+          "Tenofovir",
+          ""
+        ]
+      ]
+    }
+  ],
+  "cellData": {
+    "table_1_row_0_col_0": {
+      "content": "RESPIRATORY SYSTEM",
+      "summary": ""
+    },
+    "table_2_row_0_col_0": {
+      "content": "OBSTRUCTIVE LUNG DISEASE DRUGS (ASTHMA/COPD)",
+      "summary": ""
+    },
+    "table_3_row_0_col_0": {
+      "content": "ANTI-INFLAMMATORIES",
+      "summary": ""
+    },
+    "table_3_row_0_col_1": {
+      "content": "ANTI-INFLAMMATORIES",
+      "summary": ""
+    },
+    "table_3_row_0_col_2": {
+      "content": "ANTI-INFLAMMATORIES",
+      "summary": ""
+    },
+    "table_3_row_0_col_3": {
+      "content": "ANTI-INFLAMMATORIES",
+      "summary": ""
+    },
+    "table_3_row_0_col_4": {
+      "content": "ANTI-INFLAMMATORIES",
+      "summary": ""
+    },
+    "table_3_row_1_col_0": {
+      "content": "CORTICOSTEROIDS",
+      "summary": ""
+    },
+    "table_3_row_1_col_1": {
+      "content": "LEUKOTRIENE INHIBS.",
+      "summary": ""
+    },
+    "table_3_row_1_col_2": {
+      "content": "BIOLOGICS",
+      "summary": ""
+    },
+    "table_3_row_1_col_3": {
+      "content": "PDE4 INHIBITOR",
+      "summary": ""
+    },
+    "table_3_row_1_col_4": {
+      "content": "MAST CELL STABILIZER",
+      "summary": ""
+    },
+    "table_3_row_2_col_0": {
+      "content": "Beclomethasone",
+      "summary": ""
+    },
+    "table_3_row_2_col_1": {
+      "content": "5-LIPOXYGENASE INH.",
+      "summary": ""
+    },
+    "table_3_row_2_col_2": {
+      "content": "IgE",
+      "summary": ""
+    },
+    "table_3_row_2_col_3": {
+      "content": "Roflumilast",
+      "summary": ""
+    },
+    "table_3_row_2_col_4": {
+      "content": "Cromolyn",
+      "summary": ""
+    },
+    "table_3_row_3_col_0": {
+      "content": "Budesonide",
+      "summary": ""
+    },
+    "table_3_row_3_col_1": {
+      "content": "Zileuton",
+      "summary": ""
+    },
+    "table_3_row_3_col_2": {
+      "content": "Omalizumab",
+      "summary": ""
+    },
+    "table_3_row_4_col_0": {
+      "content": "Fluticasone",
+      "summary": ""
+    },
+    "table_3_row_5_col_0": {
+      "content": "Mometasone",
+      "summary": ""
+    },
+    "table_3_row_5_col_1": {
+      "content": "LEUKOTRIENE ANTAG.",
+      "summary": ""
+    },
+    "table_3_row_5_col_2": {
+      "content": "IL-5",
+      "summary": ""
+    },
+    "table_3_row_6_col_1": {
+      "content": "Montelukast",
+      "summary": ""
+    },
+    "table_3_row_6_col_2": {
+      "content": "Mepolizumab",
+      "summary": ""
+    },
+    "table_3_row_7_col_1": {
+      "content": "Zafirlukast",
+      "summary": ""
+    },
+    "table_3_row_7_col_2": {
+      "content": "Reslizumab",
+      "summary": ""
+    },
+    "table_3_row_9_col_2": {
+      "content": "IL-5 RECEPTOR",
+      "summary": ""
+    },
+    "table_3_row_10_col_2": {
+      "content": "Benralizumab",
+      "summary": ""
+    },
+    "table_3_row_12_col_2": {
+      "content": "IL-4 RECEPTOR",
+      "summary": ""
+    },
+    "table_3_row_13_col_2": {
+      "content": "Dupilumab",
+      "summary": ""
+    },
+    "table_3_row_15_col_2": {
+      "content": "TSLP1",
+      "summary": ""
+    },
+    "table_3_row_16_col_2": {
+      "content": "Tezepelumab",
+      "summary": ""
+    },
+    "table_4_row_0_col_0": {
+      "content": "BRONCHODILATORS",
+      "summary": ""
+    },
+    "table_4_row_0_col_1": {
+      "content": "BRONCHODILATORS",
+      "summary": ""
+    },
+    "table_4_row_0_col_2": {
+      "content": "BRONCHODILATORS",
+      "summary": ""
+    },
+    "table_4_row_0_col_3": {
+      "content": "BRONCHODILATORS",
+      "summary": ""
+    },
+    "table_4_row_0_col_4": {
+      "content": "BRONCHODILATORS",
+      "summary": ""
+    },
+    "table_4_row_1_col_0": {
+      "content": "2 AGONISTS (SYMPATHETIC)",
+      "summary": ""
+    },
+    "table_4_row_1_col_1": {
+      "content": "2 AGONISTS (SYMPATHETIC)",
+      "summary": ""
+    },
+    "table_4_row_1_col_2": {
+      "content": "M3 ANTAGONISTS (PARASYMPATHETIC)",
+      "summary": ""
+    },
+    "table_4_row_1_col_3": {
+      "content": "M3 ANTAGONISTS (PARASYMPATHETIC)",
+      "summary": ""
+    },
+    "table_4_row_1_col_4": {
+      "content": "PDE4 INHIBITOR/ADENOSINE RECEPTOR ANTAGONIST",
+      "summary": ""
+    },
+    "table_4_row_2_col_0": {
+      "content": "SHORT-ACTING b AGONISTS(SABA)",
+      "summary": ""
+    },
+    "table_4_row_2_col_1": {
+      "content": "LONG-ACTING b AGONISTS(LABA)",
+      "summary": ""
+    },
+    "table_4_row_2_col_2": {
+      "content": "SHORT-ACTINGMUSCARINIC ANTAG.(SAMA)",
+      "summary": ""
+    },
+    "table_4_row_2_col_3": {
+      "content": "LONG-ACTINGMUSCARINIC ANTAG. (LAMA)",
+      "summary": ""
+    },
+    "table_4_row_2_col_4": {
+      "content": "METHYLXANTHINE",
+      "summary": ""
+    },
+    "table_4_row_3_col_0": {
+      "content": "Albuterol",
+      "summary": ""
+    },
+    "table_4_row_3_col_1": {
+      "content": "Salmeterol",
+      "summary": ""
+    },
+    "table_4_row_3_col_2": {
+      "content": "Ipratropium",
+      "summary": ""
+    },
+    "table_4_row_3_col_3": {
+      "content": "Tiotropium",
+      "summary": ""
+    },
+    "table_4_row_3_col_4": {
+      "content": "Theophylline",
+      "summary": ""
+    },
+    "table_4_row_4_col_0": {
+      "content": "Epinephrine",
+      "summary": ""
+    },
+    "table_4_row_4_col_1": {
+      "content": "Formoterol",
+      "summary": ""
+    },
+    "table_4_row_4_col_3": {
+      "content": "Aclidinium",
+      "summary": ""
+    },
+    "table_4_row_5_col_1": {
+      "content": "Indacaterol",
+      "summary": ""
+    },
+    "table_4_row_5_col_3": {
+      "content": "Umeclidinium",
+      "summary": ""
+    },
+    "table_5_row_0_col_0": {
+      "content": "BRONCHOCONSTRICTOR (For bronchial challenge test)",
+      "summary": ""
+    },
+    "table_5_row_0_col_1": {
+      "content": "BRONCHOCONSTRICTOR (For bronchial challenge test)",
+      "summary": ""
+    },
+    "table_5_row_1_col_1": {
+      "content": "M3 AGONIST (PARASYMPATHETIC)",
+      "summary": ""
+    },
+    "table_5_row_2_col_1": {
+      "content": "Methacholine",
+      "summary": ""
+    },
+    "table_6_row_0_col_0": {
+      "content": "PRIMARY CARE DRUGS",
+      "summary": ""
+    },
+    "table_7_row_0_col_0": {
+      "content": "COUGH TREATMENTS",
+      "summary": ""
+    },
+    "table_7_row_0_col_1": {
+      "content": "COUGH TREATMENTS",
+      "summary": ""
+    },
+    "table_7_row_0_col_2": {
+      "content": "COUGH TREATMENTS",
+      "summary": ""
+    },
+    "table_7_row_0_col_3": {
+      "content": "COUGH TREATMENTS",
+      "summary": ""
+    },
+    "table_7_row_1_col_0": {
+      "content": "REMOVE THE IRRITANT",
+      "summary": ""
+    },
+    "table_7_row_1_col_1": {
+      "content": "REMOVE THE IRRITANT",
+      "summary": ""
+    },
+    "table_7_row_1_col_2": {
+      "content": "INHIBIT COUGH SIGNALING",
+      "summary": ""
+    },
+    "table_7_row_1_col_3": {
+      "content": "INHIBIT COUGH SIGNALING",
+      "summary": ""
+    },
+    "table_7_row_2_col_0": {
+      "content": "EXPECTORANT",
+      "summary": ""
+    },
+    "table_7_row_2_col_1": {
+      "content": "MUCOLYTIC",
+      "summary": ""
+    },
+    "table_7_row_2_col_2": {
+      "content": "ANTI-TUSSIVES",
+      "summary": ""
+    },
+    "table_7_row_2_col_3": {
+      "content": "ANTI-TUSSIVES",
+      "summary": ""
+    },
+    "table_7_row_3_col_2": {
+      "content": "CENTRALLY-ACTING",
+      "summary": ""
+    },
+    "table_7_row_3_col_3": {
+      "content": "PERIPHERALLY ACTING",
+      "summary": ""
+    },
+    "table_7_row_4_col_0": {
+      "content": "MECHANISM UNCLEAR",
+      "summary": ""
+    },
+    "table_7_row_4_col_1": {
+      "content": "REDUCING AGENT",
+      "summary": ""
+    },
+    "table_7_row_4_col_2": {
+      "content": "GLUTAMATE ANTAGONIST",
+      "summary": ""
+    },
+    "table_7_row_4_col_3": {
+      "content": "VG Na+ CHANNEL BLOCKERS",
+      "summary": ""
+    },
+    "table_7_row_5_col_0": {
+      "content": "Guaifenesin",
+      "summary": ""
+    },
+    "table_7_row_5_col_1": {
+      "content": "N-acetylcysteine",
+      "summary": ""
+    },
+    "table_7_row_5_col_2": {
+      "content": "Dextromethorphan",
+      "summary": ""
+    },
+    "table_7_row_5_col_3": {
+      "content": "Benzonatate",
+      "summary": ""
+    },
+    "table_7_row_6_col_3": {
+      "content": "Lidocaine",
+      "summary": ""
+    },
+    "table_7_row_7_col_2": {
+      "content": "OPIOID",
+      "summary": ""
+    },
+    "table_7_row_7_col_3": {
+      "content": "Lignocaine",
+      "summary": ""
+    },
+    "table_7_row_8_col_2": {
+      "content": "Codeine*",
+      "summary": ""
+    },
+    "table_8_row_0_col_0": {
+      "content": "DECONGESTANTS",
+      "summary": ""
+    },
+    "table_8_row_0_col_1": {
+      "content": "DECONGESTANTS",
+      "summary": ""
+    },
+    "table_8_row_0_col_2": {
+      "content": "DECONGESTANTS",
+      "summary": ""
+    },
+    "table_8_row_1_col_0": {
+      "content": "ANTI-HISTAMINES (H1 RECEPTOR ANTAGONISTS)",
+      "summary": ""
+    },
+    "table_8_row_1_col_1": {
+      "content": "ANTI-HISTAMINES (H1 RECEPTOR ANTAGONISTS)",
+      "summary": ""
+    },
+    "table_8_row_1_col_2": {
+      "content": "1 AGONISTS",
+      "summary": ""
+    },
+    "table_8_row_2_col_0": {
+      "content": "1st GENERATION (Cross BBB)",
+      "summary": ""
+    },
+    "table_8_row_2_col_1": {
+      "content": "2nd GENERATION (Do not cross BBB)",
+      "summary": ""
+    },
+    "table_8_row_3_col_0": {
+      "content": "Diphenhydramine",
+      "summary": ""
+    },
+    "table_8_row_3_col_1": {
+      "content": "Loratadine",
+      "summary": ""
+    },
+    "table_8_row_3_col_2": {
+      "content": "Pseudoephedrine",
+      "summary": ""
+    },
+    "table_8_row_4_col_0": {
+      "content": "Dimenhydrinate",
+      "summary": ""
+    },
+    "table_8_row_4_col_1": {
+      "content": "Fexofenidine",
+      "summary": ""
+    },
+    "table_8_row_4_col_2": {
+      "content": "Phenylephrine",
+      "summary": ""
+    },
+    "table_8_row_5_col_0": {
+      "content": "Chlorpheniramine",
+      "summary": ""
+    },
+    "table_8_row_5_col_1": {
+      "content": "Ceterizine",
+      "summary": ""
+    },
+    "table_8_row_6_col_0": {
+      "content": "Promethazine*",
+      "summary": ""
+    },
+    "table_8_row_6_col_1": {
+      "content": "Desloratadine",
+      "summary": ""
+    },
+    "table_9_row_0_col_0": {
+      "content": "PULMONARY ARTERIAL HYPERTENSION (PAH)",
+      "summary": ""
+    },
+    "table_10_row_0_col_0": {
+      "content": "VASODILATORS",
+      "summary": ""
+    },
+    "table_10_row_0_col_1": {
+      "content": "VASODILATORS",
+      "summary": ""
+    },
+    "table_10_row_0_col_2": {
+      "content": "VASODILATORS",
+      "summary": ""
+    },
+    "table_10_row_1_col_0": {
+      "content": "INHIBITORS OF VASOCONSTRICTION",
+      "summary": ""
+    },
+    "table_10_row_1_col_1": {
+      "content": "STIMULATORS OF VASORELAXATION",
+      "summary": ""
+    },
+    "table_10_row_1_col_2": {
+      "content": "STIMULATORS OF VASORELAXATION",
+      "summary": ""
+    },
+    "table_10_row_2_col_0": {
+      "content": "ENDOTHELIN-1 ANTAGONIST",
+      "summary": ""
+    },
+    "table_10_row_2_col_1": {
+      "content": "PHOSPHODIESTERASE-5 (PDE5) INHIBITORS",
+      "summary": ""
+    },
+    "table_10_row_2_col_2": {
+      "content": "PROSTAGLANDIN-I2 ANALOGS",
+      "summary": ""
+    },
+    "table_10_row_3_col_0": {
+      "content": "Bosentan",
+      "summary": ""
+    },
+    "table_10_row_3_col_1": {
+      "content": "Sildenafil (Viagra™/Revatio™)",
+      "summary": ""
+    },
+    "table_10_row_3_col_2": {
+      "content": "Epoprostenol (Natural)",
+      "summary": ""
+    },
+    "table_10_row_4_col_0": {
+      "content": "Ambrisentan",
+      "summary": ""
+    },
+    "table_10_row_4_col_1": {
+      "content": "Tadalafil (Cialis™/Adcirca™)",
+      "summary": ""
+    },
+    "table_10_row_4_col_2": {
+      "content": "Iloprost (Analog)",
+      "summary": ""
+    },
+    "table_11_row_0_col_0": {
+      "content": "CYSTIC FIBROSIS",
+      "summary": ""
+    },
+    "table_12_row_0_col_0": {
+      "content": "TREAT CAUSE",
+      "summary": ""
+    },
+    "table_12_row_0_col_1": {
+      "content": "TREAT CAUSE",
+      "summary": ""
+    },
+    "table_12_row_1_col_0": {
+      "content": "CYSTIC FIBROSIS TRANSMEMBRANE CONDUCTANCE (CFTR) MODULATORS",
+      "summary": ""
+    },
+    "table_12_row_1_col_1": {
+      "content": "CYSTIC FIBROSIS TRANSMEMBRANE CONDUCTANCE (CFTR) MODULATORS",
+      "summary": ""
+    },
+    "table_12_row_2_col_0": {
+      "content": "CFTR CORRECTORS - Improve trafficking of F508del mutation",
+      "summary": ""
+    },
+    "table_12_row_2_col_1": {
+      "content": "CFTR POTENTIATORS - Improve stability of G551D mutation",
+      "summary": ""
+    },
+    "table_12_row_3_col_0": {
+      "content": "Lumacaftor",
+      "summary": ""
+    },
+    "table_12_row_3_col_1": {
+      "content": "Ivacaftor",
+      "summary": ""
+    },
+    "table_12_row_4_col_0": {
+      "content": "Elexacaftor",
+      "summary": ""
+    },
+    "table_12_row_5_col_0": {
+      "content": "Tezacaftor",
+      "summary": ""
+    },
+    "table_13_row_0_col_0": {
+      "content": "TREAT SYMPTOMS",
+      "summary": ""
+    },
+    "table_13_row_0_col_1": {
+      "content": "TREAT SYMPTOMS",
+      "summary": ""
+    },
+    "table_13_row_0_col_2": {
+      "content": "TREAT SYMPTOMS",
+      "summary": ""
+    },
+    "table_13_row_0_col_3": {
+      "content": "TREAT SYMPTOMS",
+      "summary": ""
+    },
+    "table_13_row_1_col_0": {
+      "content": "NUTRITIONAL DEFICIENCIES",
+      "summary": ""
+    },
+    "table_13_row_1_col_1": {
+      "content": "AIRWAY CLEARANCE THERAPY",
+      "summary": ""
+    },
+    "table_13_row_1_col_2": {
+      "content": "INFLAMMATION",
+      "summary": ""
+    },
+    "table_13_row_1_col_3": {
+      "content": "INFECTIONS",
+      "summary": ""
+    },
+    "table_13_row_2_col_0": {
+      "content": "PANCREATIC ENZYMES",
+      "summary": ""
+    },
+    "table_13_row_2_col_1": {
+      "content": "BRONCHODILATOR (2 agon.)",
+      "summary": ""
+    },
+    "table_13_row_2_col_2": {
+      "content": "NSAID",
+      "summary": ""
+    },
+    "table_13_row_2_col_3": {
+      "content": "ANTIBIOTICS",
+      "summary": ""
+    },
+    "table_13_row_3_col_0": {
+      "content": "Various supplements",
+      "summary": ""
+    },
+    "table_13_row_3_col_1": {
+      "content": "Albuterol (Inh)",
+      "summary": ""
+    },
+    "table_13_row_3_col_2": {
+      "content": "Ibuprofen (High dose)",
+      "summary": ""
+    },
+    "table_13_row_3_col_3": {
+      "content": "Various, including severalanti-pseudomonals",
+      "summary": ""
+    },
+    "table_13_row_4_col_3": {
+      "content": "Various, including severalanti-pseudomonals",
+      "summary": ""
+    },
+    "table_13_row_5_col_0": {
+      "content": "LIPID SOLUBLE VITAMINS",
+      "summary": ""
+    },
+    "table_13_row_5_col_1": {
+      "content": "OSMOTIC AGENT",
+      "summary": ""
+    },
+    "table_13_row_5_col_2": {
+      "content": "MACROLIDE",
+      "summary": ""
+    },
+    "table_13_row_6_col_0": {
+      "content": "Vitamin A",
+      "summary": ""
+    },
+    "table_13_row_6_col_1": {
+      "content": "Hypertonic saline (Inh)",
+      "summary": ""
+    },
+    "table_13_row_6_col_2": {
+      "content": "Azithromycin",
+      "summary": ""
+    },
+    "table_13_row_7_col_0": {
+      "content": "Vitamin D",
+      "summary": ""
+    },
+    "table_13_row_8_col_0": {
+      "content": "Vitamin E",
+      "summary": ""
+    },
+    "table_13_row_8_col_1": {
+      "content": "MUCOLYTIC",
+      "summary": ""
+    },
+    "table_13_row_9_col_0": {
+      "content": "Vitamin K",
+      "summary": ""
+    },
+    "table_13_row_9_col_1": {
+      "content": "Dornase alfa (Inh)",
+      "summary": ""
+    },
+    "table_14_row_0_col_0": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_14_row_0_col_1": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_14_row_0_col_2": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_14_row_0_col_3": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_14_row_0_col_4": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_14_row_0_col_5": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_14_row_0_col_6": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_14_row_0_col_7": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_14_row_1_col_0": {
+      "content": "SPECTRUM",
+      "summary": ""
+    },
+    "table_14_row_1_col_1": {
+      "content": "Gram-positive",
+      "summary": ""
+    },
+    "table_14_row_1_col_2": {
+      "content": "Gram-positive",
+      "summary": ""
+    },
+    "table_14_row_1_col_3": {
+      "content": "G-pos./G-neg",
+      "summary": ""
+    },
+    "table_14_row_1_col_4": {
+      "content": "G-pos./G-neg",
+      "summary": ""
+    },
+    "table_14_row_1_col_5": {
+      "content": "Gram-negative",
+      "summary": ""
+    },
+    "table_14_row_1_col_6": {
+      "content": "Gram-negative",
+      "summary": ""
+    },
+    "table_14_row_1_col_7": {
+      "content": "Anti-Psuedomonals",
+      "summary": ""
+    },
+    "table_14_row_3_col_0": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_3_col_1": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_3_col_2": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_3_col_3": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_3_col_4": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_3_col_5": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_3_col_6": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_3_col_7": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_4_col_0": {
+      "content": "FOLATE SYNTH. INHIBS",
+      "summary": ""
+    },
+    "table_14_row_4_col_1": {
+      "content": "FOLATE SYNTH. INHIBS",
+      "summary": ""
+    },
+    "table_14_row_4_col_2": {
+      "content": "DNA DAMAGING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_4_col_3": {
+      "content": "DNA DAMAGING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_4_col_4": {
+      "content": "DNA DAMAGING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_4_col_5": {
+      "content": "DNA DAMAGING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_4_col_6": {
+      "content": "DNA DAMAGING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_4_col_7": {
+      "content": "DNA DAMAGING DRUGS",
+      "summary": ""
+    },
+    "table_14_row_5_col_0": {
+      "content": "SULFONAMIDES",
+      "summary": ""
+    },
+    "table_14_row_5_col_1": {
+      "content": "SULFONAMIDES",
+      "summary": ""
+    },
+    "table_14_row_5_col_2": {
+      "content": "NITROIMIDAZOLE",
+      "summary": ""
+    },
+    "table_14_row_5_col_3": {
+      "content": "NITROIMIDAZOLE",
+      "summary": ""
+    },
+    "table_14_row_5_col_4": {
+      "content": "NITROFURAN",
+      "summary": ""
+    },
+    "table_14_row_5_col_5": {
+      "content": "NITROFURAN",
+      "summary": ""
+    },
+    "table_14_row_5_col_6": {
+      "content": "FLUOROQUINOLONES",
+      "summary": ""
+    },
+    "table_14_row_5_col_7": {
+      "content": "FLUOROQUINOLONES",
+      "summary": ""
+    },
+    "table_14_row_6_col_6": {
+      "content": "2nd GENERATION",
+      "summary": ""
+    },
+    "table_14_row_6_col_7": {
+      "content": "2nd GENERATION",
+      "summary": ""
+    },
+    "table_14_row_7_col_0": {
+      "content": "Sulfadiazine 2 (Or)",
+      "summary": ""
+    },
+    "table_14_row_7_col_1": {
+      "content": "Sulfadiazine 2 (Or)",
+      "summary": ""
+    },
+    "table_14_row_7_col_2": {
+      "content": "Metronidazole (Or)",
+      "summary": ""
+    },
+    "table_14_row_7_col_3": {
+      "content": "Metronidazole (Or)",
+      "summary": ""
+    },
+    "table_14_row_7_col_4": {
+      "content": "Nitrofurantoin (Or)",
+      "summary": ""
+    },
+    "table_14_row_7_col_5": {
+      "content": "Nitrofurantoin (Or)",
+      "summary": ""
+    },
+    "table_14_row_7_col_6": {
+      "content": "Ciprofloxacin (IV/Or)",
+      "summary": ""
+    },
+    "table_14_row_7_col_7": {
+      "content": "Ciprofloxacin (IV/Or)",
+      "summary": ""
+    },
+    "table_14_row_8_col_0": {
+      "content": "Sulfisoxazole (Or)",
+      "summary": ""
+    },
+    "table_14_row_8_col_1": {
+      "content": "Sulfisoxazole (Or)",
+      "summary": ""
+    },
+    "table_14_row_8_col_6": {
+      "content": "Norfloxacin (Or)",
+      "summary": ""
+    },
+    "table_14_row_8_col_7": {
+      "content": "Norfloxacin (Or)",
+      "summary": ""
+    },
+    "table_14_row_9_col_0": {
+      "content": "Sulfamethoxazole 1 (IV/Or)",
+      "summary": ""
+    },
+    "table_14_row_9_col_1": {
+      "content": "Sulfamethoxazole 1 (IV/Or)",
+      "summary": ""
+    },
+    "table_14_row_9_col_6": {
+      "content": "Ofloxacin (IV/Or/Opth)",
+      "summary": ""
+    },
+    "table_14_row_9_col_7": {
+      "content": "Ofloxacin (IV/Or/Opth)",
+      "summary": ""
+    },
+    "table_14_row_10_col_6": {
+      "content": "3rd GENERATION",
+      "summary": ""
+    },
+    "table_14_row_10_col_7": {
+      "content": "3rd GENERATION",
+      "summary": ""
+    },
+    "table_14_row_11_col_0": {
+      "content": "COMBO WITH…",
+      "summary": ""
+    },
+    "table_14_row_11_col_1": {
+      "content": "COMBO WITH…",
+      "summary": ""
+    },
+    "table_14_row_11_col_6": {
+      "content": "Levofloxacin (IV/Or)",
+      "summary": ""
+    },
+    "table_14_row_11_col_7": {
+      "content": "Levofloxacin (IV/Or)",
+      "summary": ""
+    },
+    "table_14_row_12_col_0": {
+      "content": "1 Trimethoprim",
+      "summary": ""
+    },
+    "table_14_row_12_col_1": {
+      "content": "1 Trimethoprim",
+      "summary": ""
+    },
+    "table_14_row_12_col_6": {
+      "content": "4th GENERATION",
+      "summary": ""
+    },
+    "table_14_row_12_col_7": {
+      "content": "4th GENERATION",
+      "summary": ""
+    },
+    "table_14_row_13_col_0": {
+      "content": "2 Pyrimethamine",
+      "summary": ""
+    },
+    "table_14_row_13_col_1": {
+      "content": "2 Pyrimethamine",
+      "summary": ""
+    },
+    "table_14_row_13_col_6": {
+      "content": "Moxifloxacin (IV/Or)",
+      "summary": ""
+    },
+    "table_14_row_13_col_7": {
+      "content": "Moxifloxacin (IV/Or)",
+      "summary": ""
+    },
+    "table_14_row_14_col_6": {
+      "content": "Gatifloxacin (Opth)",
+      "summary": ""
+    },
+    "table_14_row_14_col_7": {
+      "content": "Gatifloxacin (Opth)",
+      "summary": ""
+    },
+    "table_15_row_0_col_0": {
+      "content": "mRNA SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_15_row_1_col_0": {
+      "content": "Rifampin",
+      "summary": ""
+    },
+    "table_16_row_0_col_0": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_0_col_1": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_0_col_2": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_0_col_3": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_0_col_4": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_0_col_5": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_0_col_6": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_0_col_7": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_1_col_0": {
+      "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_1_col_1": {
+      "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_1_col_2": {
+      "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_1_col_3": {
+      "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_1_col_4": {
+      "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_1_col_5": {
+      "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_1_col_6": {
+      "content": "GLYCOPEPTIDES",
+      "summary": ""
+    },
+    "table_16_row_1_col_7": {
+      "content": "GLYCOPEPTIDES",
+      "summary": ""
+    },
+    "table_16_row_2_col_0": {
+      "content": "PENICILLINS",
+      "summary": ""
+    },
+    "table_16_row_2_col_1": {
+      "content": "PENICILLINS",
+      "summary": ""
+    },
+    "table_16_row_2_col_2": {
+      "content": "PENICILLINS",
+      "summary": ""
+    },
+    "table_16_row_2_col_3": {
+      "content": "MONOBACTAMS",
+      "summary": ""
+    },
+    "table_16_row_2_col_4": {
+      "content": "CARBAPENEMS",
+      "summary": ""
+    },
+    "table_16_row_2_col_5": {
+      "content": "CEPHALOSPORINS",
+      "summary": ""
+    },
+    "table_16_row_2_col_6": {
+      "content": "D-ala-D-ala INHIB.",
+      "summary": ""
+    },
+    "table_16_row_2_col_7": {
+      "content": "PG TRANS. INHIB.",
+      "summary": ""
+    },
+    "table_16_row_3_col_0": {
+      "content": "Penicillin G (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_3_col_1": {
+      "content": "Penicillin G (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_3_col_2": {
+      "content": "Penicillin G (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_3_col_3": {
+      "content": "Aztreonam (IV)",
+      "summary": ""
+    },
+    "table_16_row_3_col_4": {
+      "content": "Doripenem (IV)",
+      "summary": ""
+    },
+    "table_16_row_3_col_5": {
+      "content": "Cephalexin (1st) (Or)",
+      "summary": ""
+    },
+    "table_16_row_3_col_6": {
+      "content": "Vancomycin (IV)",
+      "summary": ""
+    },
+    "table_16_row_3_col_7": {
+      "content": "Bacitracin (Top)",
+      "summary": ""
+    },
+    "table_16_row_4_col_0": {
+      "content": "Penicillin V (Or)",
+      "summary": ""
+    },
+    "table_16_row_4_col_1": {
+      "content": "Penicillin V (Or)",
+      "summary": ""
+    },
+    "table_16_row_4_col_2": {
+      "content": "Penicillin V (Or)",
+      "summary": ""
+    },
+    "table_16_row_4_col_4": {
+      "content": "Ertapenam (IV)",
+      "summary": ""
+    },
+    "table_16_row_4_col_5": {
+      "content": "Cefazolin (1st) (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_5_col_4": {
+      "content": "Imipenem 4 (IV)",
+      "summary": ""
+    },
+    "table_16_row_5_col_5": {
+      "content": "Cefaclor (2nd) (Or)",
+      "summary": ""
+    },
+    "table_16_row_6_col_1": {
+      "content": "LACTAMASE-RES",
+      "summary": ""
+    },
+    "table_16_row_6_col_4": {
+      "content": "Meropenem 1, 5 (IV)",
+      "summary": ""
+    },
+    "table_16_row_6_col_5": {
+      "content": "Cefotetan (2nd) (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_7_col_0": {
+      "content": "Dicloxacillin (Or)",
+      "summary": ""
+    },
+    "table_16_row_7_col_1": {
+      "content": "Dicloxacillin (Or)",
+      "summary": ""
+    },
+    "table_16_row_7_col_2": {
+      "content": "Dicloxacillin (Or)",
+      "summary": ""
+    },
+    "table_16_row_7_col_5": {
+      "content": "Cefoxitin (2nd) (IV)",
+      "summary": ""
+    },
+    "table_16_row_8_col_0": {
+      "content": "Methacillin (IV)",
+      "summary": ""
+    },
+    "table_16_row_8_col_1": {
+      "content": "Methacillin (IV)",
+      "summary": ""
+    },
+    "table_16_row_8_col_2": {
+      "content": "Methacillin (IV)",
+      "summary": ""
+    },
+    "table_16_row_8_col_5": {
+      "content": "Cefuroxime (2nd) (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_9_col_0": {
+      "content": "Nafcillin (IV)",
+      "summary": ""
+    },
+    "table_16_row_9_col_1": {
+      "content": "Nafcillin (IV)",
+      "summary": ""
+    },
+    "table_16_row_9_col_2": {
+      "content": "Nafcillin (IV)",
+      "summary": ""
+    },
+    "table_16_row_9_col_5": {
+      "content": "Cefotaxime (3rd) (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_10_col_0": {
+      "content": "Oxacillin (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_10_col_1": {
+      "content": "Oxacillin (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_10_col_2": {
+      "content": "Oxacillin (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_10_col_5": {
+      "content": "Cefixime (3rd) (Or/IV)",
+      "summary": ""
+    },
+    "table_16_row_11_col_5": {
+      "content": "Cefdinir (3rd) (Or)",
+      "summary": ""
+    },
+    "table_16_row_12_col_1": {
+      "content": "AMINOPENICILLIN",
+      "summary": ""
+    },
+    "table_16_row_12_col_3": {
+      "content": "COMBO WITH LACTAMASE INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_12_col_4": {
+      "content": "COMBO WITH LACTAMASE INHIBITORS",
+      "summary": ""
+    },
+    "table_16_row_12_col_5": {
+      "content": "Ceftriaxone (3rd) (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_13_col_0": {
+      "content": "Ampicillin1 (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_13_col_1": {
+      "content": "Ampicillin1 (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_13_col_2": {
+      "content": "Ampicillin1 (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_13_col_3": {
+      "content": "1 Sulbactam",
+      "summary": ""
+    },
+    "table_16_row_13_col_4": {
+      "content": "1 Sulbactam",
+      "summary": ""
+    },
+    "table_16_row_13_col_5": {
+      "content": "Ceftazidime (3rd) (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_14_col_0": {
+      "content": "Amoxicillin2 (Or)",
+      "summary": ""
+    },
+    "table_16_row_14_col_1": {
+      "content": "Amoxicillin2 (Or)",
+      "summary": ""
+    },
+    "table_16_row_14_col_2": {
+      "content": "Amoxicillin2 (Or)",
+      "summary": ""
+    },
+    "table_16_row_14_col_3": {
+      "content": "2 Clavulanic acid",
+      "summary": ""
+    },
+    "table_16_row_14_col_4": {
+      "content": "2 Clavulanic acid",
+      "summary": ""
+    },
+    "table_16_row_14_col_5": {
+      "content": "Cefipime (4th) (IV/IM)",
+      "summary": ""
+    },
+    "table_16_row_15_col_3": {
+      "content": "3 Tazobactam",
+      "summary": ""
+    },
+    "table_16_row_15_col_4": {
+      "content": "3 Tazobactam",
+      "summary": ""
+    },
+    "table_16_row_15_col_5": {
+      "content": "Ceftaroline (5th) (IV)",
+      "summary": ""
+    },
+    "table_16_row_16_col_1": {
+      "content": "CARBOXYPENICILLIN",
+      "summary": ""
+    },
+    "table_16_row_16_col_3": {
+      "content": "4 Cilastatin",
+      "summary": ""
+    },
+    "table_16_row_16_col_4": {
+      "content": "4 Cilastatin",
+      "summary": ""
+    },
+    "table_16_row_16_col_5": {
+      "content": "Ceftobipriole (5th) (IV)",
+      "summary": ""
+    },
+    "table_16_row_17_col_0": {
+      "content": "Ticarcillin (IV)",
+      "summary": ""
+    },
+    "table_16_row_17_col_1": {
+      "content": "Ticarcillin (IV)",
+      "summary": ""
+    },
+    "table_16_row_17_col_2": {
+      "content": "Ticarcillin (IV)",
+      "summary": ""
+    },
+    "table_16_row_17_col_3": {
+      "content": "5Vaborbactam",
+      "summary": ""
+    },
+    "table_16_row_17_col_4": {
+      "content": "5Vaborbactam",
+      "summary": ""
+    },
+    "table_16_row_17_col_5": {
+      "content": "Cefiderocol (5th) (IV)",
+      "summary": ""
+    },
+    "table_16_row_19_col_1": {
+      "content": "UREIDOPENICILLIN",
+      "summary": ""
+    },
+    "table_16_row_20_col_0": {
+      "content": "Piperacillin3 (IV)",
+      "summary": ""
+    },
+    "table_16_row_20_col_1": {
+      "content": "Piperacillin3 (IV)",
+      "summary": ""
+    },
+    "table_16_row_20_col_2": {
+      "content": "Piperacillin3 (IV)",
+      "summary": ""
+    },
+    "table_17_row_0_col_0": {
+      "content": "PROTEIN SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_17_row_0_col_1": {
+      "content": "PROTEIN SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_17_row_0_col_2": {
+      "content": "PROTEIN SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_17_row_0_col_3": {
+      "content": "PROTEIN SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_17_row_0_col_4": {
+      "content": "PROTEIN SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_17_row_0_col_5": {
+      "content": "PROTEIN SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_17_row_1_col_0": {
+      "content": "30S RIBOSOMAL SUBUNIT",
+      "summary": ""
+    },
+    "table_17_row_1_col_1": {
+      "content": "30S RIBOSOMAL SUBUNIT",
+      "summary": ""
+    },
+    "table_17_row_1_col_2": {
+      "content": "50S RIBOSOMAL SUBUNIT",
+      "summary": ""
+    },
+    "table_17_row_1_col_3": {
+      "content": "50S RIBOSOMAL SUBUNIT",
+      "summary": ""
+    },
+    "table_17_row_1_col_4": {
+      "content": "50S RIBOSOMAL SUBUNIT",
+      "summary": ""
+    },
+    "table_17_row_1_col_5": {
+      "content": "50S RIBOSOMAL SUBUNIT",
+      "summary": ""
+    },
+    "table_17_row_2_col_0": {
+      "content": "AMINOGLYCOSIDES",
+      "summary": ""
+    },
+    "table_17_row_2_col_1": {
+      "content": "TETRACYLCINES",
+      "summary": ""
+    },
+    "table_17_row_2_col_2": {
+      "content": "MACROLIDES",
+      "summary": ""
+    },
+    "table_17_row_2_col_3": {
+      "content": "OXAZOLIDENONES",
+      "summary": ""
+    },
+    "table_17_row_2_col_4": {
+      "content": "STREPTOGRAMINS",
+      "summary": ""
+    },
+    "table_17_row_2_col_5": {
+      "content": "LINCOSAMIDES",
+      "summary": ""
+    },
+    "table_17_row_3_col_0": {
+      "content": "Streptomycin (IV/Or)",
+      "summary": ""
+    },
+    "table_17_row_3_col_1": {
+      "content": "Tetracycline (Or)",
+      "summary": ""
+    },
+    "table_17_row_3_col_2": {
+      "content": "Erythromycin (IV/Or)",
+      "summary": ""
+    },
+    "table_17_row_3_col_3": {
+      "content": "Linezolid (IV/Or)",
+      "summary": ""
+    },
+    "table_17_row_3_col_4": {
+      "content": "Dalfopristin* (IV)",
+      "summary": ""
+    },
+    "table_17_row_3_col_5": {
+      "content": "Clindamycin (IM/Or)",
+      "summary": ""
+    },
+    "table_17_row_4_col_0": {
+      "content": "Neomycin (IV/Or)",
+      "summary": ""
+    },
+    "table_17_row_4_col_1": {
+      "content": "Doxycycline (IV/Or)",
+      "summary": ""
+    },
+    "table_17_row_4_col_2": {
+      "content": "Clarithromycin (IV/Or)",
+      "summary": ""
+    },
+    "table_17_row_4_col_3": {
+      "content": "Posizolid",
+      "summary": ""
+    },
+    "table_17_row_4_col_4": {
+      "content": "Quinupristin* (IV)",
+      "summary": ""
+    },
+    "table_17_row_5_col_0": {
+      "content": "Gentamicin (IV/IM)",
+      "summary": ""
+    },
+    "table_17_row_5_col_1": {
+      "content": "Minocycline (IV/Or)",
+      "summary": ""
+    },
+    "table_17_row_5_col_2": {
+      "content": "Azithromycin (Or/IV)",
+      "summary": ""
+    },
+    "table_17_row_5_col_4": {
+      "content": "*Combined",
+      "summary": ""
+    },
+    "table_17_row_6_col_0": {
+      "content": "Tobramycin (IV)",
+      "summary": ""
+    },
+    "table_17_row_6_col_1": {
+      "content": "Tigecycline (IV)",
+      "summary": ""
+    },
+    "table_17_row_6_col_5": {
+      "content": "OTHER",
+      "summary": ""
+    },
+    "table_17_row_7_col_0": {
+      "content": "Amikacin (IV/IM)",
+      "summary": ""
+    },
+    "table_17_row_7_col_5": {
+      "content": "Chloramphenicol (IV/Or)",
+      "summary": ""
+    },
+    "table_18_row_0_col_0": {
+      "content": "CELL MEMBRANE DISRUPTORS",
+      "summary": ""
+    },
+    "table_18_row_0_col_1": {
+      "content": "CELL MEMBRANE DISRUPTORS",
+      "summary": ""
+    },
+    "table_18_row_1_col_0": {
+      "content": "Polymixin B",
+      "summary": ""
+    },
+    "table_18_row_1_col_1": {
+      "content": "Daptomycin",
+      "summary": ""
+    },
+    "table_18_row_2_col_0": {
+      "content": "Polymixin E (Colistin/Colisimethate)",
+      "summary": ""
+    },
+    "table_19_row_0_col_0": {
+      "content": "ANTI-TUBERCULOSIS (Mycobacterium tuberculosis)",
+      "summary": ""
+    },
+    "table_20_row_0_col_0": {
+      "content": "1st LINE (PROPHYLAXIS or LATENT INFECTION or DRUG-SENSITIVE ACTIVE INFECTION",
+      "summary": ""
+    },
+    "table_20_row_0_col_1": {
+      "content": "1st LINE (PROPHYLAXIS or LATENT INFECTION or DRUG-SENSITIVE ACTIVE INFECTION",
+      "summary": ""
+    },
+    "table_20_row_0_col_2": {
+      "content": "1st LINE (PROPHYLAXIS or LATENT INFECTION or DRUG-SENSITIVE ACTIVE INFECTION",
+      "summary": ""
+    },
+    "table_20_row_0_col_3": {
+      "content": "1st LINE (PROPHYLAXIS or LATENT INFECTION or DRUG-SENSITIVE ACTIVE INFECTION",
+      "summary": ""
+    },
+    "table_20_row_1_col_0": {
+      "content": "MYCOLIC ACID SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_20_row_1_col_1": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_20_row_1_col_2": {
+      "content": "RNA POLYMERASE INHIBITORS",
+      "summary": ""
+    },
+    "table_20_row_1_col_3": {
+      "content": "UNCLEAR",
+      "summary": ""
+    },
+    "table_20_row_2_col_0": {
+      "content": "Isoniazid",
+      "summary": ""
+    },
+    "table_20_row_2_col_1": {
+      "content": "Ethambutol",
+      "summary": ""
+    },
+    "table_20_row_2_col_2": {
+      "content": "Rifampin (a.k.a. Rifampicin)",
+      "summary": ""
+    },
+    "table_20_row_2_col_3": {
+      "content": "Pyrazimamide",
+      "summary": ""
+    },
+    "table_20_row_3_col_2": {
+      "content": "Rifapentine",
+      "summary": ""
+    },
+    "table_21_row_0_col_0": {
+      "content": "2ND LINE (MDR-TB or XDR-TB)",
+      "summary": ""
+    },
+    "table_21_row_0_col_1": {
+      "content": "2ND LINE (MDR-TB or XDR-TB)",
+      "summary": ""
+    },
+    "table_21_row_0_col_2": {
+      "content": "2ND LINE (MDR-TB or XDR-TB)",
+      "summary": ""
+    },
+    "table_21_row_0_col_3": {
+      "content": "2ND LINE (MDR-TB or XDR-TB)",
+      "summary": ""
+    },
+    "table_21_row_0_col_4": {
+      "content": "2ND LINE (MDR-TB or XDR-TB)",
+      "summary": ""
+    },
+    "table_21_row_1_col_0": {
+      "content": "MYCOLIC ACID SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_21_row_1_col_1": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS.",
+      "summary": ""
+    },
+    "table_21_row_1_col_2": {
+      "content": "PROTEIN SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_21_row_1_col_3": {
+      "content": "DNA SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_21_row_1_col_4": {
+      "content": "ATP SYNTHASE INHIBITOR",
+      "summary": ""
+    },
+    "table_21_row_2_col_2": {
+      "content": "AMINOGLYCOSIDES",
+      "summary": ""
+    },
+    "table_21_row_2_col_3": {
+      "content": "FLUOROQUINOLONES",
+      "summary": ""
+    },
+    "table_21_row_3_col_0": {
+      "content": "Ethionamide",
+      "summary": ""
+    },
+    "table_21_row_3_col_1": {
+      "content": "Cycloserine",
+      "summary": ""
+    },
+    "table_21_row_3_col_2": {
+      "content": "Streptomycin",
+      "summary": ""
+    },
+    "table_21_row_3_col_3": {
+      "content": "Ciprofloxacin",
+      "summary": ""
+    },
+    "table_21_row_3_col_4": {
+      "content": "Bedaquiline1",
+      "summary": ""
+    },
+    "table_21_row_4_col_0": {
+      "content": "Dalamanid",
+      "summary": ""
+    },
+    "table_21_row_4_col_2": {
+      "content": "Amikacin",
+      "summary": ""
+    },
+    "table_21_row_4_col_3": {
+      "content": "Levofloxacin",
+      "summary": ""
+    },
+    "table_21_row_5_col_0": {
+      "content": "Pretomanid1",
+      "summary": ""
+    },
+    "table_21_row_5_col_2": {
+      "content": "Capreomycin",
+      "summary": ""
+    },
+    "table_21_row_5_col_3": {
+      "content": "Moxifloxacin",
+      "summary": ""
+    },
+    "table_21_row_7_col_2": {
+      "content": "OXAZOLIDENONE",
+      "summary": ""
+    },
+    "table_21_row_8_col_2": {
+      "content": "Linezolid1",
+      "summary": ""
+    },
+    "table_22_row_0_col_0": {
+      "content": "ANTI-FUNGALS",
+      "summary": ""
+    },
+    "table_23_row_0_col_0": {
+      "content": "CELL MEMBRANE",
+      "summary": ""
+    },
+    "table_23_row_0_col_1": {
+      "content": "CELL MEMBRANE",
+      "summary": ""
+    },
+    "table_23_row_0_col_2": {
+      "content": "CELL MEMBRANE",
+      "summary": ""
+    },
+    "table_23_row_0_col_3": {
+      "content": "CELL WALL",
+      "summary": ""
+    },
+    "table_23_row_0_col_4": {
+      "content": "DNA",
+      "summary": ""
+    },
+    "table_23_row_0_col_5": {
+      "content": "MICROTUBULES",
+      "summary": ""
+    },
+    "table_23_row_1_col_0": {
+      "content": "ERGOSTEROLSYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_23_row_1_col_1": {
+      "content": "ERGOSTEROLSYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_23_row_1_col_2": {
+      "content": "ERGOSTEROL BINDING AGENTS",
+      "summary": ""
+    },
+    "table_23_row_2_col_0": {
+      "content": "LANOSTEROL DEMETHYLASE INHIB.",
+      "summary": ""
+    },
+    "table_23_row_2_col_1": {
+      "content": "SQUALENE EPOXIDASE INH.",
+      "summary": ""
+    },
+    "table_23_row_2_col_3": {
+      "content": "GLUCAN SYNTHASE INHIBITORS",
+      "summary": ""
+    },
+    "table_23_row_2_col_4": {
+      "content": "THYMIDYLATE SYNTHETASE INH.",
+      "summary": ""
+    },
+    "table_23_row_3_col_0": {
+      "content": "AZOLES",
+      "summary": ""
+    },
+    "table_23_row_3_col_1": {
+      "content": "ALLYLAMINES",
+      "summary": ""
+    },
+    "table_23_row_3_col_2": {
+      "content": "POLYENES",
+      "summary": ""
+    },
+    "table_23_row_3_col_3": {
+      "content": "ECHINOCANDINS",
+      "summary": ""
+    },
+    "table_23_row_3_col_4": {
+      "content": "PYRIMIDINE ANAL.",
+      "summary": ""
+    },
+    "table_23_row_3_col_5": {
+      "content": "PENICILLIN DERIV.",
+      "summary": ""
+    },
+    "table_24_row_0_col_0": {
+      "content": "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)",
+      "summary": ""
+    },
+    "table_24_row_0_col_1": {
+      "content": "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)",
+      "summary": ""
+    },
+    "table_24_row_0_col_2": {
+      "content": "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)",
+      "summary": ""
+    },
+    "table_24_row_0_col_3": {
+      "content": "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)",
+      "summary": ""
+    },
+    "table_24_row_0_col_4": {
+      "content": "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)",
+      "summary": ""
+    },
+    "table_24_row_0_col_5": {
+      "content": "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)",
+      "summary": ""
+    },
+    "table_24_row_1_col_0": {
+      "content": "IMIDAZOLES",
+      "summary": ""
+    },
+    "table_24_row_2_col_0": {
+      "content": "Clotrimazole",
+      "summary": ""
+    },
+    "table_24_row_2_col_1": {
+      "content": "Terbinafine",
+      "summary": ""
+    },
+    "table_24_row_2_col_2": {
+      "content": "Nystatin",
+      "summary": ""
+    },
+    "table_24_row_2_col_5": {
+      "content": "Griseofulvin (o)",
+      "summary": ""
+    },
+    "table_24_row_3_col_0": {
+      "content": "Ketoconazole",
+      "summary": ""
+    },
+    "table_24_row_3_col_1": {
+      "content": "Naftifine",
+      "summary": ""
+    },
+    "table_24_row_4_col_0": {
+      "content": "Miconazole",
+      "summary": ""
+    },
+    "table_24_row_6_col_0": {
+      "content": "TRIAZOLES",
+      "summary": ""
+    },
+    "table_24_row_7_col_0": {
+      "content": "Fluconazole",
+      "summary": ""
+    },
+    "table_25_row_0_col_0": {
+      "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "summary": ""
+    },
+    "table_25_row_0_col_1": {
+      "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "summary": ""
+    },
+    "table_25_row_0_col_2": {
+      "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "summary": ""
+    },
+    "table_25_row_0_col_3": {
+      "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "summary": ""
+    },
+    "table_25_row_0_col_4": {
+      "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "summary": ""
+    },
+    "table_25_row_0_col_5": {
+      "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "summary": ""
+    },
+    "table_25_row_1_col_0": {
+      "content": "TRIAZOLES",
+      "summary": ""
+    },
+    "table_25_row_2_col_0": {
+      "content": "Fluconazole (o)",
+      "summary": ""
+    },
+    "table_25_row_2_col_2": {
+      "content": "Amphotericin B (iv)",
+      "summary": ""
+    },
+    "table_25_row_2_col_3": {
+      "content": "Anidulafungin (iv)",
+      "summary": ""
+    },
+    "table_25_row_2_col_4": {
+      "content": "Flucytosine (o)",
+      "summary": ""
+    },
+    "table_25_row_3_col_0": {
+      "content": "Isavuconazole (o/iv)",
+      "summary": ""
+    },
+    "table_25_row_3_col_3": {
+      "content": "Caspofungin (iv)",
+      "summary": ""
+    },
+    "table_25_row_4_col_0": {
+      "content": "Itraconazole (o/iv)",
+      "summary": ""
+    },
+    "table_25_row_4_col_3": {
+      "content": "Micafungin (iv)",
+      "summary": ""
+    },
+    "table_25_row_5_col_0": {
+      "content": "Posaconazole (o)",
+      "summary": ""
+    },
+    "table_25_row_6_col_0": {
+      "content": "Voriconazole (o/iv)",
+      "summary": ""
+    },
+    "table_26_row_0_col_0": {
+      "content": "Pneumocystis jirovecii (Pneumonia)",
+      "summary": ""
+    },
+    "table_26_row_1_col_0": {
+      "content": "Sulfamethoxazole/Trimethoprim (SMX/TMP)",
+      "summary": ""
+    },
+    "table_27_row_0_col_0": {
+      "content": "ANTI-VIRALS",
+      "summary": ""
+    },
+    "table_28_row_0_col_0": {
+      "content": "NUCLEOSIDE ANALOG DNA POLYMERASE INHIBITOR",
+      "summary": ""
+    },
+    "table_28_row_0_col_1": {
+      "content": "GROUP I VIRUSES",
+      "summary": ""
+    },
+    "table_28_row_0_col_2": {
+      "content": "GROUP I VIRUSES",
+      "summary": ""
+    },
+    "table_28_row_0_col_3": {
+      "content": "GROUP I VIRUSES",
+      "summary": ""
+    },
+    "table_28_row_0_col_4": {
+      "content": "GROUP I VIRUSES",
+      "summary": ""
+    },
+    "table_28_row_1_col_0": {
+      "content": "NUCLEOSIDE ANALOG DNA POLYMERASE INHIBITOR",
+      "summary": ""
+    },
+    "table_28_row_1_col_1": {
+      "content": "ORAL/GENITAL HERPES",
+      "summary": ""
+    },
+    "table_28_row_1_col_2": {
+      "content": "CHICKENPOX/SHINGLES",
+      "summary": ""
+    },
+    "table_28_row_1_col_3": {
+      "content": "MONONUCLEOSIS",
+      "summary": ""
+    },
+    "table_28_row_1_col_4": {
+      "content": "MONONUCLEOSIS",
+      "summary": ""
+    },
+    "table_28_row_2_col_0": {
+      "content": "NUCLEOSIDE ANALOG DNA POLYMERASE INHIBITOR",
+      "summary": ""
+    },
+    "table_28_row_2_col_1": {
+      "content": "Herpes simplex (HSV)",
+      "summary": ""
+    },
+    "table_28_row_2_col_2": {
+      "content": "Varicella zoster (VZV)",
+      "summary": ""
+    },
+    "table_28_row_2_col_3": {
+      "content": "Cytomegalovirus (CMV)",
+      "summary": ""
+    },
+    "table_28_row_2_col_4": {
+      "content": "Epstein-Barr virus (EBV)",
+      "summary": ""
+    },
+    "table_28_row_3_col_0": {
+      "content": "Acyclovir",
+      "summary": ""
+    },
+    "table_28_row_3_col_4": {
+      "content": "None approved",
+      "summary": ""
+    },
+    "table_28_row_4_col_0": {
+      "content": "Valacyclovir",
+      "summary": ""
+    },
+    "table_28_row_5_col_0": {
+      "content": "Peniciclovir",
+      "summary": ""
+    },
+    "table_28_row_6_col_0": {
+      "content": "Famciclovir",
+      "summary": ""
+    },
+    "table_28_row_7_col_0": {
+      "content": "Brivudine",
+      "summary": ""
+    },
+    "table_28_row_8_col_0": {
+      "content": "Cidofovir",
+      "summary": ""
+    },
+    "table_28_row_9_col_0": {
+      "content": "Ganciclovir",
+      "summary": ""
+    },
+    "table_28_row_10_col_0": {
+      "content": "Valganciclovir",
+      "summary": ""
+    },
+    "table_28_row_12_col_0": {
+      "content": "PPi ANALOG",
+      "summary": ""
+    },
+    "table_28_row_13_col_0": {
+      "content": "Foscarnet",
+      "summary": ""
+    },
+    "table_29_row_0_col_0": {
+      "content": "GROUP IV VIRUSES",
+      "summary": ""
+    },
+    "table_29_row_0_col_1": {
+      "content": "GROUP IV VIRUSES",
+      "summary": ""
+    },
+    "table_29_row_0_col_2": {
+      "content": "GROUP IV VIRUSES",
+      "summary": ""
+    },
+    "table_29_row_0_col_3": {
+      "content": "GROUP IV VIRUSES",
+      "summary": ""
+    },
+    "table_29_row_0_col_4": {
+      "content": "GROUP IV VIRUSES",
+      "summary": ""
+    },
+    "table_29_row_1_col_0": {
+      "content": "SARS-CoV-2 (Covid-19)",
+      "summary": ""
+    },
+    "table_29_row_1_col_1": {
+      "content": "HEPATITIS C",
+      "summary": ""
+    },
+    "table_29_row_1_col_2": {
+      "content": "HEPATITIS C",
+      "summary": ""
+    },
+    "table_29_row_1_col_3": {
+      "content": "HEPATITIS C",
+      "summary": ""
+    },
+    "table_29_row_1_col_4": {
+      "content": "HEPATITIS C",
+      "summary": ""
+    },
+    "table_29_row_2_col_0": {
+      "content": "RNA POLYMERASE INHIBITORS",
+      "summary": ""
+    },
+    "table_29_row_2_col_1": {
+      "content": "RNA POLY. INHIBITOR",
+      "summary": ""
+    },
+    "table_29_row_2_col_2": {
+      "content": "PROTEASE INHIBITOR",
+      "summary": ""
+    },
+    "table_29_row_2_col_3": {
+      "content": "ASSEMBLY INHIBITOR",
+      "summary": ""
+    },
+    "table_29_row_2_col_4": {
+      "content": "MULTIPLE",
+      "summary": ""
+    },
+    "table_29_row_3_col_0": {
+      "content": "Remdesivir (Veklury™) - IV",
+      "summary": ""
+    },
+    "table_29_row_3_col_1": {
+      "content": "Dasabuvir",
+      "summary": ""
+    },
+    "table_29_row_3_col_2": {
+      "content": "Boceprevir",
+      "summary": ""
+    },
+    "table_29_row_3_col_3": {
+      "content": "Daclatasvir",
+      "summary": ""
+    },
+    "table_29_row_3_col_4": {
+      "content": "Ribavirin",
+      "summary": ""
+    },
+    "table_29_row_4_col_0": {
+      "content": "Molnupiravir (Lagevrio™) - Oral",
+      "summary": ""
+    },
+    "table_29_row_4_col_1": {
+      "content": "Sofosbuvir3, 4, 5",
+      "summary": ""
+    },
+    "table_29_row_4_col_2": {
+      "content": "Glecaprevir2",
+      "summary": ""
+    },
+    "table_29_row_4_col_3": {
+      "content": "Elbasvir1",
+      "summary": ""
+    },
+    "table_29_row_5_col_2": {
+      "content": "Grazoprevir1",
+      "summary": ""
+    },
+    "table_29_row_5_col_3": {
+      "content": "Ledipasvir3",
+      "summary": ""
+    },
+    "table_29_row_6_col_0": {
+      "content": "PROTEASE INHIBITOR",
+      "summary": ""
+    },
+    "table_29_row_6_col_2": {
+      "content": "Paritaprevir",
+      "summary": ""
+    },
+    "table_29_row_6_col_3": {
+      "content": "Ombitasvir",
+      "summary": ""
+    },
+    "table_29_row_7_col_0": {
+      "content": "Nirmatrelvir + Ritonavir (Paxlovid™) - Oral",
+      "summary": ""
+    },
+    "table_29_row_7_col_2": {
+      "content": "Simeprevir",
+      "summary": ""
+    },
+    "table_29_row_7_col_3": {
+      "content": "Pibrentasvir2",
+      "summary": ""
+    },
+    "table_29_row_8_col_2": {
+      "content": "Teleprevir",
+      "summary": ""
+    },
+    "table_29_row_8_col_3": {
+      "content": "Velpatasvir4. 5",
+      "summary": ""
+    },
+    "table_29_row_9_col_0": {
+      "content": "Monoclonal Abs - IV",
+      "summary": ""
+    },
+    "table_29_row_9_col_2": {
+      "content": "Voxilaprevir5",
+      "summary": ""
+    },
+    "table_29_row_10_col_0": {
+      "content": "Casirivimab + Imdevimab (REGN-COV2™)",
+      "summary": ""
+    },
+    "table_29_row_11_col_0": {
+      "content": "Bamlanivimab + Etesevimab",
+      "summary": ""
+    },
+    "table_29_row_12_col_0": {
+      "content": "Tixagevimab + Cilgavimab (Evusheld™)",
+      "summary": ""
+    },
+    "table_29_row_13_col_0": {
+      "content": "Sotrovimab (Xevudy™)",
+      "summary": ""
+    },
+    "table_30_row_0_col_0": {
+      "content": "GROUP V VIRUSES",
+      "summary": ""
+    },
+    "table_30_row_0_col_1": {
+      "content": "GROUP V VIRUSES",
+      "summary": ""
+    },
+    "table_30_row_0_col_2": {
+      "content": "GROUP V VIRUSES",
+      "summary": ""
+    },
+    "table_30_row_0_col_3": {
+      "content": "GROUP V VIRUSES",
+      "summary": ""
+    },
+    "table_30_row_0_col_4": {
+      "content": "GROUP V VIRUSES",
+      "summary": ""
+    },
+    "table_30_row_1_col_0": {
+      "content": "INFLUENZA",
+      "summary": ""
+    },
+    "table_30_row_1_col_1": {
+      "content": "INFLUENZA",
+      "summary": ""
+    },
+    "table_30_row_1_col_2": {
+      "content": "INFLUENZA",
+      "summary": ""
+    },
+    "table_30_row_1_col_3": {
+      "content": "RESPIRATORY SYNCYTIAL VIRUS (RSV)",
+      "summary": ""
+    },
+    "table_30_row_1_col_4": {
+      "content": "RESPIRATORY SYNCYTIAL VIRUS (RSV)",
+      "summary": ""
+    },
+    "table_30_row_2_col_0": {
+      "content": "M2 INHIBITORS",
+      "summary": ""
+    },
+    "table_30_row_2_col_1": {
+      "content": "RELEASE INHIBITORS",
+      "summary": ""
+    },
+    "table_30_row_2_col_2": {
+      "content": "ENDONUCLEASE INHIB.",
+      "summary": ""
+    },
+    "table_30_row_2_col_3": {
+      "content": "MULTIPLE",
+      "summary": ""
+    },
+    "table_30_row_2_col_4": {
+      "content": "FUSION INHIBITOR",
+      "summary": ""
+    },
+    "table_30_row_3_col_0": {
+      "content": "Amantadine",
+      "summary": ""
+    },
+    "table_30_row_3_col_1": {
+      "content": "Oseltamivir",
+      "summary": ""
+    },
+    "table_30_row_3_col_2": {
+      "content": "Baloxavir",
+      "summary": ""
+    },
+    "table_30_row_3_col_3": {
+      "content": "Ribavirin",
+      "summary": ""
+    },
+    "table_30_row_3_col_4": {
+      "content": "Palivizumab",
+      "summary": ""
+    },
+    "table_30_row_4_col_0": {
+      "content": "Rimantadine",
+      "summary": ""
+    },
+    "table_30_row_4_col_1": {
+      "content": "Zanamivir",
+      "summary": ""
+    },
+    "table_30_row_5_col_1": {
+      "content": "Peramivir",
+      "summary": ""
+    },
+    "table_31_row_0_col_0": {
+      "content": "GROUP VI VIRUESES (HIV)",
+      "summary": ""
+    },
+    "table_31_row_0_col_1": {
+      "content": "GROUP VI VIRUESES (HIV)",
+      "summary": ""
+    },
+    "table_31_row_0_col_2": {
+      "content": "GROUP VI VIRUESES (HIV)",
+      "summary": ""
+    },
+    "table_31_row_0_col_3": {
+      "content": "GROUP VI VIRUESES (HIV)",
+      "summary": ""
+    },
+    "table_31_row_0_col_4": {
+      "content": "GROUP VI VIRUESES (HIV)",
+      "summary": ""
+    },
+    "table_31_row_1_col_0": {
+      "content": "ENTRY/FUSION INHIBS.",
+      "summary": ""
+    },
+    "table_31_row_1_col_1": {
+      "content": "REVERSE TRANSCRIPTASE INHIBITORS",
+      "summary": ""
+    },
+    "table_31_row_1_col_2": {
+      "content": "REVERSE TRANSCRIPTASE INHIBITORS",
+      "summary": ""
+    },
+    "table_31_row_1_col_3": {
+      "content": "INTEGRASE INHIBS",
+      "summary": ""
+    },
+    "table_31_row_1_col_4": {
+      "content": "PROTEASE INHIBS",
+      "summary": ""
+    },
+    "table_31_row_2_col_1": {
+      "content": "NUCLEOSIDE (NRTI)",
+      "summary": ""
+    },
+    "table_31_row_2_col_2": {
+      "content": "NON-NUCLEOSIDE (NNRTI)",
+      "summary": ""
+    },
+    "table_31_row_3_col_0": {
+      "content": "Enfuvirtide",
+      "summary": ""
+    },
+    "table_31_row_3_col_1": {
+      "content": "Abacavir",
+      "summary": ""
+    },
+    "table_31_row_3_col_2": {
+      "content": "Doravirine",
+      "summary": ""
+    },
+    "table_31_row_3_col_3": {
+      "content": "Bictegravir",
+      "summary": ""
+    },
+    "table_31_row_3_col_4": {
+      "content": "Atazanavir",
+      "summary": ""
+    },
+    "table_31_row_4_col_0": {
+      "content": "Fostemsavir",
+      "summary": ""
+    },
+    "table_31_row_4_col_1": {
+      "content": "Didanosine",
+      "summary": ""
+    },
+    "table_31_row_4_col_2": {
+      "content": "Efavirenz",
+      "summary": ""
+    },
+    "table_31_row_4_col_3": {
+      "content": "Cabotegravir",
+      "summary": ""
+    },
+    "table_31_row_4_col_4": {
+      "content": "Darunavir",
+      "summary": ""
+    },
+    "table_31_row_5_col_0": {
+      "content": "Maraviroc",
+      "summary": ""
+    },
+    "table_31_row_5_col_1": {
+      "content": "Emtricitabine",
+      "summary": ""
+    },
+    "table_31_row_5_col_2": {
+      "content": "Etravirine",
+      "summary": ""
+    },
+    "table_31_row_5_col_3": {
+      "content": "Elvitegravir",
+      "summary": ""
+    },
+    "table_31_row_5_col_4": {
+      "content": "Fosamprenavir",
+      "summary": ""
+    },
+    "table_31_row_6_col_0": {
+      "content": "Ibalizumab",
+      "summary": ""
+    },
+    "table_31_row_6_col_1": {
+      "content": "Lamivudine",
+      "summary": ""
+    },
+    "table_31_row_6_col_2": {
+      "content": "Nevirapine",
+      "summary": ""
+    },
+    "table_31_row_6_col_3": {
+      "content": "Dolutegravir",
+      "summary": ""
+    },
+    "table_31_row_6_col_4": {
+      "content": "Indinavir",
+      "summary": ""
+    },
+    "table_31_row_7_col_1": {
+      "content": "Stavudine",
+      "summary": ""
+    },
+    "table_31_row_7_col_2": {
+      "content": "Rilpivirine",
+      "summary": ""
+    },
+    "table_31_row_7_col_3": {
+      "content": "Raltegravir",
+      "summary": ""
+    },
+    "table_31_row_7_col_4": {
+      "content": "Lopinavir",
+      "summary": ""
+    },
+    "table_31_row_8_col_1": {
+      "content": "Tenofovir",
+      "summary": ""
+    },
+    "table_31_row_8_col_4": {
+      "content": "Ritonavir",
+      "summary": ""
+    },
+    "table_31_row_9_col_1": {
+      "content": "Zidovudine",
+      "summary": ""
+    },
+    "table_31_row_9_col_4": {
+      "content": "Saquinavir",
+      "summary": ""
+    },
+    "table_32_row_0_col_0": {
+      "content": "GROUP VII VIRUSES (HEPATITIS B)",
+      "summary": ""
+    },
+    "table_32_row_0_col_1": {
+      "content": "GROUP VII VIRUSES (HEPATITIS B)",
+      "summary": ""
+    },
+    "table_32_row_1_col_0": {
+      "content": "REVERSE TRASCRIPTASE INHIBITORS",
+      "summary": ""
+    },
+    "table_32_row_1_col_1": {
+      "content": "DNA POLYMERASE INHIBITORS",
+      "summary": ""
+    },
+    "table_32_row_2_col_0": {
+      "content": "Adefovir",
+      "summary": ""
+    },
+    "table_32_row_2_col_1": {
+      "content": "Entecavir",
+      "summary": ""
+    },
+    "table_32_row_3_col_0": {
+      "content": "Entecavir",
+      "summary": ""
+    },
+    "table_32_row_3_col_1": {
+      "content": "Telbivudine",
+      "summary": ""
+    },
+    "table_32_row_4_col_0": {
+      "content": "Lamivudine",
+      "summary": ""
+    },
+    "table_32_row_5_col_0": {
+      "content": "Tenofovir",
+      "summary": ""
+    }
+  }
+}

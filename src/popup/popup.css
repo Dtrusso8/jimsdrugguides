@@ -1,0 +1,230 @@
+/* Cell Popup Styles */
+
+.cell-popup {
+    position: fixed;
+    inset: 0;
+    background: rgba(15, 28, 44, 0.65);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    z-index: 2000;
+    backdrop-filter: blur(4px);
+}
+
+.cell-popup.hidden {
+    display: none;
+}
+
+.cell-popup-content {
+    background: var(--surface-card);
+    color: var(--text-primary);
+    border-radius: 18px;
+    padding: clamp(1.5rem, 3vw, 2rem);
+    max-width: 700px;
+    width: min(95vw, 700px);
+    max-height: 85vh;
+    position: relative;
+    box-shadow: 0 20px 50px rgba(19, 41, 75, 0.35);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.cell-popup-close {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    background: transparent;
+    border: none;
+    font-size: 1.75rem;
+    cursor: pointer;
+    color: var(--unc-navy);
+    line-height: 1;
+    padding: 0.25rem 0.5rem;
+    border-radius: 6px;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+    z-index: 1;
+}
+
+.cell-popup-close:hover {
+    background-color: rgba(19, 41, 75, 0.1);
+    transform: scale(1.1);
+}
+
+.cell-popup-close:active {
+    transform: scale(0.95);
+}
+
+.cell-popup-header {
+    margin-bottom: 1.25rem;
+    padding-right: 2.5rem;
+}
+
+.cell-popup-title {
+    margin: 0;
+    color: var(--unc-navy);
+    font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+    font-weight: 700;
+    line-height: 1.3;
+    word-wrap: break-word;
+}
+
+.cell-popup-body {
+    flex: 1;
+    overflow-y: auto;
+    min-height: 0;
+}
+
+.cell-popup-view {
+    padding: 0.5rem 0;
+}
+
+.cell-popup-summary {
+    margin: 0;
+    color: var(--text-secondary);
+    font-size: 1rem;
+    line-height: 1.6;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.cell-popup-edit {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.cell-popup-edit.hidden {
+    display: none;
+}
+
+.cell-popup-textarea {
+    width: 100%;
+    padding: 0.85rem;
+    border: 2px solid var(--border-subtle);
+    border-radius: 10px;
+    font-family: inherit;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--text-primary);
+    background: var(--surface-card);
+    resize: vertical;
+    min-height: 120px;
+    box-sizing: border-box;
+    transition: border-color 0.2s ease;
+}
+
+.cell-popup-textarea:focus {
+    outline: none;
+    border-color: var(--unc-navy);
+    box-shadow: 0 0 0 3px rgba(19, 41, 75, 0.1);
+}
+
+.cell-popup-actions {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.cell-popup-actions button {
+    padding: 0.65rem 1.25rem;
+    border-radius: 10px;
+    border: 1px solid transparent;
+    font-weight: 600;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    flex: 1;
+    min-width: 100px;
+}
+
+.cell-popup-save {
+    background: var(--unc-navy);
+    color: #fff;
+    border-color: var(--unc-navy);
+}
+
+.cell-popup-save:hover {
+    background: var(--unc-tar-heel);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(19, 41, 75, 0.25);
+}
+
+.cell-popup-cancel {
+    background: rgba(75, 156, 211, 0.12);
+    color: var(--unc-navy);
+    border-color: rgba(19, 41, 75, 0.2);
+}
+
+.cell-popup-cancel:hover {
+    background: rgba(75, 156, 211, 0.25);
+    transform: translateY(-1px);
+}
+
+.cell-popup-delete {
+    background: rgba(192, 57, 43, 0.1);
+    color: #c0392b;
+    border-color: rgba(192, 57, 43, 0.25);
+}
+
+.cell-popup-delete:hover {
+    background: rgba(192, 57, 43, 0.2);
+    transform: translateY(-1px);
+}
+
+/* Interactive cell styles */
+.interactive-cell {
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+    position: relative;
+}
+
+.interactive-cell:hover {
+    background-color: rgba(75, 156, 211, 0.2) !important;
+    transform: scale(1.02);
+}
+
+.interactive-cell:active {
+    transform: scale(0.98);
+}
+
+/* Scrollbar styling for popup body */
+.cell-popup-body {
+    scrollbar-width: thin;
+    scrollbar-color: var(--unc-mid-gray) transparent;
+}
+
+.cell-popup-body::-webkit-scrollbar {
+    width: 8px;
+}
+
+.cell-popup-body::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.cell-popup-body::-webkit-scrollbar-thumb {
+    background: var(--unc-mid-gray);
+    border-radius: 4px;
+}
+
+.cell-popup-body::-webkit-scrollbar-thumb:hover {
+    background: var(--unc-navy);
+}
+
+@media (max-width: 768px) {
+    .cell-popup-content {
+        padding: 1.25rem;
+        max-height: 90vh;
+    }
+    
+    .cell-popup-actions {
+        flex-direction: column;
+    }
+    
+    .cell-popup-actions button {
+        width: 100%;
+        min-width: unset;
+    }
+}
+

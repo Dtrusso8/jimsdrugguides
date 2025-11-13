@@ -6,6 +6,8 @@ import {
     registerGuideContext,
     createTeacherToolbar,
 } from "./teacher/index.js";
+import { initializeCellData } from "./popup/cellManager.js";
+import { initializePopup, openPopup } from "./popup/popup.js";
 
 const dataBaseUrl = new URL("../data/", import.meta.url);
 const guideIndexUrl = new URL("guides.index.json", dataBaseUrl);
@@ -308,7 +310,7 @@ async function loadGuideContent(guide) {
     }
 }
 
-function renderGuideFragment(guide, markup) {
+async function renderGuideFragment(guide, markup) {
     tableContainerEl.innerHTML = "";
     const docTitle = guide.title || "Untitled Guide";
     guideHeaderEl.innerHTML = `<h2>${docTitle}</h2>`;
@@ -331,12 +333,30 @@ function renderGuideFragment(guide, markup) {
     tableContainerEl.appendChild(metadata);
     tableContainerEl.appendChild(toolbar);
 
+    // Load guide data to get cellData
+    let guideData = null;
+    if (guide.dataFile) {
+        try {
+            const dataUrl = new URL(guide.dataFile, dataBaseUrl);
+            const response = await fetch(dataUrl, { cache: "no-store" });
+            if (response.ok) {
+                guideData = await response.json();
+                initializeCellData(guideData);
+            }
+        } catch (error) {
+            console.warn("Could not load guide data for cellData:", error);
+        }
+    }
+
+    // Initialize popup if not already done
+    initializePopup();
+
     const fragmentWrapper = document.createElement("div");
     fragmentWrapper.className = "guide-fragment-wrapper";
     fragmentWrapper.innerHTML = markup;
     tableContainerEl.appendChild(fragmentWrapper);
 
-    enhanceFragment(fragmentWrapper);
+    enhanceFragment(fragmentWrapper, guideData);
     registerGuideContext({
         slug: guide.slug ?? null,
         title: docTitle,
@@ -346,12 +366,64 @@ function renderGuideFragment(guide, markup) {
     });
 }
 
-function enhanceFragment(container) {
+function enhanceFragment(container, guideData = null) {
+    let tableIndex = 1; // Start at 1 to match cellData generation
     container.querySelectorAll("table").forEach((table) => {
         table.classList.add("guide-table");
-        table.querySelectorAll("th, td").forEach((cell) => {
-            cell.innerHTML = transformDrugNames(cell.innerHTML);
+        // Use data-table-index from HTML (1-based) or fallback to our counter (also 1-based)
+        const tableDataIndex = table.dataset.tableIndex ? parseInt(table.dataset.tableIndex) : tableIndex;
+        
+        // HTML doesn't have thead/tbody - just tr elements
+        // First tr with th elements is header (row 0), rest with td are data rows
+        const allRows = table.querySelectorAll("tr");
+        
+        // Track which rows are headers vs data rows
+        let headerRowCount = 0;
+        allRows.forEach((row) => {
+            if (row.querySelector("th") !== null) {
+                headerRowCount++;
+            }
         });
+        
+        allRows.forEach((row, rowIndex) => {
+            // Check if this is a header row (has th elements)
+            const hasTh = row.querySelector("th") !== null;
+            
+            if (hasTh) {
+                // Header row (row 0)
+                row.querySelectorAll("th").forEach((cell, colIndex) => {
+                    const cellText = cell.textContent.trim();
+                    if (cellText && cellText !== "&nbsp;") {
+                        const cellId = `table_${tableDataIndex}_row_0_col_${colIndex}`;
+                        makeCellInteractive(cell, cellId, guideData);
+                    }
+                });
+            } else {
+                // Data row
+                // In generate_cell_data: 
+                //   - Headers are row 0 (from table["headers"])
+                //   - Data rows: enumerate(table["rows"], start=1) means first row in array gets index 1
+                // In HTML:
+                //   - rowIndex 0 = header (row 0)
+                //   - rowIndex 1 = first data row → should be row 1 in cellData
+                //   - rowIndex 2 = second data row → should be row 2 in cellData
+                // So rowIndex should match directly!
+                const actualRowIndex = rowIndex;
+                row.querySelectorAll("td").forEach((cell, colIndex) => {
+                    const cellText = cell.textContent.trim();
+                    if (cellText && cellText !== "&nbsp;") {
+                        const cellId = `table_${tableDataIndex}_row_${actualRowIndex}_col_${colIndex}`;
+                        // Debug: log first few cells to verify mapping
+                        if (tableDataIndex === 3 && actualRowIndex <= 8 && colIndex === 0) {
+                            console.log(`Cell ID: ${cellId}, Content: "${cellText.substring(0, 30)}"`);
+                        }
+                        makeCellInteractive(cell, cellId, guideData);
+                    }
+                });
+            }
+        });
+        
+        tableIndex++;
     });
 
     container.querySelectorAll(".drug-tag").forEach((tag) => {
@@ -395,6 +467,10 @@ function renderLegacyGuide(guide, data) {
     tableContainerEl.appendChild(metadata);
     tableContainerEl.appendChild(toolbar);
 
+    // Initialize cell data and popup
+    initializeCellData(data);
+    initializePopup();
+
     const tables = Array.isArray(data.tables) && data.tables.length > 0
         ? data.tables
         : [
@@ -420,7 +496,9 @@ function renderLegacyGuide(guide, data) {
         tableTitle.textContent = displayTitle;
         tableBlock.appendChild(tableTitle);
 
-        const tableElement = buildTableElement(tableData);
+        // Use 1-based table index to match cellData generation
+        const tableIndex = index + 1;
+        const tableElement = buildTableElement(tableData, tableIndex, data);
         tableBlock.appendChild(tableElement);
         tableContainerEl.appendChild(tableBlock);
     });
@@ -434,7 +512,7 @@ function renderLegacyGuide(guide, data) {
     });
 }
 
-function buildTableElement(tableData) {
+function buildTableElement(tableData, tableIndex = 0, guideData = null) {
     const template = document.getElementById("guide-table-template");
     const table = template.content.firstElementChild.cloneNode(true);
     const thead = table.querySelector("thead");
@@ -442,20 +520,31 @@ function buildTableElement(tableData) {
 
     if (tableData.headers && tableData.headers.length > 0) {
         const headerRow = document.createElement("tr");
-        tableData.headers.forEach((header) => {
+        tableData.headers.forEach((header, colIndex) => {
             const th = document.createElement("th");
             th.innerHTML = transformDrugNames(header);
+            const cellText = th.textContent.trim();
+            if (cellText && cellText !== "&nbsp;") {
+                const cellId = `table_${tableIndex}_row_0_col_${colIndex}`;
+                makeCellInteractive(th, cellId, guideData);
+            }
             headerRow.appendChild(th);
         });
         thead.appendChild(headerRow);
     }
 
     if (tableData.rows && tableData.rows.length > 0) {
-        tableData.rows.forEach((row) => {
+        tableData.rows.forEach((row, rowIndex) => {
             const tr = document.createElement("tr");
-            row.forEach((cell) => {
+            const actualRowIndex = rowIndex + 1; // Rows start at 1 (0 is header)
+            row.forEach((cell, colIndex) => {
                 const td = document.createElement("td");
                 td.innerHTML = transformDrugNames(typeof cell === "string" ? cell : "");
+                const cellText = td.textContent.trim();
+                if (cellText && cellText !== "&nbsp;") {
+                    const cellId = `table_${tableIndex}_row_${actualRowIndex}_col_${colIndex}`;
+                    makeCellInteractive(td, cellId, guideData);
+                }
                 tr.appendChild(td);
             });
             tbody.appendChild(tr);
@@ -470,6 +559,19 @@ function buildTableElement(tableData) {
     }
 
     return table;
+}
+
+function makeCellInteractive(cellElement, cellId, guideData = null) {
+    // Make all non-empty cells interactive
+    const cellText = cellElement.textContent.trim();
+    if (cellText && cellText !== "&nbsp;") {
+        cellElement.classList.add("interactive-cell");
+        cellElement.setAttribute("data-cell-id", cellId);
+        cellElement.addEventListener("click", (e) => {
+            e.stopPropagation();
+            openPopup(cellId, cellElement);
+        });
+    }
 }
 
 function openDrugModal({ name, description }) {

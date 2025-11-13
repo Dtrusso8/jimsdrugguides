@@ -1094,5 +1094,2050 @@
         ]
       ]
     }
-  ]
+  ],
+  "cellData": {
+    "table_1_row_0_col_0": {
+      "content": "ANTI-CLOTTING DRUGS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:21:09-0500"
+    },
+    "table_2_row_0_col_0": {
+      "content": "“CLOT PREVENTERS”",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:21:17-0500"
+    },
+    "table_3_row_0_col_0": {
+      "content": "1° HEMOSTASIS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:23:38-0500"
+    },
+    "table_3_row_0_col_1": {
+      "content": "1° HEMOSTASIS",
+      "summary": ""
+    },
+    "table_3_row_0_col_2": {
+      "content": "1° HEMOSTASIS",
+      "summary": ""
+    },
+    "table_3_row_0_col_3": {
+      "content": "1° HEMOSTASIS",
+      "summary": ""
+    },
+    "table_3_row_0_col_4": {
+      "content": "1° HEMOSTASIS",
+      "summary": ""
+    },
+    "table_3_row_1_col_0": {
+      "content": "COX1/2 INHIBITORS",
+      "summary": "In pharmacology and toxicology, a route of administration is the way by which a drug, fluid, poison, or other substance is taken into the body.",
+      "lastUpdated": "2025-11-13T11:23:40-0500"
+    },
+    "table_3_row_1_col_1": {
+      "content": "P2Y12 INHIBITORS(ADP receptor inhibitors)",
+      "summary": "In pharmacology and toxicology, a route of administration is the way by which a drug, fluid, poison, or other substance is taken into the body.",
+      "lastUpdated": "2025-11-13T11:23:40-0500"
+    },
+    "table_3_row_1_col_2": {
+      "content": "GPIIb/IIIa INHIBS",
+      "summary": "In pharmacology and toxicology, a route of administration is the way by which a drug, fluid, poison, or other substance is taken into the body.",
+      "lastUpdated": "2025-11-13T11:23:40-0500"
+    },
+    "table_3_row_1_col_3": {
+      "content": "PDE3 INHIBITORS",
+      "summary": "In pharmacology and toxicology, a route of administration is the way by which a drug, fluid, poison, or other substance is taken into the body.",
+      "lastUpdated": "2025-11-13T11:23:40-0500"
+    },
+    "table_3_row_1_col_4": {
+      "content": "PAR-1 INHIBITORS",
+      "summary": ""
+    },
+    "table_3_row_2_col_1": {
+      "content": "IRREVERSIBLE",
+      "summary": ""
+    },
+    "table_3_row_3_col_0": {
+      "content": "Aspirin",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:23:57-0500"
+    },
+    "table_3_row_3_col_1": {
+      "content": "Clopidogrel",
+      "summary": "Coagulation factor X, or Stuart factor, is an enzyme of the coagulation cascade, encoded in humans by F10 gene. It is a serine endopeptidase. Factor X is synthesized in the liver and requires vitamin K for its synthesis.",
+      "lastUpdated": "2025-11-13T11:23:58-0500"
+    },
+    "table_3_row_3_col_2": {
+      "content": "Abciximab",
+      "summary": ""
+    },
+    "table_3_row_3_col_3": {
+      "content": "Dipyridamole",
+      "summary": "Coagulation factor X, or Stuart factor, is an enzyme of the coagulation cascade, encoded in humans by F10 gene. It is a serine endopeptidase. Factor X is synthesized in the liver and requires vitamin K for its synthesis.",
+      "lastUpdated": "2025-11-13T11:23:58-0500"
+    },
+    "table_3_row_3_col_4": {
+      "content": "Vorapaxar",
+      "summary": "Vorapaxar is a thrombin receptor antagonist based on the natural product himbacine, discovered by Schering-Plough and developed by Merck & Co.",
+      "lastUpdated": "2025-11-13T11:21:56-0500"
+    },
+    "table_3_row_4_col_1": {
+      "content": "Prasugrel",
+      "summary": "Prasugrel, sold under the brand names Effient and Efient, is a medication used to prevent formation of blood clots. It is a platelet inhibitor and an irreversible antagonist of P2Y12 ADP receptors and is of the thienopyridine drug class. It was developed by Daiichi Sankyo Co. and produced by Ube and marketed in the United States in cooperation with Eli Lilly and Company.",
+      "lastUpdated": "2025-11-13T11:21:57-0500"
+    },
+    "table_3_row_4_col_2": {
+      "content": "Eptifibatide",
+      "summary": "Eptifibatide, is an antiplatelet drug of the glycoprotein IIb/IIIa inhibitor class. Eptifibatide is a cyclic heptapeptide derived from a disintegrin protein found in the venom of the southeastern pygmy rattlesnake. It belongs to the class of the arginine-glycine-aspartate-mimetics and reversibly binds to platelets. Eptifibatide has a short half-life. The drug is the third inhibitor of GPIIb/IIIa that has found broad acceptance after the specific antibody abciximab and the non-peptide tirofiban e...",
+      "lastUpdated": "2025-11-13T11:21:58-0500"
+    },
+    "table_3_row_4_col_3": {
+      "content": "Cilostazol",
+      "summary": ""
+    },
+    "table_3_row_5_col_2": {
+      "content": "Tirofiban",
+      "summary": "Tirofiban, sold under the brand name Aggrastat, is an antiplatelet medication. It belongs to a class of antiplatelets named glycoprotein IIb/IIIa inhibitors. Tirofiban is a small molecule inhibitor of the protein-protein interaction between fibrinogen and the platelet integrin receptor GP IIb/IIIa and is the first drug candidate whose origins can be traced to a pharmacophore-based virtual screening lead.",
+      "lastUpdated": "2025-11-13T11:22:02-0500"
+    },
+    "table_3_row_6_col_1": {
+      "content": "REVERSIBLE",
+      "summary": "Reversibility can refer to:Time reversibility, a property of some mathematical or physical processes and systems for which time-reversed dynamics are well definedReversible diffusion, an example of a reversible stochastic processReversible process (thermodynamics), a process or cycle such that the net change at each stage in the combined entropy of the system and its surroundings is zero\nReversible reaction, a chemical reaction for which the position of the chemical equilibrium is very sensitive...",
+      "lastUpdated": "2025-11-13T11:22:04-0500"
+    },
+    "table_3_row_7_col_1": {
+      "content": "Ticagrelor",
+      "summary": ""
+    },
+    "table_3_row_8_col_1": {
+      "content": "Cangrelor",
+      "summary": "Cangrelor, sold under the brand name Kengreal among others, is a P2Y12 inhibitor FDA approved as of June 2015 as an antiplatelet drug for intravenous application. Some P2Y12 inhibitors are used clinically as effective inhibitors of adenosine diphosphate-mediated platelet activation and aggregation.",
+      "lastUpdated": "2025-11-13T11:23:27-0500"
+    },
+    "table_4_row_0_col_0": {
+      "content": "2° HEMOSTASIS",
+      "summary": ""
+    },
+    "table_4_row_0_col_1": {
+      "content": "2° HEMOSTASIS",
+      "summary": ""
+    },
+    "table_4_row_0_col_2": {
+      "content": "2° HEMOSTASIS",
+      "summary": ""
+    },
+    "table_4_row_0_col_3": {
+      "content": "2° HEMOSTASIS",
+      "summary": ""
+    },
+    "table_4_row_1_col_0": {
+      "content": "PARENTERAL",
+      "summary": ""
+    },
+    "table_4_row_1_col_1": {
+      "content": "PARENTERAL",
+      "summary": ""
+    },
+    "table_4_row_1_col_2": {
+      "content": "PARENTERAL",
+      "summary": ""
+    },
+    "table_4_row_1_col_3": {
+      "content": "PARENTERAL",
+      "summary": "In pharmacology and toxicology, a route of administration is the way by which a drug, fluid, poison, or other substance is taken into the body.",
+      "lastUpdated": "2025-11-13T11:23:40-0500"
+    },
+    "table_4_row_2_col_0": {
+      "content": "DIRECT-ACTING",
+      "summary": ""
+    },
+    "table_4_row_2_col_1": {
+      "content": "DIRECT-ACTING",
+      "summary": ""
+    },
+    "table_4_row_2_col_2": {
+      "content": "INDIRECT-ACTING (Heparins)",
+      "summary": ""
+    },
+    "table_4_row_2_col_3": {
+      "content": "INDIRECT-ACTING (Heparins)",
+      "summary": ""
+    },
+    "table_4_row_3_col_0": {
+      "content": "FACTOR II (THROMBIN)",
+      "summary": ""
+    },
+    "table_4_row_3_col_1": {
+      "content": "FACTOR Xa",
+      "summary": ""
+    },
+    "table_4_row_3_col_2": {
+      "content": "FACTOR II (THROMBIN)",
+      "summary": ""
+    },
+    "table_4_row_3_col_3": {
+      "content": "FACTOR Xa",
+      "summary": "Coagulation factor X, or Stuart factor, is an enzyme of the coagulation cascade, encoded in humans by F10 gene. It is a serine endopeptidase. Factor X is synthesized in the liver and requires vitamin K for its synthesis.",
+      "lastUpdated": "2025-11-13T11:23:58-0500"
+    },
+    "table_4_row_4_col_0": {
+      "content": "Argatroban (IV)",
+      "summary": ""
+    },
+    "table_4_row_4_col_3": {
+      "content": "Dalteparin (SubQ)",
+      "summary": ""
+    },
+    "table_4_row_5_col_0": {
+      "content": "Bivalirudin (IV)",
+      "summary": ""
+    },
+    "table_4_row_5_col_3": {
+      "content": "Enoxaparin (SubQ)",
+      "summary": ""
+    },
+    "table_4_row_6_col_0": {
+      "content": "Desirudin (SubQ)",
+      "summary": ""
+    },
+    "table_4_row_6_col_3": {
+      "content": "Fondaparinux (SubQ)",
+      "summary": ""
+    },
+    "table_4_row_7_col_0": {
+      "content": "Hirudin",
+      "summary": ""
+    },
+    "table_4_row_7_col_3": {
+      "content": "Nadroparin (SubQ)",
+      "summary": ""
+    },
+    "table_4_row_8_col_3": {
+      "content": "Tinzaparin (SubQ)",
+      "summary": ""
+    },
+    "table_4_row_9_col_2": {
+      "content": "Unfractionated Heparin (IV, SubQ)",
+      "summary": ""
+    },
+    "table_4_row_9_col_3": {
+      "content": "Unfractionated Heparin (IV, SubQ)",
+      "summary": ""
+    },
+    "table_5_row_0_col_0": {
+      "content": "ORAL",
+      "summary": ""
+    },
+    "table_5_row_0_col_1": {
+      "content": "ORAL",
+      "summary": ""
+    },
+    "table_5_row_0_col_2": {
+      "content": "ORAL",
+      "summary": ""
+    },
+    "table_5_row_1_col_0": {
+      "content": "DIRECT-ACTING (DOACs1)",
+      "summary": ""
+    },
+    "table_5_row_1_col_1": {
+      "content": "DIRECT-ACTING (DOACs1)",
+      "summary": ""
+    },
+    "table_5_row_1_col_2": {
+      "content": "INDIRECT-ACTING",
+      "summary": ""
+    },
+    "table_5_row_2_col_0": {
+      "content": "FACTOR II (THROMBIN)",
+      "summary": ""
+    },
+    "table_5_row_2_col_1": {
+      "content": "FACTOR Xa",
+      "summary": "Coagulation factor X, or Stuart factor, is an enzyme of the coagulation cascade, encoded in humans by F10 gene. It is a serine endopeptidase. Factor X is synthesized in the liver and requires vitamin K for its synthesis.",
+      "lastUpdated": "2025-11-13T11:23:58-0500"
+    },
+    "table_5_row_2_col_2": {
+      "content": "VITAMIN K ANTAGONIST (VKA)",
+      "summary": ""
+    },
+    "table_5_row_3_col_0": {
+      "content": "Dabigatran",
+      "summary": ""
+    },
+    "table_5_row_3_col_1": {
+      "content": "Apixaban",
+      "summary": ""
+    },
+    "table_5_row_3_col_2": {
+      "content": "Warfarin/Coumadin",
+      "summary": ""
+    },
+    "table_5_row_4_col_1": {
+      "content": "Rivaroxaban",
+      "summary": ""
+    },
+    "table_5_row_5_col_1": {
+      "content": "Edoxaban",
+      "summary": ""
+    },
+    "table_6_row_0_col_0": {
+      "content": "THROMBLYTIC DRUGS (a.k.a. “CLOT BUSTERS”)",
+      "summary": ""
+    },
+    "table_7_row_0_col_0": {
+      "content": "PLAMINOGEN ACTIVATORS",
+      "summary": ""
+    },
+    "table_7_row_0_col_1": {
+      "content": "PLAMINOGEN ACTIVATORS",
+      "summary": ""
+    },
+    "table_7_row_0_col_2": {
+      "content": "PLAMINOGEN ACTIVATORS",
+      "summary": ""
+    },
+    "table_7_row_1_col_0": {
+      "content": "1st generation (not fibrin-specific)",
+      "summary": ""
+    },
+    "table_7_row_1_col_1": {
+      "content": "2nd generation (fibrin-specific)",
+      "summary": ""
+    },
+    "table_7_row_1_col_2": {
+      "content": "3rd generation (more fibrin-specific)",
+      "summary": ""
+    },
+    "table_7_row_2_col_0": {
+      "content": "Streptokinase",
+      "summary": ""
+    },
+    "table_7_row_2_col_1": {
+      "content": "Alteplase",
+      "summary": ""
+    },
+    "table_7_row_2_col_2": {
+      "content": "Tenecteplase",
+      "summary": ""
+    },
+    "table_7_row_3_col_0": {
+      "content": "Urokinase",
+      "summary": ""
+    },
+    "table_7_row_3_col_2": {
+      "content": "Reteplase",
+      "summary": ""
+    },
+    "table_8_row_0_col_0": {
+      "content": "ANTI-HYPERTENSIVES",
+      "summary": ""
+    },
+    "table_8_row_0_col_1": {
+      "content": "ANTI-HYPERTENSIVES",
+      "summary": ""
+    },
+    "table_8_row_0_col_2": {
+      "content": "ANTI-HYPERTENSIVES",
+      "summary": ""
+    },
+    "table_8_row_0_col_3": {
+      "content": "ANTI-HYPERTENSIVES",
+      "summary": ""
+    },
+    "table_8_row_0_col_4": {
+      "content": "ANTI-HYPERTENSIVES",
+      "summary": ""
+    },
+    "table_8_row_0_col_5": {
+      "content": "ANTI-HYPERTENSIVES",
+      "summary": ""
+    },
+    "table_8_row_0_col_6": {
+      "content": "ANTI-HYPERTENSIVES",
+      "summary": ""
+    },
+    "table_8_row_0_col_7": {
+      "content": "ANTI-HYPERTENSIVES",
+      "summary": ""
+    },
+    "table_8_row_0_col_8": {
+      "content": "ANTI-HYPERTENSIVES",
+      "summary": ""
+    },
+    "table_8_row_1_col_0": {
+      "content": "DIRUETICS",
+      "summary": ""
+    },
+    "table_8_row_1_col_1": {
+      "content": "DIRUETICS",
+      "summary": ""
+    },
+    "table_8_row_1_col_2": {
+      "content": "DIRUETICS",
+      "summary": ""
+    },
+    "table_8_row_1_col_3": {
+      "content": "DIRUETICS",
+      "summary": ""
+    },
+    "table_8_row_1_col_4": {
+      "content": "VASODILATORS",
+      "summary": ""
+    },
+    "table_8_row_1_col_5": {
+      "content": "VASODILATORS",
+      "summary": ""
+    },
+    "table_8_row_1_col_6": {
+      "content": "VASODILATORS",
+      "summary": ""
+    },
+    "table_8_row_1_col_7": {
+      "content": "ANTI-ANGIOTENSIN",
+      "summary": ""
+    },
+    "table_8_row_1_col_8": {
+      "content": "SYMPATHOLYTICS",
+      "summary": ""
+    },
+    "table_8_row_2_col_0": {
+      "content": "LOOP",
+      "summary": ""
+    },
+    "table_8_row_2_col_1": {
+      "content": "LOOP",
+      "summary": ""
+    },
+    "table_8_row_2_col_2": {
+      "content": "LOOP",
+      "summary": ""
+    },
+    "table_8_row_2_col_3": {
+      "content": "LOOP",
+      "summary": ""
+    },
+    "table_8_row_2_col_4": {
+      "content": "Ca2+ RELEASE INHIB.",
+      "summary": ""
+    },
+    "table_8_row_2_col_5": {
+      "content": "Ca2+ RELEASE INHIB.",
+      "summary": ""
+    },
+    "table_8_row_2_col_6": {
+      "content": "Ca2+ RELEASE INHIB.",
+      "summary": ""
+    },
+    "table_8_row_2_col_7": {
+      "content": "ACE INHIBITORS",
+      "summary": ""
+    },
+    "table_8_row_2_col_8": {
+      "content": "1-SELECTIVE ANTAGONISTS",
+      "summary": ""
+    },
+    "table_8_row_3_col_0": {
+      "content": "Furosemide",
+      "summary": ""
+    },
+    "table_8_row_3_col_1": {
+      "content": "Furosemide",
+      "summary": ""
+    },
+    "table_8_row_3_col_2": {
+      "content": "Furosemide",
+      "summary": ""
+    },
+    "table_8_row_3_col_3": {
+      "content": "Furosemide",
+      "summary": ""
+    },
+    "table_8_row_3_col_4": {
+      "content": "Hydralazine",
+      "summary": ""
+    },
+    "table_8_row_3_col_5": {
+      "content": "Hydralazine",
+      "summary": ""
+    },
+    "table_8_row_3_col_6": {
+      "content": "Hydralazine",
+      "summary": ""
+    },
+    "table_8_row_3_col_7": {
+      "content": "Benzapril",
+      "summary": ""
+    },
+    "table_8_row_3_col_8": {
+      "content": "Metoprolol (1)",
+      "summary": ""
+    },
+    "table_8_row_4_col_0": {
+      "content": "Torsemide",
+      "summary": ""
+    },
+    "table_8_row_4_col_1": {
+      "content": "Torsemide",
+      "summary": ""
+    },
+    "table_8_row_4_col_2": {
+      "content": "Torsemide",
+      "summary": ""
+    },
+    "table_8_row_4_col_3": {
+      "content": "Torsemide",
+      "summary": ""
+    },
+    "table_8_row_4_col_4": {
+      "content": "Minoxidil",
+      "summary": ""
+    },
+    "table_8_row_4_col_5": {
+      "content": "Minoxidil",
+      "summary": ""
+    },
+    "table_8_row_4_col_6": {
+      "content": "Minoxidil",
+      "summary": ""
+    },
+    "table_8_row_4_col_7": {
+      "content": "Captopril",
+      "summary": ""
+    },
+    "table_8_row_4_col_8": {
+      "content": "Acebutolol (1)",
+      "summary": ""
+    },
+    "table_8_row_5_col_0": {
+      "content": "Bumetanide",
+      "summary": ""
+    },
+    "table_8_row_5_col_1": {
+      "content": "Bumetanide",
+      "summary": ""
+    },
+    "table_8_row_5_col_2": {
+      "content": "Bumetanide",
+      "summary": ""
+    },
+    "table_8_row_5_col_3": {
+      "content": "Bumetanide",
+      "summary": ""
+    },
+    "table_8_row_5_col_7": {
+      "content": "Enalapril",
+      "summary": ""
+    },
+    "table_8_row_5_col_8": {
+      "content": "Atenolol (1)",
+      "summary": ""
+    },
+    "table_8_row_6_col_0": {
+      "content": "Ethacrynic acid",
+      "summary": ""
+    },
+    "table_8_row_6_col_1": {
+      "content": "Ethacrynic acid",
+      "summary": ""
+    },
+    "table_8_row_6_col_2": {
+      "content": "Ethacrynic acid",
+      "summary": ""
+    },
+    "table_8_row_6_col_3": {
+      "content": "Ethacrynic acid",
+      "summary": ""
+    },
+    "table_8_row_6_col_4": {
+      "content": "K+ CHANNEL OPENERS",
+      "summary": ""
+    },
+    "table_8_row_6_col_5": {
+      "content": "K+ CHANNEL OPENERS",
+      "summary": ""
+    },
+    "table_8_row_6_col_6": {
+      "content": "K+ CHANNEL OPENERS",
+      "summary": ""
+    },
+    "table_8_row_6_col_7": {
+      "content": "Fosinopril",
+      "summary": ""
+    },
+    "table_8_row_7_col_4": {
+      "content": "Diazoxide",
+      "summary": ""
+    },
+    "table_8_row_7_col_5": {
+      "content": "Diazoxide",
+      "summary": ""
+    },
+    "table_8_row_7_col_6": {
+      "content": "Diazoxide",
+      "summary": ""
+    },
+    "table_8_row_7_col_7": {
+      "content": "Lisinopril",
+      "summary": ""
+    },
+    "table_8_row_8_col_7": {
+      "content": "Moexipril",
+      "summary": ""
+    },
+    "table_8_row_8_col_8": {
+      "content": "NON-SELECTIVE b ANTAGONISTS",
+      "summary": ""
+    },
+    "table_8_row_9_col_0": {
+      "content": "THIAZIDE",
+      "summary": ""
+    },
+    "table_8_row_9_col_1": {
+      "content": "THIAZIDE",
+      "summary": ""
+    },
+    "table_8_row_9_col_2": {
+      "content": "THIAZIDE",
+      "summary": ""
+    },
+    "table_8_row_9_col_3": {
+      "content": "THIAZIDE",
+      "summary": ""
+    },
+    "table_8_row_9_col_4": {
+      "content": "Ca2+ CHAN. BLOCKERS (L-Type)",
+      "summary": ""
+    },
+    "table_8_row_9_col_5": {
+      "content": "Ca2+ CHAN. BLOCKERS (L-Type)",
+      "summary": ""
+    },
+    "table_8_row_9_col_6": {
+      "content": "Ca2+ CHAN. BLOCKERS (L-Type)",
+      "summary": ""
+    },
+    "table_8_row_9_col_7": {
+      "content": "Perindopril",
+      "summary": ""
+    },
+    "table_8_row_9_col_8": {
+      "content": "Nadolol (1/2)",
+      "summary": ""
+    },
+    "table_8_row_10_col_0": {
+      "content": "Hydrochlorothiazide",
+      "summary": ""
+    },
+    "table_8_row_10_col_1": {
+      "content": "Hydrochlorothiazide",
+      "summary": ""
+    },
+    "table_8_row_10_col_2": {
+      "content": "Hydrochlorothiazide",
+      "summary": ""
+    },
+    "table_8_row_10_col_3": {
+      "content": "Hydrochlorothiazide",
+      "summary": ""
+    },
+    "table_8_row_10_col_5": {
+      "content": "DIHYDROPYRIDINES (DHPs)",
+      "summary": ""
+    },
+    "table_8_row_10_col_7": {
+      "content": "Quinapril",
+      "summary": ""
+    },
+    "table_8_row_10_col_8": {
+      "content": "Nebivolol (1/2)",
+      "summary": ""
+    },
+    "table_8_row_11_col_0": {
+      "content": "Bendroflumethiazide",
+      "summary": ""
+    },
+    "table_8_row_11_col_1": {
+      "content": "Bendroflumethiazide",
+      "summary": ""
+    },
+    "table_8_row_11_col_2": {
+      "content": "Bendroflumethiazide",
+      "summary": ""
+    },
+    "table_8_row_11_col_3": {
+      "content": "Bendroflumethiazide",
+      "summary": ""
+    },
+    "table_8_row_11_col_4": {
+      "content": "Amlodipine",
+      "summary": ""
+    },
+    "table_8_row_11_col_5": {
+      "content": "Amlodipine",
+      "summary": ""
+    },
+    "table_8_row_11_col_6": {
+      "content": "Amlodipine",
+      "summary": ""
+    },
+    "table_8_row_11_col_7": {
+      "content": "Ramipril",
+      "summary": ""
+    },
+    "table_8_row_11_col_8": {
+      "content": "Pindolol (1/2)",
+      "summary": ""
+    },
+    "table_8_row_12_col_0": {
+      "content": "Chlorothiazide",
+      "summary": ""
+    },
+    "table_8_row_12_col_1": {
+      "content": "Chlorothiazide",
+      "summary": ""
+    },
+    "table_8_row_12_col_2": {
+      "content": "Chlorothiazide",
+      "summary": ""
+    },
+    "table_8_row_12_col_3": {
+      "content": "Chlorothiazide",
+      "summary": ""
+    },
+    "table_8_row_12_col_4": {
+      "content": "Clevidipine",
+      "summary": ""
+    },
+    "table_8_row_12_col_5": {
+      "content": "Clevidipine",
+      "summary": ""
+    },
+    "table_8_row_12_col_6": {
+      "content": "Clevidipine",
+      "summary": ""
+    },
+    "table_8_row_12_col_7": {
+      "content": "Trandolapril",
+      "summary": ""
+    },
+    "table_8_row_12_col_8": {
+      "content": "Propranolol (1/2)",
+      "summary": ""
+    },
+    "table_8_row_13_col_0": {
+      "content": "Chlortalidone",
+      "summary": ""
+    },
+    "table_8_row_13_col_1": {
+      "content": "Chlortalidone",
+      "summary": ""
+    },
+    "table_8_row_13_col_2": {
+      "content": "Chlortalidone",
+      "summary": ""
+    },
+    "table_8_row_13_col_3": {
+      "content": "Chlortalidone",
+      "summary": ""
+    },
+    "table_8_row_13_col_4": {
+      "content": "Felodipine",
+      "summary": ""
+    },
+    "table_8_row_13_col_5": {
+      "content": "Felodipine",
+      "summary": ""
+    },
+    "table_8_row_13_col_6": {
+      "content": "Felodipine",
+      "summary": ""
+    },
+    "table_8_row_14_col_0": {
+      "content": "Indapamide",
+      "summary": ""
+    },
+    "table_8_row_14_col_1": {
+      "content": "Indapamide",
+      "summary": ""
+    },
+    "table_8_row_14_col_2": {
+      "content": "Indapamide",
+      "summary": ""
+    },
+    "table_8_row_14_col_3": {
+      "content": "Indapamide",
+      "summary": ""
+    },
+    "table_8_row_14_col_4": {
+      "content": "Isradipine",
+      "summary": ""
+    },
+    "table_8_row_14_col_5": {
+      "content": "Isradipine",
+      "summary": ""
+    },
+    "table_8_row_14_col_6": {
+      "content": "Isradipine",
+      "summary": ""
+    },
+    "table_8_row_14_col_8": {
+      "content": "a1/b ANTAGONISTS",
+      "summary": ""
+    },
+    "table_8_row_15_col_0": {
+      "content": "Methyclothazide",
+      "summary": ""
+    },
+    "table_8_row_15_col_1": {
+      "content": "Methyclothazide",
+      "summary": ""
+    },
+    "table_8_row_15_col_2": {
+      "content": "Methyclothazide",
+      "summary": ""
+    },
+    "table_8_row_15_col_3": {
+      "content": "Methyclothazide",
+      "summary": ""
+    },
+    "table_8_row_15_col_4": {
+      "content": "Nicardipine",
+      "summary": ""
+    },
+    "table_8_row_15_col_5": {
+      "content": "Nicardipine",
+      "summary": ""
+    },
+    "table_8_row_15_col_6": {
+      "content": "Nicardipine",
+      "summary": ""
+    },
+    "table_8_row_15_col_7": {
+      "content": "ARBs",
+      "summary": ""
+    },
+    "table_8_row_15_col_8": {
+      "content": "Carvedilol (1, 1/2)",
+      "summary": ""
+    },
+    "table_8_row_16_col_0": {
+      "content": "Metolazone",
+      "summary": ""
+    },
+    "table_8_row_16_col_1": {
+      "content": "Metolazone",
+      "summary": ""
+    },
+    "table_8_row_16_col_2": {
+      "content": "Metolazone",
+      "summary": ""
+    },
+    "table_8_row_16_col_3": {
+      "content": "Metolazone",
+      "summary": ""
+    },
+    "table_8_row_16_col_4": {
+      "content": "Nifedipine",
+      "summary": ""
+    },
+    "table_8_row_16_col_5": {
+      "content": "Nifedipine",
+      "summary": ""
+    },
+    "table_8_row_16_col_6": {
+      "content": "Nifedipine",
+      "summary": ""
+    },
+    "table_8_row_16_col_7": {
+      "content": "Azilsartan",
+      "summary": ""
+    },
+    "table_8_row_16_col_8": {
+      "content": "Labetalol (1, 1/2)",
+      "summary": ""
+    },
+    "table_8_row_17_col_4": {
+      "content": "Nimodipine",
+      "summary": ""
+    },
+    "table_8_row_17_col_5": {
+      "content": "Nimodipine",
+      "summary": ""
+    },
+    "table_8_row_17_col_6": {
+      "content": "Nimodipine",
+      "summary": ""
+    },
+    "table_8_row_17_col_7": {
+      "content": "Candesartan",
+      "summary": ""
+    },
+    "table_8_row_18_col_0": {
+      "content": "K+ SPARING",
+      "summary": ""
+    },
+    "table_8_row_18_col_1": {
+      "content": "K+ SPARING",
+      "summary": ""
+    },
+    "table_8_row_18_col_2": {
+      "content": "K+ SPARING",
+      "summary": ""
+    },
+    "table_8_row_18_col_3": {
+      "content": "K+ SPARING",
+      "summary": ""
+    },
+    "table_8_row_18_col_7": {
+      "content": "Irbesartan",
+      "summary": ""
+    },
+    "table_8_row_18_col_8": {
+      "content": "1 ANTAGONISTS",
+      "summary": ""
+    },
+    "table_8_row_19_col_1": {
+      "content": "ALDOSTERONE ANTAG",
+      "summary": ""
+    },
+    "table_8_row_19_col_5": {
+      "content": "NON-DHPs",
+      "summary": ""
+    },
+    "table_8_row_19_col_7": {
+      "content": "Losartan",
+      "summary": ""
+    },
+    "table_8_row_19_col_8": {
+      "content": "Prazosin",
+      "summary": ""
+    },
+    "table_8_row_20_col_0": {
+      "content": "Spironolactone",
+      "summary": ""
+    },
+    "table_8_row_20_col_1": {
+      "content": "Spironolactone",
+      "summary": ""
+    },
+    "table_8_row_20_col_2": {
+      "content": "Spironolactone",
+      "summary": ""
+    },
+    "table_8_row_20_col_3": {
+      "content": "Spironolactone",
+      "summary": ""
+    },
+    "table_8_row_20_col_4": {
+      "content": "Diltiazem",
+      "summary": ""
+    },
+    "table_8_row_20_col_5": {
+      "content": "Diltiazem",
+      "summary": ""
+    },
+    "table_8_row_20_col_6": {
+      "content": "Diltiazem",
+      "summary": ""
+    },
+    "table_8_row_20_col_7": {
+      "content": "Olmesartan",
+      "summary": ""
+    },
+    "table_8_row_20_col_8": {
+      "content": "Doxazosin",
+      "summary": ""
+    },
+    "table_8_row_21_col_0": {
+      "content": "Eplerenone",
+      "summary": ""
+    },
+    "table_8_row_21_col_1": {
+      "content": "Eplerenone",
+      "summary": ""
+    },
+    "table_8_row_21_col_2": {
+      "content": "Eplerenone",
+      "summary": ""
+    },
+    "table_8_row_21_col_3": {
+      "content": "Eplerenone",
+      "summary": ""
+    },
+    "table_8_row_21_col_4": {
+      "content": "Verapamil",
+      "summary": ""
+    },
+    "table_8_row_21_col_5": {
+      "content": "Verapamil",
+      "summary": ""
+    },
+    "table_8_row_21_col_6": {
+      "content": "Verapamil",
+      "summary": ""
+    },
+    "table_8_row_21_col_7": {
+      "content": "Telmisartan",
+      "summary": ""
+    },
+    "table_8_row_21_col_8": {
+      "content": "Terazosin",
+      "summary": ""
+    },
+    "table_8_row_22_col_7": {
+      "content": "Valsartan",
+      "summary": ""
+    },
+    "table_8_row_23_col_1": {
+      "content": "ENaC INHIBITORS",
+      "summary": ""
+    },
+    "table_8_row_23_col_2": {
+      "content": "ENaC INHIBITORS",
+      "summary": ""
+    },
+    "table_8_row_23_col_8": {
+      "content": "2 AGONISTS",
+      "summary": ""
+    },
+    "table_8_row_24_col_0": {
+      "content": "Triamterene",
+      "summary": ""
+    },
+    "table_8_row_24_col_1": {
+      "content": "Triamterene",
+      "summary": ""
+    },
+    "table_8_row_24_col_2": {
+      "content": "Triamterene",
+      "summary": ""
+    },
+    "table_8_row_24_col_3": {
+      "content": "Triamterene",
+      "summary": ""
+    },
+    "table_8_row_24_col_7": {
+      "content": "DIRECT RENIN INHIB.",
+      "summary": ""
+    },
+    "table_8_row_24_col_8": {
+      "content": "Clonidine",
+      "summary": ""
+    },
+    "table_8_row_25_col_0": {
+      "content": "Amiloride",
+      "summary": ""
+    },
+    "table_8_row_25_col_1": {
+      "content": "Amiloride",
+      "summary": ""
+    },
+    "table_8_row_25_col_2": {
+      "content": "Amiloride",
+      "summary": ""
+    },
+    "table_8_row_25_col_3": {
+      "content": "Amiloride",
+      "summary": ""
+    },
+    "table_8_row_25_col_7": {
+      "content": "Aliskiren",
+      "summary": ""
+    },
+    "table_8_row_25_col_8": {
+      "content": "Methyldopa",
+      "summary": ""
+    },
+    "table_9_row_0_col_0": {
+      "content": "ANTIHYPERLIPIDEMIC DRUGS",
+      "summary": ""
+    },
+    "table_9_row_0_col_1": {
+      "content": "ANTIHYPERLIPIDEMIC DRUGS",
+      "summary": ""
+    },
+    "table_9_row_0_col_2": {
+      "content": "ANTIHYPERLIPIDEMIC DRUGS",
+      "summary": ""
+    },
+    "table_9_row_0_col_3": {
+      "content": "ANTIHYPERLIPIDEMIC DRUGS",
+      "summary": ""
+    },
+    "table_9_row_0_col_4": {
+      "content": "ANTIHYPERLIPIDEMIC DRUGS",
+      "summary": ""
+    },
+    "table_9_row_0_col_5": {
+      "content": "ANTIHYPERLIPIDEMIC DRUGS",
+      "summary": ""
+    },
+    "table_9_row_0_col_6": {
+      "content": "ANTIHYPERLIPIDEMIC DRUGS",
+      "summary": ""
+    },
+    "table_9_row_0_col_7": {
+      "content": "ANTIHYPERLIPIDEMIC DRUGS",
+      "summary": ""
+    },
+    "table_9_row_1_col_0": {
+      "content": "FIRST-LINE (PROVEN TO  RISK OF IHD)",
+      "summary": ""
+    },
+    "table_9_row_1_col_1": {
+      "content": "FIRST-LINE (PROVEN TO  RISK OF IHD)",
+      "summary": ""
+    },
+    "table_9_row_1_col_2": {
+      "content": "FIRST-LINE (PROVEN TO  RISK OF IHD)",
+      "summary": ""
+    },
+    "table_9_row_2_col_0": {
+      "content": "INCREASE LDL RECEPTOR EXPRESSION",
+      "summary": ""
+    },
+    "table_9_row_2_col_1": {
+      "content": "INCREASE LDL RECEPTOR EXPRESSION",
+      "summary": ""
+    },
+    "table_9_row_2_col_2": {
+      "content": "INCREASE LDL RECEPTOR EXPRESSION",
+      "summary": ""
+    },
+    "table_9_row_2_col_3": {
+      "content": "INCREASE LDL RECEPTOR EXPRESSION",
+      "summary": ""
+    },
+    "table_9_row_2_col_4": {
+      "content": "INCREASE LDL RECEPTOR EXPRESSION",
+      "summary": ""
+    },
+    "table_9_row_2_col_5": {
+      "content": "OTHER MECHANISMS",
+      "summary": ""
+    },
+    "table_9_row_2_col_6": {
+      "content": "OTHER MECHANISMS",
+      "summary": ""
+    },
+    "table_9_row_2_col_7": {
+      "content": "OTHER MECHANISMS",
+      "summary": ""
+    },
+    "table_9_row_3_col_0": {
+      "content": "HMG CoA REDUCTASE INHIBITORS",
+      "summary": ""
+    },
+    "table_9_row_3_col_1": {
+      "content": "NPC1 INHBITOR",
+      "summary": ""
+    },
+    "table_9_row_3_col_2": {
+      "content": "PCSK9 INHIBITORS",
+      "summary": ""
+    },
+    "table_9_row_3_col_3": {
+      "content": "PCSK9 INHIBITORS",
+      "summary": ""
+    },
+    "table_9_row_3_col_4": {
+      "content": "BILE ACID BINDING AGENTS",
+      "summary": ""
+    },
+    "table_9_row_3_col_5": {
+      "content": "VLDL RELEASE INHIBITOR",
+      "summary": ""
+    },
+    "table_9_row_3_col_6": {
+      "content": "FIBRATES(LPL ACTIVATORS)",
+      "summary": ""
+    },
+    "table_9_row_3_col_7": {
+      "content": "OMEGA-3 FATTY ACIDS",
+      "summary": ""
+    },
+    "table_9_row_4_col_0": {
+      "content": "Low-intensity",
+      "summary": ""
+    },
+    "table_9_row_4_col_1": {
+      "content": "Ezetimibe",
+      "summary": ""
+    },
+    "table_9_row_4_col_2": {
+      "content": "ANTIBOODIES",
+      "summary": ""
+    },
+    "table_9_row_4_col_3": {
+      "content": "ANTIBOODIES",
+      "summary": ""
+    },
+    "table_9_row_4_col_4": {
+      "content": "Colestipol",
+      "summary": ""
+    },
+    "table_9_row_4_col_5": {
+      "content": "Niacin",
+      "summary": ""
+    },
+    "table_9_row_4_col_6": {
+      "content": "Clofibrate",
+      "summary": ""
+    },
+    "table_9_row_4_col_7": {
+      "content": "Eicosapentaenoic acid",
+      "summary": ""
+    },
+    "table_9_row_5_col_0": {
+      "content": "Fluvastatin",
+      "summary": ""
+    },
+    "table_9_row_5_col_2": {
+      "content": "Alirocumab",
+      "summary": ""
+    },
+    "table_9_row_5_col_3": {
+      "content": "Alirocumab",
+      "summary": ""
+    },
+    "table_9_row_5_col_4": {
+      "content": "Cholestyramine",
+      "summary": ""
+    },
+    "table_9_row_5_col_6": {
+      "content": "Fenofibrate",
+      "summary": ""
+    },
+    "table_9_row_5_col_7": {
+      "content": "Docosahexaenoic acid",
+      "summary": ""
+    },
+    "table_9_row_6_col_0": {
+      "content": "Lovastatin",
+      "summary": ""
+    },
+    "table_9_row_6_col_2": {
+      "content": "Evolocumab",
+      "summary": ""
+    },
+    "table_9_row_6_col_3": {
+      "content": "Evolocumab",
+      "summary": ""
+    },
+    "table_9_row_6_col_4": {
+      "content": "Colesevelam",
+      "summary": ""
+    },
+    "table_9_row_6_col_6": {
+      "content": "Gemfibrozil",
+      "summary": ""
+    },
+    "table_9_row_6_col_7": {
+      "content": "α-linolenic",
+      "summary": ""
+    },
+    "table_9_row_7_col_0": {
+      "content": "Pravastatin",
+      "summary": ""
+    },
+    "table_9_row_8_col_0": {
+      "content": "Simvastatin",
+      "summary": ""
+    },
+    "table_9_row_8_col_2": {
+      "content": "PCSK9 siRNA",
+      "summary": ""
+    },
+    "table_9_row_8_col_3": {
+      "content": "PCSK9 siRNA",
+      "summary": ""
+    },
+    "table_9_row_9_col_2": {
+      "content": "Inclisiran",
+      "summary": ""
+    },
+    "table_9_row_9_col_3": {
+      "content": "Inclisiran",
+      "summary": ""
+    },
+    "table_9_row_10_col_0": {
+      "content": "High-intensity",
+      "summary": ""
+    },
+    "table_9_row_11_col_0": {
+      "content": "Atorvastatin",
+      "summary": ""
+    },
+    "table_9_row_12_col_0": {
+      "content": "Rosuvastatin",
+      "summary": ""
+    },
+    "table_10_row_0_col_0": {
+      "content": "ANTI-ARRHYTHMIC DRUGS",
+      "summary": ""
+    },
+    "table_10_row_0_col_1": {
+      "content": "ANTI-ARRHYTHMIC DRUGS",
+      "summary": ""
+    },
+    "table_10_row_0_col_2": {
+      "content": "ANTI-ARRHYTHMIC DRUGS",
+      "summary": ""
+    },
+    "table_10_row_0_col_3": {
+      "content": "ANTI-ARRHYTHMIC DRUGS",
+      "summary": ""
+    },
+    "table_10_row_0_col_4": {
+      "content": "ANTI-ARRHYTHMIC DRUGS",
+      "summary": ""
+    },
+    "table_10_row_0_col_5": {
+      "content": "ANTI-ARRHYTHMIC DRUGS",
+      "summary": ""
+    },
+    "table_10_row_0_col_6": {
+      "content": "ANTI-ARRHYTHMIC DRUGS",
+      "summary": ""
+    },
+    "table_10_row_1_col_0": {
+      "content": "CLASS INa+ CHANNEL BLOCKERS",
+      "summary": ""
+    },
+    "table_10_row_1_col_1": {
+      "content": "CLASS INa+ CHANNEL BLOCKERS",
+      "summary": ""
+    },
+    "table_10_row_1_col_2": {
+      "content": "CLASS INa+ CHANNEL BLOCKERS",
+      "summary": ""
+    },
+    "table_10_row_1_col_3": {
+      "content": "CLASS II1ANTAGONISTS",
+      "summary": ""
+    },
+    "table_10_row_1_col_4": {
+      "content": "CLASS IIIK+ CHANNEL BLOCKERS",
+      "summary": ""
+    },
+    "table_10_row_1_col_5": {
+      "content": "CLASS IVCa2+ CHANNEL BLOCKERS",
+      "summary": ""
+    },
+    "table_10_row_1_col_6": {
+      "content": "OTHER",
+      "summary": ""
+    },
+    "table_10_row_2_col_1": {
+      "content": "CLASS IA",
+      "summary": ""
+    },
+    "table_10_row_2_col_3": {
+      "content": "SELECTIVE (b1)",
+      "summary": ""
+    },
+    "table_10_row_2_col_5": {
+      "content": "NON-DHPs",
+      "summary": ""
+    },
+    "table_10_row_2_col_6": {
+      "content": "NUCLEOSIDE",
+      "summary": ""
+    },
+    "table_10_row_3_col_0": {
+      "content": "Disopyramide",
+      "summary": ""
+    },
+    "table_10_row_3_col_1": {
+      "content": "Disopyramide",
+      "summary": ""
+    },
+    "table_10_row_3_col_2": {
+      "content": "Disopyramide",
+      "summary": ""
+    },
+    "table_10_row_3_col_3": {
+      "content": "Atenolol",
+      "summary": ""
+    },
+    "table_10_row_3_col_4": {
+      "content": "Amiodarone",
+      "summary": ""
+    },
+    "table_10_row_3_col_5": {
+      "content": "Diltiazem",
+      "summary": ""
+    },
+    "table_10_row_3_col_6": {
+      "content": "Adenosine",
+      "summary": ""
+    },
+    "table_10_row_4_col_0": {
+      "content": "Quinidine",
+      "summary": ""
+    },
+    "table_10_row_4_col_1": {
+      "content": "Quinidine",
+      "summary": ""
+    },
+    "table_10_row_4_col_2": {
+      "content": "Quinidine",
+      "summary": ""
+    },
+    "table_10_row_4_col_3": {
+      "content": "Esmolol",
+      "summary": ""
+    },
+    "table_10_row_4_col_4": {
+      "content": "Dofetilide",
+      "summary": ""
+    },
+    "table_10_row_4_col_5": {
+      "content": "Verapamil",
+      "summary": ""
+    },
+    "table_10_row_5_col_0": {
+      "content": "Procainamide",
+      "summary": ""
+    },
+    "table_10_row_5_col_1": {
+      "content": "Procainamide",
+      "summary": ""
+    },
+    "table_10_row_5_col_2": {
+      "content": "Procainamide",
+      "summary": ""
+    },
+    "table_10_row_5_col_3": {
+      "content": "Metoprolol",
+      "summary": ""
+    },
+    "table_10_row_5_col_4": {
+      "content": "Dronedarone",
+      "summary": ""
+    },
+    "table_10_row_5_col_6": {
+      "content": "CARDIAC GLYCOSIDE",
+      "summary": ""
+    },
+    "table_10_row_6_col_4": {
+      "content": "Ibutilide",
+      "summary": ""
+    },
+    "table_10_row_6_col_6": {
+      "content": "Digoxin",
+      "summary": ""
+    },
+    "table_10_row_7_col_1": {
+      "content": "CLASS IB",
+      "summary": ""
+    },
+    "table_10_row_7_col_3": {
+      "content": "NON-SELECTIVE",
+      "summary": ""
+    },
+    "table_10_row_7_col_4": {
+      "content": "Sotalol",
+      "summary": ""
+    },
+    "table_10_row_8_col_0": {
+      "content": "Lidocaine",
+      "summary": ""
+    },
+    "table_10_row_8_col_1": {
+      "content": "Lidocaine",
+      "summary": ""
+    },
+    "table_10_row_8_col_2": {
+      "content": "Lidocaine",
+      "summary": ""
+    },
+    "table_10_row_8_col_3": {
+      "content": "Carvedilol (a1, b1, b2)",
+      "summary": ""
+    },
+    "table_10_row_8_col_6": {
+      "content": "MAGNESIUM",
+      "summary": ""
+    },
+    "table_10_row_9_col_0": {
+      "content": "Mexiletine",
+      "summary": ""
+    },
+    "table_10_row_9_col_1": {
+      "content": "Mexiletine",
+      "summary": ""
+    },
+    "table_10_row_9_col_2": {
+      "content": "Mexiletine",
+      "summary": ""
+    },
+    "table_10_row_9_col_3": {
+      "content": "Propranolol (b1,b2)",
+      "summary": ""
+    },
+    "table_10_row_9_col_6": {
+      "content": "Mg2+",
+      "summary": ""
+    },
+    "table_10_row_10_col_3": {
+      "content": "Timolol (b1,b2)",
+      "summary": ""
+    },
+    "table_10_row_11_col_1": {
+      "content": "CLASS IC",
+      "summary": ""
+    },
+    "table_10_row_11_col_6": {
+      "content": "“FUNNY CHANNEL” INH.",
+      "summary": ""
+    },
+    "table_10_row_12_col_0": {
+      "content": "Flecainide",
+      "summary": ""
+    },
+    "table_10_row_12_col_1": {
+      "content": "Flecainide",
+      "summary": ""
+    },
+    "table_10_row_12_col_2": {
+      "content": "Flecainide",
+      "summary": ""
+    },
+    "table_10_row_12_col_6": {
+      "content": "Ivabradine",
+      "summary": ""
+    },
+    "table_10_row_13_col_0": {
+      "content": "Propafenone",
+      "summary": ""
+    },
+    "table_10_row_13_col_1": {
+      "content": "Propafenone",
+      "summary": ""
+    },
+    "table_10_row_13_col_2": {
+      "content": "Propafenone",
+      "summary": ""
+    },
+    "table_11_row_0_col_0": {
+      "content": "HEART FAILURE DRUGS",
+      "summary": ""
+    },
+    "table_11_row_0_col_1": {
+      "content": "HEART FAILURE DRUGS",
+      "summary": ""
+    },
+    "table_11_row_0_col_2": {
+      "content": "HEART FAILURE DRUGS",
+      "summary": ""
+    },
+    "table_11_row_0_col_3": {
+      "content": "HEART FAILURE DRUGS",
+      "summary": ""
+    },
+    "table_11_row_0_col_4": {
+      "content": "HEART FAILURE DRUGS",
+      "summary": ""
+    },
+    "table_11_row_0_col_5": {
+      "content": "HEART FAILURE DRUGS",
+      "summary": ""
+    },
+    "table_11_row_0_col_6": {
+      "content": "HEART FAILURE DRUGS",
+      "summary": ""
+    },
+    "table_11_row_0_col_7": {
+      "content": "HEART FAILURE DRUGS",
+      "summary": ""
+    },
+    "table_11_row_0_col_8": {
+      "content": "HEART FAILURE DRUGS",
+      "summary": ""
+    },
+    "table_11_row_0_col_9": {
+      "content": "HEART FAILURE DRUGS",
+      "summary": ""
+    },
+    "table_11_row_0_col_10": {
+      "content": "HEART FAILURE DRUGS",
+      "summary": ""
+    },
+    "table_11_row_0_col_11": {
+      "content": "HEART FAILURE DRUGS",
+      "summary": ""
+    },
+    "table_11_row_1_col_0": {
+      "content": "PRELOAD",
+      "summary": ""
+    },
+    "table_11_row_1_col_1": {
+      "content": "PRELOAD",
+      "summary": ""
+    },
+    "table_11_row_1_col_2": {
+      "content": "PRELOAD",
+      "summary": ""
+    },
+    "table_11_row_1_col_3": {
+      "content": "PRELOAD",
+      "summary": ""
+    },
+    "table_11_row_1_col_4": {
+      "content": "PRELOAD",
+      "summary": ""
+    },
+    "table_11_row_1_col_5": {
+      "content": "PRELOAD",
+      "summary": ""
+    },
+    "table_11_row_1_col_6": {
+      "content": "PRELOAD",
+      "summary": ""
+    },
+    "table_11_row_1_col_7": {
+      "content": "PRELOAD",
+      "summary": ""
+    },
+    "table_11_row_1_col_11": {
+      "content": "INOTROPY",
+      "summary": ""
+    },
+    "table_11_row_2_col_0": {
+      "content": "AFTERLOAD",
+      "summary": ""
+    },
+    "table_11_row_2_col_4": {
+      "content": "AFTERLOAD",
+      "summary": ""
+    },
+    "table_11_row_2_col_5": {
+      "content": "AFTERLOAD",
+      "summary": ""
+    },
+    "table_11_row_2_col_6": {
+      "content": "AFTERLOAD",
+      "summary": ""
+    },
+    "table_11_row_2_col_7": {
+      "content": "AFTERLOAD",
+      "summary": ""
+    },
+    "table_11_row_2_col_8": {
+      "content": "AFTERLOAD",
+      "summary": ""
+    },
+    "table_11_row_2_col_9": {
+      "content": "AFTERLOAD",
+      "summary": ""
+    },
+    "table_11_row_2_col_10": {
+      "content": "AFTERLOAD",
+      "summary": ""
+    },
+    "table_11_row_3_col_4": {
+      "content": "CARDIAC REMODELING",
+      "summary": ""
+    },
+    "table_11_row_3_col_5": {
+      "content": "CARDIAC REMODELING",
+      "summary": ""
+    },
+    "table_11_row_3_col_6": {
+      "content": "CARDIAC REMODELING",
+      "summary": ""
+    },
+    "table_11_row_3_col_7": {
+      "content": "CARDIAC REMODELING",
+      "summary": ""
+    },
+    "table_11_row_4_col_0": {
+      "content": "NITRATES",
+      "summary": ""
+    },
+    "table_11_row_4_col_1": {
+      "content": "DIURETICS",
+      "summary": ""
+    },
+    "table_11_row_4_col_2": {
+      "content": "DIURETICS",
+      "summary": ""
+    },
+    "table_11_row_4_col_3": {
+      "content": "DIURETICS",
+      "summary": ""
+    },
+    "table_11_row_4_col_4": {
+      "content": "RAAS INHIBITORS",
+      "summary": ""
+    },
+    "table_11_row_4_col_5": {
+      "content": "RAAS INHIBITORS",
+      "summary": ""
+    },
+    "table_11_row_4_col_6": {
+      "content": "RAAS INHIBITORS",
+      "summary": ""
+    },
+    "table_11_row_4_col_7": {
+      "content": "b1 ANTAGONISTS",
+      "summary": ""
+    },
+    "table_11_row_4_col_8": {
+      "content": "ARTERIAL DILATORS",
+      "summary": ""
+    },
+    "table_11_row_4_col_9": {
+      "content": "ARTERIAL DILATORS",
+      "summary": ""
+    },
+    "table_11_row_4_col_10": {
+      "content": "ARTERIAL DILATORS",
+      "summary": ""
+    },
+    "table_11_row_5_col_2": {
+      "content": "LOOP",
+      "summary": ""
+    },
+    "table_11_row_5_col_5": {
+      "content": "ACE INHIBS",
+      "summary": ""
+    },
+    "table_11_row_5_col_9": {
+      "content": "Ca2+ REL. INH.",
+      "summary": ""
+    },
+    "table_11_row_5_col_11": {
+      "content": "Na+/K+ ATPase INHIB.",
+      "summary": ""
+    },
+    "table_11_row_6_col_0": {
+      "content": "Nitroprusside",
+      "summary": ""
+    },
+    "table_11_row_6_col_1": {
+      "content": "Furosemide",
+      "summary": ""
+    },
+    "table_11_row_6_col_2": {
+      "content": "Furosemide",
+      "summary": ""
+    },
+    "table_11_row_6_col_3": {
+      "content": "Furosemide",
+      "summary": ""
+    },
+    "table_11_row_6_col_4": {
+      "content": "Benazepril",
+      "summary": ""
+    },
+    "table_11_row_6_col_5": {
+      "content": "Benazepril",
+      "summary": ""
+    },
+    "table_11_row_6_col_6": {
+      "content": "Benazepril",
+      "summary": ""
+    },
+    "table_11_row_6_col_7": {
+      "content": "Bisoprolol",
+      "summary": ""
+    },
+    "table_11_row_6_col_8": {
+      "content": "Hydralazine",
+      "summary": ""
+    },
+    "table_11_row_6_col_9": {
+      "content": "Hydralazine",
+      "summary": ""
+    },
+    "table_11_row_6_col_10": {
+      "content": "Hydralazine",
+      "summary": ""
+    },
+    "table_11_row_6_col_11": {
+      "content": "Digoxin",
+      "summary": ""
+    },
+    "table_11_row_7_col_0": {
+      "content": "Isosorbide dinitrite",
+      "summary": ""
+    },
+    "table_11_row_7_col_4": {
+      "content": "Enalapril",
+      "summary": ""
+    },
+    "table_11_row_7_col_5": {
+      "content": "Enalapril",
+      "summary": ""
+    },
+    "table_11_row_7_col_6": {
+      "content": "Enalapril",
+      "summary": ""
+    },
+    "table_11_row_7_col_7": {
+      "content": "Carvedilol",
+      "summary": ""
+    },
+    "table_11_row_8_col_2": {
+      "content": "ALDOS. ANTAGS.",
+      "summary": ""
+    },
+    "table_11_row_8_col_4": {
+      "content": "Lisinopril",
+      "summary": ""
+    },
+    "table_11_row_8_col_5": {
+      "content": "Lisinopril",
+      "summary": ""
+    },
+    "table_11_row_8_col_6": {
+      "content": "Lisinopril",
+      "summary": ""
+    },
+    "table_11_row_8_col_7": {
+      "content": "Metoprolol",
+      "summary": ""
+    },
+    "table_11_row_8_col_9": {
+      "content": "CCBs (DHPs)",
+      "summary": ""
+    },
+    "table_11_row_9_col_1": {
+      "content": "Spironolactone",
+      "summary": ""
+    },
+    "table_11_row_9_col_2": {
+      "content": "Spironolactone",
+      "summary": ""
+    },
+    "table_11_row_9_col_3": {
+      "content": "Spironolactone",
+      "summary": ""
+    },
+    "table_11_row_9_col_8": {
+      "content": "Amlodipine",
+      "summary": ""
+    },
+    "table_11_row_9_col_9": {
+      "content": "Amlodipine",
+      "summary": ""
+    },
+    "table_11_row_9_col_10": {
+      "content": "Amlodipine",
+      "summary": ""
+    },
+    "table_11_row_10_col_5": {
+      "content": "ARBs",
+      "summary": ""
+    },
+    "table_11_row_10_col_8": {
+      "content": "Felodipine",
+      "summary": ""
+    },
+    "table_11_row_10_col_9": {
+      "content": "Felodipine",
+      "summary": ""
+    },
+    "table_11_row_10_col_10": {
+      "content": "Felodipine",
+      "summary": ""
+    },
+    "table_11_row_11_col_1": {
+      "content": "NEPRILYSIN INHIBITOR",
+      "summary": ""
+    },
+    "table_11_row_11_col_2": {
+      "content": "NEPRILYSIN INHIBITOR",
+      "summary": ""
+    },
+    "table_11_row_11_col_3": {
+      "content": "NEPRILYSIN INHIBITOR",
+      "summary": ""
+    },
+    "table_11_row_11_col_4": {
+      "content": "Losartan",
+      "summary": ""
+    },
+    "table_11_row_11_col_5": {
+      "content": "Losartan",
+      "summary": ""
+    },
+    "table_11_row_11_col_6": {
+      "content": "Losartan",
+      "summary": ""
+    },
+    "table_11_row_12_col_1": {
+      "content": "Sacubitril1",
+      "summary": ""
+    },
+    "table_11_row_12_col_2": {
+      "content": "Sacubitril1",
+      "summary": ""
+    },
+    "table_11_row_12_col_3": {
+      "content": "Sacubitril1",
+      "summary": ""
+    },
+    "table_11_row_12_col_4": {
+      "content": "Valsartan1",
+      "summary": ""
+    },
+    "table_11_row_12_col_5": {
+      "content": "Valsartan1",
+      "summary": ""
+    },
+    "table_11_row_12_col_6": {
+      "content": "Valsartan1",
+      "summary": ""
+    },
+    "table_11_row_14_col_1": {
+      "content": "SGLT2 INHIBITORS",
+      "summary": ""
+    },
+    "table_11_row_14_col_2": {
+      "content": "SGLT2 INHIBITORS",
+      "summary": ""
+    },
+    "table_11_row_14_col_3": {
+      "content": "SGLT2 INHIBITORS",
+      "summary": ""
+    },
+    "table_11_row_15_col_1": {
+      "content": "Dapagliflozin",
+      "summary": ""
+    },
+    "table_11_row_15_col_2": {
+      "content": "Dapagliflozin",
+      "summary": ""
+    },
+    "table_11_row_15_col_3": {
+      "content": "Dapagliflozin",
+      "summary": ""
+    },
+    "table_11_row_16_col_1": {
+      "content": "Empagliflozin",
+      "summary": ""
+    },
+    "table_11_row_16_col_2": {
+      "content": "Empagliflozin",
+      "summary": ""
+    },
+    "table_11_row_16_col_3": {
+      "content": "Empagliflozin",
+      "summary": ""
+    },
+    "table_12_row_0_col_0": {
+      "content": "CARDIOGENIC SHOCK",
+      "summary": ""
+    },
+    "table_13_row_0_col_0": {
+      "content": "VASOPRESSORS",
+      "summary": ""
+    },
+    "table_13_row_0_col_1": {
+      "content": "VASOPRESSORS",
+      "summary": ""
+    },
+    "table_13_row_0_col_2": {
+      "content": "VASOPRESSORS",
+      "summary": ""
+    },
+    "table_13_row_0_col_3": {
+      "content": "INOTROPES",
+      "summary": ""
+    },
+    "table_13_row_0_col_4": {
+      "content": "INOTROPES",
+      "summary": ""
+    },
+    "table_13_row_1_col_1": {
+      "content": "a1 AGONIST",
+      "summary": ""
+    },
+    "table_13_row_1_col_3": {
+      "content": "b1 AGONIST",
+      "summary": ""
+    },
+    "table_13_row_1_col_4": {
+      "content": "PDE3 INHIBITOR",
+      "summary": ""
+    },
+    "table_13_row_2_col_0": {
+      "content": "Phenylephrine",
+      "summary": ""
+    },
+    "table_13_row_2_col_1": {
+      "content": "Phenylephrine",
+      "summary": ""
+    },
+    "table_13_row_2_col_2": {
+      "content": "Phenylephrine",
+      "summary": ""
+    },
+    "table_13_row_2_col_3": {
+      "content": "Dobutamine",
+      "summary": ""
+    },
+    "table_13_row_2_col_4": {
+      "content": "Milrinone",
+      "summary": ""
+    },
+    "table_13_row_4_col_1": {
+      "content": "a1/b1/b2/D1/D2 AGONISTS",
+      "summary": ""
+    },
+    "table_13_row_5_col_0": {
+      "content": "Epinephrine",
+      "summary": ""
+    },
+    "table_13_row_5_col_1": {
+      "content": "Epinephrine",
+      "summary": ""
+    },
+    "table_13_row_5_col_2": {
+      "content": "Epinephrine",
+      "summary": ""
+    },
+    "table_13_row_6_col_0": {
+      "content": "Norepinephrine",
+      "summary": ""
+    },
+    "table_13_row_6_col_1": {
+      "content": "Norepinephrine",
+      "summary": ""
+    },
+    "table_13_row_6_col_2": {
+      "content": "Norepinephrine",
+      "summary": ""
+    },
+    "table_13_row_7_col_0": {
+      "content": "Dopamine",
+      "summary": ""
+    },
+    "table_13_row_7_col_1": {
+      "content": "Dopamine",
+      "summary": ""
+    },
+    "table_13_row_7_col_2": {
+      "content": "Dopamine",
+      "summary": ""
+    },
+    "table_13_row_9_col_1": {
+      "content": "VASOPRESSIN RECEPTOR 1A",
+      "summary": ""
+    },
+    "table_13_row_10_col_0": {
+      "content": "Vasopressin (a.k.a ADH or AVP)",
+      "summary": ""
+    },
+    "table_13_row_10_col_1": {
+      "content": "Vasopressin (a.k.a ADH or AVP)",
+      "summary": ""
+    },
+    "table_13_row_10_col_2": {
+      "content": "Vasopressin (a.k.a ADH or AVP)",
+      "summary": ""
+    }
+  }
 }

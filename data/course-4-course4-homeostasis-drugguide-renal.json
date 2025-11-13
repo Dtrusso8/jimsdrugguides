@@ -1,0 +1,251 @@
+{
+  "title": "Course4 Homeostasis DrugGuide Renal",
+  "course": "Course 4",
+  "courseSlug": "course-4",
+  "tags": [
+    "ANTI-FUNGALS",
+    "ANTI-TUBERCULOSIS (Mycobacterium tuberculosis)",
+    "ANTI-VIRALS",
+    "ANTIBACTERIALS",
+    "CYSTIC FIBROSIS",
+    "DIURETICS",
+    "OBSTRUCTIVE LUNG DISEASE DRUGS (ASTHMA/COPD)",
+    "PRIMARY CARE DRUGS",
+    "PULMONARY ARTERIAL HYPERTENSION (PAH)"
+  ],
+  "tables": [
+    {
+      "headers": [
+        "RENAL SYSTEM"
+      ],
+      "rows": []
+    },
+    {
+      "headers": [
+        "DIURETICS",
+        "DIURETICS",
+        "DIURETICS",
+        "DIURETICS",
+        "DIURETICS"
+      ],
+      "rows": [
+        [
+          "K+-WASTING",
+          "K+-WASTING",
+          "K+-SPARING",
+          "",
+          ""
+        ],
+        [
+          "LOOP",
+          "THIAZIDE",
+          "",
+          "",
+          "OSMOTIC"
+        ],
+        [
+          "Na+/K+/2Cl- SYMPORTER INHIBITORS",
+          "Na+/Cl- SYMPORTER INHIBITORS",
+          "Na+/K+ ANTIPORTER<br>& ENaC INHIBITORS",
+          "CARBONIC ANHYDRASE INHIBITORS",
+          ""
+        ],
+        [
+          "Bumetanide",
+          "Chlorthalidone",
+          "ALDOSTERONE ANTAGS.",
+          "Acetazolamide",
+          "Mannitol"
+        ],
+        [
+          "Ethacrynic acid",
+          "Hydrochlorothiazide",
+          "Eplerenone",
+          "Brinzolamide",
+          "Urea"
+        ],
+        [
+          "Furosemide",
+          "Indapamide",
+          "Spironolactone",
+          "Dorzolamide",
+          ""
+        ],
+        [
+          "Torsemide",
+          "Metolazone",
+          "",
+          "Methazolamide",
+          ""
+        ],
+        [
+          "",
+          "",
+          "ENaC INHIBITORS",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Amiloride",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Triamterene",
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "cellData": {
+    "table_1_row_0_col_0": {
+      "content": "RENAL SYSTEM",
+      "summary": ""
+    },
+    "table_2_row_0_col_0": {
+      "content": "DIURETICS",
+      "summary": ""
+    },
+    "table_2_row_0_col_1": {
+      "content": "DIURETICS",
+      "summary": ""
+    },
+    "table_2_row_0_col_2": {
+      "content": "DIURETICS",
+      "summary": ""
+    },
+    "table_2_row_0_col_3": {
+      "content": "DIURETICS",
+      "summary": ""
+    },
+    "table_2_row_0_col_4": {
+      "content": "DIURETICS",
+      "summary": ""
+    },
+    "table_2_row_1_col_0": {
+      "content": "K+-WASTING",
+      "summary": ""
+    },
+    "table_2_row_1_col_1": {
+      "content": "K+-WASTING",
+      "summary": ""
+    },
+    "table_2_row_1_col_2": {
+      "content": "K+-SPARING",
+      "summary": ""
+    },
+    "table_2_row_2_col_0": {
+      "content": "LOOP",
+      "summary": ""
+    },
+    "table_2_row_2_col_1": {
+      "content": "THIAZIDE",
+      "summary": ""
+    },
+    "table_2_row_2_col_4": {
+      "content": "OSMOTIC",
+      "summary": ""
+    },
+    "table_2_row_3_col_0": {
+      "content": "Na+/K+/2Cl- SYMPORTER INHIBITORS",
+      "summary": ""
+    },
+    "table_2_row_3_col_1": {
+      "content": "Na+/Cl- SYMPORTER INHIBITORS",
+      "summary": ""
+    },
+    "table_2_row_3_col_2": {
+      "content": "Na+/K+ ANTIPORTER& ENaC INHIBITORS",
+      "summary": ""
+    },
+    "table_2_row_3_col_3": {
+      "content": "CARBONIC ANHYDRASE INHIBITORS",
+      "summary": ""
+    },
+    "table_2_row_4_col_0": {
+      "content": "Bumetanide",
+      "summary": ""
+    },
+    "table_2_row_4_col_1": {
+      "content": "Chlorthalidone",
+      "summary": ""
+    },
+    "table_2_row_4_col_2": {
+      "content": "ALDOSTERONE ANTAGS.",
+      "summary": ""
+    },
+    "table_2_row_4_col_3": {
+      "content": "Acetazolamide",
+      "summary": ""
+    },
+    "table_2_row_4_col_4": {
+      "content": "Mannitol",
+      "summary": ""
+    },
+    "table_2_row_5_col_0": {
+      "content": "Ethacrynic acid",
+      "summary": ""
+    },
+    "table_2_row_5_col_1": {
+      "content": "Hydrochlorothiazide",
+      "summary": ""
+    },
+    "table_2_row_5_col_2": {
+      "content": "Eplerenone",
+      "summary": ""
+    },
+    "table_2_row_5_col_3": {
+      "content": "Brinzolamide",
+      "summary": ""
+    },
+    "table_2_row_5_col_4": {
+      "content": "Urea",
+      "summary": ""
+    },
+    "table_2_row_6_col_0": {
+      "content": "Furosemide",
+      "summary": ""
+    },
+    "table_2_row_6_col_1": {
+      "content": "Indapamide",
+      "summary": ""
+    },
+    "table_2_row_6_col_2": {
+      "content": "Spironolactone",
+      "summary": ""
+    },
+    "table_2_row_6_col_3": {
+      "content": "Dorzolamide",
+      "summary": ""
+    },
+    "table_2_row_7_col_0": {
+      "content": "Torsemide",
+      "summary": ""
+    },
+    "table_2_row_7_col_1": {
+      "content": "Metolazone",
+      "summary": ""
+    },
+    "table_2_row_7_col_3": {
+      "content": "Methazolamide",
+      "summary": ""
+    },
+    "table_2_row_8_col_2": {
+      "content": "ENaC INHIBITORS",
+      "summary": ""
+    },
+    "table_2_row_9_col_2": {
+      "content": "Amiloride",
+      "summary": ""
+    },
+    "table_2_row_10_col_2": {
+      "content": "Triamterene",
+      "summary": ""
+    }
+  }
+}

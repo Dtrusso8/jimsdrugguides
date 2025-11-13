@@ -133,9 +133,96 @@ def convert_table(table) -> dict:
     }
 
 
+def generate_cell_data(tables: List[dict]) -> dict:
+    """Generate cellData structure for all non-empty cells in tables.
+    
+    Uses 1-based table indices to match HTML data-table-index attributes.
+    """
+    cell_data = {}
+    
+    for table_idx, table in enumerate(tables, start=1):  # Start at 1 to match HTML
+        # Process headers (row 0)
+        if table.get("headers"):
+            for col_idx, header in enumerate(table["headers"]):
+                if header and header.strip() and header.strip() != "&nbsp;":
+                    cell_id = f"table_{table_idx}_row_0_col_{col_idx}"
+                    # Normalize content: remove HTML tags, strip whitespace
+                    normalized = re.sub(r"<[^>]+>", "", header).strip()
+                    if normalized:
+                        cell_data[cell_id] = {
+                            "content": normalized,
+                            "summary": "",
+                        }
+        
+        # Process rows
+        if table.get("rows"):
+            for row_idx, row in enumerate(table["rows"], start=1):
+                for col_idx, cell in enumerate(row):
+                    if cell and cell.strip() and cell.strip() != "&nbsp;":
+                        cell_id = f"table_{table_idx}_row_{row_idx}_col_{col_idx}"
+                        # Normalize content: remove HTML tags, strip whitespace
+                        normalized = re.sub(r"<[^>]+>", "", cell).strip()
+                        if normalized:
+                            cell_data[cell_id] = {
+                                "content": normalized,
+                                "summary": "",
+                            }
+    
+    return cell_data
+
+
 def convert_document(meta: GuideMetadata, document: Document) -> dict:
     tables = [convert_table(table) for table in document.tables if table.rows]
     meta.table_count = len(tables)
+
+    # Preserve existing cellData if JSON file already exists
+    existing_cell_data = {}
+    if meta.json_path.exists():
+        try:
+            with meta.json_path.open("r", encoding="utf-8") as fh:
+                existing_data = json.load(fh)
+                existing_cell_data = existing_data.get("cellData", {})
+        except (json.JSONDecodeError, IOError):
+            pass
+
+    # Generate new cellData for all non-empty cells
+    new_cell_data = generate_cell_data(tables)
+    
+    # Build a content-to-summary map from existing data for migration
+    # This helps preserve summaries when cell IDs change (e.g., 0-based to 1-based indices)
+    content_to_summary = {}
+    for existing_entry in existing_cell_data.values():
+        content = existing_entry.get("content", "").strip()
+        summary = existing_entry.get("summary", "").strip()
+        if content and summary and summary != "no data":
+            # Use content as key (normalized)
+            normalized_content = re.sub(r"<[^>]+>", "", content).strip()
+            if normalized_content:
+                content_to_summary[normalized_content] = {
+                    "summary": summary,
+                    "lastUpdated": existing_entry.get("lastUpdated", ""),
+                }
+    
+    # Merge: preserve existing entries, add new ones
+    merged_cell_data = {**new_cell_data}
+    for cell_id, new_entry in new_cell_data.items():
+        # First try to match by cell_id (exact match)
+        if cell_id in existing_cell_data:
+            existing_entry = existing_cell_data[cell_id]
+            if existing_entry.get("summary"):
+                merged_cell_data[cell_id]["summary"] = existing_entry["summary"]
+            if "lastUpdated" in existing_entry:
+                merged_cell_data[cell_id]["lastUpdated"] = existing_entry["lastUpdated"]
+        else:
+            # If cell_id doesn't match, try to match by content (for index migration)
+            content = new_entry.get("content", "").strip()
+            normalized_content = re.sub(r"<[^>]+>", "", content).strip()
+            if normalized_content in content_to_summary:
+                # Found a match by content - migrate the summary
+                matched_data = content_to_summary[normalized_content]
+                merged_cell_data[cell_id]["summary"] = matched_data["summary"]
+                if matched_data.get("lastUpdated"):
+                    merged_cell_data[cell_id]["lastUpdated"] = matched_data["lastUpdated"]
 
     if not tables:
         return {
@@ -144,6 +231,7 @@ def convert_document(meta: GuideMetadata, document: Document) -> dict:
             "courseSlug": meta.course.slug,
             "tags": meta.tags,
             "tables": [],
+            "cellData": merged_cell_data,
         }
 
     return {
@@ -152,6 +240,7 @@ def convert_document(meta: GuideMetadata, document: Document) -> dict:
         "courseSlug": meta.course.slug,
         "tags": meta.tags,
         "tables": tables,
+        "cellData": merged_cell_data,
     }
 
 

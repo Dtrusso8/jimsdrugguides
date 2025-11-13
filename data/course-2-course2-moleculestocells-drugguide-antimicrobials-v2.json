@@ -1261,5 +1261,2376 @@
         ]
       ]
     }
-  ]
+  ],
+  "cellData": {
+    "table_1_row_0_col_0": {
+      "content": "ANTIBACTERIALS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:08:10-0500"
+    },
+    "table_1_row_0_col_1": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_1_row_0_col_2": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_1_row_0_col_3": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_1_row_0_col_4": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_1_row_0_col_5": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_1_row_0_col_6": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_1_row_0_col_7": {
+      "content": "ANTIBACTERIALS",
+      "summary": ""
+    },
+    "table_1_row_1_col_0": {
+      "content": "SPECTRUM",
+      "summary": "Rifampicin, also known as rifampin, is an ansamycin antibiotic used to treat several types of bacterial infections, including tuberculosis (TB), Mycobacterium avium complex, leprosy, and Legionnaires' disease. It is almost always used together with other antibiotics with two notable exceptions: when given as a \"preferred treatment that is strongly recommended\" for latent TB infection; and when used as post-exposure prophylaxis to prevent Haemophilus influenzae type b and meningococcal disease in...",
+      "lastUpdated": "2025-11-13T10:23:28-0500"
+    },
+    "table_1_row_1_col_1": {
+      "content": "Gram-positive",
+      "summary": "In bacteriology, Gram-positive bacteria are bacteria that give a positive result in the Gram stain test, which is traditionally used to quickly classify bacteria into two broad categories according to their type of cell wall.",
+      "lastUpdated": "2025-11-13T10:21:38-0500"
+    },
+    "table_1_row_1_col_2": {
+      "content": "Gram-positive",
+      "summary": "In bacteriology, Gram-positive bacteria are bacteria that give a positive result in the Gram stain test, which is traditionally used to quickly classify bacteria into two broad categories according to their type of cell wall.",
+      "lastUpdated": "2025-11-13T10:21:38-0500"
+    },
+    "table_1_row_1_col_3": {
+      "content": "G-pos./G-neg",
+      "summary": ""
+    },
+    "table_1_row_1_col_4": {
+      "content": "G-pos./G-neg",
+      "summary": ""
+    },
+    "table_1_row_1_col_5": {
+      "content": "Gram-negative",
+      "summary": "Gram-negative bacteria are bacteria that, unlike Gram-positive bacteria, do not retain the crystal violet stain used in the Gram staining method of bacterial differentiation. Their defining characteristic is that their cell envelope consists of a thin peptidoglycan cell wall sandwiched between an inner (cytoplasmic) membrane and an outer membrane. These bacteria are found in all environments that support life on Earth.",
+      "lastUpdated": "2025-11-13T10:21:46-0500"
+    },
+    "table_1_row_1_col_6": {
+      "content": "Gram-negative",
+      "summary": "Gram-negative bacteria are bacteria that, unlike Gram-positive bacteria, do not retain the crystal violet stain used in the Gram staining method of bacterial differentiation. Their defining characteristic is that their cell envelope consists of a thin peptidoglycan cell wall sandwiched between an inner (cytoplasmic) membrane and an outer membrane. These bacteria are found in all environments that support life on Earth.",
+      "lastUpdated": "2025-11-13T10:21:46-0500"
+    },
+    "table_1_row_1_col_7": {
+      "content": "Anti-Psuedomonals",
+      "summary": ""
+    },
+    "table_1_row_3_col_0": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_3_col_1": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_3_col_2": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_3_col_3": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_3_col_4": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_3_col_5": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_3_col_6": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_3_col_7": {
+      "content": "DNA-AFFECTING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_4_col_0": {
+      "content": "FOLATE SYNTH. INHIBS",
+      "summary": ""
+    },
+    "table_1_row_4_col_1": {
+      "content": "FOLATE SYNTH. INHIBS",
+      "summary": ""
+    },
+    "table_1_row_4_col_2": {
+      "content": "DNA DAMAGING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_4_col_3": {
+      "content": "DNA DAMAGING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_4_col_4": {
+      "content": "DNA DAMAGING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_4_col_5": {
+      "content": "DNA DAMAGING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_4_col_6": {
+      "content": "DNA DAMAGING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_4_col_7": {
+      "content": "DNA DAMAGING DRUGS",
+      "summary": ""
+    },
+    "table_1_row_5_col_0": {
+      "content": "SULFONAMIDES",
+      "summary": "In organic chemistry, the sulfonamide functional group is an organosulfur group with the structure R−S(=O)2−NR2. It consists of a sulfonyl group connected to an amine group. Relatively speaking this group is unreactive. Because of the rigidity of the functional group, sulfonamides are typically crystalline; for this reason, the formation of a sulfonamide is a classic method to convert an amine into a crystalline derivative which can be identified by its melting point. Many important drugs contai...",
+      "lastUpdated": "2025-11-13T11:07:28-0500"
+    },
+    "table_1_row_5_col_1": {
+      "content": "SULFONAMIDES",
+      "summary": "In organic chemistry, the sulfonamide functional group is an organosulfur group with the structure R−S(=O)2−NR2. It consists of a sulfonyl group connected to an amine group. Relatively speaking this group is unreactive. Because of the rigidity of the functional group, sulfonamides are typically crystalline; for this reason, the formation of a sulfonamide is a classic method to convert an amine into a crystalline derivative which can be identified by its melting point. Many important drugs contai...",
+      "lastUpdated": "2025-11-13T11:07:28-0500"
+    },
+    "table_1_row_5_col_2": {
+      "content": "NITROIMIDAZOLE",
+      "summary": "Nitroimidazoles are the group of organic compounds consisting of an imidazole ring with at least one nitro group substituent. The term also refers to the class of antibiotics that have nitroimidazole in their structures. These antibiotics commonly include the 5-nitroimidazole positional isomer.",
+      "lastUpdated": "2025-11-13T11:07:30-0500"
+    },
+    "table_1_row_5_col_3": {
+      "content": "NITROIMIDAZOLE",
+      "summary": "Nitroimidazoles are the group of organic compounds consisting of an imidazole ring with at least one nitro group substituent. The term also refers to the class of antibiotics that have nitroimidazole in their structures. These antibiotics commonly include the 5-nitroimidazole positional isomer.",
+      "lastUpdated": "2025-11-13T11:07:30-0500"
+    },
+    "table_1_row_5_col_4": {
+      "content": "NITROFURAN",
+      "summary": "Nitrofurans are a class of drugs typically used as antibiotics or antimicrobials. The defining structural component is a furan ring with a nitro group.",
+      "lastUpdated": "2025-11-13T11:07:31-0500"
+    },
+    "table_1_row_5_col_5": {
+      "content": "NITROFURAN",
+      "summary": "Nitrofurans are a class of drugs typically used as antibiotics or antimicrobials. The defining structural component is a furan ring with a nitro group.",
+      "lastUpdated": "2025-11-13T11:07:31-0500"
+    },
+    "table_1_row_5_col_6": {
+      "content": "FLUOROQUINOLONES",
+      "summary": "Quinolone antibiotics constitute a large group of broad-spectrum bacteriocidals that share a bicyclic core structure related to the substance 4-quinolone. They are used in human and veterinary medicine to treat bacterial infections, as well as in animal husbandry, specifically poultry production.",
+      "lastUpdated": "2025-11-13T11:07:32-0500"
+    },
+    "table_1_row_5_col_7": {
+      "content": "FLUOROQUINOLONES",
+      "summary": "Quinolone antibiotics constitute a large group of broad-spectrum bacteriocidals that share a bicyclic core structure related to the substance 4-quinolone. They are used in human and veterinary medicine to treat bacterial infections, as well as in animal husbandry, specifically poultry production.",
+      "lastUpdated": "2025-11-13T11:07:32-0500"
+    },
+    "table_1_row_6_col_6": {
+      "content": "2nd GENERATION",
+      "summary": ""
+    },
+    "table_1_row_6_col_7": {
+      "content": "2nd GENERATION",
+      "summary": ""
+    },
+    "table_1_row_7_col_0": {
+      "content": "Sulfadiazine 2 (Or)",
+      "summary": ""
+    },
+    "table_1_row_7_col_1": {
+      "content": "Sulfadiazine 2 (Or)",
+      "summary": ""
+    },
+    "table_1_row_7_col_2": {
+      "content": "Metronidazole (Or)",
+      "summary": "Metronidazole, sold under the brand name Flagyl and Metrogyl among others, is an antibiotic and antiprotozoal medication. It is used either alone or with other antibiotics to treat pelvic inflammatory disease, endocarditis, and bacterial vaginosis. It is effective for dracunculiasis, giardiasis, trichomoniasis, and amebiasis. It is an option for a first episode of mild-to-moderate Clostridioides difficile colitis if vancomycin or fidaxomicin is unavailable. Metronidazole is available orally, as ...",
+      "lastUpdated": "2025-11-13T10:22:51-0500"
+    },
+    "table_1_row_7_col_3": {
+      "content": "Metronidazole (Or)",
+      "summary": "Metronidazole, sold under the brand name Flagyl and Metrogyl among others, is an antibiotic and antiprotozoal medication. It is used either alone or with other antibiotics to treat pelvic inflammatory disease, endocarditis, and bacterial vaginosis. It is effective for dracunculiasis, giardiasis, trichomoniasis, and amebiasis. It is an option for a first episode of mild-to-moderate Clostridioides difficile colitis if vancomycin or fidaxomicin is unavailable. Metronidazole is available orally, as ...",
+      "lastUpdated": "2025-11-13T10:22:51-0500"
+    },
+    "table_1_row_7_col_4": {
+      "content": "Nitrofurantoin (Or)",
+      "summary": "Nitrofurantoin, sold under the brand name Macrobid among others, is an antibacterial medication of the nitrofuran class. It is used primarily to treat lower urinary tract infections (UTIs) but it is also used in bladder infections. It is not indicated for kidney infections nor is it as effective for them. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:22:54-0500"
+    },
+    "table_1_row_7_col_5": {
+      "content": "Nitrofurantoin (Or)",
+      "summary": "Nitrofurantoin, sold under the brand name Macrobid among others, is an antibacterial medication of the nitrofuran class. It is used primarily to treat lower urinary tract infections (UTIs) but it is also used in bladder infections. It is not indicated for kidney infections nor is it as effective for them. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:22:54-0500"
+    },
+    "table_1_row_7_col_6": {
+      "content": "Ciprofloxacin (IV/Or)",
+      "summary": "Ciprofloxacin is a fluoroquinolone antibiotic used to treat a number of bacterial infections. This includes bone and joint infections, intra-abdominal infections, certain types of infectious diarrhea, respiratory tract infections, skin infections, typhoid fever, and urinary tract infections, among others. For some infections it is used in addition to other antibiotics. It can be taken by mouth, as eye drops, as ear drops, or intravenously.",
+      "lastUpdated": "2025-11-13T10:22:56-0500"
+    },
+    "table_1_row_7_col_7": {
+      "content": "Ciprofloxacin (IV/Or)",
+      "summary": "Ciprofloxacin is a fluoroquinolone antibiotic used to treat a number of bacterial infections. This includes bone and joint infections, intra-abdominal infections, certain types of infectious diarrhea, respiratory tract infections, skin infections, typhoid fever, and urinary tract infections, among others. For some infections it is used in addition to other antibiotics. It can be taken by mouth, as eye drops, as ear drops, or intravenously.",
+      "lastUpdated": "2025-11-13T10:22:56-0500"
+    },
+    "table_1_row_8_col_0": {
+      "content": "Sulfisoxazole (Or)",
+      "summary": "Sulfafurazole is a sulfonamide antibacterial with a dimethyl-isoxazole substituent. It possesses antibiotic activity against a wide range of Gram-negative and Gram-positive organisms. It is sometimes given in combination with erythromycin or phenazopyridine. It is used locally in a 4% solution or ointment.",
+      "lastUpdated": "2025-11-13T10:22:59-0500"
+    },
+    "table_1_row_8_col_1": {
+      "content": "Sulfisoxazole (Or)",
+      "summary": "Sulfafurazole is a sulfonamide antibacterial with a dimethyl-isoxazole substituent. It possesses antibiotic activity against a wide range of Gram-negative and Gram-positive organisms. It is sometimes given in combination with erythromycin or phenazopyridine. It is used locally in a 4% solution or ointment.",
+      "lastUpdated": "2025-11-13T10:22:59-0500"
+    },
+    "table_1_row_8_col_6": {
+      "content": "Norfloxacin (Or)",
+      "summary": "Norfloxacin, sold under the brand name Noroxin among others, is an antibiotic that belongs to the class of fluoroquinolone antibiotics. It is used to treat urinary tract infections, gynecological infections, inflammation of the prostate gland, gonorrhea and bladder infection. Eye drops were approved for use in children older than one year of age.",
+      "lastUpdated": "2025-11-13T10:23:03-0500"
+    },
+    "table_1_row_8_col_7": {
+      "content": "Norfloxacin (Or)",
+      "summary": "Norfloxacin, sold under the brand name Noroxin among others, is an antibiotic that belongs to the class of fluoroquinolone antibiotics. It is used to treat urinary tract infections, gynecological infections, inflammation of the prostate gland, gonorrhea and bladder infection. Eye drops were approved for use in children older than one year of age.",
+      "lastUpdated": "2025-11-13T10:23:03-0500"
+    },
+    "table_1_row_9_col_0": {
+      "content": "Sulfamethoxazole 1 (IV/Or)",
+      "summary": ""
+    },
+    "table_1_row_9_col_1": {
+      "content": "Sulfamethoxazole 1 (IV/Or)",
+      "summary": ""
+    },
+    "table_1_row_9_col_6": {
+      "content": "Ofloxacin (IV/Or/Opth)",
+      "summary": "Ofloxacin is a quinolone antibiotic useful for the treatment of a number of bacterial infections. When taken by mouth or injection into a vein, these include pneumonia, cellulitis, urinary tract infections, prostatitis, plague, and certain types of infectious diarrhea. Other uses, along with other medications, include treating multidrug resistant tuberculosis. An eye drop may be used for a superficial bacterial infection of the eye and an ear drop may be used for otitis media when a hole in the ...",
+      "lastUpdated": "2025-11-13T10:23:11-0500"
+    },
+    "table_1_row_9_col_7": {
+      "content": "Ofloxacin (IV/Or/Opth)",
+      "summary": "Ofloxacin is a quinolone antibiotic useful for the treatment of a number of bacterial infections. When taken by mouth or injection into a vein, these include pneumonia, cellulitis, urinary tract infections, prostatitis, plague, and certain types of infectious diarrhea. Other uses, along with other medications, include treating multidrug resistant tuberculosis. An eye drop may be used for a superficial bacterial infection of the eye and an ear drop may be used for otitis media when a hole in the ...",
+      "lastUpdated": "2025-11-13T10:23:11-0500"
+    },
+    "table_1_row_10_col_6": {
+      "content": "3rd GENERATION",
+      "summary": ""
+    },
+    "table_1_row_10_col_7": {
+      "content": "3rd GENERATION",
+      "summary": ""
+    },
+    "table_1_row_11_col_0": {
+      "content": "COMBO WITH…",
+      "summary": ""
+    },
+    "table_1_row_11_col_1": {
+      "content": "COMBO WITH…",
+      "summary": ""
+    },
+    "table_1_row_11_col_6": {
+      "content": "Levofloxacin (IV/Or)",
+      "summary": "Levofloxacin, sold under the brand name Levaquin among others, is a broad-spectrum antibiotic of the fluoroquinolone drug class. It is the left-handed isomer of the medication ofloxacin. It is used to treat a number of bacterial infections including acute bacterial sinusitis, pneumonia, H. pylori, urinary tract infections, Legionnaires' disease, chronic bacterial prostatitis, and some types of gastroenteritis. Along with other antibiotics it may be used to treat tuberculosis, meningitis, or pelv...",
+      "lastUpdated": "2025-11-13T10:23:20-0500"
+    },
+    "table_1_row_11_col_7": {
+      "content": "Levofloxacin (IV/Or)",
+      "summary": "Levofloxacin, sold under the brand name Levaquin among others, is a broad-spectrum antibiotic of the fluoroquinolone drug class. It is the left-handed isomer of the medication ofloxacin. It is used to treat a number of bacterial infections including acute bacterial sinusitis, pneumonia, H. pylori, urinary tract infections, Legionnaires' disease, chronic bacterial prostatitis, and some types of gastroenteritis. Along with other antibiotics it may be used to treat tuberculosis, meningitis, or pelv...",
+      "lastUpdated": "2025-11-13T10:23:20-0500"
+    },
+    "table_1_row_12_col_0": {
+      "content": "1 Trimethoprim",
+      "summary": ""
+    },
+    "table_1_row_12_col_1": {
+      "content": "1 Trimethoprim",
+      "summary": ""
+    },
+    "table_1_row_12_col_6": {
+      "content": "4th GENERATION",
+      "summary": ""
+    },
+    "table_1_row_12_col_7": {
+      "content": "4th GENERATION",
+      "summary": ""
+    },
+    "table_1_row_13_col_0": {
+      "content": "2 Pyrimethamine",
+      "summary": ""
+    },
+    "table_1_row_13_col_1": {
+      "content": "2 Pyrimethamine",
+      "summary": ""
+    },
+    "table_1_row_13_col_6": {
+      "content": "Moxifloxacin (IV/Or)",
+      "summary": "Moxifloxacin is an antibiotic, used to treat bacterial infections, including pneumonia, conjunctivitis, endocarditis, tuberculosis, and sinusitis. It can be given by mouth, by injection into a vein, and as an eye drop.",
+      "lastUpdated": "2025-11-13T10:23:24-0500"
+    },
+    "table_1_row_13_col_7": {
+      "content": "Moxifloxacin (IV/Or)",
+      "summary": "Moxifloxacin is an antibiotic, used to treat bacterial infections, including pneumonia, conjunctivitis, endocarditis, tuberculosis, and sinusitis. It can be given by mouth, by injection into a vein, and as an eye drop.",
+      "lastUpdated": "2025-11-13T10:23:24-0500"
+    },
+    "table_1_row_14_col_6": {
+      "content": "Gatifloxacin (Opth)",
+      "summary": "Gatifloxacin is an antibiotic of the fourth-generation fluoroquinolone family, that like other members of that family, inhibits the bacterial enzymes DNA gyrase and topoisomerase IV.",
+      "lastUpdated": "2025-11-13T10:23:27-0500"
+    },
+    "table_1_row_14_col_7": {
+      "content": "Gatifloxacin (Opth)",
+      "summary": "Gatifloxacin is an antibiotic of the fourth-generation fluoroquinolone family, that like other members of that family, inhibits the bacterial enzymes DNA gyrase and topoisomerase IV.",
+      "lastUpdated": "2025-11-13T10:23:27-0500"
+    },
+    "table_2_row_0_col_0": {
+      "content": "mRNA SYNTHESIS INHIBITORS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:08:17-0500"
+    },
+    "table_2_row_1_col_0": {
+      "content": "Rifampin",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:08:24-0500"
+    },
+    "table_3_row_0_col_0": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": "A protein synthesis inhibitor is a compound that stops or slows the growth or proliferation of cells by disrupting the processes that lead directly to the generation of new proteins.",
+      "lastUpdated": "2025-11-13T11:09:55-0500"
+    },
+    "table_3_row_0_col_1": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": "A protein synthesis inhibitor is a compound that stops or slows the growth or proliferation of cells by disrupting the processes that lead directly to the generation of new proteins.",
+      "lastUpdated": "2025-11-13T11:09:55-0500"
+    },
+    "table_3_row_0_col_2": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": "A protein synthesis inhibitor is a compound that stops or slows the growth or proliferation of cells by disrupting the processes that lead directly to the generation of new proteins.",
+      "lastUpdated": "2025-11-13T11:09:55-0500"
+    },
+    "table_3_row_0_col_3": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": "A protein synthesis inhibitor is a compound that stops or slows the growth or proliferation of cells by disrupting the processes that lead directly to the generation of new proteins.",
+      "lastUpdated": "2025-11-13T11:09:55-0500"
+    },
+    "table_3_row_0_col_4": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": "A protein synthesis inhibitor is a compound that stops or slows the growth or proliferation of cells by disrupting the processes that lead directly to the generation of new proteins.",
+      "lastUpdated": "2025-11-13T11:09:55-0500"
+    },
+    "table_3_row_0_col_5": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": "A protein synthesis inhibitor is a compound that stops or slows the growth or proliferation of cells by disrupting the processes that lead directly to the generation of new proteins.",
+      "lastUpdated": "2025-11-13T11:09:55-0500"
+    },
+    "table_3_row_0_col_6": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_3_row_0_col_7": {
+      "content": "CELL WALL SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_3_row_1_col_0": {
+      "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:10:00-0500"
+    },
+    "table_3_row_1_col_1": {
+      "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+      "summary": ""
+    },
+    "table_3_row_1_col_2": {
+      "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:10:07-0500"
+    },
+    "table_3_row_1_col_3": {
+      "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+      "summary": ""
+    },
+    "table_3_row_1_col_4": {
+      "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+      "summary": ""
+    },
+    "table_3_row_1_col_5": {
+      "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
+      "summary": ""
+    },
+    "table_3_row_1_col_6": {
+      "content": "GLYCOPEPTIDES",
+      "summary": "Glycopeptides are peptides that contain carbohydrate moieties (glycans) covalently attached to the side chains of the amino acid residues that constitute the peptide.",
+      "lastUpdated": "2025-11-13T11:08:26-0500"
+    },
+    "table_3_row_1_col_7": {
+      "content": "GLYCOPEPTIDES",
+      "summary": "Glycopeptides are peptides that contain carbohydrate moieties (glycans) covalently attached to the side chains of the amino acid residues that constitute the peptide.",
+      "lastUpdated": "2025-11-13T11:08:26-0500"
+    },
+    "table_3_row_2_col_0": {
+      "content": "PENICILLINS",
+      "summary": "Aminoglycoside is a medicinal and bacteriologic category of traditional Gram-negative antibacterial medications that inhibit protein synthesis and contain as a portion of the molecule an amino-modified glycoside (sugar). The term can also refer more generally to any organic molecule that contains amino sugar substructures. Aminoglycoside antibiotics display bactericidal activity against Gram-negative aerobes and some anaerobic bacilli where resistance has not yet arisen but generally not against...",
+      "lastUpdated": "2025-11-13T11:10:08-0500"
+    },
+    "table_3_row_2_col_1": {
+      "content": "PENICILLINS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:10:13-0500"
+    },
+    "table_3_row_2_col_2": {
+      "content": "PENICILLINS",
+      "summary": "Macrolides are a class of mostly natural products with a large macrocyclic lactone ring to which one or more deoxy sugars, usually cladinose and desosamine, may be attached. Macrolides belong to the polyketide class of natural products. Some macrolides have antibiotic or antifungal activity and are used as pharmaceutical drugs. Rapamycin is also a macrolide and was originally developed as an antifungal, but has since been used as an immunosuppressant drug and is being investigated as a potential...",
+      "lastUpdated": "2025-11-13T11:10:15-0500"
+    },
+    "table_3_row_2_col_3": {
+      "content": "MONOBACTAMS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:10:19-0500"
+    },
+    "table_3_row_2_col_4": {
+      "content": "CARBAPENEMS",
+      "summary": "Streptogramins are a class of antibiotics. They work as protein synthesis inhibitors.",
+      "lastUpdated": "2025-11-13T11:10:20-0500"
+    },
+    "table_3_row_2_col_5": {
+      "content": "CEPHALOSPORINS",
+      "summary": "Lincosamides are a class of antibiotics, which include lincomycin, clindamycin, and pirlimycin.",
+      "lastUpdated": "2025-11-13T11:10:22-0500"
+    },
+    "table_3_row_2_col_6": {
+      "content": "D-ala-D-ala INHIB.",
+      "summary": ""
+    },
+    "table_3_row_2_col_7": {
+      "content": "PG TRANS. INHIB.",
+      "summary": ""
+    },
+    "table_3_row_3_col_0": {
+      "content": "Penicillin G (IV/IM)",
+      "summary": "Streptomycin is an antibiotic medication used to treat a number of bacterial infections, including tuberculosis, Mycobacterium avium complex, endocarditis, brucellosis, Burkholderia infection, plague, tularemia, and rat bite fever. For active tuberculosis it is often given together with isoniazid, rifampicin, and pyrazinamide. It is administered by injection into a vein or muscle.",
+      "lastUpdated": "2025-11-13T10:27:06-0500"
+    },
+    "table_3_row_3_col_1": {
+      "content": "Penicillin G (IV/IM)",
+      "summary": "Tetracycline, sold under various brand names, is an antibiotic in the tetracyclines family of medications, used to treat a number of infections, including acne, cholera, brucellosis, plague, malaria, and syphilis. It is available in oral and topical formulations.",
+      "lastUpdated": "2025-11-13T10:27:08-0500"
+    },
+    "table_3_row_3_col_2": {
+      "content": "Penicillin G (IV/IM)",
+      "summary": "Erythromycin is an antibiotic used for the treatment of a number of bacterial infections. This includes respiratory tract infections, skin infections, chlamydia infections, pelvic inflammatory disease, and syphilis. It may also be used during pregnancy to prevent Group B streptococcal infection in the newborn, and to improve delayed stomach emptying. It can be given intravenously and by mouth. An eye ointment is routinely recommended after delivery to prevent eye infections in the newborn.",
+      "lastUpdated": "2025-11-13T10:27:10-0500"
+    },
+    "table_3_row_3_col_3": {
+      "content": "Aztreonam (IV)",
+      "summary": "Linezolid is an antibiotic used for the treatment of infections caused by Gram-positive bacteria that are resistant to other antibiotics. Linezolid is active against most Gram-positive bacteria that cause disease, including streptococci, vancomycin-resistant enterococci (VRE), and methicillin-resistant Staphylococcus aureus (MRSA). The main uses are infections of the skin and pneumonia although it may be used for a variety of other infections including drug-resistant tuberculosis. It is used eit...",
+      "lastUpdated": "2025-11-13T10:27:11-0500"
+    },
+    "table_3_row_3_col_4": {
+      "content": "Doripenem (IV)",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:10:24-0500"
+    },
+    "table_3_row_3_col_5": {
+      "content": "Cephalexin (1st) (Or)",
+      "summary": "Clindamycin is a lincosamide antibiotic medication used for the treatment of a number of bacterial infections, including osteomyelitis (bone) or joint infections, pelvic inflammatory disease, strep throat, pneumonia, acute otitis media, and endocarditis. It can also be used to treat acne, and some cases of methicillin-resistant Staphylococcus aureus (MRSA). In combination with quinine, it can be used to treat malaria. It is available by mouth, by injection into a vein, and as a cream or a gel to...",
+      "lastUpdated": "2025-11-13T10:27:18-0500"
+    },
+    "table_3_row_3_col_6": {
+      "content": "Vancomycin (IV)",
+      "summary": "Vancomycin is a glycopeptide antibiotic medication used to treat certain bacterial infections. It is administered intravenously to treat complicated skin infections, bloodstream infections, endocarditis, bone and joint infections, and meningitis caused by methicillin-resistant Staphylococcus aureus. Blood levels may be measured to determine the correct dose. Vancomycin is also taken orally to treat Clostridioides difficile infections. When taken orally, it is poorly absorbed.",
+      "lastUpdated": "2025-11-13T10:24:26-0500"
+    },
+    "table_3_row_3_col_7": {
+      "content": "Bacitracin (Top)",
+      "summary": "Bacitracin is a polypeptide antibiotic. It is a mixture of related cyclic peptides produced by Bacillus licheniformis bacteria, that was first isolated from the variety \"Tracy I\" in 1945. These peptides disrupt Gram-positive bacteria by interfering with cell wall and peptidoglycan synthesis.",
+      "lastUpdated": "2025-11-13T10:24:31-0500"
+    },
+    "table_3_row_4_col_0": {
+      "content": "Penicillin V (Or)",
+      "summary": "Neomycin, also known as framycetin, is an aminoglycoside antibiotic that displays bactericidal activity against Gram-negative aerobic bacilli and some anaerobic bacilli where resistance has not yet arisen. It is generally not effective against Gram-positive bacilli and anaerobic Gram-negative bacilli. Neomycin comes in oral and topical formulations, including creams, ointments, and eyedrops. Neomycin belongs to the aminoglycoside class of antibiotics that contain two or more amino sugars connect...",
+      "lastUpdated": "2025-11-13T10:27:19-0500"
+    },
+    "table_3_row_4_col_1": {
+      "content": "Penicillin V (Or)",
+      "summary": "Doxycycline is a broad-spectrum antibiotic of the tetracycline class used in the treatment of infections caused by bacteria and certain parasites. It is used to treat bacterial pneumonia, acne, chlamydia infections, Lyme disease, cholera, typhus, and syphilis. It is also used to prevent malaria. Doxycycline may be taken by mouth or intravenously.",
+      "lastUpdated": "2025-11-13T10:27:20-0500"
+    },
+    "table_3_row_4_col_2": {
+      "content": "Penicillin V (Or)",
+      "summary": "Clarithromycin, sold under the brand name Biaxin among others, is an antibiotic used to treat various bacterial infections. This includes strep throat, pneumonia, skin infections, H. pylori infection, and Lyme disease, among others. Clarithromycin can be taken by mouth as a tablet or liquid or can be infused intravenously.",
+      "lastUpdated": "2025-11-13T10:27:22-0500"
+    },
+    "table_3_row_4_col_4": {
+      "content": "Ertapenam (IV)",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:10:28-0500"
+    },
+    "table_3_row_4_col_5": {
+      "content": "Cefazolin (1st) (IV/IM)",
+      "summary": "Cefazolin, also known as cefazoline and cephazolin, is a first-generation cephalosporin antibiotic used for the treatment of a number of bacterial infections. Specifically it is used to treat cellulitis, urinary tract infections, pneumonia, endocarditis, joint infection, and biliary tract infections. It is also used to prevent group B streptococcal disease around the time of delivery and before surgery. It is typically given by injection into a muscle or vein.",
+      "lastUpdated": "2025-11-13T10:24:42-0500"
+    },
+    "table_3_row_5_col_4": {
+      "content": "Imipenem 4 (IV)",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:10:32-0500"
+    },
+    "table_3_row_5_col_5": {
+      "content": "Cefaclor (2nd) (Or)",
+      "summary": "Cefaclor, sold under the trade name Ceclor among others, is a second-generation cephalosporin antibiotic used to treat certain bacterial infections such as pneumonia and infections of the ear, lung, skin, throat, and urinary tract. It is also available from other manufacturers as a generic.",
+      "lastUpdated": "2025-11-13T10:24:48-0500"
+    },
+    "table_3_row_6_col_1": {
+      "content": "LACTAMASE-RES",
+      "summary": "Tigecycline, sold under the brand name Tygacil, is a tetracycline antibiotic medication for a number of bacterial infections. It is a glycylcycline class drug that is administered intravenously. It was developed in response to the growing rate of antibiotic resistant bacteria such as Staphylococcus aureus, Acinetobacter baumannii, and E. coli. As a tetracycline derivative antibiotic, its structural modifications has expanded its therapeutic activity to include Gram-positive and Gram-negative org...",
+      "lastUpdated": "2025-11-13T10:27:37-0500"
+    },
+    "table_3_row_6_col_4": {
+      "content": "Meropenem 1, 5 (IV)",
+      "summary": ""
+    },
+    "table_3_row_6_col_5": {
+      "content": "Cefotetan (2nd) (IV/IM)",
+      "summary": "Other often refers to:Other (philosophy), a concept in psychology and philosophy",
+      "lastUpdated": "2025-11-13T11:10:33-0500"
+    },
+    "table_3_row_7_col_0": {
+      "content": "Dicloxacillin (Or)",
+      "summary": "Amikacin is an antibiotic medication used for a number of bacterial infections. This includes joint infections, intra-abdominal infections, meningitis, pneumonia, sepsis, and urinary tract infections. It is also used for the treatment of multidrug-resistant tuberculosis. It is used by injection into a vein using an IV or into a muscle.",
+      "lastUpdated": "2025-11-13T10:27:41-0500"
+    },
+    "table_3_row_7_col_1": {
+      "content": "Dicloxacillin (Or)",
+      "summary": "Dicloxacillin is a narrow-spectrum β-lactam antibiotic of the penicillin class. It is used to treat infections caused by susceptible (non-resistant) Gram-positive bacteria. It is active against beta-lactamase-producing organisms such as Staphylococcus aureus, which would otherwise be resistant to most penicillins. Dicloxacillin is available under a variety of trade names including Diclocil (BMS).",
+      "lastUpdated": "2025-11-13T10:25:09-0500"
+    },
+    "table_3_row_7_col_2": {
+      "content": "Dicloxacillin (Or)",
+      "summary": "Dicloxacillin is a narrow-spectrum β-lactam antibiotic of the penicillin class. It is used to treat infections caused by susceptible (non-resistant) Gram-positive bacteria. It is active against beta-lactamase-producing organisms such as Staphylococcus aureus, which would otherwise be resistant to most penicillins. Dicloxacillin is available under a variety of trade names including Diclocil (BMS).",
+      "lastUpdated": "2025-11-13T10:25:09-0500"
+    },
+    "table_3_row_7_col_5": {
+      "content": "Cefoxitin (2nd) (IV)",
+      "summary": "Chloramphenicol is an antibiotic useful for the treatment of a number of bacterial infections. This includes use as an eye ointment to treat conjunctivitis. By mouth or by injection into a vein, it is used to treat meningitis, plague, cholera, and typhoid fever. Its use by mouth or by injection is only recommended when safer antibiotics cannot be used. Monitoring both blood levels of the medication and blood cell levels every two days is recommended during treatment.",
+      "lastUpdated": "2025-11-13T10:27:42-0500"
+    },
+    "table_3_row_8_col_0": {
+      "content": "Methacillin (IV)",
+      "summary": ""
+    },
+    "table_3_row_8_col_1": {
+      "content": "Methacillin (IV)",
+      "summary": ""
+    },
+    "table_3_row_8_col_2": {
+      "content": "Methacillin (IV)",
+      "summary": ""
+    },
+    "table_3_row_8_col_5": {
+      "content": "Cefuroxime (2nd) (IV/IM)",
+      "summary": "Cefuroxime, sold under the brand name Zinacef among others, is a second-generation cephalosporin antibiotic used to treat and prevent a number of bacterial infections. These include pneumonia, meningitis, otitis media, sepsis, urinary tract infections, and Lyme disease. It is used by mouth or by injection into a vein or muscle.",
+      "lastUpdated": "2025-11-13T10:25:21-0500"
+    },
+    "table_3_row_9_col_0": {
+      "content": "Nafcillin (IV)",
+      "summary": "Nafcillin sodium is a narrow-spectrum, second-generation beta-lactam antibiotic of the penicillin class. As a beta-lactamase-resistant penicillin, it is used to treat infections caused by Gram-positive bacteria, in particular, species of staphylococci that are resistant to other penicillins.",
+      "lastUpdated": "2025-11-13T10:25:27-0500"
+    },
+    "table_3_row_9_col_1": {
+      "content": "Nafcillin (IV)",
+      "summary": "Nafcillin sodium is a narrow-spectrum, second-generation beta-lactam antibiotic of the penicillin class. As a beta-lactamase-resistant penicillin, it is used to treat infections caused by Gram-positive bacteria, in particular, species of staphylococci that are resistant to other penicillins.",
+      "lastUpdated": "2025-11-13T10:25:27-0500"
+    },
+    "table_3_row_9_col_2": {
+      "content": "Nafcillin (IV)",
+      "summary": "Nafcillin sodium is a narrow-spectrum, second-generation beta-lactam antibiotic of the penicillin class. As a beta-lactamase-resistant penicillin, it is used to treat infections caused by Gram-positive bacteria, in particular, species of staphylococci that are resistant to other penicillins.",
+      "lastUpdated": "2025-11-13T10:25:27-0500"
+    },
+    "table_3_row_9_col_5": {
+      "content": "Cefotaxime (3rd) (IV/IM)",
+      "summary": "Cefotaxime is an antibiotic used to treat several bacterial infections in humans, other animals, and plant tissue culture. Specifically in humans it is used to treat joint infections, pelvic inflammatory disease, meningitis, pneumonia, urinary tract infections, sepsis, gonorrhea, and cellulitis. It is given either by injection into a vein or muscle.",
+      "lastUpdated": "2025-11-13T10:25:29-0500"
+    },
+    "table_3_row_10_col_0": {
+      "content": "Oxacillin (IV/IM)",
+      "summary": "Oxacillin is a narrow-spectrum second-generation beta-lactam antibiotic of the penicillin class developed by Beecham.",
+      "lastUpdated": "2025-11-13T10:25:34-0500"
+    },
+    "table_3_row_10_col_1": {
+      "content": "Oxacillin (IV/IM)",
+      "summary": "Oxacillin is a narrow-spectrum second-generation beta-lactam antibiotic of the penicillin class developed by Beecham.",
+      "lastUpdated": "2025-11-13T10:25:34-0500"
+    },
+    "table_3_row_10_col_2": {
+      "content": "Oxacillin (IV/IM)",
+      "summary": "Oxacillin is a narrow-spectrum second-generation beta-lactam antibiotic of the penicillin class developed by Beecham.",
+      "lastUpdated": "2025-11-13T10:25:34-0500"
+    },
+    "table_3_row_10_col_5": {
+      "content": "Cefixime (3rd) (Or/IV)",
+      "summary": "Cefixime, sold under the brand name Suprax among others, is an antibiotic medication used to treat a number of bacterial infections. These infections include otitis media, strep throat, pneumonia, urinary tract infections, gonorrhea, and Lyme disease. For gonorrhea typically only one dose is required. In the United States it is a second-line treatment to ceftriaxone for gonorrhea. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:25:35-0500"
+    },
+    "table_3_row_11_col_5": {
+      "content": "Cefdinir (3rd) (Or)",
+      "summary": "Cefdinir, sold under the brand name Omnicef among others, is an antibiotic used to treat bacterial infections including bacterial pneumonia, other respiratory tract infections, otitis media, strep throat, and cellulitis. It may also be used as an alternative antibiotic for those with a severe penicillin allergy. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:25:36-0500"
+    },
+    "table_3_row_12_col_1": {
+      "content": "AMINOPENICILLIN",
+      "summary": "The aminopenicillins are a group of antibiotics in the penicillin family that are structural analogs of ampicillin. Like other penicillins and beta-lactam antibiotics, they contain a beta-lactam ring that is crucial to its antibacterial activity.",
+      "lastUpdated": "2025-11-13T11:09:04-0500"
+    },
+    "table_3_row_12_col_3": {
+      "content": "COMBO WITH LACTAMASE INHIBITORS",
+      "summary": ""
+    },
+    "table_3_row_12_col_4": {
+      "content": "COMBO WITH LACTAMASE INHIBITORS",
+      "summary": ""
+    },
+    "table_3_row_12_col_5": {
+      "content": "Ceftriaxone (3rd) (IV/IM)",
+      "summary": "Ceftriaxone, sold under the brand name Rocephin, is a third-generation cephalosporin antibiotic used for the treatment of a number of bacterial infections. These include middle ear infections, endocarditis, meningitis, pneumonia, bone and joint infections, intra-abdominal infections, skin infections, urinary tract infections, gonorrhea, and pelvic inflammatory disease. It is also sometimes used before surgery and following a bite wound to try to prevent infection. Ceftriaxone can be given by inj...",
+      "lastUpdated": "2025-11-13T10:25:46-0500"
+    },
+    "table_3_row_13_col_0": {
+      "content": "Ampicillin1 (IV/IM)",
+      "summary": ""
+    },
+    "table_3_row_13_col_1": {
+      "content": "Ampicillin1 (IV/IM)",
+      "summary": ""
+    },
+    "table_3_row_13_col_2": {
+      "content": "Ampicillin1 (IV/IM)",
+      "summary": ""
+    },
+    "table_3_row_13_col_3": {
+      "content": "1 Sulbactam",
+      "summary": ""
+    },
+    "table_3_row_13_col_4": {
+      "content": "1 Sulbactam",
+      "summary": ""
+    },
+    "table_3_row_13_col_5": {
+      "content": "Ceftazidime (3rd) (IV/IM)",
+      "summary": "Ceftazidime, sold under the brand name Fortaz among others, is a third-generation cephalosporin antibiotic useful for the treatment of a number of bacterial infections. Specifically it is used for joint infections, meningitis, pneumonia, sepsis, urinary tract infections, malignant otitis externa, Pseudomonas aeruginosa infection, and vibrio infection. It is given by injection into a vein, muscle, or eye.",
+      "lastUpdated": "2025-11-13T10:25:59-0500"
+    },
+    "table_3_row_14_col_0": {
+      "content": "Amoxicillin2 (Or)",
+      "summary": ""
+    },
+    "table_3_row_14_col_1": {
+      "content": "Amoxicillin2 (Or)",
+      "summary": ""
+    },
+    "table_3_row_14_col_2": {
+      "content": "Amoxicillin2 (Or)",
+      "summary": ""
+    },
+    "table_3_row_14_col_3": {
+      "content": "2 Clavulanic acid",
+      "summary": ""
+    },
+    "table_3_row_14_col_4": {
+      "content": "2 Clavulanic acid",
+      "summary": ""
+    },
+    "table_3_row_14_col_5": {
+      "content": "Cefipime (4th) (IV/IM)",
+      "summary": ""
+    },
+    "table_3_row_15_col_3": {
+      "content": "3 Tazobactam",
+      "summary": ""
+    },
+    "table_3_row_15_col_4": {
+      "content": "3 Tazobactam",
+      "summary": ""
+    },
+    "table_3_row_15_col_5": {
+      "content": "Ceftaroline (5th) (IV)",
+      "summary": "Ceftaroline fosamil (INN), brand name Teflaro in the US and Zinforo in Europe, is a cephalosporin antibiotic with anti-MRSA activity. Ceftaroline fosamil is a prodrug of ceftaroline. It is active against methicillin-resistant Staphylococcus aureus (MRSA) and other Gram-positive bacteria. It retains some activity of later-generation cephalosporins having broad-spectrum activity against Gram-negative bacteria, but its effectiveness is relatively much weaker. It is currently being investigated for ...",
+      "lastUpdated": "2025-11-13T10:26:13-0500"
+    },
+    "table_3_row_16_col_1": {
+      "content": "CARBOXYPENICILLIN",
+      "summary": "The carboxypenicillins are a group of antibiotics. They belong to the penicillin family and comprise the members carbenicillin and ticarcillin.",
+      "lastUpdated": "2025-11-13T11:09:34-0500"
+    },
+    "table_3_row_16_col_3": {
+      "content": "4 Cilastatin",
+      "summary": ""
+    },
+    "table_3_row_16_col_4": {
+      "content": "4 Cilastatin",
+      "summary": ""
+    },
+    "table_3_row_16_col_5": {
+      "content": "Ceftobipriole (5th) (IV)",
+      "summary": ""
+    },
+    "table_3_row_17_col_0": {
+      "content": "Ticarcillin (IV)",
+      "summary": "Ticarcillin is a carboxypenicillin. It can be sold and used in combination with clavulanate as ticarcillin/clavulanic acid. Because it is a penicillin, it also falls within the larger class of β-lactam antibiotics. Its main clinical use is as an injectable antibiotic for the treatment of Gram-negative bacteria, particularly Pseudomonas aeruginosa and Proteus vulgaris. It is also one of the few antibiotics capable of treating Stenotrophomonas maltophilia infections.",
+      "lastUpdated": "2025-11-13T10:26:21-0500"
+    },
+    "table_3_row_17_col_1": {
+      "content": "Ticarcillin (IV)",
+      "summary": "Ticarcillin is a carboxypenicillin. It can be sold and used in combination with clavulanate as ticarcillin/clavulanic acid. Because it is a penicillin, it also falls within the larger class of β-lactam antibiotics. Its main clinical use is as an injectable antibiotic for the treatment of Gram-negative bacteria, particularly Pseudomonas aeruginosa and Proteus vulgaris. It is also one of the few antibiotics capable of treating Stenotrophomonas maltophilia infections.",
+      "lastUpdated": "2025-11-13T10:26:21-0500"
+    },
+    "table_3_row_17_col_2": {
+      "content": "Ticarcillin (IV)",
+      "summary": "Ticarcillin is a carboxypenicillin. It can be sold and used in combination with clavulanate as ticarcillin/clavulanic acid. Because it is a penicillin, it also falls within the larger class of β-lactam antibiotics. Its main clinical use is as an injectable antibiotic for the treatment of Gram-negative bacteria, particularly Pseudomonas aeruginosa and Proteus vulgaris. It is also one of the few antibiotics capable of treating Stenotrophomonas maltophilia infections.",
+      "lastUpdated": "2025-11-13T10:26:21-0500"
+    },
+    "table_3_row_17_col_3": {
+      "content": "5Vaborbactam",
+      "summary": ""
+    },
+    "table_3_row_17_col_4": {
+      "content": "5Vaborbactam",
+      "summary": ""
+    },
+    "table_3_row_17_col_5": {
+      "content": "Cefiderocol (5th) (IV)",
+      "summary": "Cefiderocol, sold under the brand name Fetroja among others, is an antibiotic used to treat complicated urinary tract infections when no other options are available. It is indicated for the treatment of multi-drug-resistant Gram-negative bacteria including Pseudomonas aeruginosa. It is given by injection into a vein.",
+      "lastUpdated": "2025-11-13T10:26:23-0500"
+    },
+    "table_3_row_19_col_1": {
+      "content": "UREIDOPENICILLIN",
+      "summary": "The ureidopenicillins are a group of penicillins which are active against Pseudomonas aeruginosa.",
+      "lastUpdated": "2025-11-13T11:09:48-0500"
+    },
+    "table_3_row_20_col_0": {
+      "content": "Piperacillin3 (IV)",
+      "summary": ""
+    },
+    "table_3_row_20_col_1": {
+      "content": "Piperacillin3 (IV)",
+      "summary": ""
+    },
+    "table_3_row_20_col_2": {
+      "content": "Piperacillin3 (IV)",
+      "summary": ""
+    },
+    "table_4_row_0_col_0": {
+      "content": "PROTEIN SYNTHESIS INHIBITORS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:10:40-0500"
+    },
+    "table_4_row_0_col_1": {
+      "content": "PROTEIN SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_4_row_0_col_2": {
+      "content": "PROTEIN SYNTHESIS INHIBITORS",
+      "summary": "A protein synthesis inhibitor is a compound that stops or slows the growth or proliferation of cells by disrupting the processes that lead directly to the generation of new proteins.",
+      "lastUpdated": "2025-11-13T11:09:55-0500"
+    },
+    "table_4_row_0_col_3": {
+      "content": "PROTEIN SYNTHESIS INHIBITORS",
+      "summary": "A protein synthesis inhibitor is a compound that stops or slows the growth or proliferation of cells by disrupting the processes that lead directly to the generation of new proteins.",
+      "lastUpdated": "2025-11-13T11:09:55-0500"
+    },
+    "table_4_row_0_col_4": {
+      "content": "PROTEIN SYNTHESIS INHIBITORS",
+      "summary": "A protein synthesis inhibitor is a compound that stops or slows the growth or proliferation of cells by disrupting the processes that lead directly to the generation of new proteins.",
+      "lastUpdated": "2025-11-13T11:09:55-0500"
+    },
+    "table_4_row_0_col_5": {
+      "content": "PROTEIN SYNTHESIS INHIBITORS",
+      "summary": "A protein synthesis inhibitor is a compound that stops or slows the growth or proliferation of cells by disrupting the processes that lead directly to the generation of new proteins.",
+      "lastUpdated": "2025-11-13T11:09:55-0500"
+    },
+    "table_4_row_1_col_0": {
+      "content": "30S RIBOSOMAL SUBUNIT",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:10:45-0500"
+    },
+    "table_4_row_1_col_1": {
+      "content": "30S RIBOSOMAL SUBUNIT",
+      "summary": "Daptomycin, sold under the brand name Cubicin among others, is a lipopeptide antibiotic used in the treatment of systemic and life-threatening infections caused by Gram-positive organisms.",
+      "lastUpdated": "2025-11-13T10:27:54-0500"
+    },
+    "table_4_row_1_col_2": {
+      "content": "50S RIBOSOMAL SUBUNIT",
+      "summary": ""
+    },
+    "table_4_row_1_col_3": {
+      "content": "50S RIBOSOMAL SUBUNIT",
+      "summary": ""
+    },
+    "table_4_row_1_col_4": {
+      "content": "50S RIBOSOMAL SUBUNIT",
+      "summary": ""
+    },
+    "table_4_row_1_col_5": {
+      "content": "50S RIBOSOMAL SUBUNIT",
+      "summary": ""
+    },
+    "table_4_row_2_col_0": {
+      "content": "AMINOGLYCOSIDES",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:10:50-0500"
+    },
+    "table_4_row_2_col_1": {
+      "content": "TETRACYLCINES",
+      "summary": ""
+    },
+    "table_4_row_2_col_2": {
+      "content": "MACROLIDES",
+      "summary": "Macrolides are a class of mostly natural products with a large macrocyclic lactone ring to which one or more deoxy sugars, usually cladinose and desosamine, may be attached. Macrolides belong to the polyketide class of natural products. Some macrolides have antibiotic or antifungal activity and are used as pharmaceutical drugs. Rapamycin is also a macrolide and was originally developed as an antifungal, but has since been used as an immunosuppressant drug and is being investigated as a potential...",
+      "lastUpdated": "2025-11-13T11:10:15-0500"
+    },
+    "table_4_row_2_col_3": {
+      "content": "OXAZOLIDENONES",
+      "summary": ""
+    },
+    "table_4_row_2_col_4": {
+      "content": "STREPTOGRAMINS",
+      "summary": "Streptogramins are a class of antibiotics. They work as protein synthesis inhibitors.",
+      "lastUpdated": "2025-11-13T11:10:20-0500"
+    },
+    "table_4_row_2_col_5": {
+      "content": "LINCOSAMIDES",
+      "summary": "Lincosamides are a class of antibiotics, which include lincomycin, clindamycin, and pirlimycin.",
+      "lastUpdated": "2025-11-13T11:10:22-0500"
+    },
+    "table_4_row_3_col_0": {
+      "content": "Streptomycin (IV/Or)",
+      "summary": "Streptomycin is an antibiotic medication used to treat a number of bacterial infections, including tuberculosis, Mycobacterium avium complex, endocarditis, brucellosis, Burkholderia infection, plague, tularemia, and rat bite fever. For active tuberculosis it is often given together with isoniazid, rifampicin, and pyrazinamide. It is administered by injection into a vein or muscle.",
+      "lastUpdated": "2025-11-13T10:27:06-0500"
+    },
+    "table_4_row_3_col_1": {
+      "content": "Tetracycline (Or)",
+      "summary": "Tetracycline, sold under various brand names, is an antibiotic in the tetracyclines family of medications, used to treat a number of infections, including acne, cholera, brucellosis, plague, malaria, and syphilis. It is available in oral and topical formulations.",
+      "lastUpdated": "2025-11-13T10:27:08-0500"
+    },
+    "table_4_row_3_col_2": {
+      "content": "Erythromycin (IV/Or)",
+      "summary": "Erythromycin is an antibiotic used for the treatment of a number of bacterial infections. This includes respiratory tract infections, skin infections, chlamydia infections, pelvic inflammatory disease, and syphilis. It may also be used during pregnancy to prevent Group B streptococcal infection in the newborn, and to improve delayed stomach emptying. It can be given intravenously and by mouth. An eye ointment is routinely recommended after delivery to prevent eye infections in the newborn.",
+      "lastUpdated": "2025-11-13T10:27:10-0500"
+    },
+    "table_4_row_3_col_3": {
+      "content": "Linezolid (IV/Or)",
+      "summary": "Linezolid is an antibiotic used for the treatment of infections caused by Gram-positive bacteria that are resistant to other antibiotics. Linezolid is active against most Gram-positive bacteria that cause disease, including streptococci, vancomycin-resistant enterococci (VRE), and methicillin-resistant Staphylococcus aureus (MRSA). The main uses are infections of the skin and pneumonia although it may be used for a variety of other infections including drug-resistant tuberculosis. It is used eit...",
+      "lastUpdated": "2025-11-13T10:27:11-0500"
+    },
+    "table_4_row_3_col_4": {
+      "content": "Dalfopristin* (IV)",
+      "summary": ""
+    },
+    "table_4_row_3_col_5": {
+      "content": "Clindamycin (IM/Or)",
+      "summary": "Clindamycin is a lincosamide antibiotic medication used for the treatment of a number of bacterial infections, including osteomyelitis (bone) or joint infections, pelvic inflammatory disease, strep throat, pneumonia, acute otitis media, and endocarditis. It can also be used to treat acne, and some cases of methicillin-resistant Staphylococcus aureus (MRSA). In combination with quinine, it can be used to treat malaria. It is available by mouth, by injection into a vein, and as a cream or a gel to...",
+      "lastUpdated": "2025-11-13T10:27:18-0500"
+    },
+    "table_4_row_4_col_0": {
+      "content": "Neomycin (IV/Or)",
+      "summary": "Neomycin, also known as framycetin, is an aminoglycoside antibiotic that displays bactericidal activity against Gram-negative aerobic bacilli and some anaerobic bacilli where resistance has not yet arisen. It is generally not effective against Gram-positive bacilli and anaerobic Gram-negative bacilli. Neomycin comes in oral and topical formulations, including creams, ointments, and eyedrops. Neomycin belongs to the aminoglycoside class of antibiotics that contain two or more amino sugars connect...",
+      "lastUpdated": "2025-11-13T10:27:19-0500"
+    },
+    "table_4_row_4_col_1": {
+      "content": "Doxycycline (IV/Or)",
+      "summary": "Doxycycline is a broad-spectrum antibiotic of the tetracycline class used in the treatment of infections caused by bacteria and certain parasites. It is used to treat bacterial pneumonia, acne, chlamydia infections, Lyme disease, cholera, typhus, and syphilis. It is also used to prevent malaria. Doxycycline may be taken by mouth or intravenously.",
+      "lastUpdated": "2025-11-13T10:27:20-0500"
+    },
+    "table_4_row_4_col_2": {
+      "content": "Clarithromycin (IV/Or)",
+      "summary": "Clarithromycin, sold under the brand name Biaxin among others, is an antibiotic used to treat various bacterial infections. This includes strep throat, pneumonia, skin infections, H. pylori infection, and Lyme disease, among others. Clarithromycin can be taken by mouth as a tablet or liquid or can be infused intravenously.",
+      "lastUpdated": "2025-11-13T10:27:22-0500"
+    },
+    "table_4_row_4_col_3": {
+      "content": "Posizolid",
+      "summary": "Posizolid is an oxazolidinone antibiotic under investigation by AstraZeneca for the treatment of bacterial infections. At a concentration of 2 mg/L it inhibited 98% of all Gram-positive bacteria tested in vitro.",
+      "lastUpdated": "2025-11-13T10:27:24-0500"
+    },
+    "table_4_row_4_col_4": {
+      "content": "Quinupristin* (IV)",
+      "summary": ""
+    },
+    "table_4_row_5_col_0": {
+      "content": "Gentamicin (IV/IM)",
+      "summary": "Gentamicin is an aminoglycoside antibiotic used to treat several types of bacterial infections. This may include bone infections, endocarditis, pelvic inflammatory disease, meningitis, pneumonia, urinary tract infections, and sepsis among others. It can be given intravenously, by intramuscular injection, or topically. Topical formulations may be used in burns or for infections of the outside of the eye. It is often only used for two days until bacterial cultures determine what specific antibioti...",
+      "lastUpdated": "2025-11-13T10:27:31-0500"
+    },
+    "table_4_row_5_col_1": {
+      "content": "Minocycline (IV/Or)",
+      "summary": "Minocycline, sold under the brand name Minocin among others, is a tetracycline antibiotic medication used to treat a number of bacterial infections such as some occurring in certain forms of pneumonia. It is generally less preferred than the tetracycline doxycycline. Minocycline is also used for the treatment of acne and rheumatoid arthritis. It is taken by mouth or applied to the skin.",
+      "lastUpdated": "2025-11-13T10:27:33-0500"
+    },
+    "table_4_row_5_col_2": {
+      "content": "Azithromycin (Or/IV)",
+      "summary": "Azithromycin, sold under the brand names Zithromax and Azasite, is an antibiotic medication used for the treatment of several bacterial infections. This includes middle ear infections, strep throat, pneumonia, traveler's diarrhea, STI and certain other intestinal infections. Along with other medications, it may also be used for malaria. It is administered by mouth, into a vein, or into the eye.",
+      "lastUpdated": "2025-11-13T10:27:34-0500"
+    },
+    "table_4_row_5_col_4": {
+      "content": "*Combined",
+      "summary": ""
+    },
+    "table_4_row_6_col_0": {
+      "content": "Tobramycin (IV)",
+      "summary": "Tobramycin is an aminoglycoside antibiotic derived from Streptomyces tenebrarius that is used to treat various types of bacterial infections, particularly Gram-negative infections. It is especially effective against species of Pseudomonas.",
+      "lastUpdated": "2025-11-13T10:27:35-0500"
+    },
+    "table_4_row_6_col_1": {
+      "content": "Tigecycline (IV)",
+      "summary": "Tigecycline, sold under the brand name Tygacil, is a tetracycline antibiotic medication for a number of bacterial infections. It is a glycylcycline class drug that is administered intravenously. It was developed in response to the growing rate of antibiotic resistant bacteria such as Staphylococcus aureus, Acinetobacter baumannii, and E. coli. As a tetracycline derivative antibiotic, its structural modifications has expanded its therapeutic activity to include Gram-positive and Gram-negative org...",
+      "lastUpdated": "2025-11-13T10:27:37-0500"
+    },
+    "table_4_row_6_col_5": {
+      "content": "OTHER",
+      "summary": "Other often refers to:Other (philosophy), a concept in psychology and philosophy",
+      "lastUpdated": "2025-11-13T11:10:33-0500"
+    },
+    "table_4_row_7_col_0": {
+      "content": "Amikacin (IV/IM)",
+      "summary": "Amikacin is an antibiotic medication used for a number of bacterial infections. This includes joint infections, intra-abdominal infections, meningitis, pneumonia, sepsis, and urinary tract infections. It is also used for the treatment of multidrug-resistant tuberculosis. It is used by injection into a vein using an IV or into a muscle.",
+      "lastUpdated": "2025-11-13T10:27:41-0500"
+    },
+    "table_4_row_7_col_5": {
+      "content": "Chloramphenicol (IV/Or)",
+      "summary": "Chloramphenicol is an antibiotic useful for the treatment of a number of bacterial infections. This includes use as an eye ointment to treat conjunctivitis. By mouth or by injection into a vein, it is used to treat meningitis, plague, cholera, and typhoid fever. Its use by mouth or by injection is only recommended when safer antibiotics cannot be used. Monitoring both blood levels of the medication and blood cell levels every two days is recommended during treatment.",
+      "lastUpdated": "2025-11-13T10:27:42-0500"
+    },
+    "table_5_row_0_col_0": {
+      "content": "CELL MEMBRANE DISRUPTORS",
+      "summary": "Antiviral drugs are a class of medication used for treating viral infections. Most antivirals target specific viruses, while a broad-spectrum antiviral is effective against a wide range of viruses. Antiviral drugs are a class of antimicrobials, a larger group which also includes antibiotic, antifungal and antiparasitic drugs, or antiviral drugs based on monoclonal antibodies. Most antivirals are considered relatively harmless to the host, and therefore can be used to treat infections. They shoul...",
+      "lastUpdated": "2025-11-13T11:10:54-0500"
+    },
+    "table_5_row_0_col_1": {
+      "content": "CELL MEMBRANE DISRUPTORS",
+      "summary": ""
+    },
+    "table_5_row_1_col_0": {
+      "content": "Polymixin B",
+      "summary": ""
+    },
+    "table_5_row_1_col_1": {
+      "content": "Daptomycin",
+      "summary": "Daptomycin, sold under the brand name Cubicin among others, is a lipopeptide antibiotic used in the treatment of systemic and life-threatening infections caused by Gram-positive organisms.",
+      "lastUpdated": "2025-11-13T10:27:54-0500"
+    },
+    "table_5_row_2_col_0": {
+      "content": "Polymixin E (Colistin/Colisimethate)",
+      "summary": ""
+    },
+    "table_6_row_0_col_0": {
+      "content": "ANTI-VIRALS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:10:56-0500"
+    },
+    "table_7_row_0_col_0": {
+      "content": "NUCLEOSIDE ANALOG DNA POLYMERASE INHIBITOR",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:11:30-0500"
+    },
+    "table_7_row_0_col_1": {
+      "content": "GROUP I VIRUSES",
+      "summary": ""
+    },
+    "table_7_row_0_col_2": {
+      "content": "GROUP I VIRUSES",
+      "summary": ""
+    },
+    "table_7_row_0_col_3": {
+      "content": "GROUP I VIRUSES",
+      "summary": ""
+    },
+    "table_7_row_0_col_4": {
+      "content": "GROUP I VIRUSES",
+      "summary": ""
+    },
+    "table_7_row_1_col_0": {
+      "content": "NUCLEOSIDE ANALOG DNA POLYMERASE INHIBITOR",
+      "summary": "Severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2) is a coronavirus that causes COVID-19, the respiratory illness responsible for the COVID-19 pandemic that began in late 2019. The virus previously had the provisional name 2019 novel coronavirus (2019-nCoV), and has also been called human coronavirus 2019. First identified in the city of Wuhan, Hubei, China, the World Health Organization designated the outbreak a public health emergency of international concern from January 30, 2020, t...",
+      "lastUpdated": "2025-11-13T10:28:56-0500"
+    },
+    "table_7_row_1_col_1": {
+      "content": "ORAL/GENITAL HERPES",
+      "summary": "Hepatitis C is an infectious disease caused by the hepatitis C virus (HCV) that primarily affects the liver; it is a type of viral hepatitis. During the initial infection period, people often have mild or no symptoms. Early symptoms can include fever, dark urine, abdominal pain, and jaundice. The virus persists in the liver, becoming chronic, in about 70% of those initially infected. Early on, chronic infection typically has no symptoms. Over many years however, it often leads to liver disease a...",
+      "lastUpdated": "2025-11-13T11:11:32-0500"
+    },
+    "table_7_row_1_col_2": {
+      "content": "CHICKENPOX/SHINGLES",
+      "summary": "Hepatitis C is an infectious disease caused by the hepatitis C virus (HCV) that primarily affects the liver; it is a type of viral hepatitis. During the initial infection period, people often have mild or no symptoms. Early symptoms can include fever, dark urine, abdominal pain, and jaundice. The virus persists in the liver, becoming chronic, in about 70% of those initially infected. Early on, chronic infection typically has no symptoms. Over many years however, it often leads to liver disease a...",
+      "lastUpdated": "2025-11-13T11:11:32-0500"
+    },
+    "table_7_row_1_col_3": {
+      "content": "MONONUCLEOSIS",
+      "summary": "Hepatitis C is an infectious disease caused by the hepatitis C virus (HCV) that primarily affects the liver; it is a type of viral hepatitis. During the initial infection period, people often have mild or no symptoms. Early symptoms can include fever, dark urine, abdominal pain, and jaundice. The virus persists in the liver, becoming chronic, in about 70% of those initially infected. Early on, chronic infection typically has no symptoms. Over many years however, it often leads to liver disease a...",
+      "lastUpdated": "2025-11-13T11:11:32-0500"
+    },
+    "table_7_row_1_col_4": {
+      "content": "MONONUCLEOSIS",
+      "summary": "Hepatitis C is an infectious disease caused by the hepatitis C virus (HCV) that primarily affects the liver; it is a type of viral hepatitis. During the initial infection period, people often have mild or no symptoms. Early symptoms can include fever, dark urine, abdominal pain, and jaundice. The virus persists in the liver, becoming chronic, in about 70% of those initially infected. Early on, chronic infection typically has no symptoms. Over many years however, it often leads to liver disease a...",
+      "lastUpdated": "2025-11-13T11:11:32-0500"
+    },
+    "table_7_row_2_col_0": {
+      "content": "NUCLEOSIDE ANALOG DNA POLYMERASE INHIBITOR",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:11:40-0500"
+    },
+    "table_7_row_2_col_1": {
+      "content": "Herpes simplex (HSV)",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:11:41-0500"
+    },
+    "table_7_row_2_col_2": {
+      "content": "Varicella zoster (VZV)",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:11:42-0500"
+    },
+    "table_7_row_2_col_3": {
+      "content": "Cytomegalovirus (CMV)",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:11:44-0500"
+    },
+    "table_7_row_2_col_4": {
+      "content": "Epstein-Barr virus (EBV)",
+      "summary": "Multiple may refer to:",
+      "lastUpdated": "2025-11-13T11:11:45-0500"
+    },
+    "table_7_row_3_col_0": {
+      "content": "Acyclovir",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:11:51-0500"
+    },
+    "table_7_row_3_col_4": {
+      "content": "None approved",
+      "summary": "Ribavirin, also known as tribavirin, is an antiviral medication used to treat illness caused by respiratory syncytial virus (RSV) and hepatitis C virus (HCV) infections, as well as some viral hemorrhagic fevers. For HCV, it is used in combination with other medications, such as simeprevir, sofosbuvir, peginterferon alfa-2b or peginterferon alfa-2a. It can also be used for viral hemorrhagic fevers—specifically, for Lassa fever, Crimean–Congo hemorrhagic fever, and Hantavirus infections. Ribavirin...",
+      "lastUpdated": "2025-11-13T10:29:30-0500"
+    },
+    "table_7_row_4_col_0": {
+      "content": "Valacyclovir",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:11:56-0500"
+    },
+    "table_7_row_5_col_0": {
+      "content": "Peniciclovir",
+      "summary": ""
+    },
+    "table_7_row_6_col_0": {
+      "content": "Famciclovir",
+      "summary": ""
+    },
+    "table_7_row_7_col_0": {
+      "content": "Brivudine",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:12:25-0500"
+    },
+    "table_7_row_8_col_0": {
+      "content": "Cidofovir",
+      "summary": "Cidofovir, brand name Vistide, is a topical or injectable antiviral medication primarily used as a treatment for cytomegalovirus (CMV) retinitis in people with AIDS.",
+      "lastUpdated": "2025-11-13T10:28:37-0500"
+    },
+    "table_7_row_9_col_0": {
+      "content": "Ganciclovir",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:12:44-0500"
+    },
+    "table_7_row_10_col_0": {
+      "content": "Valganciclovir",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:12:54-0500"
+    },
+    "table_7_row_12_col_0": {
+      "content": "PPi ANALOG",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:13:08-0500"
+    },
+    "table_7_row_13_col_0": {
+      "content": "Foscarnet",
+      "summary": "Sotrovimab, sold under the brand name Xevudy, is a human neutralizing monoclonal antibody with activity against severe acute respiratory syndrome coronavirus 2, known as SARS-CoV-2. It was developed by GlaxoSmithKline and Vir Biotechnology, Inc. Sotrovimab is designed to attach to the spike protein of SARS-CoV-2.",
+      "lastUpdated": "2025-11-13T10:30:42-0500"
+    },
+    "table_8_row_0_col_0": {
+      "content": "GROUP IV VIRUSES",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:13:17-0500"
+    },
+    "table_8_row_0_col_1": {
+      "content": "GROUP IV VIRUSES",
+      "summary": ""
+    },
+    "table_8_row_0_col_2": {
+      "content": "GROUP IV VIRUSES",
+      "summary": ""
+    },
+    "table_8_row_0_col_3": {
+      "content": "GROUP IV VIRUSES",
+      "summary": ""
+    },
+    "table_8_row_0_col_4": {
+      "content": "GROUP IV VIRUSES",
+      "summary": ""
+    },
+    "table_8_row_1_col_0": {
+      "content": "SARS-CoV-2 (Covid-19)",
+      "summary": "Influenza, commonly known as the flu, is an infectious disease caused by influenza viruses. Symptoms range from mild to severe and often include fever, runny nose, sore throat, muscle pain, headache, coughing, and fatigue. These symptoms begin one to four days after exposure to the virus and last for about two to eight days. Diarrhea and vomiting can occur, particularly in children. Influenza may progress to pneumonia from the virus or a subsequent bacterial infection. Other complications includ...",
+      "lastUpdated": "2025-11-13T11:13:18-0500"
+    },
+    "table_8_row_1_col_1": {
+      "content": "HEPATITIS C",
+      "summary": "Influenza, commonly known as the flu, is an infectious disease caused by influenza viruses. Symptoms range from mild to severe and often include fever, runny nose, sore throat, muscle pain, headache, coughing, and fatigue. These symptoms begin one to four days after exposure to the virus and last for about two to eight days. Diarrhea and vomiting can occur, particularly in children. Influenza may progress to pneumonia from the virus or a subsequent bacterial infection. Other complications includ...",
+      "lastUpdated": "2025-11-13T11:13:18-0500"
+    },
+    "table_8_row_1_col_2": {
+      "content": "HEPATITIS C",
+      "summary": "Influenza, commonly known as the flu, is an infectious disease caused by influenza viruses. Symptoms range from mild to severe and often include fever, runny nose, sore throat, muscle pain, headache, coughing, and fatigue. These symptoms begin one to four days after exposure to the virus and last for about two to eight days. Diarrhea and vomiting can occur, particularly in children. Influenza may progress to pneumonia from the virus or a subsequent bacterial infection. Other complications includ...",
+      "lastUpdated": "2025-11-13T11:13:18-0500"
+    },
+    "table_8_row_1_col_3": {
+      "content": "HEPATITIS C",
+      "summary": "Respiratory syncytial virus (RSV), also called human respiratory syncytial virus (hRSV) and human orthopneumovirus, is a virus that causes infections of the respiratory tract. It is a negative-sense, single-stranded RNA virus. Its name is derived from the large, multinucleated cells known as syncytia that form when infected cells fuse.",
+      "lastUpdated": "2025-11-13T11:13:19-0500"
+    },
+    "table_8_row_1_col_4": {
+      "content": "HEPATITIS C",
+      "summary": "Respiratory syncytial virus (RSV), also called human respiratory syncytial virus (hRSV) and human orthopneumovirus, is a virus that causes infections of the respiratory tract. It is a negative-sense, single-stranded RNA virus. Its name is derived from the large, multinucleated cells known as syncytia that form when infected cells fuse.",
+      "lastUpdated": "2025-11-13T11:13:19-0500"
+    },
+    "table_8_row_2_col_0": {
+      "content": "RNA POLYMERASE INHIBITORS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:13:27-0500"
+    },
+    "table_8_row_2_col_1": {
+      "content": "RNA POLY. INHIBITOR",
+      "summary": "A release modulator, or neurotransmitter release modulator, is a type of drug that modulates the release of one or more neurotransmitters. Examples of release modulators include monoamine releasing agents such as the substituted amphetamines and release inhibitors such as botulinum toxin A.",
+      "lastUpdated": "2025-11-13T11:13:32-0500"
+    },
+    "table_8_row_2_col_2": {
+      "content": "PROTEASE INHIBITOR",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:13:37-0500"
+    },
+    "table_8_row_2_col_3": {
+      "content": "ASSEMBLY INHIBITOR",
+      "summary": "Multiple may refer to:",
+      "lastUpdated": "2025-11-13T11:13:37-0500"
+    },
+    "table_8_row_2_col_4": {
+      "content": "MULTIPLE",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:13:38-0500"
+    },
+    "table_8_row_3_col_0": {
+      "content": "Remdesivir (Veklury™) - IV",
+      "summary": "Amantadine, sold under the brand name Gocovri among others, is a medication used to treat dyskinesia associated with parkinsonism and influenza caused by type A influenzavirus, though its use for the latter is no longer recommended because of widespread drug resistance. It is also used for a variety of other conditions. The drug is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:31:23-0500"
+    },
+    "table_8_row_3_col_1": {
+      "content": "Dasabuvir",
+      "summary": "Oseltamivir, sold under the brand name Tamiflu among others, is an antiviral medication used to treat and prevent influenza A and influenza B, viruses that cause the flu. Many medical organizations recommend it in people who have complications or are at high risk of complications within 48 hours of first symptoms of infection. They recommend it to prevent infection in those at high risk, but not the general population. The Centers for Disease Control and Prevention (CDC) recommends that clinicia...",
+      "lastUpdated": "2025-11-13T10:31:25-0500"
+    },
+    "table_8_row_3_col_2": {
+      "content": "Boceprevir",
+      "summary": "Baloxavir marboxil, sold under the brand name Xofluza, is an antiviral medication used for the treatment of influenza A and influenza B. It was approved for medical use both in Japan and in the United States in 2018, and is taken by mouth. It can reduce the duration of flu symptoms by about 1-2 days in some people, but can also develop selection of resistant mutants that render it ineffectual; however studies noted this was seen mostly in children that were studied.",
+      "lastUpdated": "2025-11-13T10:31:28-0500"
+    },
+    "table_8_row_3_col_3": {
+      "content": "Daclatasvir",
+      "summary": "Ribavirin, also known as tribavirin, is an antiviral medication used to treat illness caused by respiratory syncytial virus (RSV) and hepatitis C virus (HCV) infections, as well as some viral hemorrhagic fevers. For HCV, it is used in combination with other medications, such as simeprevir, sofosbuvir, peginterferon alfa-2b or peginterferon alfa-2a. It can also be used for viral hemorrhagic fevers—specifically, for Lassa fever, Crimean–Congo hemorrhagic fever, and Hantavirus infections. Ribavirin...",
+      "lastUpdated": "2025-11-13T10:31:29-0500"
+    },
+    "table_8_row_3_col_4": {
+      "content": "Ribavirin",
+      "summary": "Palivizumab, sold under the brand name Synagis, is a monoclonal antibody produced by recombinant DNA technology used to prevent severe disease caused by respiratory syncytial virus (RSV) infections. It is recommended for infants at high-risk for RSV due to conditions such as prematurity or other medical problems including heart or lung diseases.",
+      "lastUpdated": "2025-11-13T10:31:31-0500"
+    },
+    "table_8_row_4_col_0": {
+      "content": "Molnupiravir (Lagevrio™) - Oral",
+      "summary": "Rimantadine is an orally administered antiviral drug used to treat, and in rare cases prevent, influenzavirus A infection. When taken within one to two days of developing symptoms, rimantadine can shorten the duration and moderate the severity of influenza. Rimantadine can mitigate symptoms, including fever. Both rimantadine and the similar drug amantadine are derivates of adamantane. Rimantadine is found to be more effective than amantadine because when used the patient displays fewer symptoms....",
+      "lastUpdated": "2025-11-13T10:31:33-0500"
+    },
+    "table_8_row_4_col_1": {
+      "content": "Sofosbuvir3, 4, 5",
+      "summary": "Zanamivir, sold under the brand name Relenza among others, is an anti-viral medication used to treat and prevent influenza caused by influenza A and influenza B viruses. It is a neuraminidase inhibitor and was developed by the Australian biotech firm Biota Holdings. It was licensed to Glaxo Wellcome in 1990 and approved in the US in 1999, only for use as a treatment for influenza. In 2006, it was approved for prevention of influenza A and B. Zanamivir is the first neuraminidase inhibitor commerc...",
+      "lastUpdated": "2025-11-13T10:31:35-0500"
+    },
+    "table_8_row_4_col_2": {
+      "content": "Glecaprevir2",
+      "summary": ""
+    },
+    "table_8_row_4_col_3": {
+      "content": "Elbasvir1",
+      "summary": ""
+    },
+    "table_8_row_5_col_2": {
+      "content": "Grazoprevir1",
+      "summary": ""
+    },
+    "table_8_row_5_col_3": {
+      "content": "Ledipasvir3",
+      "summary": ""
+    },
+    "table_8_row_6_col_0": {
+      "content": "PROTEASE INHIBITOR",
+      "summary": ""
+    },
+    "table_8_row_6_col_2": {
+      "content": "Paritaprevir",
+      "summary": "Paritaprevir is an acylsulfonamide inhibitor of the NS3-4A serine protease manufactured by Abbott Laboratories that shows promising results as a treatment of hepatitis C. When given in combination with ritonavir and ribavirin for 12 weeks, the rate of sustained virologic response at 24 weeks after treatment has been estimated to be 95% for those with hepatitis C virus genotype 1. Resistance to treatment with paritaprevir is uncommon, because it targets the binding site, but has been seen to aris...",
+      "lastUpdated": "2025-11-13T10:30:07-0500"
+    },
+    "table_8_row_6_col_3": {
+      "content": "Ombitasvir",
+      "summary": "Ombitasvir is an antiviral drug for the treatment of hepatitis C virus (HCV) infection by AbbVie. In the United States, it is approved by the Food and Drug Administration for use in combination with paritaprevir, ritonavir and dasabuvir in the product Viekira Pak for the treatment of HCV genotype 1, and with paritaprevir and ritonavir in the product Technivie for the treatment of HCV genotype 4.",
+      "lastUpdated": "2025-11-13T10:30:08-0500"
+    },
+    "table_8_row_7_col_0": {
+      "content": "Nirmatrelvir (Paxlovid™) + Ritonavir - Oral",
+      "summary": ""
+    },
+    "table_8_row_7_col_2": {
+      "content": "Simeprevir",
+      "summary": "Simeprevir, sold under the brand name Olysio among others, is a medication used in combination with other medications for the treatment of hepatitis C. It is specifically used for hepatitis C genotype 1 and 4. Medications it is used with include sofosbuvir or ribavirin and peginterferon-alfa. Cure rates are in 80s to 90s percent. It may be used in those who also have HIV/AIDS. It is taken by mouth once daily for typically 12 weeks.",
+      "lastUpdated": "2025-11-13T10:30:11-0500"
+    },
+    "table_8_row_7_col_3": {
+      "content": "Pibrentasvir2",
+      "summary": ""
+    },
+    "table_8_row_8_col_2": {
+      "content": "Teleprevir",
+      "summary": ""
+    },
+    "table_8_row_8_col_3": {
+      "content": "Velpatasvir4. 5",
+      "summary": ""
+    },
+    "table_8_row_9_col_0": {
+      "content": "Monoclonal Abs - IV",
+      "summary": ""
+    },
+    "table_8_row_9_col_2": {
+      "content": "Voxilaprevir5",
+      "summary": ""
+    },
+    "table_8_row_10_col_0": {
+      "content": "Casirivimab + Imdevimab (REGN-COV2™)",
+      "summary": ""
+    },
+    "table_8_row_11_col_0": {
+      "content": "Bamlanivimab + Etesevimab",
+      "summary": ""
+    },
+    "table_8_row_12_col_0": {
+      "content": "Tixagevimab + Cilgavimab (Evusheld™)",
+      "summary": ""
+    },
+    "table_8_row_13_col_0": {
+      "content": "Sotrovimab (Xevudy™)",
+      "summary": "Sotrovimab, sold under the brand name Xevudy, is a human neutralizing monoclonal antibody with activity against severe acute respiratory syndrome coronavirus 2, known as SARS-CoV-2. It was developed by GlaxoSmithKline and Vir Biotechnology, Inc. Sotrovimab is designed to attach to the spike protein of SARS-CoV-2.",
+      "lastUpdated": "2025-11-13T10:30:42-0500"
+    },
+    "table_9_row_0_col_0": {
+      "content": "GROUP V VIRUSES",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:13:46-0500"
+    },
+    "table_9_row_0_col_1": {
+      "content": "GROUP V VIRUSES",
+      "summary": ""
+    },
+    "table_9_row_0_col_2": {
+      "content": "GROUP V VIRUSES",
+      "summary": ""
+    },
+    "table_9_row_0_col_3": {
+      "content": "GROUP V VIRUSES",
+      "summary": ""
+    },
+    "table_9_row_0_col_4": {
+      "content": "GROUP V VIRUSES",
+      "summary": ""
+    },
+    "table_9_row_1_col_0": {
+      "content": "INFLUENZA",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:13:48-0500"
+    },
+    "table_9_row_1_col_1": {
+      "content": "INFLUENZA",
+      "summary": "Reverse-transcriptase inhibitors (RTIs) are a class of antiretroviral drugs used to treat HIV infection or AIDS, and in some cases hepatitis B. RTIs inhibit activity of reverse transcriptase, a viral DNA polymerase that is required for replication of HIV and other retroviruses.",
+      "lastUpdated": "2025-11-13T11:13:52-0500"
+    },
+    "table_9_row_1_col_2": {
+      "content": "INFLUENZA",
+      "summary": "Reverse-transcriptase inhibitors (RTIs) are a class of antiretroviral drugs used to treat HIV infection or AIDS, and in some cases hepatitis B. RTIs inhibit activity of reverse transcriptase, a viral DNA polymerase that is required for replication of HIV and other retroviruses.",
+      "lastUpdated": "2025-11-13T11:13:52-0500"
+    },
+    "table_9_row_1_col_3": {
+      "content": "RESPIRATORY SYNCYTIAL VIRUS (RSV)",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:14:01-0500"
+    },
+    "table_9_row_1_col_4": {
+      "content": "RESPIRATORY SYNCYTIAL VIRUS (RSV)",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:14:11-0500"
+    },
+    "table_9_row_2_col_0": {
+      "content": "M2 INHIBITORS",
+      "summary": ""
+    },
+    "table_9_row_2_col_1": {
+      "content": "RELEASE INHIBITORS",
+      "summary": "Nucleosides are glycosylamines that can be thought of as nucleotides without a phosphate group. A nucleoside consists simply of a nucleobase and a five-carbon sugar whereas a nucleotide is composed of a nucleobase, a five-carbon sugar, and one or more phosphate groups. In a nucleoside, the anomeric carbon is linked through a glycosidic bond to the N9 of a purine or the N1 of a pyrimidine. Nucleotides are the molecular building blocks of DNA and RNA.",
+      "lastUpdated": "2025-11-13T11:14:13-0500"
+    },
+    "table_9_row_2_col_2": {
+      "content": "ENDONUCLEASE INHIB.",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:14:18-0500"
+    },
+    "table_9_row_2_col_3": {
+      "content": "MULTIPLE",
+      "summary": "Multiple may refer to:",
+      "lastUpdated": "2025-11-13T11:13:37-0500"
+    },
+    "table_9_row_2_col_4": {
+      "content": "FUSION INHIBITOR",
+      "summary": ""
+    },
+    "table_9_row_3_col_0": {
+      "content": "Amantadine",
+      "summary": "Enfuvirtide (INN), sold under the brand name Fuzeon, is an HIV fusion inhibitor, the first of a class of antiretroviral drugs used in combination therapy for the treatment of AIDS/HIV.",
+      "lastUpdated": "2025-11-13T10:32:12-0500"
+    },
+    "table_9_row_3_col_1": {
+      "content": "Oseltamivir",
+      "summary": "Abacavir, sold under the brand name Ziagen among others, is a medication used to treat HIV/AIDS. Similar to other nucleoside analog reverse-transcriptase inhibitors (NRTIs), abacavir is used together with other HIV medications, and is not recommended by itself. It is taken by mouth as a tablet or solution and may be used in children over the age of three months.",
+      "lastUpdated": "2025-11-13T10:32:14-0500"
+    },
+    "table_9_row_3_col_2": {
+      "content": "Baloxavir",
+      "summary": "Doravirine, sold under the brand name Pifeltro, is a non-nucleoside reverse transcriptase inhibitor medication developed by Merck & Co. for use in the treatment of HIV/AIDS.",
+      "lastUpdated": "2025-11-13T10:32:17-0500"
+    },
+    "table_9_row_3_col_3": {
+      "content": "Ribavirin",
+      "summary": "Bictegravir is a second-generation integrase inhibitor (INSTI) class that was structurally derived from an earlier compound dolutegravir by scientists at Gilead Sciences. In vitro and clinical results were presented by Gilead in the summer of 2016. In 2016, bictegravir was in a Phase 3 trial as part of a single tablet regimen in combination with tenofovir alafenamide (TAF) and emtricitabine (FTC) for the treatment of HIV-1 infection.",
+      "lastUpdated": "2025-11-13T10:32:18-0500"
+    },
+    "table_9_row_3_col_4": {
+      "content": "Palivizumab",
+      "summary": "Atazanavir, sold under the brand name Reyataz among others, is an antiretroviral medication used to treat HIV/AIDS. It is generally recommended for use with other antiretrovirals. It may be used for prevention after a needlestick injury or other potential exposure. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:32:19-0500"
+    },
+    "table_9_row_4_col_0": {
+      "content": "Rimantadine",
+      "summary": "Fostemsavir, sold under the brand name Rukobia, is an antiretroviral medication for adults living with HIV/AIDS who have tried multiple HIV medications and whose HIV infection cannot be successfully treated with other therapies because of resistance, intolerance or safety considerations.",
+      "lastUpdated": "2025-11-13T10:32:21-0500"
+    },
+    "table_9_row_4_col_1": {
+      "content": "Zanamivir",
+      "summary": "Didanosine, sold under the brand name Videx among others, is a medication used to treat HIV/AIDS. It is used in combination with other medications as part of highly active antiretroviral therapy (HAART). It is of the reverse-transcriptase inhibitor class.",
+      "lastUpdated": "2025-11-13T10:32:23-0500"
+    },
+    "table_10_row_0_col_0": {
+      "content": "GROUP VI VIRUESES (HIV)",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:14:25-0500"
+    },
+    "table_10_row_0_col_1": {
+      "content": "GROUP VI VIRUESES (HIV)",
+      "summary": ""
+    },
+    "table_10_row_0_col_2": {
+      "content": "GROUP VI VIRUESES (HIV)",
+      "summary": ""
+    },
+    "table_10_row_0_col_3": {
+      "content": "GROUP VI VIRUESES (HIV)",
+      "summary": ""
+    },
+    "table_10_row_0_col_4": {
+      "content": "GROUP VI VIRUESES (HIV)",
+      "summary": ""
+    },
+    "table_10_row_1_col_0": {
+      "content": "ENTRY/FUSION INHIBS.",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:14:34-0500"
+    },
+    "table_10_row_1_col_1": {
+      "content": "REVERSE TRANSCRIPTASE INHIBITORS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:14:43-0500"
+    },
+    "table_10_row_1_col_2": {
+      "content": "REVERSE TRANSCRIPTASE INHIBITORS",
+      "summary": "Reverse-transcriptase inhibitors (RTIs) are a class of antiretroviral drugs used to treat HIV infection or AIDS, and in some cases hepatitis B. RTIs inhibit activity of reverse transcriptase, a viral DNA polymerase that is required for replication of HIV and other retroviruses.",
+      "lastUpdated": "2025-11-13T11:13:52-0500"
+    },
+    "table_10_row_1_col_3": {
+      "content": "INTEGRASE INHIBS",
+      "summary": ""
+    },
+    "table_10_row_1_col_4": {
+      "content": "PROTEASE INHIBS",
+      "summary": ""
+    },
+    "table_10_row_2_col_1": {
+      "content": "NUCLEOSIDE (NRTI)",
+      "summary": "Entecavir, sold under the brand name Baraclude, is an antiviral medication used in the treatment of hepatitis B virus infection. In those with both HIV/AIDS and hepatitis B virus antiretroviral medication should also be used. Entecavir is taken by mouth as a tablet or solution.",
+      "lastUpdated": "2025-11-13T10:33:00-0500"
+    },
+    "table_10_row_2_col_2": {
+      "content": "NON-NUCLEOSIDE (NNRTI)",
+      "summary": ""
+    },
+    "table_10_row_3_col_0": {
+      "content": "Enfuvirtide",
+      "summary": "Entecavir, sold under the brand name Baraclude, is an antiviral medication used in the treatment of hepatitis B virus infection. In those with both HIV/AIDS and hepatitis B virus antiretroviral medication should also be used. Entecavir is taken by mouth as a tablet or solution.",
+      "lastUpdated": "2025-11-13T10:33:01-0500"
+    },
+    "table_10_row_3_col_1": {
+      "content": "Abacavir",
+      "summary": "Telbivudine is an antiviral drug used in the treatment of hepatitis B infection. It is marketed by Swiss pharmaceutical company Novartis under the trade names Sebivo and Tyzeka. Clinical trials have shown it to be significantly more effective than lamivudine or adefovir, and less likely to cause resistance. However, HBV signature resistance mutation M204I or L180M+M204V have been associated with Telbivudine resistance.",
+      "lastUpdated": "2025-11-13T10:33:03-0500"
+    },
+    "table_10_row_3_col_2": {
+      "content": "Doravirine",
+      "summary": "Doravirine, sold under the brand name Pifeltro, is a non-nucleoside reverse transcriptase inhibitor medication developed by Merck & Co. for use in the treatment of HIV/AIDS.",
+      "lastUpdated": "2025-11-13T10:32:17-0500"
+    },
+    "table_10_row_3_col_3": {
+      "content": "Bictegravir",
+      "summary": "Bictegravir is a second-generation integrase inhibitor (INSTI) class that was structurally derived from an earlier compound dolutegravir by scientists at Gilead Sciences. In vitro and clinical results were presented by Gilead in the summer of 2016. In 2016, bictegravir was in a Phase 3 trial as part of a single tablet regimen in combination with tenofovir alafenamide (TAF) and emtricitabine (FTC) for the treatment of HIV-1 infection.",
+      "lastUpdated": "2025-11-13T10:32:18-0500"
+    },
+    "table_10_row_3_col_4": {
+      "content": "Atazanavir",
+      "summary": "Atazanavir, sold under the brand name Reyataz among others, is an antiretroviral medication used to treat HIV/AIDS. It is generally recommended for use with other antiretrovirals. It may be used for prevention after a needlestick injury or other potential exposure. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:32:19-0500"
+    },
+    "table_10_row_4_col_0": {
+      "content": "Fostemsavir",
+      "summary": "Lamivudine, commonly called 3TC, is an antiretroviral medication used to prevent and treat HIV/AIDS. It is also used to treat chronic hepatitis B when other options are not possible. It is effective against both HIV-1 and HIV-2. It is typically used in combination with other antiretrovirals such as zidovudine, dolutegravir, and abacavir. Lamivudine may be included as part of post-exposure prevention in those who have been potentially exposed to HIV. Lamivudine is taken by mouth as a liquid or ta...",
+      "lastUpdated": "2025-11-13T10:33:04-0500"
+    },
+    "table_10_row_4_col_1": {
+      "content": "Didanosine",
+      "summary": "Didanosine, sold under the brand name Videx among others, is a medication used to treat HIV/AIDS. It is used in combination with other medications as part of highly active antiretroviral therapy (HAART). It is of the reverse-transcriptase inhibitor class.",
+      "lastUpdated": "2025-11-13T10:32:23-0500"
+    },
+    "table_10_row_4_col_2": {
+      "content": "Efavirenz",
+      "summary": "Efavirenz (EFV), sold under the brand names Sustiva among others, is an antiretroviral medication used to treat and prevent HIV/AIDS. It is generally recommended for use with other antiretrovirals. It may be used for prevention after a needlestick injury or other potential exposure. It is sold both by itself and in combination as efavirenz/emtricitabine/tenofovir. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:32:25-0500"
+    },
+    "table_10_row_4_col_3": {
+      "content": "Cabotegravir",
+      "summary": "Cabotegravir, sold under the brand name Vocabria among others, is an antiretroviral medication used for the treatment and prevention of HIV/AIDS. It is available in the form of tablets and as an intramuscular injection, as well as in an injectable combination with rilpivirine under the brand name Cabenuva.",
+      "lastUpdated": "2025-11-13T10:32:26-0500"
+    },
+    "table_10_row_4_col_4": {
+      "content": "Darunavir",
+      "summary": "Darunavir (DRV), sold under the brand name Prezista among others, is an antiretroviral medication used to treat and prevent HIV/AIDS. It is generally recommended for use with other antiretrovirals. It is often used with low doses of ritonavir or cobicistat to increase darunavir levels. It may be used for prevention after a needlestick injury or other potential exposure. It is taken by mouth once to twice a day.",
+      "lastUpdated": "2025-11-13T10:32:27-0500"
+    },
+    "table_10_row_5_col_0": {
+      "content": "Maraviroc",
+      "summary": "Tenofovir disoproxil, sold under the brand name Viread among others, is a medication used to treat chronic hepatitis B and to prevent and treat HIV/AIDS. It is generally recommended for use with other antiretrovirals. It may be used for prevention of HIV/AIDS among those at high risk before exposure, and after a needlestick injury or other potential exposure. It is sold both by itself and together in combinations such as emtricitabine/tenofovir, efavirenz/emtricitabine/tenofovir, and elvitegravi...",
+      "lastUpdated": "2025-11-13T10:33:05-0500"
+    },
+    "table_10_row_5_col_1": {
+      "content": "Emtricitabine",
+      "summary": "Emtricitabine, with trade name Emtriva, is a nucleoside reverse-transcriptase inhibitor (NRTI) for the prevention and treatment of HIV infection in adults and children. In 2019, it was the 494th most commonly prescribed medication in the United States, with more than 3 thousand prescriptions.",
+      "lastUpdated": "2025-11-13T10:32:30-0500"
+    },
+    "table_10_row_5_col_2": {
+      "content": "Etravirine",
+      "summary": "Etravirine (ETR,), sold under the brand name Intelence is an antiretroviral medication used for the treatment of HIV. Etravirine is a human immunodeficiency virus type 1 (HIV-1) non-nucleoside reverse transcriptase inhibitor (NNRTI). Unlike agents in the class, resistance to other NNRTIs does not seem to confer resistance to etravirine. Etravirine is marketed by Janssen, a subsidiary of Johnson & Johnson. In January 2008, the US Food and Drug Administration (FDA) approved its use for people with...",
+      "lastUpdated": "2025-11-13T10:32:32-0500"
+    },
+    "table_10_row_5_col_3": {
+      "content": "Elvitegravir",
+      "summary": "Elvitegravir (EVG) is an integrase inhibitor used to treat HIV infection. It was developed by the pharmaceutical company Gilead Sciences, which licensed EVG from Japan Tobacco in March 2008. The drug gained approval by the U.S. Food and Drug Administration on 27 August 2012, for use in adult patients starting HIV treatment for the first time as part of the fixed dose combination known as Stribild. On 24 September 2014, the FDA approved Elvitegravir as a single pill formulation under the trade na...",
+      "lastUpdated": "2025-11-13T10:32:33-0500"
+    },
+    "table_10_row_5_col_4": {
+      "content": "Fosamprenavir",
+      "summary": "Fosamprenavir (FPV), sold under the brand names Lexiva and Telzir, is a medication used to treat HIV/AIDS. It is a prodrug of the protease inhibitor and antiretroviral drug amprenavir. It is marketed by ViiV Healthcare as the calcium salt.",
+      "lastUpdated": "2025-11-13T10:32:35-0500"
+    },
+    "table_10_row_6_col_0": {
+      "content": "Ibalizumab",
+      "summary": "Ibalizumab, sold under the brand name Trogarzo, is a non-immunosuppressive humanised monoclonal antibody that binds CD4, the primary receptor for HIV, and inhibits HIV from entering cells. It is a post-attachment inhibitor, blocking HIV from binding to the CCR5 and CXCR4 co-receptors after HIV binds to the CD4 receptor on the surface of a CD4 cell. Post-attachment inhibitors are a subclass of HIV drugs called entry inhibitors.",
+      "lastUpdated": "2025-11-13T10:32:36-0500"
+    },
+    "table_10_row_6_col_1": {
+      "content": "Lamivudine",
+      "summary": "Lamivudine, commonly called 3TC, is an antiretroviral medication used to prevent and treat HIV/AIDS. It is also used to treat chronic hepatitis B when other options are not possible. It is effective against both HIV-1 and HIV-2. It is typically used in combination with other antiretrovirals such as zidovudine, dolutegravir, and abacavir. Lamivudine may be included as part of post-exposure prevention in those who have been potentially exposed to HIV. Lamivudine is taken by mouth as a liquid or ta...",
+      "lastUpdated": "2025-11-13T10:33:04-0500"
+    },
+    "table_10_row_6_col_2": {
+      "content": "Nevirapine",
+      "summary": "Nevirapine (NVP), sold under the brand name Viramune among others, is a medication used to treat and prevent HIV/AIDS, specifically HIV-1. It is generally recommended for use with other antiretroviral medications. It may be used to prevent mother to child spread during birth but is not recommended following other exposures. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:32:39-0500"
+    },
+    "table_10_row_6_col_3": {
+      "content": "Dolutegravir",
+      "summary": "Dolutegravir (DTG), sold under the brand name Tivicay or Instgra, is an antiretroviral medication used, together with other medication, to treat HIV/AIDS. It may also be used, as part of post exposure prophylaxis, to prevent HIV infection following potential exposure. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:32:40-0500"
+    },
+    "table_10_row_6_col_4": {
+      "content": "Indinavir",
+      "summary": "Indinavir is a protease inhibitor used as a component of highly active antiretroviral therapy to treat HIV/AIDS. It is soluble white powder administered orally in combination with other antiviral drugs. The drug prevents protease from functioning normally. Consequently, HIV viruses cannot reproduce, causing a decrease in the viral load. Commercially sold indinavir is indinavir anhydrous, which is indinavir with an additional amine in the hydroxyethylene backbone. This enhances its solubility and...",
+      "lastUpdated": "2025-11-13T10:32:42-0500"
+    },
+    "table_10_row_7_col_1": {
+      "content": "Stavudine",
+      "summary": "Stavudine (d4T), sold under the brand name Zerit among others, is an antiretroviral medication used to prevent and treat HIV/AIDS. It is generally recommended for use with other antiretrovirals. It may be used for prevention after a needlestick injury or other potential exposure. However, it is not a first-line treatment. It is given by mouth.",
+      "lastUpdated": "2025-11-13T10:32:43-0500"
+    },
+    "table_10_row_7_col_2": {
+      "content": "Rilpivirine",
+      "summary": "Rilpivirine, sold under the brand name Edurant among others, is a medication, developed by Tibotec, used for the treatment of HIV/AIDS. It is a second-generation non-nucleoside reverse transcriptase inhibitor (NNRTI) with higher potency, longer half-life and reduced side-effect profile compared with older NNRTIs such as efavirenz.",
+      "lastUpdated": "2025-11-13T10:32:45-0500"
+    },
+    "table_10_row_7_col_3": {
+      "content": "Raltegravir",
+      "summary": "Raltegravir, sold under the brand name Isentress, is an antiretroviral medication used, together with other medication, to treat HIV/AIDS. It may also be used, as part of post-exposure prophylaxis, to prevent HIV infection following potential exposure. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:32:46-0500"
+    },
+    "table_10_row_7_col_4": {
+      "content": "Lopinavir",
+      "summary": "Lopinavir is an antiretroviral of the protease inhibitor class. It is used against HIV infections as a fixed-dose combination with another protease inhibitor, ritonavir (lopinavir/ritonavir).",
+      "lastUpdated": "2025-11-13T10:32:48-0500"
+    },
+    "table_10_row_8_col_1": {
+      "content": "Tenofovir",
+      "summary": "Tenofovir disoproxil, sold under the brand name Viread among others, is a medication used to treat chronic hepatitis B and to prevent and treat HIV/AIDS. It is generally recommended for use with other antiretrovirals. It may be used for prevention of HIV/AIDS among those at high risk before exposure, and after a needlestick injury or other potential exposure. It is sold both by itself and together in combinations such as emtricitabine/tenofovir, efavirenz/emtricitabine/tenofovir, and elvitegravi...",
+      "lastUpdated": "2025-11-13T10:33:05-0500"
+    },
+    "table_10_row_8_col_4": {
+      "content": "Ritonavir",
+      "summary": "Ritonavir, sold under the brand name Norvir, is an antiretroviral medication used along with other medications to treat HIV/AIDS. This combination treatment is known as highly active antiretroviral therapy (HAART). Ritonavir is a protease inhibitor, though it now mainly serves to boost the potency of other protease inhibitors. It may also be used in combination with other medications to treat hepatitis C and COVID-19. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:32:50-0500"
+    },
+    "table_10_row_9_col_1": {
+      "content": "Zidovudine",
+      "summary": "Zidovudine (ZDV), also known as azidothymidine (AZT), was the first antiretroviral medication used to prevent and treat HIV/AIDS. It is generally recommended for use in combination with other antiretrovirals. It may be used to prevent mother-to-child spread during birth or after a needlestick injury or other potential exposure. It is sold both by itself and together as lamivudine/zidovudine and abacavir/lamivudine/zidovudine. It can be used by mouth or by slow injection into a vein.",
+      "lastUpdated": "2025-11-13T10:32:51-0500"
+    },
+    "table_10_row_9_col_4": {
+      "content": "Saquinavir",
+      "summary": "Saquinavir, sold under the brand name Invirase among others, is an antiretroviral medication used together with other medications to treat or prevent HIV/AIDS. Typically it is used with ritonavir or lopinavir/ritonavir to increase its effect. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:32:53-0500"
+    },
+    "table_11_row_0_col_0": {
+      "content": "GROUP VII VIRUSES (HEPATITIS B)",
+      "summary": "Anti-fungal means to kill or to prevent growth of fungi, and may refer to:Antifungal medication, used to treat or prevent fungal infections\nFungicide, an anti-fungal substance that kills fungi\nFungistatics, anti-fungal substances that prevent fungi from growing or reproducing",
+      "lastUpdated": "2025-11-13T11:14:48-0500"
+    },
+    "table_11_row_0_col_1": {
+      "content": "GROUP VII VIRUSES (HEPATITIS B)",
+      "summary": ""
+    },
+    "table_11_row_1_col_0": {
+      "content": "REVERSE TRASCRIPTASE INHIBITORS",
+      "summary": ""
+    },
+    "table_11_row_1_col_1": {
+      "content": "DNA POLYMERASE INHIBITORS",
+      "summary": ""
+    },
+    "table_11_row_2_col_0": {
+      "content": "Adefovir",
+      "summary": "Adefovir is a prescription medicine used to treat (chronic) infections with hepatitis B virus. A prodrug form of adefovir was previously called bis-POM PMEA, with trade names Preveon and Hepsera. It is an orally administered nucleotide analog reverse-transcriptase inhibitor (ntRTI). It can be formulated as the pivoxil prodrug adefovir dipivoxil.",
+      "lastUpdated": "2025-11-13T10:32:59-0500"
+    },
+    "table_11_row_2_col_1": {
+      "content": "Entecavir",
+      "summary": "Entecavir, sold under the brand name Baraclude, is an antiviral medication used in the treatment of hepatitis B virus infection. In those with both HIV/AIDS and hepatitis B virus antiretroviral medication should also be used. Entecavir is taken by mouth as a tablet or solution.",
+      "lastUpdated": "2025-11-13T10:33:01-0500"
+    },
+    "table_11_row_3_col_0": {
+      "content": "Entecavir",
+      "summary": "Entecavir, sold under the brand name Baraclude, is an antiviral medication used in the treatment of hepatitis B virus infection. In those with both HIV/AIDS and hepatitis B virus antiretroviral medication should also be used. Entecavir is taken by mouth as a tablet or solution.",
+      "lastUpdated": "2025-11-13T10:33:01-0500"
+    },
+    "table_11_row_3_col_1": {
+      "content": "Telbivudine",
+      "summary": "Telbivudine is an antiviral drug used in the treatment of hepatitis B infection. It is marketed by Swiss pharmaceutical company Novartis under the trade names Sebivo and Tyzeka. Clinical trials have shown it to be significantly more effective than lamivudine or adefovir, and less likely to cause resistance. However, HBV signature resistance mutation M204I or L180M+M204V have been associated with Telbivudine resistance.",
+      "lastUpdated": "2025-11-13T10:33:03-0500"
+    },
+    "table_11_row_4_col_0": {
+      "content": "Lamivudine",
+      "summary": "Lamivudine, commonly called 3TC, is an antiretroviral medication used to prevent and treat HIV/AIDS. It is also used to treat chronic hepatitis B when other options are not possible. It is effective against both HIV-1 and HIV-2. It is typically used in combination with other antiretrovirals such as zidovudine, dolutegravir, and abacavir. Lamivudine may be included as part of post-exposure prevention in those who have been potentially exposed to HIV. Lamivudine is taken by mouth as a liquid or ta...",
+      "lastUpdated": "2025-11-13T10:33:04-0500"
+    },
+    "table_11_row_5_col_0": {
+      "content": "Tenofovir",
+      "summary": "Tenofovir disoproxil, sold under the brand name Viread among others, is a medication used to treat chronic hepatitis B and to prevent and treat HIV/AIDS. It is generally recommended for use with other antiretrovirals. It may be used for prevention of HIV/AIDS among those at high risk before exposure, and after a needlestick injury or other potential exposure. It is sold both by itself and together in combinations such as emtricitabine/tenofovir, efavirenz/emtricitabine/tenofovir, and elvitegravi...",
+      "lastUpdated": "2025-11-13T10:33:05-0500"
+    },
+    "table_12_row_0_col_0": {
+      "content": "ANTI-FUNGALS",
+      "summary": "The cell membrane is a semipermeable biological membrane that separates and protects the interior of a cell from the outside environment. The cell membrane is a lipid bilayer, usually consisting of phospholipids and glycolipids; eukaryotes and some archaea typically have sterols interspersed between them as well, maintaining appropriate membrane fluidity at various temperatures. The membrane also contains membrane proteins, including integral proteins that span the membrane and serve as transpor...",
+      "lastUpdated": "2025-11-13T11:14:49-0500"
+    },
+    "table_13_row_0_col_0": {
+      "content": "CELL MEMBRANE",
+      "summary": "Many skin conditions affect the human integumentary system—the organ system covering the entire surface of the body and composed of skin, hair, nails, and related muscles and glands. The major function of this system is as a barrier against the external environment. The skin weighs an average of four kilograms, covers an area of two square metres, and is made of three distinct layers: the epidermis, dermis, and subcutaneous tissue. The two main types of human skin are: glabrous skin, the hairles...",
+      "lastUpdated": "2025-11-13T11:15:54-0500"
+    },
+    "table_13_row_0_col_1": {
+      "content": "CELL MEMBRANE",
+      "summary": "Many skin conditions affect the human integumentary system—the organ system covering the entire surface of the body and composed of skin, hair, nails, and related muscles and glands. The major function of this system is as a barrier against the external environment. The skin weighs an average of four kilograms, covers an area of two square metres, and is made of three distinct layers: the epidermis, dermis, and subcutaneous tissue. The two main types of human skin are: glabrous skin, the hairles...",
+      "lastUpdated": "2025-11-13T11:15:54-0500"
+    },
+    "table_13_row_0_col_2": {
+      "content": "CELL MEMBRANE",
+      "summary": "Many skin conditions affect the human integumentary system—the organ system covering the entire surface of the body and composed of skin, hair, nails, and related muscles and glands. The major function of this system is as a barrier against the external environment. The skin weighs an average of four kilograms, covers an area of two square metres, and is made of three distinct layers: the epidermis, dermis, and subcutaneous tissue. The two main types of human skin are: glabrous skin, the hairles...",
+      "lastUpdated": "2025-11-13T11:15:54-0500"
+    },
+    "table_13_row_0_col_3": {
+      "content": "CELL WALL",
+      "summary": "Many skin conditions affect the human integumentary system—the organ system covering the entire surface of the body and composed of skin, hair, nails, and related muscles and glands. The major function of this system is as a barrier against the external environment. The skin weighs an average of four kilograms, covers an area of two square metres, and is made of three distinct layers: the epidermis, dermis, and subcutaneous tissue. The two main types of human skin are: glabrous skin, the hairles...",
+      "lastUpdated": "2025-11-13T11:15:54-0500"
+    },
+    "table_13_row_0_col_4": {
+      "content": "DNA",
+      "summary": "Many skin conditions affect the human integumentary system—the organ system covering the entire surface of the body and composed of skin, hair, nails, and related muscles and glands. The major function of this system is as a barrier against the external environment. The skin weighs an average of four kilograms, covers an area of two square metres, and is made of three distinct layers: the epidermis, dermis, and subcutaneous tissue. The two main types of human skin are: glabrous skin, the hairles...",
+      "lastUpdated": "2025-11-13T11:15:54-0500"
+    },
+    "table_13_row_0_col_5": {
+      "content": "MICROTUBULES",
+      "summary": "Many skin conditions affect the human integumentary system—the organ system covering the entire surface of the body and composed of skin, hair, nails, and related muscles and glands. The major function of this system is as a barrier against the external environment. The skin weighs an average of four kilograms, covers an area of two square metres, and is made of three distinct layers: the epidermis, dermis, and subcutaneous tissue. The two main types of human skin are: glabrous skin, the hairles...",
+      "lastUpdated": "2025-11-13T11:15:54-0500"
+    },
+    "table_13_row_1_col_0": {
+      "content": "ERGOSTEROLSYNTHESIS INHIBITORS",
+      "summary": "Imidazole (ImH) is an organic compound with the formula (CH)3(NH)N. It is a white or colourless solid that is soluble in water, producing a mildly alkaline solution. It can be classified as a heterocycle, specifically as a diazole.",
+      "lastUpdated": "2025-11-13T11:15:55-0500"
+    },
+    "table_13_row_1_col_1": {
+      "content": "ERGOSTEROLSYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_13_row_1_col_2": {
+      "content": "ERGOSTEROL BINDING AGENTS",
+      "summary": ""
+    },
+    "table_13_row_2_col_0": {
+      "content": "LANOSTEROL DEMETHYLASE INHIB.",
+      "summary": "Clotrimazole, sold under the brand name Lotrimin, among others, is an antifungal medication. It is used to treat vaginal yeast infections, oral thrush, diaper rash, tinea versicolor, and types of ringworm including athlete's foot and jock itch. It is in the azole class of medications and works by disrupting the fungal cell membrane. It can be taken by mouth or applied as a cream to the skin or in the vagina.",
+      "lastUpdated": "2025-11-13T10:34:30-0500"
+    },
+    "table_13_row_2_col_1": {
+      "content": "SQUALENE EPOXIDASE INH.",
+      "summary": "Terbinafine, sold under the brand name Lamisil among others, is an antifungal medication used to treat pityriasis versicolor, fungal nail infections, and ringworm including jock itch and athlete's foot. It is either taken by mouth or applied to the skin as a cream or ointment.",
+      "lastUpdated": "2025-11-13T10:34:32-0500"
+    },
+    "table_13_row_2_col_3": {
+      "content": "GLUCAN SYNTHASE INHIBITORS",
+      "summary": ""
+    },
+    "table_13_row_2_col_4": {
+      "content": "THYMIDYLATE SYNTHETASE INH.",
+      "summary": ""
+    },
+    "table_13_row_3_col_0": {
+      "content": "AZOLES",
+      "summary": "Ketoconazole, sold under the brand name Nizoral, among others, is an antiandrogen, antifungal, and antiglucocorticoid medication used to treat a number of fungal infections. Applied to the skin it is used for fungal skin infections such as tinea, cutaneous candidiasis, pityriasis versicolor, dandruff, and seborrheic dermatitis. Taken by mouth it is a less preferred option and recommended for only severe infections when other agents cannot be used. Other uses include treatment of excessive male-p...",
+      "lastUpdated": "2025-11-13T10:34:37-0500"
+    },
+    "table_13_row_3_col_1": {
+      "content": "ALLYLAMINES",
+      "summary": "Naftifine hydrochloride is an allylamine antifungal drug for the topical treatment of tinea pedis, tinea cruris, and tinea corporis.",
+      "lastUpdated": "2025-11-13T10:34:40-0500"
+    },
+    "table_13_row_3_col_2": {
+      "content": "POLYENES",
+      "summary": "In organic chemistry, polyenes are polyunsaturated organic compounds that contain multiple carbon–carbon double bonds. Some sources consider dienes to be polyenes, whereas others require polyenes to contain three carbon–carbon double bonds (trienes) or more.",
+      "lastUpdated": "2025-11-13T11:15:37-0500"
+    },
+    "table_13_row_3_col_3": {
+      "content": "ECHINOCANDINS",
+      "summary": "Echinocandins are a class of antifungal drugs that inhibit the synthesis of β-glucan in the fungal cell wall via noncompetitive inhibition of the enzyme 1,3-β glucan synthase. The class has been dubbed the \"penicillin of antifungals,\" along with the related papulacandins, as their mechanism of action resembles that of penicillin in bacteria. β-glucans are carbohydrate polymers that are cross-linked with other fungal cell wall components, the fungal equivalent to bacterial peptidoglycan. Caspofun...",
+      "lastUpdated": "2025-11-13T11:15:38-0500"
+    },
+    "table_13_row_3_col_4": {
+      "content": "PYRIMIDINE ANAL.",
+      "summary": ""
+    },
+    "table_13_row_3_col_5": {
+      "content": "PENICILLIN DERIV.",
+      "summary": ""
+    },
+    "table_14_row_0_col_0": {
+      "content": "SUPERFICIAL FUNGAL INFECTIONS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:16:06-0500"
+    },
+    "table_14_row_0_col_1": {
+      "content": "SUPERFICIAL FUNGAL INFECTIONS",
+      "summary": ""
+    },
+    "table_14_row_0_col_2": {
+      "content": "SUPERFICIAL FUNGAL INFECTIONS",
+      "summary": ""
+    },
+    "table_14_row_0_col_3": {
+      "content": "SUPERFICIAL FUNGAL INFECTIONS",
+      "summary": ""
+    },
+    "table_14_row_0_col_4": {
+      "content": "SUPERFICIAL FUNGAL INFECTIONS",
+      "summary": ""
+    },
+    "table_14_row_0_col_5": {
+      "content": "SUPERFICIAL FUNGAL INFECTIONS",
+      "summary": ""
+    },
+    "table_14_row_1_col_0": {
+      "content": "IMIDAZOLES",
+      "summary": "A triazole is a heterocyclic compound featuring a five-membered ring of two carbon atoms and three nitrogen atoms with molecular formula C2H3N3. Triazoles exhibit substantial isomerism, depending on the positioning of the nitrogen atoms within the ring.",
+      "lastUpdated": "2025-11-13T11:16:06-0500"
+    },
+    "table_14_row_2_col_0": {
+      "content": "Clotrimazole",
+      "summary": "Fluconazole is an antifungal medication used for a number of fungal infections. These include candidiasis, blastomycosis, coccidioidomycosis, cryptococcosis, histoplasmosis, dermatophytosis, and tinea versicolor. It is also used to prevent candidiasis in those who are at high risk such as following organ transplantation, low birth weight babies, and those with low blood neutrophil counts. It is given either by mouth or by injection into a vein.",
+      "lastUpdated": "2025-11-13T10:34:59-0500"
+    },
+    "table_14_row_2_col_1": {
+      "content": "Terbinafine",
+      "summary": "Terbinafine, sold under the brand name Lamisil among others, is an antifungal medication used to treat pityriasis versicolor, fungal nail infections, and ringworm including jock itch and athlete's foot. It is either taken by mouth or applied to the skin as a cream or ointment.",
+      "lastUpdated": "2025-11-13T10:34:32-0500"
+    },
+    "table_14_row_2_col_2": {
+      "content": "Nystatin",
+      "summary": "Amphotericin B is an antifungal medication used for serious fungal infections and leishmaniasis. The fungal infections it is used to treat include mucormycosis, aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, and cryptococcosis. For certain infections it is given with flucytosine. It is typically given intravenously.",
+      "lastUpdated": "2025-11-13T10:35:01-0500"
+    },
+    "table_14_row_2_col_5": {
+      "content": "Griseofulvin (o)",
+      "summary": "Griseofulvin is an antifungal medication used to treat dermatophytoses (ringworm). This includes fungal infections of the nails and scalp, as well as the skin when antifungal creams have not worked. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:34:36-0500"
+    },
+    "table_14_row_3_col_0": {
+      "content": "Ketoconazole",
+      "summary": "Isavuconazonium, sold under the brand name Cresemba, is a systemic antifungal medication of the triazole class which is used to treat invasive aspergillosis and mucormycosis. It is used as the sulfate. It is taken by mouth or given via injection into a vein.",
+      "lastUpdated": "2025-11-13T10:35:07-0500"
+    },
+    "table_14_row_3_col_1": {
+      "content": "Naftifine",
+      "summary": "Naftifine hydrochloride is an allylamine antifungal drug for the topical treatment of tinea pedis, tinea cruris, and tinea corporis.",
+      "lastUpdated": "2025-11-13T10:34:40-0500"
+    },
+    "table_14_row_4_col_0": {
+      "content": "Miconazole",
+      "summary": "Itraconazole, sometimes abbreviated ITZ, is an antifungal medication used to treat a number of fungal infections. This includes aspergillosis, blastomycosis, coccidioidomycosis, histoplasmosis, and paracoccidioidomycosis. It may be given by mouth or intravenously.",
+      "lastUpdated": "2025-11-13T10:35:12-0500"
+    },
+    "table_14_row_6_col_0": {
+      "content": "TRIAZOLES",
+      "summary": "Posaconazole, sold under the brand name Noxafil among others, is a triazole antifungal medication.",
+      "lastUpdated": "2025-11-13T10:35:16-0500"
+    },
+    "table_14_row_7_col_0": {
+      "content": "Fluconazole",
+      "summary": "Voriconazole, sold under the brand name Vfend among others, is an antifungal medication used to treat a number of fungal infections. This includes aspergillosis, candidiasis, coccidioidomycosis, histoplasmosis, penicilliosis, and infections by Scedosporium or Fusarium. It can be taken by mouth or used by injection into a vein.",
+      "lastUpdated": "2025-11-13T10:35:17-0500"
+    },
+    "table_15_row_0_col_0": {
+      "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "summary": "Pneumocystis jirovecii is a yeast-like fungus of the genus Pneumocystis. The causative organism of Pneumocystis pneumonia, it is an important human pathogen, particularly among immunocompromised hosts. Prior to its discovery as a human-specific pathogen, P. jirovecii was known as P. carinii.",
+      "lastUpdated": "2025-11-13T10:35:18-0500"
+    },
+    "table_15_row_0_col_1": {
+      "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "summary": ""
+    },
+    "table_15_row_0_col_2": {
+      "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "summary": ""
+    },
+    "table_15_row_0_col_3": {
+      "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "summary": ""
+    },
+    "table_15_row_0_col_4": {
+      "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "summary": ""
+    },
+    "table_15_row_0_col_5": {
+      "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "summary": ""
+    },
+    "table_15_row_1_col_0": {
+      "content": "TRIAZOLES",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:16:07-0500"
+    },
+    "table_15_row_2_col_0": {
+      "content": "Fluconazole (o)",
+      "summary": "Fluconazole is an antifungal medication used for a number of fungal infections. These include candidiasis, blastomycosis, coccidioidomycosis, cryptococcosis, histoplasmosis, dermatophytosis, and tinea versicolor. It is also used to prevent candidiasis in those who are at high risk such as following organ transplantation, low birth weight babies, and those with low blood neutrophil counts. It is given either by mouth or by injection into a vein.",
+      "lastUpdated": "2025-11-13T10:34:59-0500"
+    },
+    "table_15_row_2_col_2": {
+      "content": "Amphotericin B (iv)",
+      "summary": "Amphotericin B is an antifungal medication used for serious fungal infections and leishmaniasis. The fungal infections it is used to treat include mucormycosis, aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, and cryptococcosis. For certain infections it is given with flucytosine. It is typically given intravenously.",
+      "lastUpdated": "2025-11-13T10:35:01-0500"
+    },
+    "table_15_row_2_col_3": {
+      "content": "Anidulafungin (iv)",
+      "summary": "Anidulafungin (INN) (sold under the brand name Eraxis among others, is a semisynthetic echinocandin used as an antifungal medication. It may also have application in treating invasive Aspergillus infection when used in combination with voriconazole. It is a member of the class of antifungal drugs known as the echinocandins; its mechanism of action is by inhibition of  -β-D-glucan synthase, an enzyme important to the synthesis of the fungal cell wall.",
+      "lastUpdated": "2025-11-13T10:35:02-0500"
+    },
+    "table_15_row_2_col_4": {
+      "content": "Flucytosine (o)",
+      "summary": "Flucytosine, also known as 5-fluorocytosine (5-FC), is an antifungal medication. It is specifically used, together with amphotericin B, for serious Candida infections and cryptococcosis. It may be used by itself or with other antifungals for chromomycosis. Flucytosine is used by mouth and by injection into a vein.",
+      "lastUpdated": "2025-11-13T10:35:06-0500"
+    },
+    "table_15_row_3_col_0": {
+      "content": "Isavuconazole (o/iv)",
+      "summary": "Isavuconazonium, sold under the brand name Cresemba, is a systemic antifungal medication of the triazole class which is used to treat invasive aspergillosis and mucormycosis. It is used as the sulfate. It is taken by mouth or given via injection into a vein.",
+      "lastUpdated": "2025-11-13T10:35:07-0500"
+    },
+    "table_15_row_3_col_3": {
+      "content": "Caspofungin (iv)",
+      "summary": "Caspofungin is a lipopeptide antifungal drug from Merck & Co., Inc. It is a member of a class of antifungals termed the echinocandins. It works by inhibiting the enzyme (1→3)-β-D-glucan synthase and thereby disturbing the integrity of the fungal cell wall.",
+      "lastUpdated": "2025-11-13T10:35:10-0500"
+    },
+    "table_15_row_4_col_0": {
+      "content": "Itraconazole (o/iv)",
+      "summary": "Itraconazole, sometimes abbreviated ITZ, is an antifungal medication used to treat a number of fungal infections. This includes aspergillosis, blastomycosis, coccidioidomycosis, histoplasmosis, and paracoccidioidomycosis. It may be given by mouth or intravenously.",
+      "lastUpdated": "2025-11-13T10:35:12-0500"
+    },
+    "table_15_row_4_col_3": {
+      "content": "Micafungin (iv)",
+      "summary": "Micafungin, sold under the brand name Mycamine, is an echinocandin antifungal medication used to treat and prevent invasive fungal infections including candidemia, abscesses, and esophageal candidiasis. It inhibits the production of beta-1,3-glucan, an essential component of fungal cell walls that is not found in mammals.",
+      "lastUpdated": "2025-11-13T10:35:13-0500"
+    },
+    "table_15_row_5_col_0": {
+      "content": "Ketoconazole (o)",
+      "summary": "Ketoconazole, sold under the brand name Nizoral, among others, is an antiandrogen, antifungal, and antiglucocorticoid medication used to treat a number of fungal infections. Applied to the skin it is used for fungal skin infections such as tinea, cutaneous candidiasis, pityriasis versicolor, dandruff, and seborrheic dermatitis. Taken by mouth it is a less preferred option and recommended for only severe infections when other agents cannot be used. Other uses include treatment of excessive male-p...",
+      "lastUpdated": "2025-11-13T10:35:14-0500"
+    },
+    "table_15_row_6_col_0": {
+      "content": "Posaconazole (o)",
+      "summary": "Posaconazole, sold under the brand name Noxafil among others, is a triazole antifungal medication.",
+      "lastUpdated": "2025-11-13T10:35:16-0500"
+    },
+    "table_15_row_7_col_0": {
+      "content": "Voriconazole (o/iv)",
+      "summary": "Voriconazole, sold under the brand name Vfend among others, is an antifungal medication used to treat a number of fungal infections. This includes aspergillosis, candidiasis, coccidioidomycosis, histoplasmosis, penicilliosis, and infections by Scedosporium or Fusarium. It can be taken by mouth or used by injection into a vein.",
+      "lastUpdated": "2025-11-13T10:35:17-0500"
+    },
+    "table_16_row_0_col_0": {
+      "content": "Pneumocystis jirovecii",
+      "summary": "Antiprotozoal agents is a class of pharmaceuticals used in treatment of protozoan infection.",
+      "lastUpdated": "2025-11-13T11:16:12-0500"
+    },
+    "table_16_row_1_col_0": {
+      "content": "Sulfamethoxazole/Trimethoprim (SMX/TMP)",
+      "summary": ""
+    },
+    "table_17_row_0_col_0": {
+      "content": "ANTI-PROTOZOALS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:16:17-0500"
+    },
+    "table_18_row_0_col_0": {
+      "content": "VAGINAL & GI",
+      "summary": "Plasmodium is a genus of unicellular eukaryotes that are obligate parasites of vertebrates and insects. The life cycles of Plasmodium species involve development in a blood-feeding insect host which then injects parasites into a vertebrate host during a blood meal. Parasites grow within a vertebrate body tissue before entering the bloodstream to infect red blood cells. The ensuing destruction of host red blood cells can result in malaria. During this infection, some parasites are picked up by a ...",
+      "lastUpdated": "2025-11-13T10:36:05-0500"
+    },
+    "table_18_row_0_col_1": {
+      "content": "VAGINAL & GI",
+      "summary": "Plasmodium is a genus of unicellular eukaryotes that are obligate parasites of vertebrates and insects. The life cycles of Plasmodium species involve development in a blood-feeding insect host which then injects parasites into a vertebrate host during a blood meal. Parasites grow within a vertebrate body tissue before entering the bloodstream to infect red blood cells. The ensuing destruction of host red blood cells can result in malaria. During this infection, some parasites are picked up by a ...",
+      "lastUpdated": "2025-11-13T10:36:07-0500"
+    },
+    "table_18_row_0_col_2": {
+      "content": "VAGINAL & GI",
+      "summary": "Plasmodium is a genus of unicellular eukaryotes that are obligate parasites of vertebrates and insects. The life cycles of Plasmodium species involve development in a blood-feeding insect host which then injects parasites into a vertebrate host during a blood meal. Parasites grow within a vertebrate body tissue before entering the bloodstream to infect red blood cells. The ensuing destruction of host red blood cells can result in malaria. During this infection, some parasites are picked up by a ...",
+      "lastUpdated": "2025-11-13T10:36:08-0500"
+    },
+    "table_18_row_0_col_3": {
+      "content": "VAGINAL & GI",
+      "summary": "Plasmodium is a genus of unicellular eukaryotes that are obligate parasites of vertebrates and insects. The life cycles of Plasmodium species involve development in a blood-feeding insect host which then injects parasites into a vertebrate host during a blood meal. Parasites grow within a vertebrate body tissue before entering the bloodstream to infect red blood cells. The ensuing destruction of host red blood cells can result in malaria. During this infection, some parasites are picked up by a ...",
+      "lastUpdated": "2025-11-13T10:36:09-0500"
+    },
+    "table_18_row_1_col_1": {
+      "content": "DNA DAMAGING AGENT",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:16:25-0500"
+    },
+    "table_18_row_1_col_2": {
+      "content": "PROTEIN SYNTHESIS INHIBITOR (?)",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:16:35-0500"
+    },
+    "table_18_row_1_col_3": {
+      "content": "UNKNOWN",
+      "summary": ""
+    },
+    "table_18_row_2_col_1": {
+      "content": "Metronidazole (Systemic)",
+      "summary": "Primaquine is a medication used to treat and prevent malaria and to treat Pneumocystis pneumonia. Specifically it is used for malaria due to Plasmodium vivax and Plasmodium ovale along with other medications and for prevention if other options cannot be used. It is an alternative treatment for Pneumocystis pneumonia together with clindamycin. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:36:24-0500"
+    },
+    "table_18_row_2_col_2": {
+      "content": "Paramomycin (GI-limited)",
+      "summary": "Chloroquine is an antiparasitic medication that treats malaria. It works by increasing the levels of heme in the blood, a substance toxic to the malarial parasite. This kills the parasite and stops the infection from spreading. Certain types of malaria, resistant strains, and complicated cases typically require different or additional medication. Chloroquine is also occasionally used for amebiasis that is occurring outside the intestines, rheumatoid arthritis, and lupus erythematosus. While it h...",
+      "lastUpdated": "2025-11-13T10:36:26-0500"
+    },
+    "table_18_row_2_col_3": {
+      "content": "Iodoquinol (GI-limited)",
+      "summary": "Mefloquine, sold under the brand name Lariam among others, is a medication used to prevent or treat malaria. When used for prevention it is typically started before potential exposure and continued for several weeks after potential exposure. It can be used to treat mild or moderate malaria but is not recommended for severe malaria. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:36:27-0500"
+    },
+    "table_18_row_3_col_0": {
+      "content": "Trichomonas vaginalis",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:17:04-0500"
+    },
+    "table_18_row_4_col_0": {
+      "content": "Entamoeba histolytica",
+      "summary": "Simplicity is the state or quality of being simple. Something easy to understand or explain seems simple, in contrast to something complicated. Alternatively, as Herbert A. Simon suggests, something is simple or complex depending on the way we choose to describe it. In some uses, the label \"simplicity\" can imply beauty, purity, or clarity. In other cases, the term may suggest a lack of nuance or complexity relative to what is required.",
+      "lastUpdated": "2025-11-13T11:17:07-0500"
+    },
+    "table_18_row_5_col_0": {
+      "content": "Giardia lamblia",
+      "summary": "Complicated may refer to:",
+      "lastUpdated": "2025-11-13T10:37:03-0500"
+    },
+    "table_19_row_0_col_0": {
+      "content": "Plasmodium (Malaria)",
+      "summary": "Leishmania donovani is a species of intracellular parasites belonging to the genus Leishmania, a group of haemoflagellate kinetoplastids that cause the disease leishmaniasis. It is a human blood parasite responsible for visceral leishmaniasis or kala-azar, the most severe form of leishmaniasis. It infects the mononuclear phagocyte system including spleen, liver and bone marrow. Infection is transmitted by species of sandfly belonging to the genus Phlebotomus in Old World and Lutzomyia in New Wor...",
+      "lastUpdated": "2025-11-13T10:37:04-0500"
+    },
+    "table_19_row_0_col_1": {
+      "content": "Plasmodium (Malaria)",
+      "summary": "Leishmania donovani is a species of intracellular parasites belonging to the genus Leishmania, a group of haemoflagellate kinetoplastids that cause the disease leishmaniasis. It is a human blood parasite responsible for visceral leishmaniasis or kala-azar, the most severe form of leishmaniasis. It infects the mononuclear phagocyte system including spleen, liver and bone marrow. Infection is transmitted by species of sandfly belonging to the genus Phlebotomus in Old World and Lutzomyia in New Wor...",
+      "lastUpdated": "2025-11-13T10:37:05-0500"
+    },
+    "table_19_row_0_col_2": {
+      "content": "Plasmodium (Malaria)",
+      "summary": "Leishmania donovani is a species of intracellular parasites belonging to the genus Leishmania, a group of haemoflagellate kinetoplastids that cause the disease leishmaniasis. It is a human blood parasite responsible for visceral leishmaniasis or kala-azar, the most severe form of leishmaniasis. It infects the mononuclear phagocyte system including spleen, liver and bone marrow. Infection is transmitted by species of sandfly belonging to the genus Phlebotomus in Old World and Lutzomyia in New Wor...",
+      "lastUpdated": "2025-11-13T10:37:06-0500"
+    },
+    "table_19_row_0_col_3": {
+      "content": "Plasmodium (Malaria)",
+      "summary": "Leishmania donovani is a species of intracellular parasites belonging to the genus Leishmania, a group of haemoflagellate kinetoplastids that cause the disease leishmaniasis. It is a human blood parasite responsible for visceral leishmaniasis or kala-azar, the most severe form of leishmaniasis. It infects the mononuclear phagocyte system including spleen, liver and bone marrow. Infection is transmitted by species of sandfly belonging to the genus Phlebotomus in Old World and Lutzomyia in New Wor...",
+      "lastUpdated": "2025-11-13T10:37:08-0500"
+    },
+    "table_19_row_0_col_4": {
+      "content": "Plasmodium (Malaria)",
+      "summary": "Leishmania donovani is a species of intracellular parasites belonging to the genus Leishmania, a group of haemoflagellate kinetoplastids that cause the disease leishmaniasis. It is a human blood parasite responsible for visceral leishmaniasis or kala-azar, the most severe form of leishmaniasis. It infects the mononuclear phagocyte system including spleen, liver and bone marrow. Infection is transmitted by species of sandfly belonging to the genus Phlebotomus in Old World and Lutzomyia in New Wor...",
+      "lastUpdated": "2025-11-13T10:37:09-0500"
+    },
+    "table_19_row_0_col_5": {
+      "content": "Plasmodium (Malaria)",
+      "summary": "Leishmania donovani is a species of intracellular parasites belonging to the genus Leishmania, a group of haemoflagellate kinetoplastids that cause the disease leishmaniasis. It is a human blood parasite responsible for visceral leishmaniasis or kala-azar, the most severe form of leishmaniasis. It infects the mononuclear phagocyte system including spleen, liver and bone marrow. Infection is transmitted by species of sandfly belonging to the genus Phlebotomus in Old World and Lutzomyia in New Wor...",
+      "lastUpdated": "2025-11-13T10:37:10-0500"
+    },
+    "table_19_row_0_col_6": {
+      "content": "Plasmodium (Malaria)",
+      "summary": "Plasmodium is a genus of unicellular eukaryotes that are obligate parasites of vertebrates and insects. The life cycles of Plasmodium species involve development in a blood-feeding insect host which then injects parasites into a vertebrate host during a blood meal. Parasites grow within a vertebrate body tissue before entering the bloodstream to infect red blood cells. The ensuing destruction of host red blood cells can result in malaria. During this infection, some parasites are picked up by a ...",
+      "lastUpdated": "2025-11-13T10:36:13-0500"
+    },
+    "table_19_row_1_col_1": {
+      "content": "ETC INHIBITOR",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:17:17-0500"
+    },
+    "table_19_row_1_col_2": {
+      "content": "HEME POLYMERASEINHIBITORS (?)",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:17:19-0500"
+    },
+    "table_19_row_1_col_3": {
+      "content": "HEME POLYMERASEINHIBITORS (?)",
+      "summary": ""
+    },
+    "table_19_row_1_col_4": {
+      "content": "FREE RADICAL GENERATOR (?)",
+      "summary": "Anti-fungal means to kill or to prevent growth of fungi, and may refer to:Antifungal medication, used to treat or prevent fungal infections\nFungicide, an anti-fungal substance that kills fungi\nFungistatics, anti-fungal substances that prevent fungi from growing or reproducing",
+      "lastUpdated": "2025-11-13T11:17:19-0500"
+    },
+    "table_19_row_1_col_5": {
+      "content": "ETC INHIBITOR + PYRUV. KIN. INH.",
+      "summary": "Anti-fungal means to kill or to prevent growth of fungi, and may refer to:Antifungal medication, used to treat or prevent fungal infections\nFungicide, an anti-fungal substance that kills fungi\nFungistatics, anti-fungal substances that prevent fungi from growing or reproducing",
+      "lastUpdated": "2025-11-13T11:17:19-0500"
+    },
+    "table_19_row_1_col_6": {
+      "content": "HEME POLY. INHIBITOR (?)",
+      "summary": ""
+    },
+    "table_19_row_2_col_1": {
+      "content": "Primaquine",
+      "summary": "Aminoglycoside is a medicinal and bacteriologic category of traditional Gram-negative antibacterial medications that inhibit protein synthesis and contain as a portion of the molecule an amino-modified glycoside (sugar). The term can also refer more generally to any organic molecule that contains amino sugar substructures. Aminoglycoside antibiotics display bactericidal activity against Gram-negative aerobes and some anaerobic bacilli where resistance has not yet arisen but generally not against...",
+      "lastUpdated": "2025-11-13T11:17:21-0500"
+    },
+    "table_19_row_2_col_2": {
+      "content": "Chloroquine",
+      "summary": "Pentavalent antimonials are a group of compounds used for the treatment of leishmaniasis. They are also called pentavalent antimony compounds.",
+      "lastUpdated": "2025-11-13T11:17:26-0500"
+    },
+    "table_19_row_2_col_3": {
+      "content": "Mefloquine",
+      "summary": "Mefloquine, sold under the brand name Lariam among others, is a medication used to prevent or treat malaria. When used for prevention it is typically started before potential exposure and continued for several weeks after potential exposure. It can be used to treat mild or moderate malaria but is not recommended for severe malaria. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:36:27-0500"
+    },
+    "table_19_row_2_col_4": {
+      "content": "Artesunate2, 3",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:17:27-0500"
+    },
+    "table_19_row_2_col_5": {
+      "content": "Atovaquone + Proguanil",
+      "summary": "In organic chemistry, polyenes are polyunsaturated organic compounds that contain multiple carbon–carbon double bonds. Some sources consider dienes to be polyenes, whereas others require polyenes to contain three carbon–carbon double bonds (trienes) or more.",
+      "lastUpdated": "2025-11-13T11:17:29-0500"
+    },
+    "table_19_row_2_col_6": {
+      "content": "Quinine",
+      "summary": "Quinine is a medication used to treat malaria and babesiosis. This includes the treatment of malaria due to Plasmodium falciparum that is resistant to chloroquine when artesunate is not available. While sometimes used for nocturnal leg cramps, quinine is not recommended for this purpose due to the risk of serious side effects. It can be taken by mouth or intravenously. Malaria resistance to quinine occurs in certain areas of the world. Quinine is also used as an ingredient in tonic water and oth...",
+      "lastUpdated": "2025-11-13T10:36:33-0500"
+    },
+    "table_19_row_3_col_0": {
+      "content": "Prophylaxis1",
+      "summary": ""
+    },
+    "table_19_row_4_col_0": {
+      "content": "Uncomplicated",
+      "summary": "Skin is the layer of usually soft, flexible outer tissue covering the body of a vertebrate animal, with three main functions: protection, regulation, and sensation.",
+      "lastUpdated": "2025-11-13T10:37:53-0500"
+    },
+    "table_19_row_4_col_3": {
+      "content": "Chloroquine resist.",
+      "summary": ""
+    },
+    "table_19_row_4_col_4": {
+      "content": "Chloroquine resist.",
+      "summary": ""
+    },
+    "table_19_row_4_col_5": {
+      "content": "Chloroquine resist.",
+      "summary": ""
+    },
+    "table_19_row_5_col_0": {
+      "content": "Complicated",
+      "summary": "In a multicellular organism, an organ is a collection of tissues joined in a structural unit to serve a common function. In the hierarchy of life, an organ lies between tissue and an organ system. Tissues are formed from same type cells to act together in a function. Tissues of different types combine to form an organ which has a specific function. The intestinal wall for example is formed by epithelial tissue and smooth muscle tissue. Two or more organs working together in the execution of a sp...",
+      "lastUpdated": "2025-11-13T10:37:57-0500"
+    },
+    "table_20_row_0_col_0": {
+      "content": "Leishmania donovani (Leishmaniasis)",
+      "summary": "Trypanosoma is a genus of kinetoplastids, a monophyletic group of unicellular parasitic flagellate protozoa. Trypanosoma is part of the phylum Euglenozoa. The name is derived from the Ancient Greek trypano- (borer) and soma (body) because of their corkscrew-like motion. Most trypanosomes are heteroxenous and most are transmitted via a vector. The majority of species are transmitted by blood-feeding invertebrates, but there are different mechanisms among the varying species. Trypanosoma equiperdu...",
+      "lastUpdated": "2025-11-13T10:38:03-0500"
+    },
+    "table_20_row_0_col_1": {
+      "content": "Leishmania donovani (Leishmaniasis)",
+      "summary": "Trypanosoma is a genus of kinetoplastids, a monophyletic group of unicellular parasitic flagellate protozoa. Trypanosoma is part of the phylum Euglenozoa. The name is derived from the Ancient Greek trypano- (borer) and soma (body) because of their corkscrew-like motion. Most trypanosomes are heteroxenous and most are transmitted via a vector. The majority of species are transmitted by blood-feeding invertebrates, but there are different mechanisms among the varying species. Trypanosoma equiperdu...",
+      "lastUpdated": "2025-11-13T10:38:04-0500"
+    },
+    "table_20_row_0_col_2": {
+      "content": "Leishmania donovani (Leishmaniasis)",
+      "summary": "Trypanosoma is a genus of kinetoplastids, a monophyletic group of unicellular parasitic flagellate protozoa. Trypanosoma is part of the phylum Euglenozoa. The name is derived from the Ancient Greek trypano- (borer) and soma (body) because of their corkscrew-like motion. Most trypanosomes are heteroxenous and most are transmitted via a vector. The majority of species are transmitted by blood-feeding invertebrates, but there are different mechanisms among the varying species. Trypanosoma equiperdu...",
+      "lastUpdated": "2025-11-13T10:38:06-0500"
+    },
+    "table_20_row_0_col_3": {
+      "content": "Leishmania donovani (Leishmaniasis)",
+      "summary": "Trypanosoma is a genus of kinetoplastids, a monophyletic group of unicellular parasitic flagellate protozoa. Trypanosoma is part of the phylum Euglenozoa. The name is derived from the Ancient Greek trypano- (borer) and soma (body) because of their corkscrew-like motion. Most trypanosomes are heteroxenous and most are transmitted via a vector. The majority of species are transmitted by blood-feeding invertebrates, but there are different mechanisms among the varying species. Trypanosoma equiperdu...",
+      "lastUpdated": "2025-11-13T10:38:07-0500"
+    },
+    "table_20_row_0_col_4": {
+      "content": "Leishmania donovani (Leishmaniasis)",
+      "summary": "Trypanosoma is a genus of kinetoplastids, a monophyletic group of unicellular parasitic flagellate protozoa. Trypanosoma is part of the phylum Euglenozoa. The name is derived from the Ancient Greek trypano- (borer) and soma (body) because of their corkscrew-like motion. Most trypanosomes are heteroxenous and most are transmitted via a vector. The majority of species are transmitted by blood-feeding invertebrates, but there are different mechanisms among the varying species. Trypanosoma equiperdu...",
+      "lastUpdated": "2025-11-13T10:38:08-0500"
+    },
+    "table_20_row_0_col_5": {
+      "content": "Leishmania donovani (Leishmaniasis)",
+      "summary": "Leishmania donovani is a species of intracellular parasites belonging to the genus Leishmania, a group of haemoflagellate kinetoplastids that cause the disease leishmaniasis. It is a human blood parasite responsible for visceral leishmaniasis or kala-azar, the most severe form of leishmaniasis. It infects the mononuclear phagocyte system including spleen, liver and bone marrow. Infection is transmitted by species of sandfly belonging to the genus Phlebotomus in Old World and Lutzomyia in New Wor...",
+      "lastUpdated": "2025-11-13T10:37:10-0500"
+    },
+    "table_20_row_1_col_1": {
+      "content": "PROTEIN SYNTH. INHIB.",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:17:37-0500"
+    },
+    "table_20_row_1_col_2": {
+      "content": "MULTIPLE/UNKNOWN",
+      "summary": ""
+    },
+    "table_20_row_1_col_3": {
+      "content": "ETC INHIBITOR",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:17:41-0500"
+    },
+    "table_20_row_1_col_4": {
+      "content": "ANTI-FUNGALS",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:17:47-0500"
+    },
+    "table_20_row_1_col_5": {
+      "content": "ANTI-FUNGALS",
+      "summary": "Anti-fungal means to kill or to prevent growth of fungi, and may refer to:Antifungal medication, used to treat or prevent fungal infections\nFungicide, an anti-fungal substance that kills fungi\nFungistatics, anti-fungal substances that prevent fungi from growing or reproducing",
+      "lastUpdated": "2025-11-13T11:17:19-0500"
+    },
+    "table_20_row_2_col_1": {
+      "content": "AMINOGLYCOSIDE",
+      "summary": "Benznidazole is an antiparasitic medication used in the treatment of Chagas disease. While it is highly effective in early disease, the effectiveness decreases in those who have long-term infection. It is the first-line treatment given its moderate side effects compared to nifurtimox. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:38:23-0500"
+    },
+    "table_20_row_2_col_2": {
+      "content": "PENTAVALENT ANTIMONIALS",
+      "summary": "Nifurtimox, sold under the brand name Lampit, is a medication used to treat Chagas disease and sleeping sickness. For sleeping sickness it is used together with eflornithine in nifurtimox-eflornithine combination treatment. In Chagas disease it is a second-line option to benznidazole. It is given by mouth.",
+      "lastUpdated": "2025-11-13T10:38:24-0500"
+    },
+    "table_20_row_2_col_4": {
+      "content": "ERGOSTEROL SYNTH. INHIBITOR",
+      "summary": "Melarsoprol is an arsenic-containing medication used for the treatment of sleeping sickness. It is specifically used for second-stage disease caused by Trypanosoma brucei rhodesiense when the central nervous system is involved. For Trypanosoma brucei gambiense, eflornithine or fexinidazole is usually preferred. It is effective in about 95% of people. It is given by injection and is known by patients as \"fire in the veins\".",
+      "lastUpdated": "2025-11-13T10:38:29-0500"
+    },
+    "table_20_row_2_col_5": {
+      "content": "POLYENE",
+      "summary": "In organic chemistry, polyenes are polyunsaturated organic compounds that contain multiple carbon–carbon double bonds. Some sources consider dienes to be polyenes, whereas others require polyenes to contain three carbon–carbon double bonds (trienes) or more.",
+      "lastUpdated": "2025-11-13T11:17:29-0500"
+    },
+    "table_20_row_3_col_1": {
+      "content": "Paramomycin",
+      "summary": "Paromomycin is an antimicrobial used to treat a number of parasitic infections including amebiasis, giardiasis, leishmaniasis, and tapeworm infection. It is a first-line treatment for amebiasis or giardiasis during pregnancy. Otherwise, it is generally a second line treatment option. It is taken by mouth, applied to the skin, or by injection into a muscle.",
+      "lastUpdated": "2025-11-13T10:37:44-0500"
+    },
+    "table_20_row_3_col_2": {
+      "content": "Sodium stibogluconate",
+      "summary": "Sodium stibogluconate, sold under the brand name Pentostam among others, is a medication used to treat leishmaniasis. This includes leishmaniasis of the cutaneous, visceral, and mucosal types. Some combination of miltefosine, paromomycin and liposomal amphotericin B, however, may be recommended due to issues with resistance. It is given by injection.",
+      "lastUpdated": "2025-11-13T10:37:46-0500"
+    },
+    "table_20_row_3_col_3": {
+      "content": "Miltefosine",
+      "summary": "Miltefosine, sold under the trade name Impavido among others, is a medication mainly used to treat leishmaniasis and free-living amoeba infections such as Naegleria fowleri and Balamuthia mandrillaris. This includes the three forms of leishmaniasis: cutaneous, visceral and mucosal. It may be used with liposomal amphotericin B or paromomycin. It is taken by mouth.",
+      "lastUpdated": "2025-11-13T10:37:47-0500"
+    },
+    "table_20_row_3_col_4": {
+      "content": "Fluconazole",
+      "summary": "Fluconazole is an antifungal medication used for a number of fungal infections. These include candidiasis, blastomycosis, coccidioidomycosis, cryptococcosis, histoplasmosis, dermatophytosis, and tinea versicolor. It is also used to prevent candidiasis in those who are at high risk such as following organ transplantation, low birth weight babies, and those with low blood neutrophil counts. It is given either by mouth or by injection into a vein.",
+      "lastUpdated": "2025-11-13T10:37:49-0500"
+    },
+    "table_20_row_3_col_5": {
+      "content": "Amphotericin B",
+      "summary": "Amphotericin B is an antifungal medication used for serious fungal infections and leishmaniasis. The fungal infections it is used to treat include mucormycosis, aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, and cryptococcosis. For certain infections it is given with flucytosine. It is typically given intravenously.",
+      "lastUpdated": "2025-11-13T10:37:50-0500"
+    },
+    "table_20_row_4_col_0": {
+      "content": "Cutaneous",
+      "summary": "Trypanosoma brucei is a species of parasitic kinetoplastid belonging to the genus Trypanosoma that is present in sub-Saharan Africa. Unlike other protozoan parasites that normally infect blood and tissue cells, it is exclusively extracellular and inhabits the blood plasma and body fluids. It causes deadly vector-borne diseases: African trypanosomiasis or sleeping sickness in humans, and animal trypanosomiasis or nagana in cattle and horses. It is a species complex grouped into three subspecies: ...",
+      "lastUpdated": "2025-11-13T10:38:32-0500"
+    },
+    "table_20_row_4_col_1": {
+      "content": "Combined",
+      "summary": "Combined may refer to:Alpine combined (skiing), the combination of slalom and downhill skiing as a single event\nSuper combined (skiing)\nNordic combined (skiing), the combination of cross country skiing and ski jumping as a single event\nThe Combined (Group), a criminal organization\nCombinedX, a Swedish group of IT companies",
+      "lastUpdated": "2025-11-13T10:38:00-0500"
+    },
+    "table_20_row_4_col_2": {
+      "content": "Combined",
+      "summary": "Combined may refer to:Alpine combined (skiing), the combination of slalom and downhill skiing as a single event\nSuper combined (skiing)\nNordic combined (skiing), the combination of cross country skiing and ski jumping as a single event\nThe Combined (Group), a criminal organization\nCombinedX, a Swedish group of IT companies",
+      "lastUpdated": "2025-11-13T10:38:00-0500"
+    },
+    "table_20_row_5_col_0": {
+      "content": "Visceral",
+      "summary": "In a multicellular organism, an organ is a collection of tissues joined in a structural unit to serve a common function. In the hierarchy of life, an organ lies between tissue and an organ system. Tissues are formed from same type cells to act together in a function. Tissues of different types combine to form an organ which has a specific function. The intestinal wall for example is formed by epithelial tissue and smooth muscle tissue. Two or more organs working together in the execution of a sp...",
+      "lastUpdated": "2025-11-13T10:37:57-0500"
+    },
+    "table_20_row_5_col_1": {
+      "content": "Combined",
+      "summary": "Combined may refer to:Alpine combined (skiing), the combination of slalom and downhill skiing as a single event\nSuper combined (skiing)\nNordic combined (skiing), the combination of cross country skiing and ski jumping as a single event\nThe Combined (Group), a criminal organization\nCombinedX, a Swedish group of IT companies",
+      "lastUpdated": "2025-11-13T10:38:00-0500"
+    },
+    "table_20_row_5_col_2": {
+      "content": "Combined",
+      "summary": "Combined may refer to:Alpine combined (skiing), the combination of slalom and downhill skiing as a single event\nSuper combined (skiing)\nNordic combined (skiing), the combination of cross country skiing and ski jumping as a single event\nThe Combined (Group), a criminal organization\nCombinedX, a Swedish group of IT companies",
+      "lastUpdated": "2025-11-13T10:38:00-0500"
+    },
+    "table_20_row_6_col_0": {
+      "content": "Relapse",
+      "summary": "In internal medicine, relapse or recidivism is a recurrence of a past condition. For example, multiple sclerosis and malaria often exhibit peaks of activity and sometimes very long periods of dormancy, followed by relapse or recrudescence.",
+      "lastUpdated": "2025-11-13T10:38:01-0500"
+    },
+    "table_21_row_0_col_0": {
+      "content": "Trypanosoma",
+      "summary": "Toxoplasma gondii is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all warm-blooded animals, but members of the cat family (felidae) are the only known definitive hosts in which the parasite may undergo sexual reproduction.",
+      "lastUpdated": "2025-11-13T10:38:33-0500"
+    },
+    "table_21_row_0_col_1": {
+      "content": "Trypanosoma",
+      "summary": "Toxoplasma gondii is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all warm-blooded animals, but members of the cat family (felidae) are the only known definitive hosts in which the parasite may undergo sexual reproduction.",
+      "lastUpdated": "2025-11-13T10:38:35-0500"
+    },
+    "table_21_row_0_col_2": {
+      "content": "Trypanosoma",
+      "summary": "Toxoplasma gondii is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all warm-blooded animals, but members of the cat family (felidae) are the only known definitive hosts in which the parasite may undergo sexual reproduction.",
+      "lastUpdated": "2025-11-13T10:38:36-0500"
+    },
+    "table_21_row_0_col_3": {
+      "content": "Trypanosoma",
+      "summary": "Toxoplasma gondii is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all warm-blooded animals, but members of the cat family (felidae) are the only known definitive hosts in which the parasite may undergo sexual reproduction.",
+      "lastUpdated": "2025-11-13T10:38:37-0500"
+    },
+    "table_21_row_0_col_4": {
+      "content": "Trypanosoma",
+      "summary": "Toxoplasma gondii is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all warm-blooded animals, but members of the cat family (felidae) are the only known definitive hosts in which the parasite may undergo sexual reproduction.",
+      "lastUpdated": "2025-11-13T10:38:39-0500"
+    },
+    "table_21_row_1_col_1": {
+      "content": "DNA DAMAGING AGENTS",
+      "summary": ""
+    },
+    "table_21_row_1_col_2": {
+      "content": "DNA DAMAGING AGENTS",
+      "summary": ""
+    },
+    "table_21_row_1_col_3": {
+      "content": "PSI?",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:18:02-0500"
+    },
+    "table_21_row_1_col_4": {
+      "content": "PYRUVATE KINASE INHIB.",
+      "summary": "Macrolides are a class of mostly natural products with a large macrocyclic lactone ring to which one or more deoxy sugars, usually cladinose and desosamine, may be attached. Macrolides belong to the polyketide class of natural products. Some macrolides have antibiotic or antifungal activity and are used as pharmaceutical drugs. Rapamycin is also a macrolide and was originally developed as an antifungal, but has since been used as an immunosuppressant drug and is being investigated as a potential...",
+      "lastUpdated": "2025-11-13T11:18:04-0500"
+    },
+    "table_21_row_2_col_1": {
+      "content": "Benznidazole",
+      "summary": "Trimethoprim/sulfamethoxazole, sold under the trade names Bactrim, Cotrim and Septra, among others, is a fixed-dose combination antibiotic medication used to treat a variety of bacterial infections. It consists of one part trimethoprim to five parts sulfamethoxazole. It is used to treat urinary tract infections, methicillin-resistant Staphylococcus aureus (MRSA) skin infections, travelers' diarrhea, respiratory tract infections, and cholera, among others. It is used both to treat and prevent pne...",
+      "lastUpdated": "2025-11-13T10:38:53-0500"
+    },
+    "table_21_row_2_col_2": {
+      "content": "Nifurtimox",
+      "summary": "no data",
+      "lastUpdated": "2025-11-13T11:18:06-0500"
+    },
+    "table_21_row_2_col_3": {
+      "content": "Pentamidine",
+      "summary": "Atovaquone, sold under the brand name Mepron, is an naphthoquinone antiprotozoal medication used in the prevention and treatment Pneumocystis jirovecii pneumonia (PCP), and malaria, as well as for treatment of babesiosis.",
+      "lastUpdated": "2025-11-13T10:38:56-0500"
+    },
+    "table_21_row_2_col_4": {
+      "content": "Melarsoprol",
+      "summary": "Spiramycin is a macrolide antibiotic and antiparasitic. It is used to treat toxoplasmosis and various other infections of soft tissues.",
+      "lastUpdated": "2025-11-13T10:38:58-0500"
+    },
+    "table_21_row_3_col_0": {
+      "content": "Trypanosoma cruzi (Chagas disease)",
+      "summary": "Preventive healthcare, or prophylaxis, is the application of healthcare measures to prevent diseases. Disease and disability are affected by environmental factors, genetic predisposition, disease agents, and lifestyle choices, and are dynamic processes that begin before individuals realize they are affected. Disease prevention relies on anticipatory actions that can be categorized as primal, primary, secondary, and tertiary prevention.",
+      "lastUpdated": "2025-11-13T10:38:59-0500"
+    },
+    "table_21_row_4_col_0": {
+      "content": "Trypanosoma brucei (sleeping sickness)",
+      "summary": "Acute may refer to:",
+      "lastUpdated": "2025-11-13T10:39:00-0500"
+    },
+    "table_22_row_0_col_0": {
+      "content": "Toxoplasma gondii (Toxoplasmosis)",
+      "summary": "Toxoplasma gondii is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all warm-blooded animals, but members of the cat family (felidae) are the only known definitive hosts in which the parasite may undergo sexual reproduction.",
+      "lastUpdated": "2025-11-13T10:38:39-0500"
+    },
+    "table_22_row_0_col_1": {
+      "content": "Toxoplasma gondii (Toxoplasmosis)",
+      "summary": "Toxoplasma gondii is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all warm-blooded animals, but members of the cat family (felidae) are the only known definitive hosts in which the parasite may undergo sexual reproduction.",
+      "lastUpdated": "2025-11-13T10:38:39-0500"
+    },
+    "table_22_row_0_col_2": {
+      "content": "Toxoplasma gondii (Toxoplasmosis)",
+      "summary": "Toxoplasma gondii is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all warm-blooded animals, but members of the cat family (felidae) are the only known definitive hosts in which the parasite may undergo sexual reproduction.",
+      "lastUpdated": "2025-11-13T10:38:39-0500"
+    },
+    "table_22_row_0_col_3": {
+      "content": "Toxoplasma gondii (Toxoplasmosis)",
+      "summary": "Toxoplasma gondii is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all warm-blooded animals, but members of the cat family (felidae) are the only known definitive hosts in which the parasite may undergo sexual reproduction.",
+      "lastUpdated": "2025-11-13T10:38:39-0500"
+    },
+    "table_22_row_0_col_4": {
+      "content": "Toxoplasma gondii (Toxoplasmosis)",
+      "summary": "Toxoplasma gondii is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all warm-blooded animals, but members of the cat family (felidae) are the only known definitive hosts in which the parasite may undergo sexual reproduction.",
+      "lastUpdated": "2025-11-13T10:38:39-0500"
+    },
+    "table_22_row_1_col_1": {
+      "content": "DNA DAMAGING AGENT",
+      "summary": ""
+    },
+    "table_22_row_1_col_2": {
+      "content": "DNA DAMAGING AGENT",
+      "summary": ""
+    },
+    "table_22_row_1_col_3": {
+      "content": "ETC INHIBITORS",
+      "summary": ""
+    },
+    "table_22_row_1_col_4": {
+      "content": "MACROLIDE",
+      "summary": "Macrolides are a class of mostly natural products with a large macrocyclic lactone ring to which one or more deoxy sugars, usually cladinose and desosamine, may be attached. Macrolides belong to the polyketide class of natural products. Some macrolides have antibiotic or antifungal activity and are used as pharmaceutical drugs. Rapamycin is also a macrolide and was originally developed as an antifungal, but has since been used as an immunosuppressant drug and is being investigated as a potential...",
+      "lastUpdated": "2025-11-13T11:18:04-0500"
+    },
+    "table_22_row_2_col_1": {
+      "content": "Sulfamethoxazole/trimethoprim",
+      "summary": "Trimethoprim/sulfamethoxazole, sold under the trade names Bactrim, Cotrim and Septra, among others, is a fixed-dose combination antibiotic medication used to treat a variety of bacterial infections. It consists of one part trimethoprim to five parts sulfamethoxazole. It is used to treat urinary tract infections, methicillin-resistant Staphylococcus aureus (MRSA) skin infections, travelers' diarrhea, respiratory tract infections, and cholera, among others. It is used both to treat and prevent pne...",
+      "lastUpdated": "2025-11-13T10:38:53-0500"
+    },
+    "table_22_row_2_col_2": {
+      "content": "Sulfadiazine/Pyrimethamine",
+      "summary": ""
+    },
+    "table_22_row_2_col_3": {
+      "content": "Atovaquone",
+      "summary": "Atovaquone, sold under the brand name Mepron, is an naphthoquinone antiprotozoal medication used in the prevention and treatment Pneumocystis jirovecii pneumonia (PCP), and malaria, as well as for treatment of babesiosis.",
+      "lastUpdated": "2025-11-13T10:38:56-0500"
+    },
+    "table_22_row_2_col_4": {
+      "content": "Spiramycin",
+      "summary": "Spiramycin is a macrolide antibiotic and antiparasitic. It is used to treat toxoplasmosis and various other infections of soft tissues.",
+      "lastUpdated": "2025-11-13T10:38:58-0500"
+    },
+    "table_22_row_3_col_0": {
+      "content": "Prophylaxis",
+      "summary": "Preventive healthcare, or prophylaxis, is the application of healthcare measures to prevent diseases. Disease and disability are affected by environmental factors, genetic predisposition, disease agents, and lifestyle choices, and are dynamic processes that begin before individuals realize they are affected. Disease prevention relies on anticipatory actions that can be categorized as primal, primary, secondary, and tertiary prevention.",
+      "lastUpdated": "2025-11-13T10:39:06-0500"
+    },
+    "table_22_row_4_col_0": {
+      "content": "Acute",
+      "summary": "Acute may refer to:",
+      "lastUpdated": "2025-11-13T10:39:00-0500"
+    },
+    "table_22_row_5_col_0": {
+      "content": "Latent",
+      "summary": "Latency or latent may refer to:",
+      "lastUpdated": "2025-11-13T10:39:02-0500"
+    },
+    "table_22_row_6_col_0": {
+      "content": "Congenital",
+      "summary": "A birth defect is an abnormal condition that is present at birth, regardless of its cause. Birth defects may result in disabilities that may be physical, intellectual, or developmental. The disabilities can range from mild to severe. Birth defects are divided into two main types: structural disorders in which problems are seen with the shape of a body part and functional disorders in which problems exist with how a body part works. Functional disorders include metabolic and degenerative disorder...",
+      "lastUpdated": "2025-11-13T10:39:03-0500"
+    },
+    "table_22_row_6_col_2": {
+      "content": "Treatment",
+      "summary": "Treatment may refer to:\"Treatment\" (song), a 2012 song by Labrinth\nFilm treatment, a prose telling of a story intended to be turned into a screenplay\nMedical treatment also known as \"therapy\"\nSewage treatment\nSurface treatment or surface finishing\nWater treatment\nTreatment group in design of experiments",
+      "lastUpdated": "2025-11-13T10:39:05-0500"
+    },
+    "table_22_row_6_col_4": {
+      "content": "Prophylaxis",
+      "summary": "Preventive healthcare, or prophylaxis, is the application of healthcare measures to prevent diseases. Disease and disability are affected by environmental factors, genetic predisposition, disease agents, and lifestyle choices, and are dynamic processes that begin before individuals realize they are affected. Disease prevention relies on anticipatory actions that can be categorized as primal, primary, secondary, and tertiary prevention.",
+      "lastUpdated": "2025-11-13T10:39:06-0500"
+    }
+  }
 }

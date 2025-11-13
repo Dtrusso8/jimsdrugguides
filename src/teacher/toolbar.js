@@ -1,4 +1,5 @@
 import { isTeacherModeEnabled, onTeacherModeChange, requestTeacherAction, getTeacherState } from "./teacherState.js";
+import { saveGuideToFile } from "./saveGuide.js";
 
 function handleToolbarClick(event) {
     const button = event.target.closest("button[data-action]");
@@ -7,6 +8,13 @@ function handleToolbarClick(event) {
     }
 
     const action = button.dataset.action;
+    
+    // Handle save action directly
+    if (action === "save") {
+        saveGuideToFile();
+        return;
+    }
+    
     const context = getTeacherState().currentGuide;
     requestTeacherAction(action, { guide: context });
 }
@@ -16,6 +24,7 @@ export function createTeacherToolbar() {
     toolbar.id = "teacher-toolbar";
     toolbar.className = "teacher-toolbar";
     toolbar.innerHTML = `
+        <button type="button" data-action="save">Save Guide</button>
         <button type="button" data-action="reorder">Reorder Rows</button>
         <button type="button" data-action="annotate">Add Annotation</button>
         <button type="button" data-action="link">Attach Link</button>

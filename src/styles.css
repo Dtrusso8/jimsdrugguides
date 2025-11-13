@@ -328,6 +328,16 @@ body {
     border-spacing: 0;
     min-width: 640px;
     overflow: hidden;
+    table-layout: auto;
+}
+
+@media (max-width: 768px) {
+    .guide-table {
+        min-width: 100%;
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
 }
 
 .guide-table th,
@@ -359,6 +369,7 @@ body {
     width: 100%;
     display: block;
     visibility: visible;
+    box-sizing: border-box;
 }
 
 .guide-fragment-wrapper table {
@@ -367,6 +378,7 @@ body {
     overflow: hidden;
     width: 100%;
     display: table;
+    box-sizing: border-box;
 }
 
 .guide-fragment-wrapper table:last-of-type {
@@ -504,14 +516,20 @@ body {
 @media (max-width: 768px) {
     .layout {
         grid-template-columns: 1fr;
-        padding: 1.25rem;
+        padding: 0.75rem;
+        gap: 0;
+    }
+
+    .layout.sidebar-collapsed {
+        grid-template-columns: 1fr;
     }
 
     .filters {
         position: relative;
         top: 0;
-        padding: 1.15rem;
-        margin-bottom: 1rem;
+        padding: 0;
+        margin-bottom: 0.75rem;
+        max-height: none;
     }
 
     .filters[data-mobile="true"] {
@@ -524,30 +542,114 @@ body {
 
     .filter-toggle {
         display: inline-flex;
+        width: 100%;
+        margin-bottom: 0.75rem;
+    }
+
+    .content {
+        width: 100%;
+        padding: 1rem;
+        grid-column: 1;
+        min-width: 0;
+    }
+
+    .layout.sidebar-collapsed .content {
+        grid-column: 1;
+        width: 100%;
+        padding: 0.75rem;
+    }
+
+    .guide-header h2 {
+        font-size: 1.25rem;
+    }
+
+    .guide-table-container {
+        padding: 0.5rem;
+        width: 100%;
+        box-sizing: border-box;
     }
 
     .guide-table {
         min-width: 100%;
+        font-size: 0.85rem;
     }
 
     .guide-table th,
     .guide-table td {
-        font-size: 0.92rem;
-        padding: 0.6rem 0.7rem;
+        font-size: 0.8rem;
+        padding: 0.5rem 0.6rem;
+    }
+
+    .sidebar-expand-btn {
+        left: 0;
+        padding: 0.75rem 0.5rem;
+        font-size: 1rem;
+    }
+
+    .guide-metadata {
+        flex-direction: column;
+        gap: 0.5rem;
+        padding: 0.75rem;
+    }
+
+    .guide-fragment-wrapper {
+        width: 100%;
+        padding: 0;
+    }
+
+    .guide-fragment-wrapper table {
+        width: 100%;
+        min-width: 100%;
+        font-size: 0.85rem;
     }
 }
 
 @media (max-width: 600px) {
+    .layout {
+        padding: 0.5rem;
+    }
+
+    .content {
+        padding: 0.75rem;
+    }
+
+    .layout.sidebar-collapsed .content {
+        padding: 0.5rem;
+    }
+
+    .guide-table-container {
+        padding: 0.4rem;
+    }
+
+    .guide-table th,
+    .guide-table td {
+        font-size: 0.75rem;
+        padding: 0.4rem 0.5rem;
+    }
+
     .site-header {
         padding: 1.25rem 1rem;
     }
 
     .guide-table-container {
-        padding: 0.65rem;
+        padding: 0.4rem;
     }
 
     .guide-metadata {
         flex-direction: column;
+        padding: 0.6rem;
+    }
+
+    .guide-fragment-wrapper {
+        width: 100%;
+        padding: 0;
+    }
+
+    .guide-fragment-wrapper table {
+        width: 100%;
+        min-width: 100%;
+        font-size: 0.75rem;
+        margin-bottom: 1rem;
     }
 }
 

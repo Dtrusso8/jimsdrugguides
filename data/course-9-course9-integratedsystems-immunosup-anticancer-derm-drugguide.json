@@ -1827,5 +1827,2963 @@
         ]
       ]
     }
-  ]
+  ],
+  "cellData": {
+    "table_1_row_0_col_0": {
+      "content": "IMMUNOSUPPRESSANTS",
+      "summary": ""
+    },
+    "table_1_row_0_col_1": {
+      "content": "IMMUNOSUPPRESSANTS",
+      "summary": ""
+    },
+    "table_1_row_0_col_2": {
+      "content": "IMMUNOSUPPRESSANTS",
+      "summary": ""
+    },
+    "table_1_row_0_col_3": {
+      "content": "IMMUNOSUPPRESSANTS",
+      "summary": ""
+    },
+    "table_1_row_1_col_0": {
+      "content": "Transplant rejection",
+      "summary": ""
+    },
+    "table_1_row_1_col_1": {
+      "content": "Autoimmune/Inflammatory",
+      "summary": ""
+    },
+    "table_1_row_1_col_2": {
+      "content": "Myleoproliferative",
+      "summary": ""
+    },
+    "table_1_row_1_col_3": {
+      "content": "DMARDs",
+      "summary": ""
+    },
+    "table_2_row_0_col_0": {
+      "content": "INHIBITORS OF INFLAMMATORY CYTOKINE PRODUCTION",
+      "summary": ""
+    },
+    "table_2_row_0_col_1": {
+      "content": "INHIBITORS OF INFLAMMATORY CYTOKINE PRODUCTION",
+      "summary": ""
+    },
+    "table_2_row_1_col_0": {
+      "content": "GLUCOCORTICOIDS (ALSO INHIBIT PROSTGLANDIN PRODUCTION)",
+      "summary": ""
+    },
+    "table_2_row_1_col_1": {
+      "content": "CALCINEURIN INHIBITORS",
+      "summary": ""
+    },
+    "table_2_row_2_col_0": {
+      "content": "Dexamethasone",
+      "summary": ""
+    },
+    "table_2_row_2_col_1": {
+      "content": "Cyclosporin",
+      "summary": ""
+    },
+    "table_2_row_3_col_0": {
+      "content": "Hydrocortisone",
+      "summary": ""
+    },
+    "table_2_row_3_col_1": {
+      "content": "Tacrolimus (Prograf)",
+      "summary": ""
+    },
+    "table_2_row_4_col_0": {
+      "content": "Prednisone",
+      "summary": ""
+    },
+    "table_3_row_0_col_0": {
+      "content": "INHIBITORS OF INFLAMMATORY CYTOKINE ACTIVITY",
+      "summary": ""
+    },
+    "table_3_row_0_col_1": {
+      "content": "INHIBITORS OF INFLAMMATORY CYTOKINE ACTIVITY",
+      "summary": ""
+    },
+    "table_3_row_0_col_2": {
+      "content": "INHIBITORS OF INFLAMMATORY CYTOKINE ACTIVITY",
+      "summary": ""
+    },
+    "table_3_row_0_col_3": {
+      "content": "INHIBITORS OF INFLAMMATORY CYTOKINE ACTIVITY",
+      "summary": ""
+    },
+    "table_3_row_1_col_0": {
+      "content": "CYTOKINE ANTIBODIES",
+      "summary": ""
+    },
+    "table_3_row_1_col_1": {
+      "content": "CYTOKINE RECEPTOR ANTIBODIES",
+      "summary": ""
+    },
+    "table_3_row_1_col_2": {
+      "content": "CYTOKINE RECEPTOR ANTIBODIES",
+      "summary": ""
+    },
+    "table_3_row_1_col_3": {
+      "content": "CYTOKINE RECEPTOR ANTAGONIST",
+      "summary": ""
+    },
+    "table_3_row_2_col_0": {
+      "content": "TNFa",
+      "summary": ""
+    },
+    "table_3_row_2_col_1": {
+      "content": "CD20 (B-CELL RECEPTOR)",
+      "summary": ""
+    },
+    "table_3_row_2_col_2": {
+      "content": "CD20 (B-CELL RECEPTOR)",
+      "summary": ""
+    },
+    "table_3_row_2_col_3": {
+      "content": "IL-1 RECEPTOR (VARIOUS)",
+      "summary": ""
+    },
+    "table_3_row_3_col_0": {
+      "content": "Adalimumab (Humira)",
+      "summary": ""
+    },
+    "table_3_row_3_col_1": {
+      "content": "Rituximab",
+      "summary": ""
+    },
+    "table_3_row_3_col_2": {
+      "content": "(Rituxan)",
+      "summary": ""
+    },
+    "table_3_row_3_col_3": {
+      "content": "Anakinra (Kineret)",
+      "summary": ""
+    },
+    "table_3_row_4_col_0": {
+      "content": "Certolizumab (Cimzia)",
+      "summary": ""
+    },
+    "table_3_row_4_col_1": {
+      "content": "Ofatunumab (Kesimpta™)",
+      "summary": ""
+    },
+    "table_3_row_4_col_2": {
+      "content": "Ofatunumab (Kesimpta™)",
+      "summary": ""
+    },
+    "table_3_row_5_col_0": {
+      "content": "Etanercept (Enbrel)",
+      "summary": ""
+    },
+    "table_3_row_6_col_0": {
+      "content": "Golimumab (Simponi)",
+      "summary": ""
+    },
+    "table_3_row_6_col_1": {
+      "content": "IL-2 RECEPTOR (T-CELL)",
+      "summary": ""
+    },
+    "table_3_row_6_col_2": {
+      "content": "IL-2 RECEPTOR (T-CELL)",
+      "summary": ""
+    },
+    "table_3_row_7_col_0": {
+      "content": "Infliximab (Remicade)",
+      "summary": ""
+    },
+    "table_3_row_7_col_1": {
+      "content": "Basiliximab (Simulect)",
+      "summary": ""
+    },
+    "table_3_row_7_col_2": {
+      "content": "Basiliximab (Simulect)",
+      "summary": ""
+    },
+    "table_3_row_9_col_0": {
+      "content": "B CELL ACTIVATING FACTOR (BAFF)",
+      "summary": ""
+    },
+    "table_3_row_9_col_1": {
+      "content": "IL-4 RECEPTOR",
+      "summary": ""
+    },
+    "table_3_row_9_col_2": {
+      "content": "IL-4 RECEPTOR",
+      "summary": ""
+    },
+    "table_3_row_10_col_0": {
+      "content": "Belimumab (Benlysta)",
+      "summary": ""
+    },
+    "table_3_row_10_col_1": {
+      "content": "Dupilumab (Dupixent™)",
+      "summary": ""
+    },
+    "table_3_row_10_col_2": {
+      "content": "Dupilumab (Dupixent™)",
+      "summary": ""
+    },
+    "table_3_row_12_col_0": {
+      "content": "IL-1b",
+      "summary": ""
+    },
+    "table_3_row_12_col_1": {
+      "content": "IL-6 RECEPTOR",
+      "summary": ""
+    },
+    "table_3_row_12_col_2": {
+      "content": "IL-6 RECEPTOR",
+      "summary": ""
+    },
+    "table_3_row_13_col_0": {
+      "content": "Canakinumab (Ilaris™)",
+      "summary": ""
+    },
+    "table_3_row_13_col_1": {
+      "content": "Tocilizumab (Actemra)",
+      "summary": ""
+    },
+    "table_3_row_13_col_2": {
+      "content": "Tocilizumab (Actemra)",
+      "summary": ""
+    },
+    "table_3_row_14_col_1": {
+      "content": "Sarilumab (Kevzara)",
+      "summary": ""
+    },
+    "table_3_row_14_col_2": {
+      "content": "Sarilumab (Kevzara)",
+      "summary": ""
+    },
+    "table_3_row_15_col_0": {
+      "content": "IL-12 & IL-23",
+      "summary": ""
+    },
+    "table_3_row_16_col_0": {
+      "content": "Guselkumab (Tremfya - IL-23 only)",
+      "summary": ""
+    },
+    "table_3_row_16_col_1": {
+      "content": "IL-17 RECEPTOR",
+      "summary": ""
+    },
+    "table_3_row_16_col_2": {
+      "content": "IL-17 RECEPTOR",
+      "summary": ""
+    },
+    "table_3_row_17_col_0": {
+      "content": "Ustekinumab (Stelara)",
+      "summary": ""
+    },
+    "table_3_row_17_col_1": {
+      "content": "Brodalumab (Siliq)",
+      "summary": ""
+    },
+    "table_3_row_17_col_2": {
+      "content": "Brodalumab (Siliq)",
+      "summary": ""
+    },
+    "table_3_row_19_col_0": {
+      "content": "IL-13",
+      "summary": ""
+    },
+    "table_3_row_19_col_1": {
+      "content": "IL-31 RECEPTOR",
+      "summary": ""
+    },
+    "table_3_row_19_col_2": {
+      "content": "IL-31 RECEPTOR",
+      "summary": ""
+    },
+    "table_3_row_20_col_0": {
+      "content": "Tralokinumab (Adbry™)",
+      "summary": ""
+    },
+    "table_3_row_20_col_1": {
+      "content": "Nemolizumab (Nemluvio™)",
+      "summary": ""
+    },
+    "table_3_row_20_col_2": {
+      "content": "Nemolizumab (Nemluvio™)",
+      "summary": ""
+    },
+    "table_3_row_22_col_0": {
+      "content": "IL-17",
+      "summary": ""
+    },
+    "table_3_row_23_col_0": {
+      "content": "Secukinumab (Cosentyx)",
+      "summary": ""
+    },
+    "table_3_row_24_col_0": {
+      "content": "Ixekizumab (Taltz)",
+      "summary": ""
+    },
+    "table_3_row_25_col_0": {
+      "content": "Bimekizumab (Bimzelx)",
+      "summary": ""
+    },
+    "table_4_row_0_col_0": {
+      "content": "INHIBITORS OF T-CELL PROLIFERATION/ACTIVATION",
+      "summary": ""
+    },
+    "table_4_row_0_col_1": {
+      "content": "INHIBITORS OF T-CELL PROLIFERATION/ACTIVATION",
+      "summary": ""
+    },
+    "table_4_row_0_col_2": {
+      "content": "INHIBITORS OF T-CELL PROLIFERATION/ACTIVATION",
+      "summary": ""
+    },
+    "table_4_row_0_col_3": {
+      "content": "INHIBITORS OF T-CELL PROLIFERATION/ACTIVATION",
+      "summary": ""
+    },
+    "table_4_row_0_col_4": {
+      "content": "INHIBITORS OF T-CELL PROLIFERATION/ACTIVATION",
+      "summary": ""
+    },
+    "table_4_row_1_col_0": {
+      "content": "T CELL RECEPTOR INHIBITOR",
+      "summary": ""
+    },
+    "table_4_row_1_col_1": {
+      "content": "IL-2 SIGNALING INHIBITORS",
+      "summary": ""
+    },
+    "table_4_row_1_col_2": {
+      "content": "IL-2 SIGNALING INHIBITORS",
+      "summary": ""
+    },
+    "table_4_row_1_col_3": {
+      "content": "DNA SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_4_row_1_col_4": {
+      "content": "DNA SYNTHESIS INHIBITORS",
+      "summary": ""
+    },
+    "table_4_row_2_col_1": {
+      "content": "mTOR INHIBITORS (PROLIFERATION)",
+      "summary": ""
+    },
+    "table_4_row_2_col_2": {
+      "content": "JAK INHIBITORS(IL-2 SIGNALING)",
+      "summary": ""
+    },
+    "table_4_row_2_col_3": {
+      "content": "GPAT INHIBITOR (PURINE SYNTHESIS)",
+      "summary": ""
+    },
+    "table_4_row_2_col_4": {
+      "content": "GPAT INHIBITOR (PURINE SYNTHESIS)",
+      "summary": ""
+    },
+    "table_4_row_3_col_0": {
+      "content": "Abatacept (Orencia)",
+      "summary": ""
+    },
+    "table_4_row_3_col_1": {
+      "content": "Sirolimus/Rapamycin",
+      "summary": ""
+    },
+    "table_4_row_3_col_2": {
+      "content": "Abrocitinib (Cibinqo)",
+      "summary": ""
+    },
+    "table_4_row_3_col_3": {
+      "content": "Azathi",
+      "summary": ""
+    },
+    "table_4_row_3_col_4": {
+      "content": "oprine",
+      "summary": ""
+    },
+    "table_4_row_4_col_1": {
+      "content": "Everolimus (Afinitor™)",
+      "summary": ""
+    },
+    "table_4_row_4_col_2": {
+      "content": "Baricitinib (Olumiant)",
+      "summary": ""
+    },
+    "table_4_row_4_col_3": {
+      "content": "Mycoph",
+      "summary": ""
+    },
+    "table_4_row_4_col_4": {
+      "content": "enolate",
+      "summary": ""
+    },
+    "table_4_row_5_col_2": {
+      "content": "Delgocitinib (Corectim)",
+      "summary": ""
+    },
+    "table_4_row_6_col_2": {
+      "content": "Deucravacitinib (Sotyktu)",
+      "summary": ""
+    },
+    "table_4_row_6_col_3": {
+      "content": "DHFR INHIB. (FOLATE SYNTH.)",
+      "summary": ""
+    },
+    "table_4_row_6_col_4": {
+      "content": "DHFR INHIB. (FOLATE SYNTH.)",
+      "summary": ""
+    },
+    "table_4_row_7_col_2": {
+      "content": "Fedratinib (Inrebic)",
+      "summary": ""
+    },
+    "table_4_row_7_col_3": {
+      "content": "Methotrexate",
+      "summary": ""
+    },
+    "table_4_row_7_col_4": {
+      "content": "Methotrexate",
+      "summary": ""
+    },
+    "table_4_row_8_col_2": {
+      "content": "Filgotinib (Jyselica)",
+      "summary": ""
+    },
+    "table_4_row_9_col_2": {
+      "content": "Oclacitinib (Apoquel)",
+      "summary": ""
+    },
+    "table_4_row_9_col_3": {
+      "content": "DHODH INHIB. (PYRIMIDINE SYNTH.)",
+      "summary": ""
+    },
+    "table_4_row_9_col_4": {
+      "content": "DHODH INHIB. (PYRIMIDINE SYNTH.)",
+      "summary": ""
+    },
+    "table_4_row_10_col_2": {
+      "content": "Pacritinib (Vonjo)",
+      "summary": ""
+    },
+    "table_4_row_10_col_3": {
+      "content": "Leflunomide",
+      "summary": ""
+    },
+    "table_4_row_10_col_4": {
+      "content": "Leflunomide",
+      "summary": ""
+    },
+    "table_4_row_11_col_2": {
+      "content": "Peficitinib (Smyraf)",
+      "summary": ""
+    },
+    "table_4_row_12_col_2": {
+      "content": "Ruxolitinib (Jakafi)",
+      "summary": ""
+    },
+    "table_4_row_12_col_3": {
+      "content": "DNA CROSSLINKING AGENT",
+      "summary": ""
+    },
+    "table_4_row_12_col_4": {
+      "content": "DNA CROSSLINKING AGENT",
+      "summary": ""
+    },
+    "table_4_row_13_col_2": {
+      "content": "Tofacitinib (Xeljanz)",
+      "summary": ""
+    },
+    "table_4_row_13_col_3": {
+      "content": "Cyclophosphamide",
+      "summary": ""
+    },
+    "table_4_row_13_col_4": {
+      "content": "Cyclophosphamide",
+      "summary": ""
+    },
+    "table_4_row_14_col_2": {
+      "content": "Upadacitinib (Rinvoq)",
+      "summary": ""
+    },
+    "table_5_row_0_col_0": {
+      "content": "INHIBITORS OF LEUKOCYTE EXTRAVASATION (a4b7 INTEGRIN)",
+      "summary": ""
+    },
+    "table_5_row_0_col_1": {
+      "content": "INHIBITORS OF LEUKOCYTE EXTRAVASATION (a4b7 INTEGRIN)",
+      "summary": ""
+    },
+    "table_5_row_1_col_0": {
+      "content": "Vedolizumab (Entyvio)",
+      "summary": ""
+    },
+    "table_5_row_1_col_1": {
+      "content": "Natalizumab (Tysabri)",
+      "summary": ""
+    },
+    "table_6_row_0_col_0": {
+      "content": "ANTI-NEOPLASTICS",
+      "summary": ""
+    },
+    "table_7_row_0_col_0": {
+      "content": "TRADITIONAL CHEMOTHERAPEUTICS",
+      "summary": ""
+    },
+    "table_8_row_0_col_0": {
+      "content": "PHASE NON-SPECIFIC",
+      "summary": ""
+    },
+    "table_8_row_0_col_1": {
+      "content": "PHASE NON-SPECIFIC",
+      "summary": ""
+    },
+    "table_8_row_0_col_2": {
+      "content": "PHASE NON-SPECIFIC",
+      "summary": ""
+    },
+    "table_8_row_0_col_3": {
+      "content": "PHASE NON-SPECIFIC",
+      "summary": ""
+    },
+    "table_8_row_0_col_4": {
+      "content": "S PHASE DRUGS",
+      "summary": ""
+    },
+    "table_8_row_0_col_5": {
+      "content": "S PHASE DRUGS",
+      "summary": ""
+    },
+    "table_8_row_0_col_6": {
+      "content": "S PHASE DRUGS",
+      "summary": ""
+    },
+    "table_8_row_0_col_7": {
+      "content": "S PHASE DRUGS",
+      "summary": ""
+    },
+    "table_8_row_0_col_8": {
+      "content": "S PHASE DRUGS",
+      "summary": ""
+    },
+    "table_8_row_0_col_9": {
+      "content": "S PHASE DRUGS",
+      "summary": ""
+    },
+    "table_8_row_0_col_10": {
+      "content": "G2 PHASE DRUGS",
+      "summary": ""
+    },
+    "table_8_row_0_col_11": {
+      "content": "G2 PHASE DRUGS",
+      "summary": ""
+    },
+    "table_8_row_0_col_12": {
+      "content": "G2 PHASE DRUGS",
+      "summary": ""
+    },
+    "table_8_row_0_col_13": {
+      "content": "M PHASE DRUGS",
+      "summary": ""
+    },
+    "table_8_row_0_col_14": {
+      "content": "M PHASE DRUGS",
+      "summary": ""
+    },
+    "table_8_row_0_col_15": {
+      "content": "M PHASE DRUGS",
+      "summary": ""
+    },
+    "table_8_row_2_col_0": {
+      "content": "DNA X-LINKING DRUGS (ALKYLATING AGENTS)",
+      "summary": ""
+    },
+    "table_8_row_2_col_1": {
+      "content": "DNA X-LINKING DRUGS (ALKYLATING AGENTS)",
+      "summary": ""
+    },
+    "table_8_row_2_col_2": {
+      "content": "DNA X-LINKING DRUGS (ALKYLATING AGENTS)",
+      "summary": ""
+    },
+    "table_8_row_2_col_3": {
+      "content": "DNA X-LINKING DRUGS (ALKYLATING AGENTS)",
+      "summary": ""
+    },
+    "table_8_row_2_col_4": {
+      "content": "ANTIMETABOLITES",
+      "summary": ""
+    },
+    "table_8_row_2_col_5": {
+      "content": "ANTIMETABOLITES",
+      "summary": ""
+    },
+    "table_8_row_2_col_6": {
+      "content": "ANTIMETABOLITES",
+      "summary": ""
+    },
+    "table_8_row_2_col_7": {
+      "content": "TOPOISOMERASE INHIBITORS",
+      "summary": ""
+    },
+    "table_8_row_2_col_8": {
+      "content": "TOPOISOMERASE INHIBITORS",
+      "summary": ""
+    },
+    "table_8_row_2_col_9": {
+      "content": "TOPOISOMERASE INHIBITORS",
+      "summary": ""
+    },
+    "table_8_row_2_col_10": {
+      "content": "DNA BINDING AGENTS",
+      "summary": ""
+    },
+    "table_8_row_2_col_11": {
+      "content": "DNA BINDING AGENTS",
+      "summary": ""
+    },
+    "table_8_row_2_col_12": {
+      "content": "DNA BINDING AGENTS",
+      "summary": ""
+    },
+    "table_8_row_2_col_13": {
+      "content": "MICROTUBULE INHIBITORS",
+      "summary": ""
+    },
+    "table_8_row_2_col_14": {
+      "content": "MICROTUBULE INHIBITORS",
+      "summary": ""
+    },
+    "table_8_row_2_col_15": {
+      "content": "MICROTUBULE INHIBITORS",
+      "summary": ""
+    },
+    "table_8_row_3_col_1": {
+      "content": "NITROGEN MUSTARDS",
+      "summary": ""
+    },
+    "table_8_row_3_col_2": {
+      "content": "NITROGEN MUSTARDS",
+      "summary": ""
+    },
+    "table_8_row_3_col_5": {
+      "content": "FOLATE ANTAGS",
+      "summary": ""
+    },
+    "table_8_row_3_col_7": {
+      "content": "TOPO I",
+      "summary": ""
+    },
+    "table_8_row_3_col_8": {
+      "content": "TOPO I",
+      "summary": ""
+    },
+    "table_8_row_3_col_9": {
+      "content": "TOPO I",
+      "summary": ""
+    },
+    "table_8_row_3_col_11": {
+      "content": "DNA SCISSION",
+      "summary": ""
+    },
+    "table_8_row_3_col_14": {
+      "content": "VINCA ALKALOIDS",
+      "summary": ""
+    },
+    "table_8_row_4_col_0": {
+      "content": "Bendamustine",
+      "summary": ""
+    },
+    "table_8_row_4_col_1": {
+      "content": "Bendamustine",
+      "summary": ""
+    },
+    "table_8_row_4_col_2": {
+      "content": "Bendamustine",
+      "summary": ""
+    },
+    "table_8_row_4_col_3": {
+      "content": "Bendamustine",
+      "summary": ""
+    },
+    "table_8_row_4_col_4": {
+      "content": "Methotrexate",
+      "summary": ""
+    },
+    "table_8_row_4_col_5": {
+      "content": "Methotrexate",
+      "summary": ""
+    },
+    "table_8_row_4_col_6": {
+      "content": "Methotrexate",
+      "summary": ""
+    },
+    "table_8_row_4_col_8": {
+      "content": "CAMPTOTHECINS",
+      "summary": ""
+    },
+    "table_8_row_4_col_10": {
+      "content": "Bleomycin",
+      "summary": ""
+    },
+    "table_8_row_4_col_11": {
+      "content": "Bleomycin",
+      "summary": ""
+    },
+    "table_8_row_4_col_12": {
+      "content": "Bleomycin",
+      "summary": ""
+    },
+    "table_8_row_4_col_13": {
+      "content": "Vinblastine",
+      "summary": ""
+    },
+    "table_8_row_4_col_14": {
+      "content": "Vinblastine",
+      "summary": ""
+    },
+    "table_8_row_4_col_15": {
+      "content": "Vinblastine",
+      "summary": ""
+    },
+    "table_8_row_5_col_0": {
+      "content": "Chlorambucil",
+      "summary": ""
+    },
+    "table_8_row_5_col_1": {
+      "content": "Chlorambucil",
+      "summary": ""
+    },
+    "table_8_row_5_col_2": {
+      "content": "Chlorambucil",
+      "summary": ""
+    },
+    "table_8_row_5_col_3": {
+      "content": "Chlorambucil",
+      "summary": ""
+    },
+    "table_8_row_5_col_4": {
+      "content": "Pemetrexed",
+      "summary": ""
+    },
+    "table_8_row_5_col_5": {
+      "content": "Pemetrexed",
+      "summary": ""
+    },
+    "table_8_row_5_col_6": {
+      "content": "Pemetrexed",
+      "summary": ""
+    },
+    "table_8_row_5_col_7": {
+      "content": "Irinotecan",
+      "summary": ""
+    },
+    "table_8_row_5_col_8": {
+      "content": "Irinotecan",
+      "summary": ""
+    },
+    "table_8_row_5_col_9": {
+      "content": "Irinotecan",
+      "summary": ""
+    },
+    "table_8_row_5_col_10": {
+      "content": "Ozogamicin",
+      "summary": ""
+    },
+    "table_8_row_5_col_11": {
+      "content": "Ozogamicin",
+      "summary": ""
+    },
+    "table_8_row_5_col_12": {
+      "content": "Ozogamicin",
+      "summary": ""
+    },
+    "table_8_row_5_col_13": {
+      "content": "Vincristine",
+      "summary": ""
+    },
+    "table_8_row_5_col_14": {
+      "content": "Vincristine",
+      "summary": ""
+    },
+    "table_8_row_5_col_15": {
+      "content": "Vincristine",
+      "summary": ""
+    },
+    "table_8_row_6_col_0": {
+      "content": "Cyclophosphamide",
+      "summary": ""
+    },
+    "table_8_row_6_col_1": {
+      "content": "Cyclophosphamide",
+      "summary": ""
+    },
+    "table_8_row_6_col_2": {
+      "content": "Cyclophosphamide",
+      "summary": ""
+    },
+    "table_8_row_6_col_3": {
+      "content": "Cyclophosphamide",
+      "summary": ""
+    },
+    "table_8_row_6_col_4": {
+      "content": "Pralatexate",
+      "summary": ""
+    },
+    "table_8_row_6_col_5": {
+      "content": "Pralatexate",
+      "summary": ""
+    },
+    "table_8_row_6_col_6": {
+      "content": "Pralatexate",
+      "summary": ""
+    },
+    "table_8_row_6_col_7": {
+      "content": "Topotecan",
+      "summary": ""
+    },
+    "table_8_row_6_col_8": {
+      "content": "Topotecan",
+      "summary": ""
+    },
+    "table_8_row_6_col_9": {
+      "content": "Topotecan",
+      "summary": ""
+    },
+    "table_8_row_6_col_13": {
+      "content": "Vinorelbine",
+      "summary": ""
+    },
+    "table_8_row_6_col_14": {
+      "content": "Vinorelbine",
+      "summary": ""
+    },
+    "table_8_row_6_col_15": {
+      "content": "Vinorelbine",
+      "summary": ""
+    },
+    "table_8_row_7_col_0": {
+      "content": "Estramustine",
+      "summary": ""
+    },
+    "table_8_row_7_col_1": {
+      "content": "Estramustine",
+      "summary": ""
+    },
+    "table_8_row_7_col_2": {
+      "content": "Estramustine",
+      "summary": ""
+    },
+    "table_8_row_7_col_3": {
+      "content": "Estramustine",
+      "summary": ""
+    },
+    "table_8_row_7_col_7": {
+      "content": "Govitecan",
+      "summary": ""
+    },
+    "table_8_row_7_col_8": {
+      "content": "Govitecan",
+      "summary": ""
+    },
+    "table_8_row_7_col_9": {
+      "content": "Govitecan",
+      "summary": ""
+    },
+    "table_8_row_7_col_11": {
+      "content": "X-SCRIPTION INHIB.",
+      "summary": ""
+    },
+    "table_8_row_8_col_0": {
+      "content": "Ifosfamide",
+      "summary": ""
+    },
+    "table_8_row_8_col_1": {
+      "content": "Ifosfamide",
+      "summary": ""
+    },
+    "table_8_row_8_col_2": {
+      "content": "Ifosfamide",
+      "summary": ""
+    },
+    "table_8_row_8_col_3": {
+      "content": "Ifosfamide",
+      "summary": ""
+    },
+    "table_8_row_8_col_5": {
+      "content": "PURINE ANALOGS",
+      "summary": ""
+    },
+    "table_8_row_8_col_10": {
+      "content": "Dactinomycin",
+      "summary": ""
+    },
+    "table_8_row_8_col_11": {
+      "content": "Dactinomycin",
+      "summary": ""
+    },
+    "table_8_row_8_col_12": {
+      "content": "Dactinomycin",
+      "summary": ""
+    },
+    "table_8_row_8_col_14": {
+      "content": "TAXANES",
+      "summary": ""
+    },
+    "table_8_row_9_col_0": {
+      "content": "Mechlorethamine",
+      "summary": ""
+    },
+    "table_8_row_9_col_1": {
+      "content": "Mechlorethamine",
+      "summary": ""
+    },
+    "table_8_row_9_col_2": {
+      "content": "Mechlorethamine",
+      "summary": ""
+    },
+    "table_8_row_9_col_3": {
+      "content": "Mechlorethamine",
+      "summary": ""
+    },
+    "table_8_row_9_col_4": {
+      "content": "6-Mercaptopurine",
+      "summary": ""
+    },
+    "table_8_row_9_col_5": {
+      "content": "6-Mercaptopurine",
+      "summary": ""
+    },
+    "table_8_row_9_col_6": {
+      "content": "6-Mercaptopurine",
+      "summary": ""
+    },
+    "table_8_row_9_col_7": {
+      "content": "TOPO II",
+      "summary": ""
+    },
+    "table_8_row_9_col_8": {
+      "content": "TOPO II",
+      "summary": ""
+    },
+    "table_8_row_9_col_9": {
+      "content": "TOPO II",
+      "summary": ""
+    },
+    "table_8_row_9_col_13": {
+      "content": "Cabazitaxel",
+      "summary": ""
+    },
+    "table_8_row_9_col_14": {
+      "content": "Cabazitaxel",
+      "summary": ""
+    },
+    "table_8_row_9_col_15": {
+      "content": "Cabazitaxel",
+      "summary": ""
+    },
+    "table_8_row_10_col_0": {
+      "content": "Melphalan",
+      "summary": ""
+    },
+    "table_8_row_10_col_1": {
+      "content": "Melphalan",
+      "summary": ""
+    },
+    "table_8_row_10_col_2": {
+      "content": "Melphalan",
+      "summary": ""
+    },
+    "table_8_row_10_col_3": {
+      "content": "Melphalan",
+      "summary": ""
+    },
+    "table_8_row_10_col_4": {
+      "content": "Azathioprine",
+      "summary": ""
+    },
+    "table_8_row_10_col_5": {
+      "content": "Azathioprine",
+      "summary": ""
+    },
+    "table_8_row_10_col_6": {
+      "content": "Azathioprine",
+      "summary": ""
+    },
+    "table_8_row_10_col_8": {
+      "content": "PODOPHYLLOTOXIN",
+      "summary": ""
+    },
+    "table_8_row_10_col_13": {
+      "content": "Docetaxel",
+      "summary": ""
+    },
+    "table_8_row_10_col_14": {
+      "content": "Docetaxel",
+      "summary": ""
+    },
+    "table_8_row_10_col_15": {
+      "content": "Docetaxel",
+      "summary": ""
+    },
+    "table_8_row_11_col_4": {
+      "content": "Cladribine",
+      "summary": ""
+    },
+    "table_8_row_11_col_5": {
+      "content": "Cladribine",
+      "summary": ""
+    },
+    "table_8_row_11_col_6": {
+      "content": "Cladribine",
+      "summary": ""
+    },
+    "table_8_row_11_col_7": {
+      "content": "Etoposide",
+      "summary": ""
+    },
+    "table_8_row_11_col_8": {
+      "content": "Etoposide",
+      "summary": ""
+    },
+    "table_8_row_11_col_9": {
+      "content": "Etoposide",
+      "summary": ""
+    },
+    "table_8_row_11_col_13": {
+      "content": "Ixabepilone",
+      "summary": ""
+    },
+    "table_8_row_11_col_14": {
+      "content": "Ixabepilone",
+      "summary": ""
+    },
+    "table_8_row_11_col_15": {
+      "content": "Ixabepilone",
+      "summary": ""
+    },
+    "table_8_row_12_col_1": {
+      "content": "ALKYLSUFONATES",
+      "summary": ""
+    },
+    "table_8_row_12_col_2": {
+      "content": "ALKYLSUFONATES",
+      "summary": ""
+    },
+    "table_8_row_12_col_4": {
+      "content": "Clofarabine",
+      "summary": ""
+    },
+    "table_8_row_12_col_5": {
+      "content": "Clofarabine",
+      "summary": ""
+    },
+    "table_8_row_12_col_6": {
+      "content": "Clofarabine",
+      "summary": ""
+    },
+    "table_8_row_12_col_7": {
+      "content": "Teniposide",
+      "summary": ""
+    },
+    "table_8_row_12_col_8": {
+      "content": "Teniposide",
+      "summary": ""
+    },
+    "table_8_row_12_col_9": {
+      "content": "Teniposide",
+      "summary": ""
+    },
+    "table_8_row_12_col_13": {
+      "content": "Paclitaxel",
+      "summary": ""
+    },
+    "table_8_row_12_col_14": {
+      "content": "Paclitaxel",
+      "summary": ""
+    },
+    "table_8_row_12_col_15": {
+      "content": "Paclitaxel",
+      "summary": ""
+    },
+    "table_8_row_13_col_0": {
+      "content": "Busulfan",
+      "summary": ""
+    },
+    "table_8_row_13_col_1": {
+      "content": "Busulfan",
+      "summary": ""
+    },
+    "table_8_row_13_col_2": {
+      "content": "Busulfan",
+      "summary": ""
+    },
+    "table_8_row_13_col_3": {
+      "content": "Busulfan",
+      "summary": ""
+    },
+    "table_8_row_13_col_4": {
+      "content": "Fludarabine",
+      "summary": ""
+    },
+    "table_8_row_13_col_5": {
+      "content": "Fludarabine",
+      "summary": ""
+    },
+    "table_8_row_13_col_6": {
+      "content": "Fludarabine",
+      "summary": ""
+    },
+    "table_8_row_14_col_4": {
+      "content": "Nelarabine",
+      "summary": ""
+    },
+    "table_8_row_14_col_5": {
+      "content": "Nelarabine",
+      "summary": ""
+    },
+    "table_8_row_14_col_6": {
+      "content": "Nelarabine",
+      "summary": ""
+    },
+    "table_8_row_14_col_8": {
+      "content": "ANTHRACYCLINES",
+      "summary": ""
+    },
+    "table_8_row_14_col_14": {
+      "content": "KETONE ANAL",
+      "summary": ""
+    },
+    "table_8_row_15_col_1": {
+      "content": "ETHYLENIMINES",
+      "summary": ""
+    },
+    "table_8_row_15_col_2": {
+      "content": "ETHYLENIMINES",
+      "summary": ""
+    },
+    "table_8_row_15_col_4": {
+      "content": "Pentostatin",
+      "summary": ""
+    },
+    "table_8_row_15_col_5": {
+      "content": "Pentostatin",
+      "summary": ""
+    },
+    "table_8_row_15_col_6": {
+      "content": "Pentostatin",
+      "summary": ""
+    },
+    "table_8_row_15_col_7": {
+      "content": "Doxorubicin",
+      "summary": ""
+    },
+    "table_8_row_15_col_8": {
+      "content": "Doxorubicin",
+      "summary": ""
+    },
+    "table_8_row_15_col_9": {
+      "content": "Doxorubicin",
+      "summary": ""
+    },
+    "table_8_row_15_col_13": {
+      "content": "Eribulin",
+      "summary": ""
+    },
+    "table_8_row_15_col_14": {
+      "content": "Eribulin",
+      "summary": ""
+    },
+    "table_8_row_15_col_15": {
+      "content": "Eribulin",
+      "summary": ""
+    },
+    "table_8_row_16_col_0": {
+      "content": "Thiotepa",
+      "summary": ""
+    },
+    "table_8_row_16_col_1": {
+      "content": "Thiotepa",
+      "summary": ""
+    },
+    "table_8_row_16_col_2": {
+      "content": "Thiotepa",
+      "summary": ""
+    },
+    "table_8_row_16_col_3": {
+      "content": "Thiotepa",
+      "summary": ""
+    },
+    "table_8_row_16_col_4": {
+      "content": "Thioguanine",
+      "summary": ""
+    },
+    "table_8_row_16_col_5": {
+      "content": "Thioguanine",
+      "summary": ""
+    },
+    "table_8_row_16_col_6": {
+      "content": "Thioguanine",
+      "summary": ""
+    },
+    "table_8_row_16_col_7": {
+      "content": "Daunorubicin",
+      "summary": ""
+    },
+    "table_8_row_16_col_8": {
+      "content": "Daunorubicin",
+      "summary": ""
+    },
+    "table_8_row_16_col_9": {
+      "content": "Daunorubicin",
+      "summary": ""
+    },
+    "table_8_row_17_col_7": {
+      "content": "Idarubicin",
+      "summary": ""
+    },
+    "table_8_row_17_col_8": {
+      "content": "Idarubicin",
+      "summary": ""
+    },
+    "table_8_row_17_col_9": {
+      "content": "Idarubicin",
+      "summary": ""
+    },
+    "table_8_row_17_col_14": {
+      "content": "EPOTHILONE",
+      "summary": ""
+    },
+    "table_8_row_18_col_1": {
+      "content": "HYDRAZINE/TRIAZINE",
+      "summary": ""
+    },
+    "table_8_row_18_col_2": {
+      "content": "HYDRAZINE/TRIAZINE",
+      "summary": ""
+    },
+    "table_8_row_18_col_5": {
+      "content": "PYRIMIDINE ANALOG",
+      "summary": ""
+    },
+    "table_8_row_18_col_7": {
+      "content": "Epirubicin",
+      "summary": ""
+    },
+    "table_8_row_18_col_8": {
+      "content": "Epirubicin",
+      "summary": ""
+    },
+    "table_8_row_18_col_9": {
+      "content": "Epirubicin",
+      "summary": ""
+    },
+    "table_8_row_18_col_13": {
+      "content": "Ixabepilone",
+      "summary": ""
+    },
+    "table_8_row_18_col_14": {
+      "content": "Ixabepilone",
+      "summary": ""
+    },
+    "table_8_row_18_col_15": {
+      "content": "Ixabepilone",
+      "summary": ""
+    },
+    "table_8_row_19_col_0": {
+      "content": "Dacarbazine",
+      "summary": ""
+    },
+    "table_8_row_19_col_1": {
+      "content": "Dacarbazine",
+      "summary": ""
+    },
+    "table_8_row_19_col_2": {
+      "content": "Dacarbazine",
+      "summary": ""
+    },
+    "table_8_row_19_col_3": {
+      "content": "Dacarbazine",
+      "summary": ""
+    },
+    "table_8_row_19_col_4": {
+      "content": "5-Fluorouracil",
+      "summary": ""
+    },
+    "table_8_row_19_col_5": {
+      "content": "5-Fluorouracil",
+      "summary": ""
+    },
+    "table_8_row_19_col_6": {
+      "content": "5-Fluorouracil",
+      "summary": ""
+    },
+    "table_8_row_19_col_7": {
+      "content": "Valrubicin",
+      "summary": ""
+    },
+    "table_8_row_19_col_8": {
+      "content": "Valrubicin",
+      "summary": ""
+    },
+    "table_8_row_19_col_9": {
+      "content": "Valrubicin",
+      "summary": ""
+    },
+    "table_8_row_20_col_0": {
+      "content": "Procarbazine",
+      "summary": ""
+    },
+    "table_8_row_20_col_1": {
+      "content": "Procarbazine",
+      "summary": ""
+    },
+    "table_8_row_20_col_2": {
+      "content": "Procarbazine",
+      "summary": ""
+    },
+    "table_8_row_20_col_3": {
+      "content": "Procarbazine",
+      "summary": ""
+    },
+    "table_8_row_20_col_4": {
+      "content": "Azacitidine",
+      "summary": ""
+    },
+    "table_8_row_20_col_5": {
+      "content": "Azacitidine",
+      "summary": ""
+    },
+    "table_8_row_20_col_6": {
+      "content": "Azacitidine",
+      "summary": ""
+    },
+    "table_8_row_20_col_14": {
+      "content": "DOLASTATIN",
+      "summary": ""
+    },
+    "table_8_row_21_col_0": {
+      "content": "Temozolomide",
+      "summary": ""
+    },
+    "table_8_row_21_col_1": {
+      "content": "Temozolomide",
+      "summary": ""
+    },
+    "table_8_row_21_col_2": {
+      "content": "Temozolomide",
+      "summary": ""
+    },
+    "table_8_row_21_col_3": {
+      "content": "Temozolomide",
+      "summary": ""
+    },
+    "table_8_row_21_col_4": {
+      "content": "Capecitabine",
+      "summary": ""
+    },
+    "table_8_row_21_col_5": {
+      "content": "Capecitabine",
+      "summary": ""
+    },
+    "table_8_row_21_col_6": {
+      "content": "Capecitabine",
+      "summary": ""
+    },
+    "table_8_row_21_col_8": {
+      "content": "ANTHRACENEDIONE",
+      "summary": ""
+    },
+    "table_8_row_21_col_13": {
+      "content": "Monomethyl auristatin",
+      "summary": ""
+    },
+    "table_8_row_21_col_14": {
+      "content": "Monomethyl auristatin",
+      "summary": ""
+    },
+    "table_8_row_21_col_15": {
+      "content": "Monomethyl auristatin",
+      "summary": ""
+    },
+    "table_8_row_22_col_4": {
+      "content": "Cytarabine/Cytosine arabinoside",
+      "summary": ""
+    },
+    "table_8_row_22_col_5": {
+      "content": "Cytarabine/Cytosine arabinoside",
+      "summary": ""
+    },
+    "table_8_row_22_col_6": {
+      "content": "Cytarabine/Cytosine arabinoside",
+      "summary": ""
+    },
+    "table_8_row_22_col_7": {
+      "content": "Mitoxantrone",
+      "summary": ""
+    },
+    "table_8_row_22_col_8": {
+      "content": "Mitoxantrone",
+      "summary": ""
+    },
+    "table_8_row_22_col_9": {
+      "content": "Mitoxantrone",
+      "summary": ""
+    },
+    "table_8_row_23_col_4": {
+      "content": "Decitabine",
+      "summary": ""
+    },
+    "table_8_row_23_col_5": {
+      "content": "Decitabine",
+      "summary": ""
+    },
+    "table_8_row_23_col_6": {
+      "content": "Decitabine",
+      "summary": ""
+    },
+    "table_8_row_24_col_1": {
+      "content": "NITROSOUREAS",
+      "summary": ""
+    },
+    "table_8_row_24_col_2": {
+      "content": "NITROSOUREAS",
+      "summary": ""
+    },
+    "table_8_row_24_col_4": {
+      "content": "Floxuridine",
+      "summary": ""
+    },
+    "table_8_row_24_col_5": {
+      "content": "Floxuridine",
+      "summary": ""
+    },
+    "table_8_row_24_col_6": {
+      "content": "Floxuridine",
+      "summary": ""
+    },
+    "table_8_row_25_col_0": {
+      "content": "Carmustine",
+      "summary": ""
+    },
+    "table_8_row_25_col_1": {
+      "content": "Carmustine",
+      "summary": ""
+    },
+    "table_8_row_25_col_2": {
+      "content": "Carmustine",
+      "summary": ""
+    },
+    "table_8_row_25_col_3": {
+      "content": "Carmustine",
+      "summary": ""
+    },
+    "table_8_row_25_col_4": {
+      "content": "Gemcitabine",
+      "summary": ""
+    },
+    "table_8_row_25_col_5": {
+      "content": "Gemcitabine",
+      "summary": ""
+    },
+    "table_8_row_25_col_6": {
+      "content": "Gemcitabine",
+      "summary": ""
+    },
+    "table_8_row_26_col_0": {
+      "content": "Lomustine",
+      "summary": ""
+    },
+    "table_8_row_26_col_1": {
+      "content": "Lomustine",
+      "summary": ""
+    },
+    "table_8_row_26_col_2": {
+      "content": "Lomustine",
+      "summary": ""
+    },
+    "table_8_row_26_col_3": {
+      "content": "Lomustine",
+      "summary": ""
+    },
+    "table_8_row_27_col_0": {
+      "content": "Semustine",
+      "summary": ""
+    },
+    "table_8_row_27_col_1": {
+      "content": "Semustine",
+      "summary": ""
+    },
+    "table_8_row_27_col_2": {
+      "content": "Semustine",
+      "summary": ""
+    },
+    "table_8_row_27_col_3": {
+      "content": "Semustine",
+      "summary": ""
+    },
+    "table_8_row_27_col_5": {
+      "content": "RIBONUCLEOTIDE REDUCTASE INHIB.",
+      "summary": ""
+    },
+    "table_8_row_28_col_0": {
+      "content": "Streptozosin",
+      "summary": ""
+    },
+    "table_8_row_28_col_1": {
+      "content": "Streptozosin",
+      "summary": ""
+    },
+    "table_8_row_28_col_2": {
+      "content": "Streptozosin",
+      "summary": ""
+    },
+    "table_8_row_28_col_3": {
+      "content": "Streptozosin",
+      "summary": ""
+    },
+    "table_8_row_28_col_5": {
+      "content": "RIBONUCLEOTIDE REDUCTASE INHIB.",
+      "summary": ""
+    },
+    "table_8_row_29_col_4": {
+      "content": "Hydroxyurea",
+      "summary": ""
+    },
+    "table_8_row_29_col_5": {
+      "content": "Hydroxyurea",
+      "summary": ""
+    },
+    "table_8_row_29_col_6": {
+      "content": "Hydroxyurea",
+      "summary": ""
+    },
+    "table_8_row_30_col_1": {
+      "content": "PLATINUM DRUGS",
+      "summary": ""
+    },
+    "table_8_row_30_col_2": {
+      "content": "PLATINUM DRUGS",
+      "summary": ""
+    },
+    "table_8_row_31_col_0": {
+      "content": "Cisplatin",
+      "summary": ""
+    },
+    "table_8_row_31_col_1": {
+      "content": "Cisplatin",
+      "summary": ""
+    },
+    "table_8_row_31_col_2": {
+      "content": "Cisplatin",
+      "summary": ""
+    },
+    "table_8_row_31_col_3": {
+      "content": "Cisplatin",
+      "summary": ""
+    },
+    "table_8_row_32_col_0": {
+      "content": "Carboplatin",
+      "summary": ""
+    },
+    "table_8_row_32_col_1": {
+      "content": "Carboplatin",
+      "summary": ""
+    },
+    "table_8_row_32_col_2": {
+      "content": "Carboplatin",
+      "summary": ""
+    },
+    "table_8_row_32_col_3": {
+      "content": "Carboplatin",
+      "summary": ""
+    },
+    "table_8_row_33_col_0": {
+      "content": "Oxaliplatin",
+      "summary": ""
+    },
+    "table_8_row_33_col_1": {
+      "content": "Oxaliplatin",
+      "summary": ""
+    },
+    "table_8_row_33_col_2": {
+      "content": "Oxaliplatin",
+      "summary": ""
+    },
+    "table_8_row_33_col_3": {
+      "content": "Oxaliplatin",
+      "summary": ""
+    },
+    "table_8_row_35_col_1": {
+      "content": "ANTIBIOTIC",
+      "summary": ""
+    },
+    "table_8_row_36_col_0": {
+      "content": "Mitomycin C",
+      "summary": ""
+    },
+    "table_8_row_36_col_1": {
+      "content": "Mitomycin C",
+      "summary": ""
+    },
+    "table_8_row_36_col_2": {
+      "content": "Mitomycin C",
+      "summary": ""
+    },
+    "table_8_row_36_col_3": {
+      "content": "Mitomycin C",
+      "summary": ""
+    },
+    "table_9_row_0_col_0": {
+      "content": "TARGETED INHIBITORS (\"-ib\")",
+      "summary": ""
+    },
+    "table_10_row_0_col_0": {
+      "content": "RECEPTOR TYROSINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_10_row_0_col_1": {
+      "content": "RECEPTOR TYROSINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_10_row_0_col_2": {
+      "content": "RECEPTOR TYROSINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_10_row_0_col_3": {
+      "content": "RECEPTOR TYROSINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_10_row_0_col_4": {
+      "content": "RECEPTOR TYROSINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_10_row_0_col_5": {
+      "content": "RECEPTOR TYROSINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_10_row_0_col_6": {
+      "content": "RECEPTOR TYROSINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_10_row_0_col_7": {
+      "content": "RECEPTOR TYROSINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_10_row_0_col_8": {
+      "content": "RECEPTOR TYROSINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_10_row_1_col_0": {
+      "content": "ALK",
+      "summary": ""
+    },
+    "table_10_row_1_col_1": {
+      "content": "EGFR",
+      "summary": ""
+    },
+    "table_10_row_1_col_2": {
+      "content": "FGFR",
+      "summary": ""
+    },
+    "table_10_row_1_col_3": {
+      "content": "FLT-3",
+      "summary": ""
+    },
+    "table_10_row_1_col_4": {
+      "content": "c-MET",
+      "summary": ""
+    },
+    "table_10_row_1_col_5": {
+      "content": "RET",
+      "summary": ""
+    },
+    "table_10_row_1_col_6": {
+      "content": "TrkA/B/C",
+      "summary": ""
+    },
+    "table_10_row_1_col_7": {
+      "content": "VEGFR",
+      "summary": ""
+    },
+    "table_10_row_1_col_8": {
+      "content": "MULTIPLE",
+      "summary": ""
+    },
+    "table_10_row_2_col_0": {
+      "content": "Alectinib",
+      "summary": ""
+    },
+    "table_10_row_2_col_1": {
+      "content": "Afatinib",
+      "summary": ""
+    },
+    "table_10_row_2_col_2": {
+      "content": "Erdafitinib",
+      "summary": ""
+    },
+    "table_10_row_2_col_3": {
+      "content": "Gilteritinib",
+      "summary": ""
+    },
+    "table_10_row_2_col_4": {
+      "content": "Capmatinib",
+      "summary": ""
+    },
+    "table_10_row_2_col_5": {
+      "content": "Pralsetinib",
+      "summary": ""
+    },
+    "table_10_row_2_col_6": {
+      "content": "Entrectinib",
+      "summary": ""
+    },
+    "table_10_row_2_col_7": {
+      "content": "Fruquintinib",
+      "summary": ""
+    },
+    "table_10_row_2_col_8": {
+      "content": "Brigatinib",
+      "summary": ""
+    },
+    "table_10_row_3_col_0": {
+      "content": "Ceritinib",
+      "summary": ""
+    },
+    "table_10_row_3_col_1": {
+      "content": "Dacomitinib",
+      "summary": ""
+    },
+    "table_10_row_3_col_2": {
+      "content": "Pemigatinib",
+      "summary": ""
+    },
+    "table_10_row_3_col_3": {
+      "content": "Midostaurin",
+      "summary": ""
+    },
+    "table_10_row_3_col_4": {
+      "content": "Tepotinib",
+      "summary": ""
+    },
+    "table_10_row_3_col_5": {
+      "content": "Selpercatinib",
+      "summary": ""
+    },
+    "table_10_row_3_col_6": {
+      "content": "Larotrectinib",
+      "summary": ""
+    },
+    "table_10_row_3_col_8": {
+      "content": "Lenvatinib",
+      "summary": ""
+    },
+    "table_10_row_4_col_0": {
+      "content": "Crizotinib",
+      "summary": ""
+    },
+    "table_10_row_4_col_1": {
+      "content": "Erlotinib",
+      "summary": ""
+    },
+    "table_10_row_4_col_3": {
+      "content": "Quizartinib",
+      "summary": ""
+    },
+    "table_10_row_4_col_8": {
+      "content": "Loralatinib",
+      "summary": ""
+    },
+    "table_10_row_5_col_1": {
+      "content": "Gefitinib",
+      "summary": ""
+    },
+    "table_10_row_5_col_8": {
+      "content": "Pazopanib",
+      "summary": ""
+    },
+    "table_10_row_6_col_1": {
+      "content": "Lapatinib",
+      "summary": ""
+    },
+    "table_10_row_6_col_8": {
+      "content": "Regorafenib",
+      "summary": ""
+    },
+    "table_10_row_7_col_1": {
+      "content": "Neratinib",
+      "summary": ""
+    },
+    "table_10_row_7_col_8": {
+      "content": "Sorafenib",
+      "summary": ""
+    },
+    "table_10_row_8_col_1": {
+      "content": "Osimertinib",
+      "summary": ""
+    },
+    "table_10_row_8_col_8": {
+      "content": "Sunitinib",
+      "summary": ""
+    },
+    "table_10_row_9_col_1": {
+      "content": "Tucatinib",
+      "summary": ""
+    },
+    "table_11_row_0_col_0": {
+      "content": "NON-RECEPTOR TYROSINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_11_row_0_col_1": {
+      "content": "NON-RECEPTOR TYROSINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_11_row_1_col_0": {
+      "content": "BCR-ABL",
+      "summary": ""
+    },
+    "table_11_row_1_col_1": {
+      "content": "BTK",
+      "summary": ""
+    },
+    "table_11_row_2_col_0": {
+      "content": "Asciminib",
+      "summary": ""
+    },
+    "table_11_row_2_col_1": {
+      "content": "Acalabrutinib",
+      "summary": ""
+    },
+    "table_11_row_3_col_0": {
+      "content": "Bosutinib",
+      "summary": ""
+    },
+    "table_11_row_3_col_1": {
+      "content": "Ibrutinib",
+      "summary": ""
+    },
+    "table_11_row_4_col_0": {
+      "content": "Dasatinib",
+      "summary": ""
+    },
+    "table_11_row_4_col_1": {
+      "content": "Orelabrutinib",
+      "summary": ""
+    },
+    "table_11_row_5_col_0": {
+      "content": "Imatinib",
+      "summary": ""
+    },
+    "table_11_row_5_col_1": {
+      "content": "Tirabrutinib",
+      "summary": ""
+    },
+    "table_11_row_6_col_0": {
+      "content": "Nilotinib",
+      "summary": ""
+    },
+    "table_11_row_6_col_1": {
+      "content": "Zanubrutinib",
+      "summary": ""
+    },
+    "table_11_row_7_col_0": {
+      "content": "Ponatinib",
+      "summary": ""
+    },
+    "table_12_row_0_col_0": {
+      "content": "NON-RECEPTOR SERINE/THREONINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_12_row_0_col_1": {
+      "content": "NON-RECEPTOR SERINE/THREONINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_12_row_0_col_2": {
+      "content": "NON-RECEPTOR SERINE/THREONINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_12_row_0_col_3": {
+      "content": "NON-RECEPTOR SERINE/THREONINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_12_row_0_col_4": {
+      "content": "NON-RECEPTOR SERINE/THREONINE KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_12_row_1_col_0": {
+      "content": "AKT",
+      "summary": ""
+    },
+    "table_12_row_1_col_1": {
+      "content": "RAF",
+      "summary": ""
+    },
+    "table_12_row_1_col_2": {
+      "content": "CDK4/6",
+      "summary": ""
+    },
+    "table_12_row_1_col_3": {
+      "content": "MEK1/2",
+      "summary": ""
+    },
+    "table_12_row_1_col_4": {
+      "content": "mTOR",
+      "summary": ""
+    },
+    "table_12_row_2_col_0": {
+      "content": "Capivasertib",
+      "summary": ""
+    },
+    "table_12_row_2_col_1": {
+      "content": "Dabrafenib",
+      "summary": ""
+    },
+    "table_12_row_2_col_2": {
+      "content": "Abemaciclib",
+      "summary": ""
+    },
+    "table_12_row_2_col_3": {
+      "content": "Binimetinib",
+      "summary": ""
+    },
+    "table_12_row_2_col_4": {
+      "content": "Everolimus",
+      "summary": ""
+    },
+    "table_12_row_3_col_1": {
+      "content": "Encorafinib",
+      "summary": ""
+    },
+    "table_12_row_3_col_2": {
+      "content": "Palbociclib",
+      "summary": ""
+    },
+    "table_12_row_3_col_3": {
+      "content": "Cobimetinib",
+      "summary": ""
+    },
+    "table_12_row_4_col_1": {
+      "content": "Vemurafenib",
+      "summary": ""
+    },
+    "table_12_row_4_col_2": {
+      "content": "Ribociclib",
+      "summary": ""
+    },
+    "table_12_row_4_col_3": {
+      "content": "Trametinib",
+      "summary": ""
+    },
+    "table_13_row_0_col_0": {
+      "content": "NON-PROTEIN KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_13_row_0_col_1": {
+      "content": "NON-PROTEIN KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_13_row_0_col_2": {
+      "content": "NON-PROTEIN KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_13_row_0_col_3": {
+      "content": "NON-PROTEIN KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_13_row_0_col_4": {
+      "content": "NON-PROTEIN KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_13_row_0_col_5": {
+      "content": "NON-PROTEIN KINASE INHIBITORS",
+      "summary": ""
+    },
+    "table_13_row_1_col_0": {
+      "content": "PI3K",
+      "summary": ""
+    },
+    "table_13_row_1_col_1": {
+      "content": "SONIC HEDGEHOG",
+      "summary": ""
+    },
+    "table_13_row_1_col_2": {
+      "content": "ISOCITRATE DH-1",
+      "summary": ""
+    },
+    "table_13_row_1_col_3": {
+      "content": "K-RAS",
+      "summary": ""
+    },
+    "table_13_row_1_col_4": {
+      "content": "PARP",
+      "summary": ""
+    },
+    "table_13_row_1_col_5": {
+      "content": "PROTEOSOME",
+      "summary": ""
+    },
+    "table_13_row_2_col_0": {
+      "content": "Alpelisib",
+      "summary": ""
+    },
+    "table_13_row_2_col_1": {
+      "content": "Glasdegib",
+      "summary": ""
+    },
+    "table_13_row_2_col_2": {
+      "content": "Enasidenib",
+      "summary": ""
+    },
+    "table_13_row_2_col_3": {
+      "content": "Adagrasib",
+      "summary": ""
+    },
+    "table_13_row_2_col_4": {
+      "content": "Olaparib",
+      "summary": ""
+    },
+    "table_13_row_2_col_5": {
+      "content": "Bortezomib",
+      "summary": ""
+    },
+    "table_13_row_3_col_0": {
+      "content": "Duvelisib",
+      "summary": ""
+    },
+    "table_13_row_3_col_2": {
+      "content": "Ivosidenib",
+      "summary": ""
+    },
+    "table_13_row_3_col_3": {
+      "content": "Sotorasib",
+      "summary": ""
+    },
+    "table_13_row_3_col_4": {
+      "content": "Niraparib",
+      "summary": ""
+    },
+    "table_13_row_3_col_5": {
+      "content": "Carfilzomib",
+      "summary": ""
+    },
+    "table_13_row_4_col_0": {
+      "content": "Idelalisib",
+      "summary": ""
+    },
+    "table_13_row_4_col_2": {
+      "content": "Olutasidenib",
+      "summary": ""
+    },
+    "table_13_row_4_col_4": {
+      "content": "Rucaparib",
+      "summary": ""
+    },
+    "table_13_row_4_col_5": {
+      "content": "Ixazomib",
+      "summary": ""
+    },
+    "table_13_row_5_col_4": {
+      "content": "Talazoparib",
+      "summary": ""
+    },
+    "table_14_row_0_col_0": {
+      "content": "BIOLOGICS  (MONOCLONAL ANTIBODIES “-mab”)",
+      "summary": ""
+    },
+    "table_15_row_0_col_0": {
+      "content": "TUMOR CELL SURFACE RECEPTOR TARGETS",
+      "summary": ""
+    },
+    "table_15_row_0_col_1": {
+      "content": "TUMOR CELL SURFACE RECEPTOR TARGETS",
+      "summary": ""
+    },
+    "table_15_row_0_col_2": {
+      "content": "TUMOR CELL SURFACE RECEPTOR TARGETS",
+      "summary": ""
+    },
+    "table_15_row_0_col_3": {
+      "content": "TUMOR CELL SURFACE RECEPTOR TARGETS",
+      "summary": ""
+    },
+    "table_15_row_0_col_4": {
+      "content": "TUMOR CELL SURFACE RECEPTOR TARGETS",
+      "summary": ""
+    },
+    "table_15_row_0_col_5": {
+      "content": "TUMOR CELL SURFACE RECEPTOR TARGETS",
+      "summary": ""
+    },
+    "table_15_row_1_col_0": {
+      "content": "CD19",
+      "summary": ""
+    },
+    "table_15_row_1_col_1": {
+      "content": "CD20",
+      "summary": ""
+    },
+    "table_15_row_1_col_2": {
+      "content": "CD22",
+      "summary": ""
+    },
+    "table_15_row_1_col_3": {
+      "content": "CD30",
+      "summary": ""
+    },
+    "table_15_row_1_col_4": {
+      "content": "CD33",
+      "summary": ""
+    },
+    "table_15_row_1_col_5": {
+      "content": "CD38",
+      "summary": ""
+    },
+    "table_15_row_2_col_0": {
+      "content": "Blinatumomab",
+      "summary": ""
+    },
+    "table_15_row_2_col_1": {
+      "content": "Ibritumomab",
+      "summary": ""
+    },
+    "table_15_row_2_col_2": {
+      "content": "Inotuzumab1",
+      "summary": ""
+    },
+    "table_15_row_2_col_3": {
+      "content": "Brentuximab",
+      "summary": ""
+    },
+    "table_15_row_2_col_4": {
+      "content": "Gemtuzumab1",
+      "summary": ""
+    },
+    "table_15_row_2_col_5": {
+      "content": "Daratumumab",
+      "summary": ""
+    },
+    "table_15_row_3_col_1": {
+      "content": "Obinutuzumab",
+      "summary": ""
+    },
+    "table_15_row_4_col_1": {
+      "content": "Ofatumumab",
+      "summary": ""
+    },
+    "table_15_row_5_col_1": {
+      "content": "Rituximab",
+      "summary": ""
+    },
+    "table_15_row_6_col_1": {
+      "content": "Tositumomab",
+      "summary": ""
+    },
+    "table_16_row_0_col_0": {
+      "content": "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)",
+      "summary": ""
+    },
+    "table_16_row_0_col_1": {
+      "content": "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)",
+      "summary": ""
+    },
+    "table_16_row_0_col_2": {
+      "content": "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)",
+      "summary": ""
+    },
+    "table_16_row_0_col_3": {
+      "content": "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)",
+      "summary": ""
+    },
+    "table_16_row_0_col_4": {
+      "content": "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)",
+      "summary": ""
+    },
+    "table_16_row_0_col_5": {
+      "content": "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)",
+      "summary": ""
+    },
+    "table_16_row_1_col_0": {
+      "content": "CD52",
+      "summary": ""
+    },
+    "table_16_row_1_col_1": {
+      "content": "EGFR (HER1/2/3/4)",
+      "summary": ""
+    },
+    "table_16_row_1_col_2": {
+      "content": "NECTIN-4",
+      "summary": ""
+    },
+    "table_16_row_1_col_3": {
+      "content": "TISSUE FACTOR",
+      "summary": ""
+    },
+    "table_16_row_1_col_4": {
+      "content": "TROP-2",
+      "summary": ""
+    },
+    "table_16_row_1_col_5": {
+      "content": "MULTIPLE",
+      "summary": ""
+    },
+    "table_16_row_2_col_0": {
+      "content": "Alemtuzumab",
+      "summary": ""
+    },
+    "table_16_row_2_col_1": {
+      "content": "Cetuximab (HER1)",
+      "summary": ""
+    },
+    "table_16_row_2_col_2": {
+      "content": "Enfortumab2",
+      "summary": ""
+    },
+    "table_16_row_2_col_3": {
+      "content": "Tisotumab2",
+      "summary": ""
+    },
+    "table_16_row_2_col_4": {
+      "content": "Sacituzumab3",
+      "summary": ""
+    },
+    "table_16_row_2_col_5": {
+      "content": "Amivantamab",
+      "summary": ""
+    },
+    "table_16_row_3_col_1": {
+      "content": "Margetuximab (HER2)",
+      "summary": ""
+    },
+    "table_16_row_4_col_1": {
+      "content": "Necitunumab (HER1)",
+      "summary": ""
+    },
+    "table_16_row_5_col_1": {
+      "content": "Panitumumab (HER1)",
+      "summary": ""
+    },
+    "table_16_row_6_col_1": {
+      "content": "Pertuzumab (HER2)",
+      "summary": ""
+    },
+    "table_16_row_7_col_1": {
+      "content": "Trastuzumab (HER2)",
+      "summary": ""
+    },
+    "table_17_row_0_col_0": {
+      "content": "GROWTH FACTOR TARGET (VEGF)",
+      "summary": ""
+    },
+    "table_17_row_1_col_0": {
+      "content": "Bevacizumab",
+      "summary": ""
+    },
+    "table_17_row_2_col_0": {
+      "content": "Aflibercept",
+      "summary": ""
+    },
+    "table_17_row_3_col_0": {
+      "content": "Ramucirumab",
+      "summary": ""
+    },
+    "table_18_row_0_col_0": {
+      "content": "IMMUNOTHERAPY TARGETS",
+      "summary": ""
+    },
+    "table_18_row_0_col_1": {
+      "content": "IMMUNOTHERAPY TARGETS",
+      "summary": ""
+    },
+    "table_18_row_1_col_0": {
+      "content": "TUMOR CELL SURFACE RECEPTOR",
+      "summary": ""
+    },
+    "table_18_row_1_col_1": {
+      "content": "T CELL RECEPTORS",
+      "summary": ""
+    },
+    "table_18_row_2_col_0": {
+      "content": "PD-L1",
+      "summary": ""
+    },
+    "table_18_row_2_col_1": {
+      "content": "PD1",
+      "summary": ""
+    },
+    "table_18_row_3_col_0": {
+      "content": "Atezolizumab",
+      "summary": ""
+    },
+    "table_18_row_3_col_1": {
+      "content": "Cemiplimab",
+      "summary": ""
+    },
+    "table_18_row_4_col_0": {
+      "content": "Avelumab",
+      "summary": ""
+    },
+    "table_18_row_4_col_1": {
+      "content": "Pembrolizumab",
+      "summary": ""
+    },
+    "table_18_row_5_col_0": {
+      "content": "Durvalumab",
+      "summary": ""
+    },
+    "table_18_row_5_col_1": {
+      "content": "Dostarlimab",
+      "summary": ""
+    },
+    "table_18_row_6_col_1": {
+      "content": "Nivolumab",
+      "summary": ""
+    },
+    "table_18_row_8_col_1": {
+      "content": "CTLA-4",
+      "summary": ""
+    },
+    "table_18_row_9_col_1": {
+      "content": "Ipilimumab",
+      "summary": ""
+    },
+    "table_18_row_10_col_1": {
+      "content": "Tremelimumab",
+      "summary": ""
+    },
+    "table_19_row_0_col_0": {
+      "content": "DERMATOLOGIC PHARMACOLOGY",
+      "summary": ""
+    },
+    "table_20_row_0_col_0": {
+      "content": "SCABIES & LICE",
+      "summary": ""
+    },
+    "table_20_row_0_col_1": {
+      "content": "SCABIES & LICE",
+      "summary": ""
+    },
+    "table_20_row_0_col_2": {
+      "content": "SCABIES & LICE",
+      "summary": ""
+    },
+    "table_20_row_0_col_3": {
+      "content": "SCABIES & LICE",
+      "summary": ""
+    },
+    "table_20_row_1_col_0": {
+      "content": "VG Na+ CHANNEL ACTIVATOR",
+      "summary": ""
+    },
+    "table_20_row_1_col_1": {
+      "content": "CHOLINESTERASE INHIBITOR",
+      "summary": ""
+    },
+    "table_20_row_1_col_2": {
+      "content": "GLUTAMATE-GATED Cl- CHANNEL ACTIVATOR",
+      "summary": ""
+    },
+    "table_20_row_1_col_3": {
+      "content": "GABA-A RECEPTOR BLOCKER",
+      "summary": ""
+    },
+    "table_20_row_2_col_0": {
+      "content": "Permethrin",
+      "summary": ""
+    },
+    "table_20_row_2_col_1": {
+      "content": "Malathion",
+      "summary": ""
+    },
+    "table_20_row_2_col_2": {
+      "content": "Ivermectin",
+      "summary": ""
+    },
+    "table_20_row_2_col_3": {
+      "content": "Lindane",
+      "summary": ""
+    },
+    "table_21_row_0_col_0": {
+      "content": "ACUTE INFLAMMATORY SKIN DISORDERS",
+      "summary": ""
+    },
+    "table_21_row_0_col_1": {
+      "content": "ACUTE INFLAMMATORY SKIN DISORDERS",
+      "summary": ""
+    },
+    "table_21_row_0_col_2": {
+      "content": "ACUTE INFLAMMATORY SKIN DISORDERS",
+      "summary": ""
+    },
+    "table_21_row_1_col_0": {
+      "content": "CONTACT DERMATITIS",
+      "summary": ""
+    },
+    "table_21_row_1_col_1": {
+      "content": "URTICARIA",
+      "summary": ""
+    },
+    "table_21_row_1_col_2": {
+      "content": "ERYTHEMA MULTIFORME",
+      "summary": ""
+    },
+    "table_21_row_2_col_0": {
+      "content": "CORTICOSTEROIDS",
+      "summary": ""
+    },
+    "table_21_row_2_col_1": {
+      "content": "ANTIHISTAMINES - 1st GENERATION",
+      "summary": ""
+    },
+    "table_21_row_2_col_2": {
+      "content": "TREAT CAUSE",
+      "summary": ""
+    },
+    "table_21_row_3_col_0": {
+      "content": "Hydrocortisone (T)",
+      "summary": ""
+    },
+    "table_21_row_3_col_1": {
+      "content": "Diphenhydramine (Benadryl) (O)",
+      "summary": ""
+    },
+    "table_21_row_3_col_2": {
+      "content": "Antibiotics (T/O)",
+      "summary": ""
+    },
+    "table_21_row_4_col_1": {
+      "content": "Chlorpheniramine (O)",
+      "summary": ""
+    },
+    "table_21_row_5_col_0": {
+      "content": "CALCINEURIN INHIBITORS",
+      "summary": ""
+    },
+    "table_21_row_5_col_2": {
+      "content": "TREAT SYMPTOMS",
+      "summary": ""
+    },
+    "table_21_row_6_col_0": {
+      "content": "Tacrolimus (T)",
+      "summary": ""
+    },
+    "table_21_row_6_col_1": {
+      "content": "ANTIHISTAMINES - 2nd GENERATION",
+      "summary": ""
+    },
+    "table_21_row_6_col_2": {
+      "content": "Anti-histamines (O)",
+      "summary": ""
+    },
+    "table_21_row_7_col_1": {
+      "content": "Cetirizine (Zyrtec) (O)",
+      "summary": ""
+    },
+    "table_21_row_7_col_2": {
+      "content": "Steroids (T/O)",
+      "summary": ""
+    },
+    "table_21_row_8_col_1": {
+      "content": "Fexofenadine (Allegra) (O)",
+      "summary": ""
+    },
+    "table_21_row_9_col_1": {
+      "content": "Loratadine (Claritin) (O)",
+      "summary": ""
+    },
+    "table_22_row_0_col_0": {
+      "content": "CHRONIC INFLAMMATORY SKIN DISORDERS",
+      "summary": ""
+    },
+    "table_23_row_0_col_0": {
+      "content": "ATOPIC DERMATITIS (ECZEMA)",
+      "summary": ""
+    },
+    "table_23_row_0_col_1": {
+      "content": "ATOPIC DERMATITIS (ECZEMA)",
+      "summary": ""
+    },
+    "table_23_row_0_col_2": {
+      "content": "ATOPIC DERMATITIS (ECZEMA)",
+      "summary": ""
+    },
+    "table_23_row_0_col_3": {
+      "content": "ATOPIC DERMATITIS (ECZEMA)",
+      "summary": ""
+    },
+    "table_23_row_0_col_4": {
+      "content": "ATOPIC DERMATITIS (ECZEMA)",
+      "summary": ""
+    },
+    "table_23_row_1_col_0": {
+      "content": "INTERMITTENT",
+      "summary": ""
+    },
+    "table_23_row_1_col_1": {
+      "content": "INTERMITTENT",
+      "summary": ""
+    },
+    "table_23_row_1_col_2": {
+      "content": "PERSISTENT",
+      "summary": ""
+    },
+    "table_23_row_1_col_3": {
+      "content": "PERSISTENT",
+      "summary": ""
+    },
+    "table_23_row_1_col_4": {
+      "content": "PERSISTENT",
+      "summary": ""
+    },
+    "table_23_row_2_col_0": {
+      "content": "MOISTURIZERS/EMOLLIENTS",
+      "summary": ""
+    },
+    "table_23_row_2_col_1": {
+      "content": "CORTICOSTEROIDS",
+      "summary": ""
+    },
+    "table_23_row_2_col_2": {
+      "content": "CALCINEURIN INHIB",
+      "summary": ""
+    },
+    "table_23_row_2_col_3": {
+      "content": "JAK INHIBITORS",
+      "summary": ""
+    },
+    "table_23_row_2_col_4": {
+      "content": "IL-4 RECEPTOR ANTIBODY",
+      "summary": ""
+    },
+    "table_23_row_3_col_0": {
+      "content": "Various",
+      "summary": ""
+    },
+    "table_23_row_3_col_1": {
+      "content": "Topical",
+      "summary": ""
+    },
+    "table_23_row_3_col_2": {
+      "content": "Cyclosporin (T)",
+      "summary": ""
+    },
+    "table_23_row_3_col_3": {
+      "content": "Abrocitinib (O)",
+      "summary": ""
+    },
+    "table_23_row_3_col_4": {
+      "content": "Dupilumab (SC)",
+      "summary": ""
+    },
+    "table_23_row_4_col_2": {
+      "content": "Tacrolimus (T)",
+      "summary": ""
+    },
+    "table_23_row_4_col_3": {
+      "content": "Baricitinib (O)",
+      "summary": ""
+    },
+    "table_23_row_5_col_2": {
+      "content": "Pimecrolimus (T)",
+      "summary": ""
+    },
+    "table_24_row_0_col_0": {
+      "content": "SEBORRHEIC DERMATITIS (Dandruff)",
+      "summary": ""
+    },
+    "table_24_row_0_col_1": {
+      "content": "SEBORRHEIC DERMATITIS (Dandruff)",
+      "summary": ""
+    },
+    "table_24_row_0_col_2": {
+      "content": "SEBORRHEIC DERMATITIS (Dandruff)",
+      "summary": ""
+    },
+    "table_24_row_0_col_3": {
+      "content": "SEBORRHEIC DERMATITIS (Dandruff)",
+      "summary": ""
+    },
+    "table_24_row_1_col_0": {
+      "content": "ANTI-FUNGALS (topical)",
+      "summary": ""
+    },
+    "table_24_row_1_col_1": {
+      "content": "ANTI-FUNGALS (topical)",
+      "summary": ""
+    },
+    "table_24_row_1_col_2": {
+      "content": "ANTI-FUNGALS (topical)",
+      "summary": ""
+    },
+    "table_24_row_1_col_3": {
+      "content": "ANTI-FUNGALS (topical)",
+      "summary": ""
+    },
+    "table_24_row_2_col_0": {
+      "content": "Salicylic acid",
+      "summary": ""
+    },
+    "table_24_row_2_col_1": {
+      "content": "Ketoconazole",
+      "summary": ""
+    },
+    "table_24_row_2_col_2": {
+      "content": "Selenium sulfide (Selsun Blue)",
+      "summary": ""
+    },
+    "table_24_row_2_col_3": {
+      "content": "Pyrithione zinc",
+      "summary": ""
+    },
+    "table_25_row_0_col_0": {
+      "content": "PSORIASIS",
+      "summary": ""
+    },
+    "table_25_row_0_col_1": {
+      "content": "PSORIASIS",
+      "summary": ""
+    },
+    "table_25_row_0_col_2": {
+      "content": "PSORIASIS",
+      "summary": ""
+    },
+    "table_25_row_0_col_3": {
+      "content": "PSORIASIS",
+      "summary": ""
+    },
+    "table_25_row_1_col_0": {
+      "content": "IMMUOSUPPRESSANTS",
+      "summary": ""
+    },
+    "table_25_row_1_col_1": {
+      "content": "IMMUOSUPPRESSANTS",
+      "summary": ""
+    },
+    "table_25_row_1_col_2": {
+      "content": "IMMUOSUPPRESSANTS",
+      "summary": ""
+    },
+    "table_25_row_1_col_3": {
+      "content": "IMMUOSUPPRESSANTS",
+      "summary": ""
+    },
+    "table_25_row_2_col_0": {
+      "content": "LIMITED",
+      "summary": ""
+    },
+    "table_25_row_2_col_1": {
+      "content": "MODERATE/SEVERE",
+      "summary": ""
+    },
+    "table_25_row_2_col_2": {
+      "content": "MODERATE/SEVERE",
+      "summary": ""
+    },
+    "table_25_row_2_col_3": {
+      "content": "MODERATE/SEVERE",
+      "summary": ""
+    },
+    "table_25_row_3_col_0": {
+      "content": "CORTICOSTEROIDS1",
+      "summary": ""
+    },
+    "table_25_row_3_col_1": {
+      "content": "TNF-a INHIBITORS",
+      "summary": ""
+    },
+    "table_25_row_3_col_2": {
+      "content": "IL-17 INHIBITORS",
+      "summary": ""
+    },
+    "table_25_row_3_col_3": {
+      "content": "OTHER",
+      "summary": ""
+    },
+    "table_25_row_4_col_0": {
+      "content": "Topical",
+      "summary": ""
+    },
+    "table_25_row_4_col_1": {
+      "content": "Adalimumab",
+      "summary": ""
+    },
+    "table_25_row_4_col_2": {
+      "content": "Secukinumab",
+      "summary": ""
+    },
+    "table_25_row_4_col_3": {
+      "content": "FOLATE INHIBITORS",
+      "summary": ""
+    },
+    "table_25_row_5_col_1": {
+      "content": "Certolizumab",
+      "summary": ""
+    },
+    "table_25_row_5_col_2": {
+      "content": "Ixekizumab",
+      "summary": ""
+    },
+    "table_25_row_5_col_3": {
+      "content": "Methotrexate",
+      "summary": ""
+    },
+    "table_25_row_6_col_0": {
+      "content": "VIT D ANALOGS",
+      "summary": ""
+    },
+    "table_25_row_6_col_1": {
+      "content": "Golimumab",
+      "summary": ""
+    },
+    "table_25_row_7_col_0": {
+      "content": "Calcipotriene (T)",
+      "summary": ""
+    },
+    "table_25_row_7_col_1": {
+      "content": "Infliximab",
+      "summary": ""
+    },
+    "table_25_row_7_col_2": {
+      "content": "IL-17R INHIB.",
+      "summary": ""
+    },
+    "table_25_row_7_col_3": {
+      "content": "CALCINEURIN INHIBITORS",
+      "summary": ""
+    },
+    "table_25_row_8_col_0": {
+      "content": "Calcitriol (T)",
+      "summary": ""
+    },
+    "table_25_row_8_col_1": {
+      "content": "Etanercept",
+      "summary": ""
+    },
+    "table_25_row_8_col_2": {
+      "content": "Brodalumab",
+      "summary": ""
+    },
+    "table_25_row_8_col_3": {
+      "content": "Cyclosporin",
+      "summary": ""
+    },
+    "table_25_row_10_col_2": {
+      "content": "IL-23 INHIBITORS",
+      "summary": ""
+    },
+    "table_25_row_10_col_3": {
+      "content": "PDE4 INHIBITOR",
+      "summary": ""
+    },
+    "table_25_row_11_col_2": {
+      "content": "Guselkumab",
+      "summary": ""
+    },
+    "table_25_row_11_col_3": {
+      "content": "Apremilast",
+      "summary": ""
+    },
+    "table_25_row_12_col_2": {
+      "content": "Risankizumab",
+      "summary": ""
+    },
+    "table_26_row_0_col_0": {
+      "content": "LICHEN PLANUS",
+      "summary": ""
+    },
+    "table_26_row_0_col_1": {
+      "content": "LICHEN PLANUS",
+      "summary": ""
+    },
+    "table_26_row_0_col_2": {
+      "content": "LICHEN PLANUS",
+      "summary": ""
+    },
+    "table_26_row_1_col_0": {
+      "content": "LOCALIZED",
+      "summary": ""
+    },
+    "table_26_row_1_col_1": {
+      "content": "GENERALIZED",
+      "summary": ""
+    },
+    "table_26_row_1_col_2": {
+      "content": "GENERALIZED",
+      "summary": ""
+    },
+    "table_26_row_2_col_0": {
+      "content": "CORTICOSTEROIDS",
+      "summary": ""
+    },
+    "table_26_row_2_col_1": {
+      "content": "CORTICOSTEROIDS",
+      "summary": ""
+    },
+    "table_26_row_2_col_2": {
+      "content": "RETINOIDS",
+      "summary": ""
+    },
+    "table_26_row_3_col_0": {
+      "content": "Topical",
+      "summary": ""
+    },
+    "table_26_row_3_col_1": {
+      "content": "Oral",
+      "summary": ""
+    },
+    "table_26_row_3_col_2": {
+      "content": "Acitretin (O)",
+      "summary": ""
+    },
+    "table_27_row_0_col_0": {
+      "content": "FOLLICULAR DISORDERS",
+      "summary": ""
+    },
+    "table_27_row_0_col_1": {
+      "content": "FOLLICULAR DISORDERS",
+      "summary": ""
+    },
+    "table_27_row_0_col_2": {
+      "content": "FOLLICULAR DISORDERS",
+      "summary": ""
+    },
+    "table_27_row_0_col_3": {
+      "content": "FOLLICULAR DISORDERS",
+      "summary": ""
+    },
+    "table_27_row_1_col_0": {
+      "content": "ACNE",
+      "summary": ""
+    },
+    "table_27_row_1_col_1": {
+      "content": "ROSACEA",
+      "summary": ""
+    },
+    "table_27_row_1_col_2": {
+      "content": "HIDRADENITIS",
+      "summary": ""
+    },
+    "table_27_row_1_col_3": {
+      "content": "ALOPECIA AREATA",
+      "summary": ""
+    },
+    "table_27_row_2_col_0": {
+      "content": "MULTIPLE",
+      "summary": ""
+    },
+    "table_27_row_2_col_1": {
+      "content": "ANTIBIOTICS",
+      "summary": ""
+    },
+    "table_27_row_2_col_2": {
+      "content": "ANTIBIOTICS",
+      "summary": ""
+    },
+    "table_27_row_2_col_3": {
+      "content": "CORTICOSTEROIDS",
+      "summary": ""
+    },
+    "table_27_row_3_col_0": {
+      "content": "Benzoylperoxide (T)",
+      "summary": ""
+    },
+    "table_27_row_3_col_1": {
+      "content": "Metronidazole (T)",
+      "summary": ""
+    },
+    "table_27_row_3_col_2": {
+      "content": "Clindamycin (T)",
+      "summary": ""
+    },
+    "table_27_row_3_col_3": {
+      "content": "Topical",
+      "summary": ""
+    },
+    "table_27_row_4_col_1": {
+      "content": "Tetracyclines (O)",
+      "summary": ""
+    },
+    "table_27_row_4_col_2": {
+      "content": "Doxycycline (O)",
+      "summary": ""
+    },
+    "table_27_row_5_col_0": {
+      "content": "RETINOIDS",
+      "summary": ""
+    },
+    "table_27_row_5_col_2": {
+      "content": "Clindamycin (O) + rifampin (O)",
+      "summary": ""
+    },
+    "table_27_row_6_col_0": {
+      "content": "Tretinoin (T)",
+      "summary": ""
+    },
+    "table_27_row_6_col_1": {
+      "content": "a1 AGONISTS",
+      "summary": ""
+    },
+    "table_27_row_7_col_0": {
+      "content": "Isotretinoin (O)",
+      "summary": ""
+    },
+    "table_27_row_7_col_1": {
+      "content": "Brimonidine",
+      "summary": ""
+    },
+    "table_27_row_7_col_2": {
+      "content": "ANTI-INFLAMMATORIES",
+      "summary": ""
+    },
+    "table_27_row_8_col_0": {
+      "content": "Adapalene (T)",
+      "summary": ""
+    },
+    "table_27_row_8_col_1": {
+      "content": "Oxymetazoline",
+      "summary": ""
+    },
+    "table_27_row_8_col_2": {
+      "content": "Adalimumab",
+      "summary": ""
+    },
+    "table_27_row_10_col_0": {
+      "content": "ANTIBIOTICS",
+      "summary": ""
+    },
+    "table_27_row_10_col_1": {
+      "content": "ANTI-INFLAMMATORY/PARASITIC",
+      "summary": ""
+    },
+    "table_27_row_10_col_2": {
+      "content": "ANTI-ANDROGEN",
+      "summary": ""
+    },
+    "table_27_row_11_col_0": {
+      "content": "Clindamycin (T)",
+      "summary": ""
+    },
+    "table_27_row_11_col_1": {
+      "content": "Ivermectin",
+      "summary": ""
+    },
+    "table_27_row_11_col_2": {
+      "content": "Spironolactone",
+      "summary": ""
+    },
+    "table_27_row_12_col_0": {
+      "content": "Erythromycin (T)",
+      "summary": ""
+    },
+    "table_27_row_13_col_0": {
+      "content": "Doxycycline (O)",
+      "summary": ""
+    },
+    "table_27_row_15_col_0": {
+      "content": "ANTI-ANDROGEN",
+      "summary": ""
+    },
+    "table_27_row_16_col_0": {
+      "content": "Spironolactone (O)",
+      "summary": ""
+    }
+  }
 }
