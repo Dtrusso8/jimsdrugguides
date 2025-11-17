@@ -10,12 +10,19 @@
 <body>
     <header class="site-header">
         <h1>Drug Guide Library</h1>
-        <div class="mode-toggle">
-            <label class="toggle-label">
-                <input type="checkbox" id="teacher-mode-toggle">
-                <span>Teacher Mode</span>
-            </label>
+        <div class="header-controls">
+            <div class="search-container">
+                <input type="search" id="drug-search" placeholder="Search for a drug..." aria-label="Search for a drug">
+                <button type="button" id="search-clear" class="search-clear hidden" aria-label="Clear search">&times;</button>
+            </div>
+            <div class="mode-toggle">
+                <label class="toggle-label">
+                    <input type="checkbox" id="teacher-mode-toggle">
+                    <span>Teacher Mode</span>
+                </label>
+            </div>
         </div>
+        <div id="search-results" class="search-results hidden"></div>
     </header>
 
     <main class="layout">

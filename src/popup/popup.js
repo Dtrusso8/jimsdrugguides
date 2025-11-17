@@ -74,6 +74,39 @@ export function initializePopup(container = document.body) {
 }
 
 /**
+ * Normalize content exactly as convert_guides.py does for storage in cellData.
+ * This matches the normalization used in generate_cell_data():
+ * - Remove HTML tags
+ * - Strip whitespace
+ * - Handle &nbsp; as empty
+ * @param {string} content - Content to normalize
+ * @returns {string} Normalized content
+ */
+function normalizeContentForStorage(content) {
+    if (!content) return "";
+    // Remove HTML tags (same regex as convert_guides.py)
+    let normalized = content.replace(/<[^>]+>/g, "");
+    // Strip whitespace
+    normalized = normalized.trim();
+    // Handle &nbsp; as empty
+    if (normalized === "&nbsp;") {
+        return "";
+    }
+    // Collapse multiple spaces to single space
+    normalized = normalized.replace(/\s+/g, " ");
+    return normalized;
+}
+
+/**
+ * Normalize content for comparison (case-insensitive, whitespace-insensitive).
+ * @param {string} content - Content to normalize
+ * @returns {string} Normalized content for comparison
+ */
+function normalizeForComparison(content) {
+    return normalizeContentForStorage(content).toLowerCase();
+}
+
+/**
  * Open popup for a specific cell.
  * @param {string} cellId - Cell identifier
  * @param {HTMLElement} cellElement - The cell DOM element
@@ -86,40 +119,69 @@ export function openPopup(cellId, cellElement) {
     currentCellId = cellId;
     currentCellElement = cellElement;
     
-    // Get the actual cell content from the DOM
-    const actualContent = cellElement.textContent.trim() || "Cell";
+    // Get the actual cell content from the DOM and normalize it
+    const rawContent = cellElement.textContent || "";
+    const actualContent = normalizeContentForStorage(rawContent) || "Cell";
     
     let cellData = getCellData(cellId);
     
     // Always verify content match - cell IDs can be wrong due to rowspan/empty rows
     // Prefer content-based matching for reliability
-    if (!cellData || (cellData.content && cellData.content.trim() !== actualContent)) {
+    const normalizedActual = normalizeForComparison(actualContent);
+    const cellDataContent = cellData?.content ? normalizeForComparison(cellData.content) : "";
+    
+    if (!cellData || cellDataContent !== normalizedActual) {
         // Try to find matching summary by content first (more reliable than cell ID)
         const allCellData = getAllCellData();
         let matchingCellData = null;
+        let matchingId = null;
+        
+        // First try exact match (case-sensitive, normalized)
         for (const [id, data] of Object.entries(allCellData)) {
-            if (data.content && data.content.trim() === actualContent) {
-                matchingCellData = data;
-                // Update the cell ID to point to the correct entry
-                if (id !== cellId) {
-                    console.log(`Content match: ${cellId} -> ${id} for "${actualContent.substring(0, 30)}"`);
-                    // Update currentCellId to the correct one so saves work properly
-                    currentCellId = id;
+            if (data.content) {
+                const normalizedData = normalizeContentForStorage(data.content);
+                if (normalizedData === actualContent) {
+                    matchingCellData = data;
+                    matchingId = id;
+                    break;
                 }
-                break;
+            }
+        }
+        
+        // If no exact match, try case-insensitive match
+        if (!matchingCellData) {
+            for (const [id, data] of Object.entries(allCellData)) {
+                if (data.content) {
+                    const normalizedData = normalizeForComparison(data.content);
+                    if (normalizedData === normalizedActual && normalizedActual) {
+                        matchingCellData = data;
+                        matchingId = id;
+                        console.log(`Case-insensitive content match: ${cellId} -> ${id} for "${actualContent.substring(0, 30)}"`);
+                        break;
+                    }
+                }
             }
         }
         
         if (matchingCellData) {
             cellData = { ...matchingCellData, content: actualContent };
-        } else if (cellData && cellData.content && cellData.content.trim() !== actualContent) {
+            if (matchingId !== cellId) {
+                console.log(`Content match: ${cellId} -> ${matchingId} for "${actualContent.substring(0, 50)}"`);
+                // Update currentCellId to the correct one so saves work properly
+                currentCellId = matchingId;
+            }
+        } else if (cellData && cellData.content) {
             // Cell ID exists but content doesn't match - log warning
             console.warn(`Cell ID mismatch for ${cellId}:`, {
                 expected: actualContent,
                 found: cellData.content,
             });
-            // Create new entry with actual content
-            cellData = { content: actualContent, summary: "" };
+            // Use existing summary if available, but update content
+            cellData = { 
+                content: actualContent, 
+                summary: cellData.summary || "",
+                lastUpdated: cellData.lastUpdated || ""
+            };
         } else {
             // No cellData exists, create a basic entry
             cellData = { content: actualContent, summary: "" };
@@ -132,9 +194,9 @@ export function openPopup(cellId, cellElement) {
     const viewDiv = popupElement.querySelector(".cell-popup-view");
     const editDiv = popupElement.querySelector(".cell-popup-edit");
     
-    // Always use actual cell content for display
+    // Always use actual cell content for display (already normalized)
     const content = actualContent;
-    const summary = cellData.summary || "";
+    const summary = (cellData.summary && cellData.summary !== "no data") ? cellData.summary : "";
     
     titleEl.textContent = content;
     summaryEl.textContent = summary || "No information available.";

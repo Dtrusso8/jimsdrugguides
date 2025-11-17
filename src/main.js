@@ -33,6 +33,9 @@ const filtersPanelEl = document.getElementById("filters-panel");
 const sidebarCollapseBtn = document.getElementById("sidebar-collapse-btn");
 const sidebarExpandBtn = document.getElementById("sidebar-expand-btn");
 const layoutEl = document.querySelector("main.layout");
+const drugSearchEl = document.getElementById("drug-search");
+const searchClearEl = document.getElementById("search-clear");
+const searchResultsEl = document.getElementById("search-results");
 
 initializeTeacherMode(false);
 
@@ -366,6 +369,26 @@ async function renderGuideFragment(guide, markup) {
     });
 }
 
+/**
+ * Normalize content exactly as convert_guides.py does for storage in cellData.
+ * This matches the normalization used in generate_cell_data():
+ * - Remove HTML tags
+ * - Strip whitespace
+ * - Handle &nbsp; as empty
+ */
+function normalizeContentForStorage(content) {
+    if (!content) return "";
+    // Remove HTML tags (same regex as convert_guides.py)
+    let normalized = content.replace(/<[^>]+>/g, "");
+    // Strip whitespace
+    normalized = normalized.trim();
+    // Handle &nbsp; as empty
+    if (normalized === "&nbsp;") {
+        return "";
+    }
+    return normalized;
+}
+
 function enhanceFragment(container, guideData = null) {
     let tableIndex = 1; // Start at 1 to match cellData generation
     container.querySelectorAll("table").forEach((table) => {
@@ -377,7 +400,7 @@ function enhanceFragment(container, guideData = null) {
         // First tr with th elements is header (row 0), rest with td are data rows
         const allRows = table.querySelectorAll("tr");
         
-        // Track which rows are headers vs data rows
+        // Track header rows to determine data row indices
         let headerRowCount = 0;
         allRows.forEach((row) => {
             if (row.querySelector("th") !== null) {
@@ -392,8 +415,8 @@ function enhanceFragment(container, guideData = null) {
             if (hasTh) {
                 // Header row (row 0)
                 row.querySelectorAll("th").forEach((cell, colIndex) => {
-                    const cellText = cell.textContent.trim();
-                    if (cellText && cellText !== "&nbsp;") {
+                    const cellText = normalizeContentForStorage(cell.textContent || "");
+                    if (cellText) {
                         const cellId = `table_${tableDataIndex}_row_0_col_${colIndex}`;
                         makeCellInteractive(cell, cellId, guideData);
                     }
@@ -404,19 +427,22 @@ function enhanceFragment(container, guideData = null) {
                 //   - Headers are row 0 (from table["headers"])
                 //   - Data rows: enumerate(table["rows"], start=1) means first row in array gets index 1
                 // In HTML:
-                //   - rowIndex 0 = header (row 0)
-                //   - rowIndex 1 = first data row → should be row 1 in cellData
-                //   - rowIndex 2 = second data row → should be row 2 in cellData
-                // So rowIndex should match directly!
-                const actualRowIndex = rowIndex;
+                //   - If first row has th: rowIndex 0 = header (row 0), rowIndex 1 = first data row (row 1)
+                //   - If no headers: rowIndex 0 = first data row (row 1)
+                // So: actualRowIndex = rowIndex (if headers exist) or rowIndex + 1 (if no headers)
+                // Actually, if we count headers separately, data rows start at rowIndex = headerRowCount
+                // But since headers are row 0, first data row should be row 1
+                // So: if rowIndex >= headerRowCount, actualRowIndex = rowIndex - headerRowCount + 1
+                // But simpler: if we iterate and skip headers, first data row is row 1
+                // Let's count: if headerRowCount > 0, first data row is at rowIndex = headerRowCount, should be row 1
+                // So: actualRowIndex = rowIndex - headerRowCount + 1
+                // But wait, if headerRowCount = 1, first data row is at rowIndex 1, should be row 1
+                // So: actualRowIndex = rowIndex - headerRowCount + 1 = 1 - 1 + 1 = 1 ✓
+                const actualRowIndex = headerRowCount > 0 ? rowIndex - headerRowCount + 1 : rowIndex + 1;
                 row.querySelectorAll("td").forEach((cell, colIndex) => {
-                    const cellText = cell.textContent.trim();
-                    if (cellText && cellText !== "&nbsp;") {
+                    const cellText = normalizeContentForStorage(cell.textContent || "");
+                    if (cellText) {
                         const cellId = `table_${tableDataIndex}_row_${actualRowIndex}_col_${colIndex}`;
-                        // Debug: log first few cells to verify mapping
-                        if (tableDataIndex === 3 && actualRowIndex <= 8 && colIndex === 0) {
-                            console.log(`Cell ID: ${cellId}, Content: "${cellText.substring(0, 30)}"`);
-                        }
                         makeCellInteractive(cell, cellId, guideData);
                     }
                 });
@@ -523,8 +549,8 @@ function buildTableElement(tableData, tableIndex = 0, guideData = null) {
         tableData.headers.forEach((header, colIndex) => {
             const th = document.createElement("th");
             th.innerHTML = transformDrugNames(header);
-            const cellText = th.textContent.trim();
-            if (cellText && cellText !== "&nbsp;") {
+            const cellText = normalizeContentForStorage(th.textContent || "");
+            if (cellText) {
                 const cellId = `table_${tableIndex}_row_0_col_${colIndex}`;
                 makeCellInteractive(th, cellId, guideData);
             }
@@ -540,8 +566,8 @@ function buildTableElement(tableData, tableIndex = 0, guideData = null) {
             row.forEach((cell, colIndex) => {
                 const td = document.createElement("td");
                 td.innerHTML = transformDrugNames(typeof cell === "string" ? cell : "");
-                const cellText = td.textContent.trim();
-                if (cellText && cellText !== "&nbsp;") {
+                const cellText = normalizeContentForStorage(td.textContent || "");
+                if (cellText) {
                     const cellId = `table_${tableIndex}_row_${actualRowIndex}_col_${colIndex}`;
                     makeCellInteractive(td, cellId, guideData);
                 }
@@ -670,6 +696,274 @@ if (sidebarExpandBtn && layoutEl) {
     });
 } else {
     console.warn("Expand button or layout element not found", { sidebarExpandBtn, layoutEl });
+}
+
+// Search functionality
+let searchTimeout = null;
+let allGuidesDataCache = new Map(); // Cache guide data for search
+
+/**
+ * Parse cell ID to extract table, row, and column indices.
+ * @param {string} cellId - Cell ID in format "table_X_row_Y_col_Z"
+ * @returns {Object|null} Object with table, row, col indices or null
+ */
+function parseCellId(cellId) {
+    const match = cellId.match(/table_(\d+)_row_(\d+)_col_(\d+)/);
+    if (!match) return null;
+    return {
+        table: parseInt(match[1], 10),
+        row: parseInt(match[2], 10),
+        col: parseInt(match[3], 10),
+    };
+}
+
+/**
+ * Search for drugs across all guides.
+ * @param {string} query - Search query
+ * @returns {Promise<Array>} Array of search results
+ */
+async function searchDrugs(query) {
+    if (!query || query.trim().length < 2) {
+        return [];
+    }
+    
+    const searchTerm = query.trim().toLowerCase();
+    const results = [];
+    
+    // Load all guide data if not cached
+    for (const guide of state.guides) {
+        if (!guide.dataFile) continue;
+        
+        let guideData = allGuidesDataCache.get(guide.slug);
+        if (!guideData) {
+            try {
+                const dataUrl = new URL(guide.dataFile, dataBaseUrl);
+                const response = await fetch(dataUrl, { cache: "no-store" });
+                if (response.ok) {
+                    guideData = await response.json();
+                    allGuidesDataCache.set(guide.slug, guideData);
+                } else {
+                    continue;
+                }
+            } catch (error) {
+                console.warn(`Could not load guide data for search: ${guide.slug}`, error);
+                continue;
+            }
+        }
+        
+        // Search in cellData
+        const cellData = guideData.cellData || {};
+        for (const [cellId, cellInfo] of Object.entries(cellData)) {
+            const content = cellInfo?.content || "";
+            const normalizedContent = content.toLowerCase();
+            
+            // Check if search term matches content
+            if (normalizedContent.includes(searchTerm)) {
+                const cellLocation = parseCellId(cellId);
+                if (cellLocation) {
+                    results.push({
+                        guide: guide,
+                        cellId: cellId,
+                        content: content,
+                        summary: (cellInfo.summary && cellInfo.summary !== "no data") ? cellInfo.summary : "",
+                        location: cellLocation,
+                    });
+                }
+            }
+        }
+    }
+    
+    // Sort results: exact matches first, then by guide name, then by content
+    results.sort((a, b) => {
+        const aExact = a.content.toLowerCase() === searchTerm;
+        const bExact = b.content.toLowerCase() === searchTerm;
+        if (aExact && !bExact) return -1;
+        if (!aExact && bExact) return 1;
+        
+        const guideCompare = a.guide.title.localeCompare(b.guide.title);
+        if (guideCompare !== 0) return guideCompare;
+        
+        return a.content.localeCompare(b.content);
+    });
+    
+    return results;
+}
+
+/**
+ * Display search results.
+ * @param {Array} results - Array of search results
+ */
+function displaySearchResults(results) {
+    if (results.length === 0) {
+        searchResultsEl.innerHTML = '<div class="search-results-empty">No drugs found matching your search.</div>';
+        searchResultsEl.classList.remove("hidden");
+        return;
+    }
+    
+    // Group results by drug name (content)
+    const groupedResults = new Map();
+    for (const result of results) {
+        const key = result.content.toLowerCase();
+        if (!groupedResults.has(key)) {
+            groupedResults.set(key, []);
+        }
+        groupedResults.get(key).push(result);
+    }
+    
+    let html = '<div class="search-results-header">';
+    html += `<h3>Found ${results.length} result(s) for "${drugSearchEl.value}"</h3>`;
+    html += '</div>';
+    html += '<div class="search-results-list">';
+    
+    for (const [drugName, drugResults] of groupedResults.entries()) {
+        const firstResult = drugResults[0];
+        const summary = firstResult.summary || "No summary available.";
+        
+        html += '<div class="search-result-card">';
+        html += `<h4 class="search-result-drug-name">${firstResult.content}</h4>`;
+        html += `<div class="search-result-summary">${summary}</div>`;
+        html += '<div class="search-result-locations">';
+        html += '<strong>Found in:</strong>';
+        html += '<ul class="search-result-locations-list">';
+        
+        for (const result of drugResults) {
+            html += '<li class="search-result-location-item">';
+            html += `<button type="button" class="search-result-link" data-guide-slug="${result.guide.slug}" data-cell-id="${result.cellId}">`;
+            html += `${result.guide.title} `;
+            html += `<span class="search-result-location">(Table ${result.location.table}, Row ${result.location.row}, Col ${result.location.col})</span>`;
+            html += '</button>';
+            html += '</li>';
+        }
+        
+        html += '</ul>';
+        html += '</div>';
+        html += '</div>';
+    }
+    
+    html += '</div>';
+    searchResultsEl.innerHTML = html;
+    searchResultsEl.classList.remove("hidden");
+    
+    // Add click handlers for navigation
+    searchResultsEl.querySelectorAll(".search-result-link").forEach((button) => {
+        button.addEventListener("click", async (e) => {
+            const guideSlug = button.dataset.guideSlug;
+            const cellId = button.dataset.cellId;
+            await navigateToCell(guideSlug, cellId);
+        });
+    });
+}
+
+/**
+ * Navigate to a specific cell in a guide.
+ * @param {string} guideSlug - Guide slug
+ * @param {string} cellId - Cell ID
+ */
+async function navigateToCell(guideSlug, cellId) {
+    // Find the guide
+    const guide = state.guides.find((g) => g.slug === guideSlug);
+    if (!guide) {
+        console.error(`Guide not found: ${guideSlug}`);
+        return;
+    }
+    
+    // Close search results to get out of the way
+    searchResultsEl.classList.add("hidden");
+    
+    // Load the guide
+    await loadGuideContent(guide);
+    
+    // Wait for DOM to update and find the cell (retry with increasing delays)
+    const findAndNavigateToCell = (attempt = 0) => {
+        const maxAttempts = 10;
+        const delay = Math.min(100 * (attempt + 1), 500); // 100ms, 200ms, 300ms, etc., max 500ms
+        
+        setTimeout(() => {
+            // Search in the guide table container first, then fallback to entire document
+            const container = tableContainerEl || document;
+            const cellElement = container.querySelector(`[data-cell-id="${cellId}"]`);
+            if (cellElement) {
+                // Scroll to cell
+                cellElement.scrollIntoView({ behavior: "smooth", block: "center" });
+                
+                // Small additional delay to ensure scroll completes
+                setTimeout(() => {
+                    // Highlight the cell temporarily
+                    cellElement.classList.add("search-highlight");
+                    setTimeout(() => {
+                        cellElement.classList.remove("search-highlight");
+                    }, 2000);
+                    
+                    // Open popup for the cell
+                    openPopup(cellId, cellElement);
+                }, 300);
+            } else if (attempt < maxAttempts) {
+                // Retry if cell not found yet
+                findAndNavigateToCell(attempt + 1);
+            } else {
+                console.warn(`Cell not found after ${maxAttempts} attempts: ${cellId}`);
+                // Try to find by content as fallback
+                const location = parseCellId(cellId);
+                if (location) {
+                    console.log(`Attempting to find cell at Table ${location.table}, Row ${location.row}, Col ${location.col}`);
+                }
+            }
+        }, delay);
+    };
+    
+    // Start looking for the cell
+    findAndNavigateToCell();
+}
+
+/**
+ * Handle search input.
+ */
+function handleSearch() {
+    const query = drugSearchEl.value.trim();
+    
+    // Show/hide clear button
+    if (query.length > 0) {
+        searchClearEl.classList.remove("hidden");
+    } else {
+        searchClearEl.classList.add("hidden");
+        searchResultsEl.classList.add("hidden");
+        searchResultsEl.innerHTML = "";
+        return;
+    }
+    
+    // Debounce search
+    if (searchTimeout) {
+        clearTimeout(searchTimeout);
+    }
+    
+    searchTimeout = setTimeout(async () => {
+        const results = await searchDrugs(query);
+        displaySearchResults(results);
+    }, 300);
+}
+
+/**
+ * Clear search.
+ */
+function clearSearch() {
+    drugSearchEl.value = "";
+    searchClearEl.classList.add("hidden");
+    searchResultsEl.classList.add("hidden");
+    searchResultsEl.innerHTML = "";
+}
+
+// Set up search event listeners
+if (drugSearchEl) {
+    drugSearchEl.addEventListener("input", handleSearch);
+    drugSearchEl.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") {
+            clearSearch();
+        }
+    });
+}
+
+if (searchClearEl) {
+    searchClearEl.addEventListener("click", clearSearch);
 }
 
 loadGuideIndex();

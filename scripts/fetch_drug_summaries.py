@@ -79,13 +79,36 @@ def is_likely_drug_name(text: str) -> bool:
     return True
 
 
+def normalize_content_for_storage(content: str) -> str:
+    """Normalize content exactly as convert_guides.py does for storage in cellData.
+    
+    This matches the normalization used in generate_cell_data():
+    - Remove HTML tags
+    - Strip whitespace
+    - Handle &nbsp; as empty
+    """
+    if not content:
+        return ""
+    # Remove HTML tags (same regex as convert_guides.py)
+    normalized = re.sub(r"<[^>]+>", "", content)
+    # Strip whitespace
+    normalized = normalized.strip()
+    # Handle &nbsp; as empty
+    if normalized == "&nbsp;":
+        return ""
+    return normalized
+
+
 def normalize_drug_name(name: str) -> str:
     """Normalize drug name for Wikipedia lookup."""
-    # Remove brand names in parentheses
+    # First normalize as stored in cellData
+    name = normalize_content_for_storage(name)
+    if not name:
+        return ""
+    
+    # Remove brand names in parentheses (for Wikipedia lookup only)
     name = re.sub(r"\s*\([^)]+\)", "", name)
-    # Remove HTML tags
-    name = re.sub(r"<[^>]+>", "", name)
-    # Strip whitespace
+    # Strip whitespace again after removing parentheses
     name = name.strip()
     
     # Always convert to title case for Wikipedia (article titles use title case)
@@ -214,8 +237,14 @@ def process_guide_file(guide_path: Path, force: bool = False, delay: float = 1.0
     # Process each cell
     try:
         for cell_id, cell_info in cell_data.items():
-            content = cell_info.get("content", "").strip()
+            # Get content and normalize it exactly as stored (matching convert_guides.py)
+            raw_content = cell_info.get("content", "")
+            content = normalize_content_for_storage(raw_content)
             existing_summary = cell_info.get("summary", "").strip()
+            
+            # Verify cell ID format matches expected pattern
+            if not re.match(r"table_\d+_row_\d+_col_\d+", cell_id):
+                print(f"  Warning: Unexpected cell ID format: {cell_id}", file=sys.stderr)
             
             # Skip if summary already exists and not forcing
             # Also skip if it's marked as "no data" (we already tried and failed)
@@ -247,23 +276,30 @@ def process_guide_file(guide_path: Path, force: bool = False, delay: float = 1.0
                     print(f"  Skipping (already tried): {normalized_display}")
                 continue
             
-            # Normalize content for display and lookup
+            # Normalize content for display and lookup (for Wikipedia)
             normalized_content = normalize_drug_name(content)
-            print(f"  Fetching summary for: {normalized_content}")
+            print(f"  Fetching summary for: {normalized_content} (cell: {cell_id}, content: '{content[:50]}...')")
             summary = fetch_wikipedia_summary(content, delay)
             
             # Cache the result (even if None) to avoid re-searching duplicates
+            # Use normalized content as key for cache
             content_cache[content] = summary
             
             if summary:
                 cell_info["summary"] = summary
                 cell_info["lastUpdated"] = time.strftime("%Y-%m-%dT%H:%M:%S%z")
+                # Ensure content is normalized and stored correctly
+                if cell_info.get("content") != content:
+                    cell_info["content"] = content
                 updated_count += 1
                 print(f"    ✓ Found summary ({len(summary)} chars)")
             else:
                 # Store "no data" so we don't search again on next run
                 cell_info["summary"] = "no data"
                 cell_info["lastUpdated"] = time.strftime("%Y-%m-%dT%H:%M:%S%z")
+                # Ensure content is normalized and stored correctly
+                if cell_info.get("content") != content:
+                    cell_info["content"] = content
                 updated_count += 1  # Count as updated so it gets saved
                 error_count += 1
                 print(f"    ✗ No summary found (stored 'no data')")
