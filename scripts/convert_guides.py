@@ -133,6 +133,63 @@ def convert_table(table) -> dict:
     }
 
 
+def extract_full_width_headers(document: Document) -> List[dict]:
+    """Extract headers that span the entire table width (full-width merged cells).
+    
+    Returns a list of tag info dictionaries with:
+    - tag: normalized header text
+    - tableIndex: 1-based table index
+    - row: row index (0 for headers)
+    - col: column index
+    - cellId: cell ID for navigation
+    """
+    tags = []
+    seen_tags = set()  # Track unique tags to avoid duplicates
+    
+    for table_idx, table in enumerate(document.tables, start=1):
+        if not table.rows:
+            continue
+        
+        # Get max columns in this table
+        max_columns = max(len(row.cells) for row in table.rows) if table.rows else 0
+        if max_columns == 0:
+            continue
+        
+        # Check first row (header row) for full-width cells
+        first_row = table.rows[0]
+        rendered_cells = set()
+        
+        for col_idx, cell in enumerate(first_row.cells):
+            cell_id = id(cell._tc)
+            if cell_id in rendered_cells:
+                continue
+            rendered_cells.add(cell_id)
+            
+            colspan = get_colspan(cell)
+            
+            # Check if this cell spans the entire table width
+            if colspan == max_columns:
+                cell_text = extract_text(cell)
+                # Normalize: remove HTML tags, strip whitespace
+                normalized = re.sub(r"<[^>]+>", "", cell_text).strip()
+                
+                if normalized and normalized != "&nbsp;":
+                    # Use normalized text as tag key to avoid duplicates
+                    tag_key = normalized.lower()
+                    if tag_key not in seen_tags:
+                        seen_tags.add(tag_key)
+                        cell_id_str = f"table_{table_idx}_row_0_col_{col_idx}"
+                        tags.append({
+                            "tag": normalized,
+                            "tableIndex": table_idx,
+                            "row": 0,
+                            "col": col_idx,
+                            "cellId": cell_id_str,
+                        })
+    
+    return tags
+
+
 def generate_cell_data(tables: List[dict]) -> dict:
     """Generate cellData structure for all non-empty cells in tables.
     
@@ -174,6 +231,19 @@ def generate_cell_data(tables: List[dict]) -> dict:
 def convert_document(meta: GuideMetadata, document: Document) -> dict:
     tables = [convert_table(table) for table in document.tables if table.rows]
     meta.table_count = len(tables)
+
+    # Extract tags from full-width headers
+    tag_locations = extract_full_width_headers(document)
+    # Extract unique tag names (combine with existing course tags)
+    auto_tags = [tag_info["tag"] for tag_info in tag_locations]
+    # Merge with existing course tags, preserving order and avoiding duplicates
+    all_tags = list(meta.tags)
+    seen_tag_lower = {tag.lower() for tag in all_tags}
+    for tag in auto_tags:
+        if tag.lower() not in seen_tag_lower:
+            all_tags.append(tag)
+            seen_tag_lower.add(tag.lower())
+    meta.tags = all_tags
 
     # Preserve existing cellData if JSON file already exists
     existing_cell_data = {}
@@ -230,6 +300,7 @@ def convert_document(meta: GuideMetadata, document: Document) -> dict:
             "course": meta.course.name,
             "courseSlug": meta.course.slug,
             "tags": meta.tags,
+            "tagLocations": tag_locations,
             "tables": [],
             "cellData": merged_cell_data,
         }
@@ -239,6 +310,7 @@ def convert_document(meta: GuideMetadata, document: Document) -> dict:
         "course": meta.course.name,
         "courseSlug": meta.course.slug,
         "tags": meta.tags,
+        "tagLocations": tag_locations,
         "tables": tables,
         "cellData": merged_cell_data,
     }

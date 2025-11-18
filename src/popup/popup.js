@@ -141,7 +141,7 @@ export function openPopup(cellId, cellElement) {
             if (data.content) {
                 const normalizedData = normalizeContentForStorage(data.content);
                 if (normalizedData === actualContent) {
-                    matchingCellData = data;
+                matchingCellData = data;
                     matchingId = id;
                     break;
                 }
@@ -157,7 +157,7 @@ export function openPopup(cellId, cellElement) {
                         matchingCellData = data;
                         matchingId = id;
                         console.log(`Case-insensitive content match: ${cellId} -> ${id} for "${actualContent.substring(0, 30)}"`);
-                        break;
+                break;
                     }
                 }
             }

@@ -11,7 +11,24 @@
     "DIURETICS",
     "OBSTRUCTIVE LUNG DISEASE DRUGS (ASTHMA/COPD)",
     "PRIMARY CARE DRUGS",
-    "PULMONARY ARTERIAL HYPERTENSION (PAH)"
+    "PULMONARY ARTERIAL HYPERTENSION (PAH)",
+    "RENAL SYSTEM"
+  ],
+  "tagLocations": [
+    {
+      "tag": "RENAL SYSTEM",
+      "tableIndex": 1,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_1_row_0_col_0"
+    },
+    {
+      "tag": "DIURETICS",
+      "tableIndex": 2,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_2_row_0_col_0"
+    }
   ],
   "tables": [
     {
@@ -105,147 +122,183 @@
   "cellData": {
     "table_1_row_0_col_0": {
       "content": "RENAL SYSTEM",
-      "summary": ""
+      "summary": "In humans, the kidneys are two reddish-brown bean-shaped blood-filtering organs that are a multilobar, multipapillary form of mammalian kidneys, usually without signs of external lobulation. They are located on the left and right in the retroperitoneal space, and in adult humans are about 12 centimetres in length. They receive blood from the paired renal arteries; blood exits into the paired renal veins. Each kidney is attached to a ureter, a tube that carries excreted urine to the bladder.",
+      "lastUpdated": "2025-11-18T10:19:16-0500"
     },
     "table_2_row_0_col_0": {
       "content": "DIURETICS",
-      "summary": ""
+      "summary": "A diuretic is any substance that promotes diuresis, the increased production of urine. This includes forced diuresis. A diuretic tablet is sometimes colloquially called a water tablet. There are several categories of diuretics. All diuretics increase the excretion of water from the body, through the kidneys. There exist several classes of diuretic, and each works in a distinct way. Alternatively, an antidiuretic, such as vasopressin, is an agent or drug which reduces the excretion of water in ur...",
+      "lastUpdated": "2025-11-18T10:19:17-0500"
     },
     "table_2_row_0_col_1": {
       "content": "DIURETICS",
-      "summary": ""
+      "summary": "A diuretic is any substance that promotes diuresis, the increased production of urine. This includes forced diuresis. A diuretic tablet is sometimes colloquially called a water tablet. There are several categories of diuretics. All diuretics increase the excretion of water from the body, through the kidneys. There exist several classes of diuretic, and each works in a distinct way. Alternatively, an antidiuretic, such as vasopressin, is an agent or drug which reduces the excretion of water in ur...",
+      "lastUpdated": "2025-11-18T10:19:17-0500"
     },
     "table_2_row_0_col_2": {
       "content": "DIURETICS",
-      "summary": ""
+      "summary": "A diuretic is any substance that promotes diuresis, the increased production of urine. This includes forced diuresis. A diuretic tablet is sometimes colloquially called a water tablet. There are several categories of diuretics. All diuretics increase the excretion of water from the body, through the kidneys. There exist several classes of diuretic, and each works in a distinct way. Alternatively, an antidiuretic, such as vasopressin, is an agent or drug which reduces the excretion of water in ur...",
+      "lastUpdated": "2025-11-18T10:19:17-0500"
     },
     "table_2_row_0_col_3": {
       "content": "DIURETICS",
-      "summary": ""
+      "summary": "A diuretic is any substance that promotes diuresis, the increased production of urine. This includes forced diuresis. A diuretic tablet is sometimes colloquially called a water tablet. There are several categories of diuretics. All diuretics increase the excretion of water from the body, through the kidneys. There exist several classes of diuretic, and each works in a distinct way. Alternatively, an antidiuretic, such as vasopressin, is an agent or drug which reduces the excretion of water in ur...",
+      "lastUpdated": "2025-11-18T10:19:17-0500"
     },
     "table_2_row_0_col_4": {
       "content": "DIURETICS",
-      "summary": ""
+      "summary": "A diuretic is any substance that promotes diuresis, the increased production of urine. This includes forced diuresis. A diuretic tablet is sometimes colloquially called a water tablet. There are several categories of diuretics. All diuretics increase the excretion of water from the body, through the kidneys. There exist several classes of diuretic, and each works in a distinct way. Alternatively, an antidiuretic, such as vasopressin, is an agent or drug which reduces the excretion of water in ur...",
+      "lastUpdated": "2025-11-18T10:19:17-0500"
     },
     "table_2_row_1_col_0": {
       "content": "K+-WASTING",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:19:22-0500"
     },
     "table_2_row_1_col_1": {
       "content": "K+-WASTING",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:19:22-0500"
     },
     "table_2_row_1_col_2": {
       "content": "K+-SPARING",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:19:34-0500"
     },
     "table_2_row_2_col_0": {
       "content": "LOOP",
-      "summary": ""
+      "summary": "Loop or LOOP may refer to:",
+      "lastUpdated": "2025-11-18T10:19:35-0500"
     },
     "table_2_row_2_col_1": {
       "content": "THIAZIDE",
-      "summary": ""
+      "summary": "Thiazide refers to both a class of sulfur-containing organic molecules and a class of diuretics based on the chemical structure of benzothiadiazine. The thiazide drug class was discovered and developed at Merck and Co. in the 1950s. The first approved drug of this class, chlorothiazide, was marketed under the trade name Diuril beginning in 1958. In most countries, thiazides are the least expensive antihypertensive drugs available.",
+      "lastUpdated": "2025-11-18T10:19:37-0500"
     },
     "table_2_row_2_col_4": {
       "content": "OSMOTIC",
-      "summary": ""
+      "summary": "Osmosis is the spontaneous net movement of solvent molecules through a selectively-permeable membrane from a region of high water potential to a region of low water potential, in the direction that tends to equalize the solute concentrations on the two sides. It may also be used to describe a physical process in which any solvent moves across a selectively permeable membrane separating two solutions of different concentrations. Osmosis can be made to do work. Osmotic pressure is defined as the e...",
+      "lastUpdated": "2025-11-18T10:19:38-0500"
     },
     "table_2_row_3_col_0": {
       "content": "Na+/K+/2Cl- SYMPORTER INHIBITORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:19:41-0500"
     },
     "table_2_row_3_col_1": {
       "content": "Na+/Cl- SYMPORTER INHIBITORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:19:43-0500"
     },
     "table_2_row_3_col_2": {
       "content": "Na+/K+ ANTIPORTER& ENaC INHIBITORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:19:52-0500"
     },
     "table_2_row_3_col_3": {
       "content": "CARBONIC ANHYDRASE INHIBITORS",
-      "summary": ""
+      "summary": "Carbonic anhydrase inhibitors are a class of pharmaceuticals that suppress the activity of carbonic anhydrase. Their clinical use has been established as anti-glaucoma agents, diuretics, antiepileptics, in the management of mountain sickness, gastric and duodenal ulcers, idiopathic intracranial hypertension, neurological disorders, or osteoporosis.",
+      "lastUpdated": "2025-11-18T10:19:58-0500"
     },
     "table_2_row_4_col_0": {
       "content": "Bumetanide",
-      "summary": ""
+      "summary": "Bumetanide, sold under the brand name Bumex among others, is a medication used to treat swelling and high blood pressure. This includes swelling as a result of heart failure, liver failure, or kidney problems. It may work for swelling when other medications have not. For high blood pressure it is not a preferred treatment. It is taken by mouth, or by injection into a vein or muscle. Effects generally begin within an hour and last for about six hours.",
+      "lastUpdated": "2025-11-18T10:19:59-0500"
     },
     "table_2_row_4_col_1": {
       "content": "Chlorthalidone",
-      "summary": ""
+      "summary": "Chlortalidone, also known as chlorthalidone, is a thiazide-like diuretic drug used to treat high blood pressure, swelling, diabetes insipidus, and renal tubular acidosis. Because chlortalidone is effective in most patients with high blood pressure, it is considered a preferred initial treatment. It is also used to prevent calcium-based kidney stones. It is taken by mouth. Effects generally begin within three hours and last for up to three days. Long-term treatment with chlortalidone is more effe...",
+      "lastUpdated": "2025-11-18T10:20:00-0500"
     },
     "table_2_row_4_col_2": {
       "content": "ALDOSTERONE ANTAGS.",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:20:06-0500"
     },
     "table_2_row_4_col_3": {
       "content": "Acetazolamide",
-      "summary": ""
+      "summary": "Acetazolamide, sold under the trade name Diamox among others, is a medication used to treat glaucoma, epilepsy, acute mountain sickness, periodic paralysis, idiopathic intracranial hypertension, heart failure and to alkalinize urine. It may be used long term for the treatment of open angle glaucoma and short term for acute angle closure glaucoma until surgery can be carried out. It is taken by mouth or injection into a vein. Acetazolamide is a first generation carbonic anhydrase inhibitor and it...",
+      "lastUpdated": "2025-11-18T10:20:07-0500"
     },
     "table_2_row_4_col_4": {
       "content": "Mannitol",
-      "summary": ""
+      "summary": "Mannitol is a type of sugar alcohol used as a sweetener and medication. It is used as a low calorie sweetener as it is poorly absorbed by the intestines. As a medication, it is used to decrease pressure in the eyes, as in glaucoma, and to lower increased intracranial pressure. Medically, it is given by injection or inhalation. Effects typically begin within 15 minutes and last up to 8 hours.",
+      "lastUpdated": "2025-11-18T10:20:09-0500"
     },
     "table_2_row_5_col_0": {
       "content": "Ethacrynic acid",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:20:16-0500"
     },
     "table_2_row_5_col_1": {
       "content": "Hydrochlorothiazide",
-      "summary": ""
+      "summary": "Hydrochlorothiazide, sold under the brand name Hydrodiuril among others, is a diuretic medication used to treat hypertension and swelling due to fluid build-up. Other uses include treating diabetes insipidus and renal tubular acidosis and to decrease the risk of kidney stones in hypercalciuria. Hydrochlorothiazide is taken by mouth and may be combined with other blood pressure medications as a single pill to increase effectiveness. Hydrochlorothiazide is a thiazide medication which inhibits reab...",
+      "lastUpdated": "2025-11-18T10:20:17-0500"
     },
     "table_2_row_5_col_2": {
       "content": "Eplerenone",
-      "summary": ""
+      "summary": "Eplerenone, marketed under brand name Inspa or Espler, is an aldosterone antagonist used primarily in the treatment of heart failure with reduced ejection fraction (HFrEF), particularly following myocardial infarction. It may also be considered as an add-on therapy in resistant hypertension; however, the majority of evidence in this setting supports the use of spironolactone, with fewer studies directly evaluating eplerenone.",
+      "lastUpdated": "2025-11-18T10:20:19-0500"
     },
     "table_2_row_5_col_3": {
       "content": "Brinzolamide",
-      "summary": ""
+      "summary": "Brinzolamide is a carbonic anhydrase inhibitor used to lower intraocular pressure in patients with open-angle glaucoma or ocular hypertension.",
+      "lastUpdated": "2025-11-18T10:20:20-0500"
     },
     "table_2_row_5_col_4": {
       "content": "Urea",
-      "summary": ""
+      "summary": "Urea, also called carbamide, is an organic compound with chemical formula CO(NH2)2. This amide has two amino groups joined by a carbonyl functional group. It is thus the simplest amide of carbamic acid.",
+      "lastUpdated": "2025-11-18T10:20:22-0500"
     },
     "table_2_row_6_col_0": {
       "content": "Furosemide",
-      "summary": ""
+      "summary": "Furosemide, sold under the brand name Lasix among others, is a loop diuretic medication used to treat edema due to heart failure, liver scarring, or kidney disease. Furosemide may also be used for the treatment of high blood pressure. It can be taken intravenously or orally. When given intravenously, furosemide typically takes effect within five minutes; when taken orally, it typically metabolizes within an hour.",
+      "lastUpdated": "2025-11-18T10:20:23-0500"
     },
     "table_2_row_6_col_1": {
       "content": "Indapamide",
-      "summary": ""
+      "summary": "Indapamide is a thiazide-like diuretic drug used in the treatment of hypertension, as well as decompensated heart failure. Combination preparations with perindopril are available. The thiazide-like diuretics reduce risk of major cardiovascular events and heart failure in hypertensive patients compared with hydrochlorothiazide with a comparable incidence of adverse events. Both thiazide diuretics and thiazide-like diuretics are effective in reducing risk of stroke. Both drug classes appear to hav...",
+      "lastUpdated": "2025-11-18T10:20:25-0500"
     },
     "table_2_row_6_col_2": {
       "content": "Spironolactone",
-      "summary": ""
+      "summary": "Spironolactone, sold under the brand name Aldactone among others, is classed as a diuretic medication. It can be used to treat fluid build-up due to liver disease or kidney disease. It is also used to reduce risk of disease progression, hospitalization, and death due to some types of heart failure. Other uses include acne and excessive hair growth in women, low blood potassium that does not improve with supplementation, high blood pressure that is difficult to treat, and early puberty in boys. I...",
+      "lastUpdated": "2025-11-18T10:20:26-0500"
     },
     "table_2_row_6_col_3": {
       "content": "Dorzolamide",
-      "summary": ""
+      "summary": "Dorzolamide, sold under the brand name Trusopt among others, is a medication used to treat high pressure inside the eye, including in cases of glaucoma. It is used as an eye drop. Effects begin within three hours and last for at least eight hours. It is also available as the combination dorzolamide/timolol.",
+      "lastUpdated": "2025-11-18T10:20:28-0500"
     },
     "table_2_row_7_col_0": {
       "content": "Torsemide",
-      "summary": ""
+      "summary": "Torasemide, also known as torsemide, is a diuretic medication used to treat fluid overload due to heart failure, kidney disease, and liver disease. It is a less preferred treatment for high blood pressure. It is taken by mouth or by injection into a vein.",
+      "lastUpdated": "2025-11-18T10:20:29-0500"
     },
     "table_2_row_7_col_1": {
       "content": "Metolazone",
-      "summary": ""
+      "summary": "Metolazone is a thiazide-like diuretic marketed under the brand names Zytanix, Metoz, Zaroxolyn, and Mykrox. It is primarily used to treat congestive heart failure and high blood pressure. Metolazone indirectly decreases the amount of water reabsorbed into the bloodstream by the kidney, so that blood volume decreases and urine volume increases. This lowers blood pressure and prevents excess fluid accumulation in heart failure. Metolazone is sometimes used together with loop diuretics such as fur...",
+      "lastUpdated": "2025-11-18T10:20:30-0500"
     },
     "table_2_row_7_col_3": {
       "content": "Methazolamide",
-      "summary": ""
+      "summary": "Methazolamide is a potent carbonic anhydrase inhibitor. It is indicated in the treatment of increased intraocular pressure (IOP) in chronic open-angle glaucoma and secondary glaucoma. Also it is used preoperatively in acute angle-closure (narrow-angle) glaucoma where lowering the IOP is desired before surgery.",
+      "lastUpdated": "2025-11-18T10:20:32-0500"
     },
     "table_2_row_8_col_2": {
       "content": "ENaC INHIBITORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:21:06-0500"
     },
     "table_2_row_9_col_2": {
       "content": "Amiloride",
-      "summary": ""
+      "summary": "Amiloride, sold under the trade name Midamor among others, is a medication typically used with other medications to treat high blood pressure or swelling due to heart failure or cirrhosis of the liver. Amiloride is classified as a potassium-sparing diuretic. Amiloride is often used together with another diuretic, such as a thiazide or loop diuretic. It is taken by mouth. Onset of action is about two hours and it lasts for about a day.",
+      "lastUpdated": "2025-11-18T10:21:07-0500"
     },
     "table_2_row_10_col_2": {
       "content": "Triamterene",
-      "summary": ""
+      "summary": "Triamterene is a potassium-sparing diuretic often used in combination with thiazide diuretics for the treatment of high blood pressure or swelling. The combination with hydrochlorothiazide, is known as hydrochlorothiazide/triamterene.",
+      "lastUpdated": "2025-11-18T10:21:08-0500"
     }
   }
 }

@@ -91,7 +91,13 @@ function renderTagsMarkup(tags) {
     return tags
         .slice()
         .sort((a, b) => a.localeCompare(b, undefined, { sensitivity: "base" }))
-        .map((tag) => `<span class="meta-tag">${tag}</span>`)
+        .map((tag) => {
+            // Convert to title case for display
+            const titleCaseTag = tag.split(' ').map(word => 
+                word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+            ).join(' ');
+            return `<span class="meta-tag">${titleCaseTag}</span>`;
+        })
         .join("");
 }
 
@@ -213,14 +219,25 @@ function renderTagFilters() {
 
     sortedTags.forEach(([tag, guides]) => {
         const button = document.createElement("button");
-        button.textContent = tag;
-        button.dataset.filterKey = tag;
+        // Convert to title case for display
+        const titleCaseTag = tag.split(' ').map(word => 
+            word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+        ).join(' ');
+        button.textContent = titleCaseTag;
+        button.dataset.filterKey = tag; // Keep original tag for matching
         button.dataset.filterType = "tag";
-        button.addEventListener("click", () => {
-            state.activeTag = tag;
+        button.addEventListener("click", async () => {
+            state.activeTag = tag; // Use original tag for matching
             state.activeCourse = null;
             highlightActiveFilters();
-            renderGuideList(guides);
+            
+            // If only one guide has this tag, navigate directly to it
+            if (guides.length === 1) {
+                await navigateToTagInGuide(guides[0], tag);
+            } else {
+                // Show list of guides with this tag
+                renderGuideList(guides);
+            }
             collapseFiltersOnMobile();
         });
         tagListEl.appendChild(button);
@@ -254,6 +271,11 @@ async function renderGuideList(guides) {
         const guide = guidesToRender[0];
         guideHeaderEl.innerHTML = `<h2>${guide.title ?? "Untitled Guide"}</h2>`;
         await loadGuideContent(guide);
+        
+        // If a tag is active, navigate to it
+        if (state.activeTag) {
+            await navigateToTagInGuide(guide, state.activeTag);
+        }
         return;
     }
 
@@ -266,7 +288,13 @@ async function renderGuideList(guides) {
         const li = document.createElement("li");
         const button = document.createElement("button");
         button.textContent = guide.title ?? "Untitled Guide";
-        button.addEventListener("click", () => loadGuideContent(guide));
+        button.addEventListener("click", async () => {
+            await loadGuideContent(guide);
+            // If a tag is active, navigate to it
+            if (state.activeTag) {
+                await navigateToTagInGuide(guide, state.activeTag);
+            }
+        });
         li.appendChild(button);
         list.appendChild(li);
     });
@@ -852,6 +880,45 @@ function displaySearchResults(results) {
             await navigateToCell(guideSlug, cellId);
         });
     });
+}
+
+/**
+ * Navigate to a tag location in a guide.
+ * @param {Object} guide - Guide object
+ * @param {string} tag - Tag name
+ */
+async function navigateToTagInGuide(guide, tag) {
+    if (!guide.dataFile) {
+        console.warn("Guide has no dataFile, cannot navigate to tag");
+        return;
+    }
+    
+    try {
+        // Load guide data to get tagLocations
+        const dataUrl = new URL(guide.dataFile, dataBaseUrl);
+        const response = await fetch(dataUrl, { cache: "no-store" });
+        if (!response.ok) {
+            console.warn(`Could not load guide data: ${guide.slug}`);
+            return;
+        }
+        
+        const guideData = await response.json();
+        const tagLocations = guideData.tagLocations || [];
+        
+        // Find the tag location (case-insensitive match)
+        const tagLocation = tagLocations.find(
+            (loc) => loc.tag.toLowerCase() === tag.toLowerCase()
+        );
+        
+        if (tagLocation && tagLocation.cellId) {
+            // Navigate to the cell
+            await navigateToCell(guide.slug, tagLocation.cellId);
+        } else {
+            console.warn(`Tag location not found for tag: ${tag} in guide: ${guide.slug}`);
+        }
+    } catch (error) {
+        console.error(`Error navigating to tag: ${error}`);
+    }
 }
 
 /**

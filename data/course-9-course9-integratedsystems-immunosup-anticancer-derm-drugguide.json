@@ -8,7 +8,212 @@
     "Dermatologic Pharmacology",
     "Immunosuppressants",
     "Targeted Inhibitors (\"-IB\")",
-    "Traditional Chemotherapeutics"
+    "Traditional Chemotherapeutics",
+    "INHIBITORS OF INFLAMMATORY CYTOKINE PRODUCTION",
+    "INHIBITORS OF INFLAMMATORY CYTOKINE ACTIVITY",
+    "INHIBITORS OF T-CELL PROLIFERATION/ACTIVATION",
+    "INHIBITORS OF LEUKOCYTE EXTRAVASATION (a4b7 INTEGRIN)",
+    "RECEPTOR TYROSINE KINASE INHIBITORS",
+    "NON-RECEPTOR TYROSINE KINASE INHIBITORS",
+    "NON-RECEPTOR SERINE/THREONINE KINASE INHIBITORS",
+    "NON-PROTEIN KINASE INHIBITORS",
+    "BIOLOGICS  (MONOCLONAL ANTIBODIES “-mab”)",
+    "TUMOR CELL SURFACE RECEPTOR TARGETS",
+    "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)",
+    "GROWTH FACTOR TARGET (VEGF)",
+    "IMMUNOTHERAPY TARGETS",
+    "SCABIES & LICE",
+    "ACUTE INFLAMMATORY SKIN DISORDERS",
+    "CHRONIC INFLAMMATORY SKIN DISORDERS",
+    "ATOPIC DERMATITIS (ECZEMA)",
+    "SEBORRHEIC DERMATITIS (Dandruff)",
+    "PSORIASIS",
+    "LICHEN PLANUS",
+    "FOLLICULAR DISORDERS"
+  ],
+  "tagLocations": [
+    {
+      "tag": "IMMUNOSUPPRESSANTS",
+      "tableIndex": 1,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_1_row_0_col_0"
+    },
+    {
+      "tag": "INHIBITORS OF INFLAMMATORY CYTOKINE PRODUCTION",
+      "tableIndex": 2,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_2_row_0_col_0"
+    },
+    {
+      "tag": "INHIBITORS OF INFLAMMATORY CYTOKINE ACTIVITY",
+      "tableIndex": 3,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_3_row_0_col_0"
+    },
+    {
+      "tag": "INHIBITORS OF T-CELL PROLIFERATION/ACTIVATION",
+      "tableIndex": 4,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_4_row_0_col_0"
+    },
+    {
+      "tag": "INHIBITORS OF LEUKOCYTE EXTRAVASATION (a4b7 INTEGRIN)",
+      "tableIndex": 5,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_5_row_0_col_0"
+    },
+    {
+      "tag": "ANTI-NEOPLASTICS",
+      "tableIndex": 6,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_6_row_0_col_0"
+    },
+    {
+      "tag": "TRADITIONAL CHEMOTHERAPEUTICS",
+      "tableIndex": 7,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_7_row_0_col_0"
+    },
+    {
+      "tag": "TARGETED INHIBITORS (\"-ib\")",
+      "tableIndex": 9,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_9_row_0_col_0"
+    },
+    {
+      "tag": "RECEPTOR TYROSINE KINASE INHIBITORS",
+      "tableIndex": 10,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_10_row_0_col_0"
+    },
+    {
+      "tag": "NON-RECEPTOR TYROSINE KINASE INHIBITORS",
+      "tableIndex": 11,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_11_row_0_col_0"
+    },
+    {
+      "tag": "NON-RECEPTOR SERINE/THREONINE KINASE INHIBITORS",
+      "tableIndex": 12,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_12_row_0_col_0"
+    },
+    {
+      "tag": "NON-PROTEIN KINASE INHIBITORS",
+      "tableIndex": 13,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_13_row_0_col_0"
+    },
+    {
+      "tag": "BIOLOGICS  (MONOCLONAL ANTIBODIES “-mab”)",
+      "tableIndex": 14,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_14_row_0_col_0"
+    },
+    {
+      "tag": "TUMOR CELL SURFACE RECEPTOR TARGETS",
+      "tableIndex": 15,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_15_row_0_col_0"
+    },
+    {
+      "tag": "TUMOR CELL SURFACE RECEPTOR TARGETS (Continued)",
+      "tableIndex": 16,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_16_row_0_col_0"
+    },
+    {
+      "tag": "GROWTH FACTOR TARGET (VEGF)",
+      "tableIndex": 17,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_17_row_0_col_0"
+    },
+    {
+      "tag": "IMMUNOTHERAPY TARGETS",
+      "tableIndex": 18,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_18_row_0_col_0"
+    },
+    {
+      "tag": "DERMATOLOGIC PHARMACOLOGY",
+      "tableIndex": 19,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_19_row_0_col_0"
+    },
+    {
+      "tag": "SCABIES & LICE",
+      "tableIndex": 20,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_20_row_0_col_0"
+    },
+    {
+      "tag": "ACUTE INFLAMMATORY SKIN DISORDERS",
+      "tableIndex": 21,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_21_row_0_col_0"
+    },
+    {
+      "tag": "CHRONIC INFLAMMATORY SKIN DISORDERS",
+      "tableIndex": 22,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_22_row_0_col_0"
+    },
+    {
+      "tag": "ATOPIC DERMATITIS (ECZEMA)",
+      "tableIndex": 23,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_23_row_0_col_0"
+    },
+    {
+      "tag": "SEBORRHEIC DERMATITIS (Dandruff)",
+      "tableIndex": 24,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_24_row_0_col_0"
+    },
+    {
+      "tag": "PSORIASIS",
+      "tableIndex": 25,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_25_row_0_col_0"
+    },
+    {
+      "tag": "LICHEN PLANUS",
+      "tableIndex": 26,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_26_row_0_col_0"
+    },
+    {
+      "tag": "FOLLICULAR DISORDERS",
+      "tableIndex": 27,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_27_row_0_col_0"
+    }
   ],
   "tables": [
     {

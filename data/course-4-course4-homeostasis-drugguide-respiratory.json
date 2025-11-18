@@ -11,7 +11,241 @@
     "DIURETICS",
     "OBSTRUCTIVE LUNG DISEASE DRUGS (ASTHMA/COPD)",
     "PRIMARY CARE DRUGS",
-    "PULMONARY ARTERIAL HYPERTENSION (PAH)"
+    "PULMONARY ARTERIAL HYPERTENSION (PAH)",
+    "RESPIRATORY SYSTEM",
+    "ANTI-INFLAMMATORIES",
+    "BRONCHODILATORS",
+    "BRONCHOCONSTRICTOR (For bronchial challenge test)",
+    "COUGH TREATMENTS",
+    "DECONGESTANTS",
+    "VASODILATORS",
+    "TREAT CAUSE",
+    "TREAT SYMPTOMS",
+    "mRNA SYNTHESIS INHIBITORS",
+    "CELL WALL SYNTHESIS INHIBITORS",
+    "PROTEIN SYNTHESIS INHIBITORS",
+    "CELL MEMBRANE DISRUPTORS",
+    "1st LINE (PROPHYLAXIS or LATENT INFECTION or DRUG-SENSITIVE ACTIVE INFECTION",
+    "2ND LINE (MDR-TB or XDR-TB)",
+    "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)",
+    "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+    "Pneumocystis jirovecii (Pneumonia)",
+    "GROUP IV VIRUSES",
+    "GROUP V VIRUSES",
+    "GROUP VI VIRUESES (HIV)",
+    "GROUP VII VIRUSES (HEPATITIS B)"
+  ],
+  "tagLocations": [
+    {
+      "tag": "RESPIRATORY SYSTEM",
+      "tableIndex": 1,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_1_row_0_col_0"
+    },
+    {
+      "tag": "OBSTRUCTIVE LUNG DISEASE DRUGS (ASTHMA/COPD)",
+      "tableIndex": 2,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_2_row_0_col_0"
+    },
+    {
+      "tag": "ANTI-INFLAMMATORIES",
+      "tableIndex": 3,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_3_row_0_col_0"
+    },
+    {
+      "tag": "BRONCHODILATORS",
+      "tableIndex": 4,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_4_row_0_col_0"
+    },
+    {
+      "tag": "BRONCHOCONSTRICTOR (For bronchial challenge test)",
+      "tableIndex": 5,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_5_row_0_col_0"
+    },
+    {
+      "tag": "PRIMARY CARE DRUGS",
+      "tableIndex": 6,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_6_row_0_col_0"
+    },
+    {
+      "tag": "COUGH TREATMENTS",
+      "tableIndex": 7,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_7_row_0_col_0"
+    },
+    {
+      "tag": "DECONGESTANTS",
+      "tableIndex": 8,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_8_row_0_col_0"
+    },
+    {
+      "tag": "PULMONARY ARTERIAL HYPERTENSION (PAH)",
+      "tableIndex": 9,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_9_row_0_col_0"
+    },
+    {
+      "tag": "VASODILATORS",
+      "tableIndex": 10,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_10_row_0_col_0"
+    },
+    {
+      "tag": "CYSTIC FIBROSIS",
+      "tableIndex": 11,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_11_row_0_col_0"
+    },
+    {
+      "tag": "TREAT CAUSE",
+      "tableIndex": 12,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_12_row_0_col_0"
+    },
+    {
+      "tag": "TREAT SYMPTOMS",
+      "tableIndex": 13,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_13_row_0_col_0"
+    },
+    {
+      "tag": "ANTIBACTERIALS",
+      "tableIndex": 14,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_14_row_0_col_0"
+    },
+    {
+      "tag": "mRNA SYNTHESIS INHIBITORS",
+      "tableIndex": 15,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_15_row_0_col_0"
+    },
+    {
+      "tag": "CELL WALL SYNTHESIS INHIBITORS",
+      "tableIndex": 16,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_16_row_0_col_0"
+    },
+    {
+      "tag": "PROTEIN SYNTHESIS INHIBITORS",
+      "tableIndex": 17,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_17_row_0_col_0"
+    },
+    {
+      "tag": "CELL MEMBRANE DISRUPTORS",
+      "tableIndex": 18,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_18_row_0_col_0"
+    },
+    {
+      "tag": "ANTI-TUBERCULOSIS (Mycobacterium tuberculosis)",
+      "tableIndex": 19,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_19_row_0_col_0"
+    },
+    {
+      "tag": "1st LINE (PROPHYLAXIS or LATENT INFECTION or DRUG-SENSITIVE ACTIVE INFECTION",
+      "tableIndex": 20,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_20_row_0_col_0"
+    },
+    {
+      "tag": "2ND LINE (MDR-TB or XDR-TB)",
+      "tableIndex": 21,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_21_row_0_col_0"
+    },
+    {
+      "tag": "ANTI-FUNGALS",
+      "tableIndex": 22,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_22_row_0_col_0"
+    },
+    {
+      "tag": "SUPERFICIAL FUNGAL INFECTIONS (TOPICAL APPLICATION)",
+      "tableIndex": 24,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_24_row_0_col_0"
+    },
+    {
+      "tag": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "tableIndex": 25,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_25_row_0_col_0"
+    },
+    {
+      "tag": "Pneumocystis jirovecii (Pneumonia)",
+      "tableIndex": 26,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_26_row_0_col_0"
+    },
+    {
+      "tag": "ANTI-VIRALS",
+      "tableIndex": 27,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_27_row_0_col_0"
+    },
+    {
+      "tag": "GROUP IV VIRUSES",
+      "tableIndex": 29,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_29_row_0_col_0"
+    },
+    {
+      "tag": "GROUP V VIRUSES",
+      "tableIndex": 30,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_30_row_0_col_0"
+    },
+    {
+      "tag": "GROUP VI VIRUESES (HIV)",
+      "tableIndex": 31,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_31_row_0_col_0"
+    },
+    {
+      "tag": "GROUP VII VIRUSES (HEPATITIS B)",
+      "tableIndex": 32,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_32_row_0_col_0"
+    }
   ],
   "tables": [
     {
@@ -1560,523 +1794,653 @@
   "cellData": {
     "table_1_row_0_col_0": {
       "content": "RESPIRATORY SYSTEM",
-      "summary": ""
+      "summary": "The respiratory system is a biological system consisting of specific organs and structures used for gas exchange in animals and plants.",
+      "lastUpdated": "2025-11-18T10:21:12-0500"
     },
     "table_2_row_0_col_0": {
       "content": "OBSTRUCTIVE LUNG DISEASE DRUGS (ASTHMA/COPD)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:21:23-0500"
     },
     "table_3_row_0_col_0": {
       "content": "ANTI-INFLAMMATORIES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:21:47-0500"
     },
     "table_3_row_0_col_1": {
       "content": "ANTI-INFLAMMATORIES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:21:47-0500"
     },
     "table_3_row_0_col_2": {
       "content": "ANTI-INFLAMMATORIES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:21:47-0500"
     },
     "table_3_row_0_col_3": {
       "content": "ANTI-INFLAMMATORIES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:21:47-0500"
     },
     "table_3_row_0_col_4": {
       "content": "ANTI-INFLAMMATORIES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:21:47-0500"
     },
     "table_3_row_1_col_0": {
       "content": "CORTICOSTEROIDS",
-      "summary": ""
+      "summary": "Corticosteroids are a class of steroid hormones that are produced in the adrenal cortex of vertebrates, as well as the synthetic analogues of these hormones. Two main classes of corticosteroids, glucocorticoids and mineralocorticoids, are involved in a wide range of physiological processes, including stress response, immune response, and regulation of inflammation, carbohydrate metabolism, protein catabolism, blood electrolyte levels, and behavior.",
+      "lastUpdated": "2025-11-18T10:21:48-0500"
     },
     "table_3_row_1_col_1": {
       "content": "LEUKOTRIENE INHIBS.",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:22:03-0500"
     },
     "table_3_row_1_col_2": {
       "content": "BIOLOGICS",
-      "summary": ""
+      "summary": "A biopharmaceutical, also known as a biological medical product, or biologic, is any pharmaceutical drug product manufactured in, extracted from, or semisynthesized from biological sources. Different from totally synthesized pharmaceuticals, they include vaccines, whole blood, blood components, allergenics, somatic cells, gene therapies, tissues, recombinant therapeutic protein, and living medicines used in cell therapy. Biopharmaceuticals can be composed of sugars, proteins, nucleic acids, or c...",
+      "lastUpdated": "2025-11-18T10:22:05-0500"
     },
     "table_3_row_1_col_3": {
       "content": "PDE4 INHIBITOR",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:22:09-0500"
     },
     "table_3_row_1_col_4": {
       "content": "MAST CELL STABILIZER",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:22:21-0500"
     },
     "table_3_row_2_col_0": {
       "content": "Beclomethasone",
-      "summary": ""
+      "summary": "Beclometasone or beclomethasone, sold under the brand name Vanceril among others, is a steroid medication. It is available as an inhaler, cream, pills, and nasal spray. The inhaled form is used in the long-term management of asthma. The cream may be used for dermatitis and psoriasis. The pills have been used to treat ulcerative colitis. The nasal spray is used to treat allergic rhinitis and nasal polyps.",
+      "lastUpdated": "2025-11-18T10:22:22-0500"
     },
     "table_3_row_2_col_1": {
       "content": "5-LIPOXYGENASE INH.",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:22:37-0500"
     },
     "table_3_row_2_col_2": {
       "content": "IgE",
-      "summary": ""
+      "summary": "IGE is Internet Gaming Entertainment, an MMORPG services company.",
+      "lastUpdated": "2025-11-18T10:22:40-0500"
     },
     "table_3_row_2_col_3": {
       "content": "Roflumilast",
-      "summary": ""
+      "summary": "Roflumilast, sold under the brand name Daxas among others, is a medication used for the treatment of chronic obstructive pulmonary disease, plaque psoriasis, seborrheic dermatitis, and atopic dermatitis. It acts as a selective, long-acting inhibitor of the enzyme phosphodiesterase-4 (PDE-4). It has anti-inflammatory effects.",
+      "lastUpdated": "2025-11-18T10:22:42-0500"
     },
     "table_3_row_2_col_4": {
       "content": "Cromolyn",
-      "summary": ""
+      "summary": "Cromoglicic acid (INN)—also referred to as cromolyn (USAN), cromoglycate, or cromoglicate—is traditionally described as a mast cell stabilizer, and is commonly marketed as the sodium salt sodium cromoglicate or cromolyn sodium. This drug prevents the release of inflammatory chemicals such as histamine from mast cells.",
+      "lastUpdated": "2025-11-18T10:22:43-0500"
     },
     "table_3_row_3_col_0": {
       "content": "Budesonide",
-      "summary": ""
+      "summary": "Budesonide, sold under the brand name Pulmicort, among others, is a steroid medication. It is available as an inhaler, nebulization solution, pill, nasal spray, and rectal foam. The inhaled form is used in the long-term management of asthma and chronic obstructive pulmonary disease (COPD). The nasal spray is used for allergic rhinitis and nasal polyps. Modified-release pills or capsules and rectal forms may be used for inflammatory bowel disease including Crohn's disease, ulcerative colitis, and...",
+      "lastUpdated": "2025-11-18T10:22:47-0500"
     },
     "table_3_row_3_col_1": {
       "content": "Zileuton",
-      "summary": ""
+      "summary": "Zileuton (trade name Zyflo) is an orally active inhibitor of 5-lipoxygenase, and thus inhibits leukotrienes (LTB4, LTC4, LTD4, and LTE4) formation, used for the maintenance treatment of asthma. Zileuton was introduced in 1996 by Abbott Laboratories and is now marketed in two formulations by Cornerstone Therapeutics Inc. under the brand names Zyflo and Zyflo CR. The original immediate-release formulation, Zyflo, is taken four times per day. The extended-release formulation, Zyflo CR, is taken twi...",
+      "lastUpdated": "2025-11-18T10:22:49-0500"
     },
     "table_3_row_3_col_2": {
       "content": "Omalizumab",
-      "summary": ""
+      "summary": "Omalizumab, sold under the brand name Xolair among others, is an injectable medication to treat severe persistent allergic forms of asthma, nasal polyps, urticaria (hives), and immunoglobulin E-mediated food allergy.",
+      "lastUpdated": "2025-11-18T10:22:50-0500"
     },
     "table_3_row_4_col_0": {
       "content": "Fluticasone",
-      "summary": ""
+      "summary": "Fluticasone is a manufactured glucocorticoid used to treat nasal congestion. Both the esters, fluticasone propionate and fluticasone furoate, are also used as topical anti-inflammatories and inhaled corticosteroids, and are used much more commonly in comparison.",
+      "lastUpdated": "2025-11-18T10:22:51-0500"
     },
     "table_3_row_5_col_0": {
       "content": "Mometasone",
-      "summary": ""
+      "summary": "Mometasone, also known as mometasone furoate, is a steroid medication used to treat certain skin conditions, hay fever, and asthma. Specifically it is used to prevent rather than treat asthma attacks. It can be applied to the skin, inhaled, or used in the nose. Mometasone furoate, not mometasone, is used in medical products.",
+      "lastUpdated": "2025-11-18T10:22:53-0500"
     },
     "table_3_row_5_col_1": {
       "content": "LEUKOTRIENE ANTAG.",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:23:12-0500"
     },
     "table_3_row_5_col_2": {
       "content": "IL-5",
-      "summary": ""
+      "summary": "IL 5 or IL-5 may refer to:Interleukin 5\nIllinois's 5th congressional district\nIllinois Route 5",
+      "lastUpdated": "2025-11-18T10:23:22-0500"
     },
     "table_3_row_6_col_1": {
       "content": "Montelukast",
-      "summary": ""
+      "summary": "Montelukast, sold under the brand name Singulair among others, is a medication used in the maintenance treatment of asthma. It is generally less preferred for this use than inhaled corticosteroids. It is not useful for acute asthma attacks. Other uses include allergic rhinitis and hives of long duration. For allergic rhinitis it is a second-line treatment.",
+      "lastUpdated": "2025-11-18T10:23:24-0500"
     },
     "table_3_row_6_col_2": {
       "content": "Mepolizumab",
-      "summary": ""
+      "summary": "Mepolizumab, sold under the brand name Nucala by GlaxoSmithKline, is a humanized monoclonal antibody used for the treatment of severe eosinophilic asthma, eosinophilic granulomatosis with polyangiitis, and hypereosinophilic syndrome.",
+      "lastUpdated": "2025-11-18T10:23:25-0500"
     },
     "table_3_row_7_col_1": {
       "content": "Zafirlukast",
-      "summary": ""
+      "summary": "Zafirlukast is an orally administered leukotriene receptor antagonist (LTRA) used for the chronic treatment of asthma. While zafirlukast is generally well tolerated, headaches and stomach upset often occur. Some rare side effects can occur, which can be life-threatening, such as liver failure. eosinophilic granulomatosis with polyangiitis has been associated with zafirlukast, but the relationship is not thought to be causative. Overdoses of zafirlukast tend to be self-limiting.",
+      "lastUpdated": "2025-11-18T10:23:27-0500"
     },
     "table_3_row_7_col_2": {
       "content": "Reslizumab",
-      "summary": ""
+      "summary": "Reslizumab, sold under the brand names Cinqair and Cinqaero, is a humanized monoclonal antibody against human interleukin-5 (IL-5). Reslizumab binds specifically to IL-5, a key cytokine responsible for the differentiation, maturation, recruitment and activation of human eosinophils. By binding to human IL-5, it blocks its biological function; consequently survival and activity of eosinophils are reduced. The benefits with reslizumab are its ability to reduce the exacerbation rate and improve lun...",
+      "lastUpdated": "2025-11-18T10:23:28-0500"
     },
     "table_3_row_9_col_2": {
       "content": "IL-5 RECEPTOR",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:23:37-0500"
     },
     "table_3_row_10_col_2": {
       "content": "Benralizumab",
-      "summary": ""
+      "summary": "Benralizumab, sold under the brand name Fasenra, is a monoclonal antibody directed against the alpha chain of the interleukin-5 receptor (CD125). It was developed by MedImmune for the treatment of asthma. It is currently marketed by Astrazeneca.",
+      "lastUpdated": "2025-11-18T10:23:38-0500"
     },
     "table_3_row_12_col_2": {
       "content": "IL-4 RECEPTOR",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:23:44-0500"
     },
     "table_3_row_13_col_2": {
       "content": "Dupilumab",
-      "summary": ""
+      "summary": "Dupilumab, sold under the brand name Dupixent, is a monoclonal antibody blocking interleukin 4 and interleukin 13 receptor signalling, used for allergic diseases such as atopic dermatitis (eczema), asthma and nasal polyps which result in chronic sinusitis. It is also used for the treatment of eosinophilic esophagitis, prurigo nodularis and chronic obstructive pulmonary disease.",
+      "lastUpdated": "2025-11-18T10:23:46-0500"
     },
     "table_3_row_15_col_2": {
       "content": "TSLP1",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:23:50-0500"
     },
     "table_3_row_16_col_2": {
       "content": "Tezepelumab",
-      "summary": ""
+      "summary": "Tezepelumab, sold under the brand name Tezspire, is a human monoclonal antibody used for the treatment of asthma, developed and sold by AstraZeneca. Tezepelumab blocks thymic stromal lymphopoietin (TSLP), an epithelial cytokine that has been suggested to be critical in the initiation and persistence of airway inflammation.",
+      "lastUpdated": "2025-11-18T10:23:55-0500"
     },
     "table_4_row_0_col_0": {
       "content": "BRONCHODILATORS",
-      "summary": ""
+      "summary": "A bronchodilator or broncholytic is a substance that dilates the bronchi and bronchioles, decreasing resistance in the respiratory airway and increasing airflow to the lungs. Bronchodilators may be originating naturally within the body, or they may be medications administered for the treatment of breathing difficulties, usually in the form of inhalers. They are most useful in obstructive lung diseases, of which asthma and chronic obstructive pulmonary disease are the most common conditions. They...",
+      "lastUpdated": "2025-11-18T10:23:56-0500"
     },
     "table_4_row_0_col_1": {
       "content": "BRONCHODILATORS",
-      "summary": ""
+      "summary": "A bronchodilator or broncholytic is a substance that dilates the bronchi and bronchioles, decreasing resistance in the respiratory airway and increasing airflow to the lungs. Bronchodilators may be originating naturally within the body, or they may be medications administered for the treatment of breathing difficulties, usually in the form of inhalers. They are most useful in obstructive lung diseases, of which asthma and chronic obstructive pulmonary disease are the most common conditions. They...",
+      "lastUpdated": "2025-11-18T10:23:56-0500"
     },
     "table_4_row_0_col_2": {
       "content": "BRONCHODILATORS",
-      "summary": ""
+      "summary": "A bronchodilator or broncholytic is a substance that dilates the bronchi and bronchioles, decreasing resistance in the respiratory airway and increasing airflow to the lungs. Bronchodilators may be originating naturally within the body, or they may be medications administered for the treatment of breathing difficulties, usually in the form of inhalers. They are most useful in obstructive lung diseases, of which asthma and chronic obstructive pulmonary disease are the most common conditions. They...",
+      "lastUpdated": "2025-11-18T10:23:56-0500"
     },
     "table_4_row_0_col_3": {
       "content": "BRONCHODILATORS",
-      "summary": ""
+      "summary": "A bronchodilator or broncholytic is a substance that dilates the bronchi and bronchioles, decreasing resistance in the respiratory airway and increasing airflow to the lungs. Bronchodilators may be originating naturally within the body, or they may be medications administered for the treatment of breathing difficulties, usually in the form of inhalers. They are most useful in obstructive lung diseases, of which asthma and chronic obstructive pulmonary disease are the most common conditions. They...",
+      "lastUpdated": "2025-11-18T10:23:56-0500"
     },
     "table_4_row_0_col_4": {
       "content": "BRONCHODILATORS",
-      "summary": ""
+      "summary": "A bronchodilator or broncholytic is a substance that dilates the bronchi and bronchioles, decreasing resistance in the respiratory airway and increasing airflow to the lungs. Bronchodilators may be originating naturally within the body, or they may be medications administered for the treatment of breathing difficulties, usually in the form of inhalers. They are most useful in obstructive lung diseases, of which asthma and chronic obstructive pulmonary disease are the most common conditions. They...",
+      "lastUpdated": "2025-11-18T10:23:56-0500"
     },
     "table_4_row_1_col_0": {
       "content": "2 AGONISTS (SYMPATHETIC)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:24:08-0500"
     },
     "table_4_row_1_col_1": {
       "content": "2 AGONISTS (SYMPATHETIC)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:24:08-0500"
     },
     "table_4_row_1_col_2": {
       "content": "M3 ANTAGONISTS (PARASYMPATHETIC)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:24:24-0500"
     },
     "table_4_row_1_col_3": {
       "content": "M3 ANTAGONISTS (PARASYMPATHETIC)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:24:24-0500"
     },
     "table_4_row_1_col_4": {
       "content": "PDE4 INHIBITOR/ADENOSINE RECEPTOR ANTAGONIST",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:24:25-0500"
     },
     "table_4_row_2_col_0": {
       "content": "SHORT-ACTING b AGONISTS(SABA)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:24:50-0500"
     },
     "table_4_row_2_col_1": {
       "content": "LONG-ACTING b AGONISTS(LABA)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:25:01-0500"
     },
     "table_4_row_2_col_2": {
       "content": "SHORT-ACTINGMUSCARINIC ANTAG.(SAMA)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:25:19-0500"
     },
     "table_4_row_2_col_3": {
       "content": "LONG-ACTINGMUSCARINIC ANTAG. (LAMA)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:25:36-0500"
     },
     "table_4_row_2_col_4": {
       "content": "METHYLXANTHINE",
-      "summary": ""
+      "summary": "Methylxanthines are chemical compounds which are derivatives of xanthine with one or more methyl groups, including:",
+      "lastUpdated": "2025-11-18T10:25:37-0500"
     },
     "table_4_row_3_col_0": {
       "content": "Albuterol",
-      "summary": ""
+      "summary": "Salbutamol, also known as albuterol and sold under the brand name Ventolin among others, is a medication that opens up the medium and large airways in the lungs. It is a short-acting β2 adrenergic receptor agonist that causes relaxation of airway smooth muscle. It is used to treat asthma, including asthma attacks and exercise-induced bronchoconstriction, as well as chronic obstructive pulmonary disease (COPD). It may also be used to treat high blood potassium levels. Salbutamol is usually used w...",
+      "lastUpdated": "2025-11-18T10:25:39-0500"
     },
     "table_4_row_3_col_1": {
       "content": "Salmeterol",
-      "summary": ""
+      "summary": "Salmeterol is a long-acting β2 adrenergic receptor agonist (LABA) used in the treatment and prevention of asthma symptoms and control of chronic obstructive pulmonary disease (COPD) symptoms. Symptoms of bronchospasm include shortness of breath, wheezing, coughing and chest tightness. It is also used to prevent breathing difficulties during exercise.",
+      "lastUpdated": "2025-11-18T10:25:40-0500"
     },
     "table_4_row_3_col_2": {
       "content": "Ipratropium",
-      "summary": ""
+      "summary": "Ipratropium bromide, sold under the trade name Atrovent among others, is a type of anticholinergic medication which is applied by different routes: inhaler, nebulizer, or nasal spray, for different reasons.",
+      "lastUpdated": "2025-11-18T10:25:42-0500"
     },
     "table_4_row_3_col_3": {
       "content": "Tiotropium",
-      "summary": ""
+      "summary": "Tiotropium bromide, sold under the brand name Spiriva among others, is a long-acting bronchodilator used in the management of chronic obstructive pulmonary disease (COPD) and asthma. Specifically it is used during periods of breathing difficulty to prevent them from getting worse, rather than to prevent them from happening. It is used by inhalation through the mouth. Onset typically begins within half an hour and lasts for 24 hours.",
+      "lastUpdated": "2025-11-18T10:25:44-0500"
     },
     "table_4_row_3_col_4": {
       "content": "Theophylline",
-      "summary": ""
+      "summary": "Theophylline, also known as 1,3-dimethylxanthine, is a drug that inhibits phosphodiesterase and blocks adenosine receptors. It is used to treat chronic obstructive pulmonary disease (COPD) and asthma. Its pharmacology is similar to other methylxanthine drugs. Trace amounts of theophylline are naturally present in tea, coffee, chocolate, yerba mate, guarana, and kola nut.",
+      "lastUpdated": "2025-11-18T10:25:45-0500"
     },
     "table_4_row_4_col_0": {
       "content": "Epinephrine",
-      "summary": ""
+      "summary": "Adrenaline, also known as epinephrine and alternatively spelled adrenalin, is a hormone and medication which is involved in regulating visceral functions. It appears as a white microcrystalline granule. Adrenaline is normally produced by the adrenal glands and by a small number of neurons in the medulla oblongata. It plays an essential role in the fight-or-flight response by increasing blood flow to muscles, heart output by acting on the SA node, pupil dilation response, and blood sugar level. I...",
+      "lastUpdated": "2025-11-18T10:25:47-0500"
     },
     "table_4_row_4_col_1": {
       "content": "Formoterol",
-      "summary": ""
+      "summary": "Formoterol, also known as eformoterol, is a long-acting β2 agonist (LABA) used as a bronchodilator in the management of asthma and chronic obstructive pulmonary disease (COPD). Formoterol has an extended duration of action compared to short-acting β2 agonists such as salbutamol (albuterol), which are effective for 4 h to 6 h. Formoterol has a relatively rapid onset of action compared to other LABAs, and is effective within 2-3 minutes. The 2022 Global Initiative for Asthma report recommends a co...",
+      "lastUpdated": "2025-11-18T10:25:49-0500"
     },
     "table_4_row_4_col_3": {
       "content": "Aclidinium",
-      "summary": ""
+      "summary": "Aclidinium bromide (INN) is a long-acting, inhaled muscarinic antagonist (LAMA) approved in the United States in July 2012 as a maintenance treatment for chronic obstructive pulmonary disease (COPD).",
+      "lastUpdated": "2025-11-18T10:25:50-0500"
     },
     "table_4_row_5_col_1": {
       "content": "Indacaterol",
-      "summary": ""
+      "summary": "Indacaterol is an ultra-long-acting beta-adrenoceptor agonist developed by Novartis. It needs to be taken only once a day, unlike the related drugs formoterol and salmeterol. It is licensed only for the treatment of chronic obstructive pulmonary disease (COPD). It is delivered through a dry powder inhaler.",
+      "lastUpdated": "2025-11-18T10:25:53-0500"
     },
     "table_4_row_5_col_3": {
       "content": "Umeclidinium",
-      "summary": ""
+      "summary": "Umeclidinium bromide, sold under the brand name Incruse Ellipta among others, is a long-acting muscarinic antagonist approved for the maintenance treatment of chronic obstructive pulmonary disease (COPD). It is also approved for this indication in combination with vilanterol, and also as a triple-therapy combination as fluticasone furoate/umeclidinium bromide/vilanterol.",
+      "lastUpdated": "2025-11-18T10:25:55-0500"
     },
     "table_5_row_0_col_0": {
       "content": "BRONCHOCONSTRICTOR (For bronchial challenge test)",
-      "summary": ""
+      "summary": "Bronchoconstriction is the constriction of the airways in the lungs due to the tightening of surrounding smooth muscle, with consequent coughing, wheezing, and shortness of breath.",
+      "lastUpdated": "2025-11-18T10:25:57-0500"
     },
     "table_5_row_0_col_1": {
       "content": "BRONCHOCONSTRICTOR (For bronchial challenge test)",
-      "summary": ""
+      "summary": "Bronchoconstriction is the constriction of the airways in the lungs due to the tightening of surrounding smooth muscle, with consequent coughing, wheezing, and shortness of breath.",
+      "lastUpdated": "2025-11-18T10:25:57-0500"
     },
     "table_5_row_1_col_1": {
       "content": "M3 AGONIST (PARASYMPATHETIC)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:26:13-0500"
     },
     "table_5_row_2_col_1": {
       "content": "Methacholine",
-      "summary": ""
+      "summary": "Methacholine, also known as acetyl-β-methylcholine, is a synthetic choline ester that acts as a non-selective muscarinic receptor agonist in the parasympathetic nervous system.",
+      "lastUpdated": "2025-11-18T10:26:17-0500"
     },
     "table_6_row_0_col_0": {
       "content": "PRIMARY CARE DRUGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:26:40-0500"
     },
     "table_7_row_0_col_0": {
       "content": "COUGH TREATMENTS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:26:51-0500"
     },
     "table_7_row_0_col_1": {
       "content": "COUGH TREATMENTS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:26:51-0500"
     },
     "table_7_row_0_col_2": {
       "content": "COUGH TREATMENTS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:26:51-0500"
     },
     "table_7_row_0_col_3": {
       "content": "COUGH TREATMENTS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:26:51-0500"
     },
     "table_7_row_1_col_0": {
       "content": "REMOVE THE IRRITANT",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:27:01-0500"
     },
     "table_7_row_1_col_1": {
       "content": "REMOVE THE IRRITANT",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:27:01-0500"
     },
     "table_7_row_1_col_2": {
       "content": "INHIBIT COUGH SIGNALING",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:27:21-0500"
     },
     "table_7_row_1_col_3": {
       "content": "INHIBIT COUGH SIGNALING",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:27:21-0500"
     },
     "table_7_row_2_col_0": {
       "content": "EXPECTORANT",
-      "summary": ""
+      "summary": "Mucoactive agents are a class of pharmacologic agents that include expectorants, mucolytics, mucoregulators, and mucokinetics that can affect the volume, viscosity, transportation, and composition of mucus or sputum. They often aid in clearing mucus or sputum from the upper and lower airways. These medications are used to treat respiratory diseases complicated by the oversecretion or inspissation of mucus. These drugs can be further categorized by their mechanism of action.",
+      "lastUpdated": "2025-11-18T10:27:23-0500"
     },
     "table_7_row_2_col_1": {
       "content": "MUCOLYTIC",
-      "summary": ""
+      "summary": "Mucoactive agents are a class of pharmacologic agents that include expectorants, mucolytics, mucoregulators, and mucokinetics that can affect the volume, viscosity, transportation, and composition of mucus or sputum. They often aid in clearing mucus or sputum from the upper and lower airways. These medications are used to treat respiratory diseases complicated by the oversecretion or inspissation of mucus. These drugs can be further categorized by their mechanism of action.",
+      "lastUpdated": "2025-11-18T10:27:25-0500"
     },
     "table_7_row_2_col_2": {
       "content": "ANTI-TUSSIVES",
-      "summary": ""
+      "summary": "Cold medicines are a group of medications taken individually or in combination as a treatment for the symptoms of the common cold and similar conditions of the upper respiratory tract. The term encompasses a broad array of drugs, including analgesics, antihistamines and decongestants, among many others. It also includes drugs which are marketed as cough suppressants or antitussives, but their effectiveness in reducing cough symptoms is unclear or minimal.",
+      "lastUpdated": "2025-11-18T10:27:32-0500"
     },
     "table_7_row_2_col_3": {
       "content": "ANTI-TUSSIVES",
-      "summary": ""
+      "summary": "Cold medicines are a group of medications taken individually or in combination as a treatment for the symptoms of the common cold and similar conditions of the upper respiratory tract. The term encompasses a broad array of drugs, including analgesics, antihistamines and decongestants, among many others. It also includes drugs which are marketed as cough suppressants or antitussives, but their effectiveness in reducing cough symptoms is unclear or minimal.",
+      "lastUpdated": "2025-11-18T10:27:32-0500"
     },
     "table_7_row_3_col_2": {
       "content": "CENTRALLY-ACTING",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:27:47-0500"
     },
     "table_7_row_3_col_3": {
       "content": "PERIPHERALLY ACTING",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:28:09-0500"
     },
     "table_7_row_4_col_0": {
       "content": "MECHANISM UNCLEAR",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:28:27-0500"
     },
     "table_7_row_4_col_1": {
       "content": "REDUCING AGENT",
-      "summary": ""
+      "summary": "In chemistry, a reducing agent is a chemical species that \"donates\" an electron to an electron recipient.",
+      "lastUpdated": "2025-11-18T10:28:29-0500"
     },
     "table_7_row_4_col_2": {
       "content": "GLUTAMATE ANTAGONIST",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:28:38-0500"
     },
     "table_7_row_4_col_3": {
       "content": "VG Na+ CHANNEL BLOCKERS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:28:51-0500"
     },
     "table_7_row_5_col_0": {
       "content": "Guaifenesin",
-      "summary": ""
+      "summary": "Guaifenesin, also known as glyceryl guaiacolate, sold under the brand name Mucinex, among others, is an expectorant medication taken by mouth and marketed as an aid to eliminate sputum from the respiratory tract. Chemically, it is an ether of guaiacol and glycerine. It may be used in combination with other medications. A 2014 study found that guaifenesin does not affect sputum volume in upper respiratory infections. It has been alleged to work in 2023 by making airway secretions more liquid.",
+      "lastUpdated": "2025-11-18T10:28:53-0500"
     },
     "table_7_row_5_col_1": {
       "content": "N-acetylcysteine",
-      "summary": ""
+      "summary": "Acetylcysteine or N-acetylcysteine is a mucolytic that is used to treat paracetamol (acetaminophen) overdose and to loosen thick mucus in individuals with chronic bronchopulmonary disorders, such as pneumonia and bronchitis. It has been used to treat lactobezoar in infants. It can be taken intravenously, orally, or inhaled as a mist by use of a nebulizer. It is also sometimes used as a dietary supplement.",
+      "lastUpdated": "2025-11-18T10:28:56-0500"
     },
     "table_7_row_5_col_2": {
       "content": "Dextromethorphan",
-      "summary": ""
+      "summary": "Dextromethorphan, sold under the brand name Robitussin among others, is a cough suppressant used in many cough and cold medicines. In 2022, the US Food and Drug Administration (FDA) approved the combination dextromethorphan/bupropion to serve as a rapid-acting antidepressant in people with major depressive disorder.",
+      "lastUpdated": "2025-11-18T10:28:58-0500"
     },
     "table_7_row_5_col_3": {
       "content": "Benzonatate",
-      "summary": ""
+      "summary": "Benzonatate, sold under the brand name Tessalon among others, is a medication that is used for the symptomatic relief of cough. Benzonatate is taken by mouth. Effects generally begin within 20 minutes and last between 3 and 8 hours.",
+      "lastUpdated": "2025-11-18T10:28:59-0500"
     },
     "table_7_row_6_col_3": {
       "content": "Lidocaine",
-      "summary": ""
+      "summary": "Lidocaine, also known as lignocaine and sold under the brand name Xylocaine among others, is a local anesthetic of the amino amide type. It is also used to treat ventricular tachycardia and ventricular fibrillation. When used for local anaesthesia or in nerve blocks, lidocaine typically begins working within several minutes and lasts for half an hour to three hours. Lidocaine mixtures may also be applied directly to the skin or mucous membranes to numb the area. It is often used mixed with a sma...",
+      "lastUpdated": "2025-11-18T10:29:01-0500"
     },
     "table_7_row_7_col_2": {
       "content": "OPIOID",
-      "summary": ""
+      "summary": "Opioids are a class of drugs that derive from, or mimic, natural substances found in the opium poppy plant. Opioids work on opioid receptors in the brain and other organs to produce a variety of morphine-like effects, including pain relief.",
+      "lastUpdated": "2025-11-18T10:29:02-0500"
     },
     "table_7_row_7_col_3": {
       "content": "Lignocaine",
-      "summary": ""
+      "summary": "Lidocaine, also known as lignocaine and sold under the brand name Xylocaine among others, is a local anesthetic of the amino amide type. It is also used to treat ventricular tachycardia and ventricular fibrillation. When used for local anaesthesia or in nerve blocks, lidocaine typically begins working within several minutes and lasts for half an hour to three hours. Lidocaine mixtures may also be applied directly to the skin or mucous membranes to numb the area. It is often used mixed with a sma...",
+      "lastUpdated": "2025-11-18T10:29:03-0500"
     },
     "table_7_row_8_col_2": {
       "content": "Codeine*",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:29:15-0500"
     },
     "table_8_row_0_col_0": {
       "content": "DECONGESTANTS",
-      "summary": ""
+      "summary": "A decongestant, or nasal decongestant, is a type of pharmaceutical drug that is used to relieve nasal congestion in the upper respiratory tract. The active ingredient in most decongestants is either pseudoephedrine or phenylephrine. Intranasal corticosteroids can also be used as decongestants and antihistamines can be used to alleviate runny nose, nasal itch, and sneezing.",
+      "lastUpdated": "2025-11-18T10:29:16-0500"
     },
     "table_8_row_0_col_1": {
       "content": "DECONGESTANTS",
-      "summary": ""
+      "summary": "A decongestant, or nasal decongestant, is a type of pharmaceutical drug that is used to relieve nasal congestion in the upper respiratory tract. The active ingredient in most decongestants is either pseudoephedrine or phenylephrine. Intranasal corticosteroids can also be used as decongestants and antihistamines can be used to alleviate runny nose, nasal itch, and sneezing.",
+      "lastUpdated": "2025-11-18T10:29:16-0500"
     },
     "table_8_row_0_col_2": {
       "content": "DECONGESTANTS",
-      "summary": ""
+      "summary": "A decongestant, or nasal decongestant, is a type of pharmaceutical drug that is used to relieve nasal congestion in the upper respiratory tract. The active ingredient in most decongestants is either pseudoephedrine or phenylephrine. Intranasal corticosteroids can also be used as decongestants and antihistamines can be used to alleviate runny nose, nasal itch, and sneezing.",
+      "lastUpdated": "2025-11-18T10:29:16-0500"
     },
     "table_8_row_1_col_0": {
       "content": "ANTI-HISTAMINES (H1 RECEPTOR ANTAGONISTS)",
-      "summary": ""
+      "summary": "Antihistamines are drugs that treat hay fever and other allergies. Typically, people take antihistamines as an inexpensive, generic drug that can be bought without a prescription and provides relief from nasal congestion, sneezing, or hives caused by pollen, dust mites, or animal allergy with few side effects. Antihistamines are usually for short-term treatment. Chronic allergies increase the risk of health problems which antihistamines might not treat, including asthma, sinusitis, and lower res...",
+      "lastUpdated": "2025-11-18T10:29:31-0500"
     },
     "table_8_row_1_col_1": {
       "content": "ANTI-HISTAMINES (H1 RECEPTOR ANTAGONISTS)",
-      "summary": ""
+      "summary": "Antihistamines are drugs that treat hay fever and other allergies. Typically, people take antihistamines as an inexpensive, generic drug that can be bought without a prescription and provides relief from nasal congestion, sneezing, or hives caused by pollen, dust mites, or animal allergy with few side effects. Antihistamines are usually for short-term treatment. Chronic allergies increase the risk of health problems which antihistamines might not treat, including asthma, sinusitis, and lower res...",
+      "lastUpdated": "2025-11-18T10:29:31-0500"
     },
     "table_8_row_1_col_2": {
       "content": "1 AGONISTS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:29:44-0500"
     },
     "table_8_row_2_col_0": {
       "content": "1st GENERATION (Cross BBB)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:30:00-0500"
     },
     "table_8_row_2_col_1": {
       "content": "2nd GENERATION (Do not cross BBB)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:30:13-0500"
     },
     "table_8_row_3_col_0": {
       "content": "Diphenhydramine",
-      "summary": ""
+      "summary": "Diphenhydramine, sold under the brand name Benadryl among others, is an antihistamine and sedative. Although generally considered sedating, diphenhydramine can cause paradoxical central nervous system stimulation in some individuals, particularly at higher doses. This may manifest as agitation, anxiety, or restlessness rather than sedation. It is a first-generation H1-antihistamine and it works by blocking certain effects of histamine, which produces its antihistamine and sedative effects. Diphe...",
+      "lastUpdated": "2025-11-18T10:30:14-0500"
     },
     "table_8_row_3_col_1": {
       "content": "Loratadine",
-      "summary": ""
+      "summary": "Loratadine, sold under the brand name Claritin among others, is a medication used to treat allergies. This includes allergic rhinitis and hives. It is also available in drug combinations such as loratadine/pseudoephedrine, in which it is combined with pseudoephedrine, a nasal decongestant. It is taken orally.",
+      "lastUpdated": "2025-11-18T10:30:16-0500"
     },
     "table_8_row_3_col_2": {
       "content": "Pseudoephedrine",
-      "summary": ""
+      "summary": "Pseudoephedrine, sold under the brand name Sudafed among others, is a sympathomimetic medication which is used as a decongestant to treat nasal congestion. It has also been used off-label for certain other indications, like treatment of low blood pressure. At higher doses, it may produce various additional effects including stimulant, appetite suppressant, and performance-enhancing effects. In relation to this, non-medical use of pseudoephedrine has been encountered. The medication is taken by m...",
+      "lastUpdated": "2025-11-18T10:30:18-0500"
     },
     "table_8_row_4_col_0": {
       "content": "Dimenhydrinate",
-      "summary": ""
+      "summary": "Dimenhydrinate, also known as diphenhydramine/8-chlorotheophylline salt and sold under the brand names Dramamine and Gravol, among others, is an over-the-counter medication used to treat motion sickness and nausea. Dimenhydrinate is a theoclate salt composed of diphenhydramine and 8-chlorotheophylline in a 1:1 ratio.",
+      "lastUpdated": "2025-11-18T10:30:19-0500"
     },
     "table_8_row_4_col_1": {
       "content": "Fexofenidine",
-      "summary": ""
+      "summary": "Fexofenadine, sold under the brand name Allegra among others, is an antihistamine medication used in the treatment of allergy symptoms such as allergic rhinitis and urticaria.",
+      "lastUpdated": "2025-11-18T10:30:20-0500"
     },
     "table_8_row_4_col_2": {
       "content": "Phenylephrine",
-      "summary": ""
+      "summary": "Phenylephrine, sold under the brand names Neosynephrine and Sudafed PE among others, is a medication used as a decongestant for uncomplicated nasal congestion in the form of a nasal spray or oral tablet, it may be given intravenously in cases of low blood pressure, or used to relieve hemorrhoids as a suppository. It can also be applied to the skin.",
+      "lastUpdated": "2025-11-18T10:30:22-0500"
     },
     "table_8_row_5_col_0": {
       "content": "Chlorpheniramine",
-      "summary": ""
+      "summary": "Chlorphenamine (CP, CPM), also known as chlorpheniramine, is an antihistamine used to treat the symptoms of allergic conditions such as allergic rhinitis (hay fever). It is taken orally (by mouth). The medication takes effect within two hours and lasts for about 4–6 hours. It is a first-generation antihistamine and works by blocking the histamine H1 receptor.",
+      "lastUpdated": "2025-11-18T10:30:23-0500"
     },
     "table_8_row_5_col_1": {
       "content": "Ceterizine",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:30:34-0500"
     },
     "table_8_row_6_col_0": {
       "content": "Promethazine*",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:30:48-0500"
     },
     "table_8_row_6_col_1": {
       "content": "Desloratadine",
-      "summary": ""
+      "summary": "Desloratadine, sold under the brand name Aerius among others, is a tricyclic H1 inverse agonist that is used to treat allergies. It is the major active metabolite of loratadine.",
+      "lastUpdated": "2025-11-18T10:30:50-0500"
     },
     "table_9_row_0_col_0": {
       "content": "PULMONARY ARTERIAL HYPERTENSION (PAH)",
-      "summary": ""
+      "summary": "Pulmonary hypertension is a condition of increased blood pressure in the arteries of the lungs. Symptoms include shortness of breath, fainting, tiredness, chest pain, swelling of the legs, and a fast heartbeat. The condition may make it difficult to exercise. Onset is typically gradual.\n\nAccording to the definition at the 6th World Symposium of Pulmonary Hypertension in 2018, a patient is deemed to have pulmonary hypertension if the pulmonary mean arterial pressure is greater than 20mmHg at rest...",
+      "lastUpdated": "2025-11-18T10:30:51-0500"
     },
     "table_10_row_0_col_0": {
       "content": "VASODILATORS",
-      "summary": ""
+      "summary": "Vasodilation, also known as vasorelaxation, is the widening of blood vessels. It results from relaxation of smooth muscle cells within the vessel walls, in particular in the large veins, large arteries, and smaller arterioles. Blood vessel walls are composed of endothelial tissue and a basal membrane lining the lumen of the vessel, concentric smooth muscle layers on top of endothelial tissue, and an adventitia over the smooth muscle layers. Relaxation of the smooth muscle layer allows the blood ...",
+      "lastUpdated": "2025-11-18T10:30:52-0500"
     },
     "table_10_row_0_col_1": {
       "content": "VASODILATORS",
-      "summary": ""
+      "summary": "Vasodilation, also known as vasorelaxation, is the widening of blood vessels. It results from relaxation of smooth muscle cells within the vessel walls, in particular in the large veins, large arteries, and smaller arterioles. Blood vessel walls are composed of endothelial tissue and a basal membrane lining the lumen of the vessel, concentric smooth muscle layers on top of endothelial tissue, and an adventitia over the smooth muscle layers. Relaxation of the smooth muscle layer allows the blood ...",
+      "lastUpdated": "2025-11-18T10:30:52-0500"
     },
     "table_10_row_0_col_2": {
       "content": "VASODILATORS",
-      "summary": ""
+      "summary": "Vasodilation, also known as vasorelaxation, is the widening of blood vessels. It results from relaxation of smooth muscle cells within the vessel walls, in particular in the large veins, large arteries, and smaller arterioles. Blood vessel walls are composed of endothelial tissue and a basal membrane lining the lumen of the vessel, concentric smooth muscle layers on top of endothelial tissue, and an adventitia over the smooth muscle layers. Relaxation of the smooth muscle layer allows the blood ...",
+      "lastUpdated": "2025-11-18T10:30:52-0500"
     },
     "table_10_row_1_col_0": {
       "content": "INHIBITORS OF VASOCONSTRICTION",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:31:04-0500"
     },
     "table_10_row_1_col_1": {
       "content": "STIMULATORS OF VASORELAXATION",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:31:15-0500"
     },
     "table_10_row_1_col_2": {
       "content": "STIMULATORS OF VASORELAXATION",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:31:15-0500"
     },
     "table_10_row_2_col_0": {
       "content": "ENDOTHELIN-1 ANTAGONIST",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:31:35-0500"
     },
     "table_10_row_2_col_1": {
       "content": "PHOSPHODIESTERASE-5 (PDE5) INHIBITORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:31:50-0500"
     },
     "table_10_row_2_col_2": {
       "content": "PROSTAGLANDIN-I2 ANALOGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:32:12-0500"
     },
     "table_10_row_3_col_0": {
       "content": "Bosentan",
-      "summary": ""
+      "summary": "Bosentan, sold under the brand name Tracleer among others, is a dual endothelin receptor antagonist medication used in the treatment of pulmonary artery hypertension (PAH).",
+      "lastUpdated": "2025-11-18T10:32:13-0500"
     },
     "table_10_row_3_col_1": {
       "content": "Sildenafil (Viagra™/Revatio™)",
-      "summary": ""
+      "summary": "Sildenafil, sold under the brand name Viagra among others, is a medication used to treat erectile dysfunction and pulmonary arterial hypertension. It is also sometimes used off-label for the treatment of certain symptoms in secondary Raynaud's phenomenon. It is unclear if it is effective for treating sexual dysfunction in females. It can be taken orally, intravenously, or through the sublingual route. Onset when taken orally is typically within twenty minutes and lasts for about two hours.",
+      "lastUpdated": "2025-11-18T10:32:15-0500"
     },
     "table_10_row_3_col_2": {
       "content": "Epoprostenol (Natural)",
-      "summary": ""
+      "summary": "Prostacyclin (also called prostaglandin I2 or PGI2) is a prostaglandin member of the eicosanoid family of lipid molecules. It inhibits platelet activation and is also an effective vasodilator.",
+      "lastUpdated": "2025-11-18T10:32:16-0500"
     },
     "table_10_row_4_col_0": {
       "content": "Ambrisentan",
-      "summary": ""
+      "summary": "Ambrisentan, sold under the brand name Letairis among others, is a drug used for the treatment of pulmonary hypertension. It is an endothelin receptor antagonist.",
+      "lastUpdated": "2025-11-18T10:32:17-0500"
     },
     "table_10_row_4_col_1": {
       "content": "Tadalafil (Cialis™/Adcirca™)",
-      "summary": ""
+      "summary": "Tadalafil, sold under the brand name Cialis among others, is a medication used to treat erectile dysfunction, benign prostatic hyperplasia, and pulmonary arterial hypertension. It is taken by mouth. Onset is typically within half an hour and the duration is up to 36 hours.",
+      "lastUpdated": "2025-11-18T10:32:19-0500"
     },
     "table_10_row_4_col_2": {
       "content": "Iloprost (Analog)",
-      "summary": ""
+      "summary": "Iloprost, sold under the brand name Ventavis among others, is a medication used to treat pulmonary arterial hypertension (PAH), scleroderma, Raynaud's phenomenon, frostbite, and other conditions in which the blood vessels are constricted and blood cannot flow to the tissues. Iloprost is a prostacyclin mimetic.",
+      "lastUpdated": "2025-11-18T10:32:20-0500"
     },
     "table_11_row_0_col_0": {
       "content": "CYSTIC FIBROSIS",
-      "summary": ""
+      "summary": "Cystic fibrosis (CF) is a genetic disorder inherited in an autosomal recessive manner that impairs the normal clearance of mucus from the lungs, which facilitates the colonization and infection of the lungs by bacteria, notably Staphylococcus aureus. CF is a rare genetic disorder that affects mostly the lungs, but also the pancreas, liver, kidneys, and intestine. The hallmark feature of CF is the accumulation of thick mucus in different organs. Long-term issues include difficulty breathing and c...",
+      "lastUpdated": "2025-11-18T10:32:23-0500"
     },
     "table_12_row_0_col_0": {
       "content": "TREAT CAUSE",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:32:34-0500"
     },
     "table_12_row_0_col_1": {
       "content": "TREAT CAUSE",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:32:34-0500"
     },
     "table_12_row_1_col_0": {
       "content": "CYSTIC FIBROSIS TRANSMEMBRANE CONDUCTANCE (CFTR) MODULATORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:32:53-0500"
     },
     "table_12_row_1_col_1": {
       "content": "CYSTIC FIBROSIS TRANSMEMBRANE CONDUCTANCE (CFTR) MODULATORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:32:53-0500"
     },
     "table_12_row_2_col_0": {
       "content": "CFTR CORRECTORS - Improve trafficking of F508del mutation",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T10:33:02-0500"
     },
     "table_12_row_2_col_1": {
       "content": "CFTR POTENTIATORS - Improve stability of G551D mutation",
@@ -2200,7 +2564,8 @@
     },
     "table_13_row_8_col_1": {
       "content": "MUCOLYTIC",
-      "summary": ""
+      "summary": "Mucoactive agents are a class of pharmacologic agents that include expectorants, mucolytics, mucoregulators, and mucokinetics that can affect the volume, viscosity, transportation, and composition of mucus or sputum. They often aid in clearing mucus or sputum from the upper and lower airways. These medications are used to treat respiratory diseases complicated by the oversecretion or inspissation of mucus. These drugs can be further categorized by their mechanism of action.",
+      "lastUpdated": "2025-11-18T10:27:25-0500"
     },
     "table_13_row_9_col_0": {
       "content": "Vitamin K",

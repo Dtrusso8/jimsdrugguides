@@ -2,7 +2,170 @@
   "title": "Course2 MoleculesToCells DrugGuide AntiMicrobials V2",
   "course": "Course 2",
   "courseSlug": "course-2",
-  "tags": [],
+  "tags": [
+    "ANTIBACTERIALS",
+    "mRNA SYNTHESIS INHIBITORS",
+    "CELL WALL SYNTHESIS INHIBITORS",
+    "PROTEIN SYNTHESIS INHIBITORS",
+    "CELL MEMBRANE DISRUPTORS",
+    "ANTI-VIRALS",
+    "GROUP IV VIRUSES",
+    "GROUP V VIRUSES",
+    "GROUP VI VIRUESES (HIV)",
+    "GROUP VII VIRUSES (HEPATITIS B)",
+    "ANTI-FUNGALS",
+    "SUPERFICIAL FUNGAL INFECTIONS",
+    "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+    "Pneumocystis jirovecii",
+    "ANTI-PROTOZOALS",
+    "VAGINAL & GI",
+    "Plasmodium (Malaria)",
+    "Leishmania donovani (Leishmaniasis)",
+    "Trypanosoma",
+    "Toxoplasma gondii (Toxoplasmosis)"
+  ],
+  "tagLocations": [
+    {
+      "tag": "ANTIBACTERIALS",
+      "tableIndex": 1,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_1_row_0_col_0"
+    },
+    {
+      "tag": "mRNA SYNTHESIS INHIBITORS",
+      "tableIndex": 2,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_2_row_0_col_0"
+    },
+    {
+      "tag": "CELL WALL SYNTHESIS INHIBITORS",
+      "tableIndex": 3,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_3_row_0_col_0"
+    },
+    {
+      "tag": "PROTEIN SYNTHESIS INHIBITORS",
+      "tableIndex": 4,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_4_row_0_col_0"
+    },
+    {
+      "tag": "CELL MEMBRANE DISRUPTORS",
+      "tableIndex": 5,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_5_row_0_col_0"
+    },
+    {
+      "tag": "ANTI-VIRALS",
+      "tableIndex": 6,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_6_row_0_col_0"
+    },
+    {
+      "tag": "GROUP IV VIRUSES",
+      "tableIndex": 8,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_8_row_0_col_0"
+    },
+    {
+      "tag": "GROUP V VIRUSES",
+      "tableIndex": 9,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_9_row_0_col_0"
+    },
+    {
+      "tag": "GROUP VI VIRUESES (HIV)",
+      "tableIndex": 10,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_10_row_0_col_0"
+    },
+    {
+      "tag": "GROUP VII VIRUSES (HEPATITIS B)",
+      "tableIndex": 11,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_11_row_0_col_0"
+    },
+    {
+      "tag": "ANTI-FUNGALS",
+      "tableIndex": 12,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_12_row_0_col_0"
+    },
+    {
+      "tag": "SUPERFICIAL FUNGAL INFECTIONS",
+      "tableIndex": 14,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_14_row_0_col_0"
+    },
+    {
+      "tag": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
+      "tableIndex": 15,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_15_row_0_col_0"
+    },
+    {
+      "tag": "Pneumocystis jirovecii",
+      "tableIndex": 16,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_16_row_0_col_0"
+    },
+    {
+      "tag": "ANTI-PROTOZOALS",
+      "tableIndex": 17,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_17_row_0_col_0"
+    },
+    {
+      "tag": "VAGINAL & GI",
+      "tableIndex": 18,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_18_row_0_col_0"
+    },
+    {
+      "tag": "Plasmodium (Malaria)",
+      "tableIndex": 19,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_19_row_0_col_0"
+    },
+    {
+      "tag": "Leishmania donovani (Leishmaniasis)",
+      "tableIndex": 20,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_20_row_0_col_0"
+    },
+    {
+      "tag": "Trypanosoma",
+      "tableIndex": 21,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_21_row_0_col_0"
+    },
+    {
+      "tag": "Toxoplasma gondii (Toxoplasmosis)",
+      "tableIndex": 22,
+      "row": 0,
+      "col": 0,
+      "cellId": "table_22_row_0_col_0"
+    }
+  ],
   "tables": [
     {
       "headers": [
@@ -1325,7 +1488,8 @@
     },
     "table_1_row_1_col_4": {
       "content": "G-pos./G-neg",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_1_col_5": {
       "content": "Gram-negative",
@@ -1349,31 +1513,38 @@
     },
     "table_1_row_3_col_1": {
       "content": "DNA-AFFECTING DRUGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_3_col_2": {
       "content": "DNA-AFFECTING DRUGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_3_col_3": {
       "content": "DNA-AFFECTING DRUGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_3_col_4": {
       "content": "DNA-AFFECTING DRUGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_3_col_5": {
       "content": "DNA-AFFECTING DRUGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_3_col_6": {
       "content": "DNA-AFFECTING DRUGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_3_col_7": {
       "content": "DNA-AFFECTING DRUGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_4_col_0": {
       "content": "FOLATE SYNTH. INHIBS",
@@ -1382,7 +1553,8 @@
     },
     "table_1_row_4_col_1": {
       "content": "FOLATE SYNTH. INHIBS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_4_col_2": {
       "content": "DNA DAMAGING DRUGS",
@@ -1391,23 +1563,28 @@
     },
     "table_1_row_4_col_3": {
       "content": "DNA DAMAGING DRUGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_4_col_4": {
       "content": "DNA DAMAGING DRUGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_4_col_5": {
       "content": "DNA DAMAGING DRUGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_4_col_6": {
       "content": "DNA DAMAGING DRUGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_4_col_7": {
       "content": "DNA DAMAGING DRUGS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_5_col_0": {
       "content": "SULFONAMIDES",
@@ -1456,7 +1633,8 @@
     },
     "table_1_row_6_col_7": {
       "content": "2nd GENERATION",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_7_col_0": {
       "content": "Sulfadiazine 2 (Or)",
@@ -1465,7 +1643,8 @@
     },
     "table_1_row_7_col_1": {
       "content": "Sulfadiazine 2 (Or)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_7_col_2": {
       "content": "Metronidazole (Or)",
@@ -1524,7 +1703,8 @@
     },
     "table_1_row_9_col_1": {
       "content": "Sulfamethoxazole 1 (IV/Or)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_9_col_6": {
       "content": "Ofloxacin (IV/Or/Opth)",
@@ -1543,7 +1723,8 @@
     },
     "table_1_row_10_col_7": {
       "content": "3rd GENERATION",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_11_col_0": {
       "content": "COMBO WITH…",
@@ -1552,7 +1733,8 @@
     },
     "table_1_row_11_col_1": {
       "content": "COMBO WITH…",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_11_col_6": {
       "content": "Levofloxacin (IV/Or)",
@@ -1571,7 +1753,8 @@
     },
     "table_1_row_12_col_1": {
       "content": "1 Trimethoprim",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_12_col_6": {
       "content": "4th GENERATION",
@@ -1580,7 +1763,8 @@
     },
     "table_1_row_12_col_7": {
       "content": "4th GENERATION",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_13_col_0": {
       "content": "2 Pyrimethamine",
@@ -1589,7 +1773,8 @@
     },
     "table_1_row_13_col_1": {
       "content": "2 Pyrimethamine",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_1_row_13_col_6": {
       "content": "Moxifloxacin (IV/Or)",
@@ -1653,11 +1838,13 @@
     },
     "table_3_row_0_col_6": {
       "content": "CELL WALL SYNTHESIS INHIBITORS",
-      "summary": ""
+      "summary": "A protein synthesis inhibitor is a compound that stops or slows the growth or proliferation of cells by disrupting the processes that lead directly to the generation of new proteins.",
+      "lastUpdated": "2025-11-17T15:37:41-0500"
     },
     "table_3_row_0_col_7": {
       "content": "CELL WALL SYNTHESIS INHIBITORS",
-      "summary": ""
+      "summary": "A protein synthesis inhibitor is a compound that stops or slows the growth or proliferation of cells by disrupting the processes that lead directly to the generation of new proteins.",
+      "lastUpdated": "2025-11-17T15:37:41-0500"
     },
     "table_3_row_1_col_0": {
       "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
@@ -1666,7 +1853,8 @@
     },
     "table_3_row_1_col_1": {
       "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_1_col_2": {
       "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
@@ -1675,15 +1863,18 @@
     },
     "table_3_row_1_col_3": {
       "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_1_col_4": {
       "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_1_col_5": {
       "content": "BETA-LACTAM TRANSPEPTIDASE (PBP) INHIBITORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_1_col_6": {
       "content": "GLYCOPEPTIDES",
@@ -1852,11 +2043,13 @@
     },
     "table_3_row_8_col_1": {
       "content": "Methacillin (IV)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_8_col_2": {
       "content": "Methacillin (IV)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_8_col_5": {
       "content": "Cefuroxime (2nd) (IV/IM)",
@@ -1920,7 +2113,8 @@
     },
     "table_3_row_12_col_4": {
       "content": "COMBO WITH LACTAMASE INHIBITORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_12_col_5": {
       "content": "Ceftriaxone (3rd) (IV/IM)",
@@ -1934,11 +2128,13 @@
     },
     "table_3_row_13_col_1": {
       "content": "Ampicillin1 (IV/IM)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_13_col_2": {
       "content": "Ampicillin1 (IV/IM)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_13_col_3": {
       "content": "1 Sulbactam",
@@ -1947,7 +2143,8 @@
     },
     "table_3_row_13_col_4": {
       "content": "1 Sulbactam",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_13_col_5": {
       "content": "Ceftazidime (3rd) (IV/IM)",
@@ -1961,11 +2158,13 @@
     },
     "table_3_row_14_col_1": {
       "content": "Amoxicillin2 (Or)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_14_col_2": {
       "content": "Amoxicillin2 (Or)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_14_col_3": {
       "content": "2 Clavulanic acid",
@@ -1974,7 +2173,8 @@
     },
     "table_3_row_14_col_4": {
       "content": "2 Clavulanic acid",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_14_col_5": {
       "content": "Cefipime (4th) (IV/IM)",
@@ -1988,7 +2188,8 @@
     },
     "table_3_row_15_col_4": {
       "content": "3 Tazobactam",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_15_col_5": {
       "content": "Ceftaroline (5th) (IV)",
@@ -2007,7 +2208,8 @@
     },
     "table_3_row_16_col_4": {
       "content": "4 Cilastatin",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_16_col_5": {
       "content": "Ceftobipriole (5th) (IV)",
@@ -2036,7 +2238,8 @@
     },
     "table_3_row_17_col_4": {
       "content": "5Vaborbactam",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_17_col_5": {
       "content": "Cefiderocol (5th) (IV)",
@@ -2055,11 +2258,13 @@
     },
     "table_3_row_20_col_1": {
       "content": "Piperacillin3 (IV)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_3_row_20_col_2": {
       "content": "Piperacillin3 (IV)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_4_row_0_col_0": {
       "content": "PROTEIN SYNTHESIS INHIBITORS",
@@ -2108,15 +2313,18 @@
     },
     "table_4_row_1_col_3": {
       "content": "50S RIBOSOMAL SUBUNIT",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_4_row_1_col_4": {
       "content": "50S RIBOSOMAL SUBUNIT",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_4_row_1_col_5": {
       "content": "50S RIBOSOMAL SUBUNIT",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_4_row_2_col_0": {
       "content": "AMINOGLYCOSIDES",
@@ -2255,7 +2463,8 @@
     },
     "table_5_row_0_col_1": {
       "content": "CELL MEMBRANE DISRUPTORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_5_row_1_col_0": {
       "content": "Polymixin B",
@@ -2289,15 +2498,18 @@
     },
     "table_7_row_0_col_2": {
       "content": "GROUP I VIRUSES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_7_row_0_col_3": {
       "content": "GROUP I VIRUSES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_7_row_0_col_4": {
       "content": "GROUP I VIRUSES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_7_row_1_col_0": {
       "content": "NUCLEOSIDE ANALOG DNA POLYMERASE INHIBITOR",
@@ -2411,19 +2623,23 @@
     },
     "table_8_row_0_col_1": {
       "content": "GROUP IV VIRUSES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_8_row_0_col_2": {
       "content": "GROUP IV VIRUSES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_8_row_0_col_3": {
       "content": "GROUP IV VIRUSES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_8_row_0_col_4": {
       "content": "GROUP IV VIRUSES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_8_row_1_col_0": {
       "content": "SARS-CoV-2 (Covid-19)",
@@ -2532,7 +2748,8 @@
     },
     "table_8_row_6_col_0": {
       "content": "PROTEASE INHIBITOR",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_8_row_6_col_2": {
       "content": "Paritaprevir",
@@ -2606,19 +2823,23 @@
     },
     "table_9_row_0_col_1": {
       "content": "GROUP V VIRUSES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_9_row_0_col_2": {
       "content": "GROUP V VIRUSES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_9_row_0_col_3": {
       "content": "GROUP V VIRUSES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_9_row_0_col_4": {
       "content": "GROUP V VIRUSES",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_9_row_1_col_0": {
       "content": "INFLUENZA",
@@ -2712,19 +2933,23 @@
     },
     "table_10_row_0_col_1": {
       "content": "GROUP VI VIRUESES (HIV)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_10_row_0_col_2": {
       "content": "GROUP VI VIRUESES (HIV)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_10_row_0_col_3": {
       "content": "GROUP VI VIRUESES (HIV)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_10_row_0_col_4": {
       "content": "GROUP VI VIRUESES (HIV)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_10_row_1_col_0": {
       "content": "ENTRY/FUSION INHIBS.",
@@ -2908,7 +3133,8 @@
     },
     "table_11_row_0_col_1": {
       "content": "GROUP VII VIRUSES (HEPATITIS B)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_11_row_1_col_0": {
       "content": "REVERSE TRASCRIPTASE INHIBITORS",
@@ -2992,7 +3218,8 @@
     },
     "table_13_row_1_col_1": {
       "content": "ERGOSTEROLSYNTHESIS INHIBITORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_13_row_1_col_2": {
       "content": "ERGOSTEROL BINDING AGENTS",
@@ -3136,23 +3363,28 @@
     },
     "table_15_row_0_col_1": {
       "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_15_row_0_col_2": {
       "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_15_row_0_col_3": {
       "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_15_row_0_col_4": {
       "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_15_row_0_col_5": {
       "content": "INVASIVE FUNGAL INFECTIONS (ORAL/IV ADMINISTRATION)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_15_row_1_col_0": {
       "content": "TRIAZOLES",
@@ -3341,7 +3573,8 @@
     },
     "table_19_row_1_col_3": {
       "content": "HEME POLYMERASEINHIBITORS (?)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_19_row_1_col_4": {
       "content": "FREE RADICAL GENERATOR (?)",
@@ -3355,7 +3588,8 @@
     },
     "table_19_row_1_col_6": {
       "content": "HEME POLY. INHIBITOR (?)",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-17T15:37:45-0500"
     },
     "table_19_row_2_col_1": {
       "content": "Primaquine",
@@ -3389,7 +3623,8 @@
     },
     "table_19_row_3_col_0": {
       "content": "Prophylaxis1",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-17T15:37:51-0500"
     },
     "table_19_row_4_col_0": {
       "content": "Uncomplicated",
@@ -3398,15 +3633,18 @@
     },
     "table_19_row_4_col_3": {
       "content": "Chloroquine resist.",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-17T15:38:05-0500"
     },
     "table_19_row_4_col_4": {
       "content": "Chloroquine resist.",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_19_row_4_col_5": {
       "content": "Chloroquine resist.",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_19_row_5_col_0": {
       "content": "Complicated",
@@ -3450,7 +3688,8 @@
     },
     "table_20_row_1_col_2": {
       "content": "MULTIPLE/UNKNOWN",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-17T15:38:06-0500"
     },
     "table_20_row_1_col_3": {
       "content": "ETC INHIBITOR",
@@ -3574,11 +3813,13 @@
     },
     "table_21_row_1_col_1": {
       "content": "DNA DAMAGING AGENTS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-17T15:38:16-0500"
     },
     "table_21_row_1_col_2": {
       "content": "DNA DAMAGING AGENTS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_21_row_1_col_3": {
       "content": "PSI?",
@@ -3647,15 +3888,18 @@
     },
     "table_22_row_1_col_1": {
       "content": "DNA DAMAGING AGENT",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_22_row_1_col_2": {
       "content": "DNA DAMAGING AGENT",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-18T09:38:11-0500"
     },
     "table_22_row_1_col_3": {
       "content": "ETC INHIBITORS",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-17T15:38:37-0500"
     },
     "table_22_row_1_col_4": {
       "content": "MACROLIDE",
@@ -3669,7 +3913,8 @@
     },
     "table_22_row_2_col_2": {
       "content": "Sulfadiazine/Pyrimethamine",
-      "summary": ""
+      "summary": "no data",
+      "lastUpdated": "2025-11-17T15:38:39-0500"
     },
     "table_22_row_2_col_3": {
       "content": "Atovaquone",

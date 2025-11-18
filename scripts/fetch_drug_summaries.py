@@ -230,79 +230,122 @@ def process_guide_file(guide_path: Path, force: bool = False, delay: float = 1.0
     skipped_count = 0
     error_count = 0
     
-    # Track content we've already searched to avoid duplicates (from merged cells)
+    # First pass: Build content cache from existing summaries to avoid re-searching
     # Key: normalized content, Value: summary found (or None if not found)
     content_cache = {}
     
-    # Process each cell
+    # Pre-populate cache with existing summaries (to avoid re-searching duplicates)
+    for cell_id, cell_info in cell_data.items():
+        raw_content = cell_info.get("content", "")
+        content = normalize_content_for_storage(raw_content)
+        existing_summary = cell_info.get("summary", "").strip()
+        
+        if content and existing_summary:
+            # Treat "no data" as None in cache (already tried and failed)
+            if existing_summary != "no data":
+                content_cache[content] = existing_summary
+            else:
+                content_cache[content] = None
+    
+    # Second pass: Process cells, but only fetch summaries for unique content
+    # Group cells by content to process duplicates together
+    cells_by_content = {}
+    for cell_id, cell_info in cell_data.items():
+        raw_content = cell_info.get("content", "")
+        content = normalize_content_for_storage(raw_content)
+        
+        if not content:
+            continue
+            
+        if content not in cells_by_content:
+            cells_by_content[content] = []
+        cells_by_content[content].append((cell_id, cell_info))
+    
+    # Process each unique content once
     try:
-        for cell_id, cell_info in cell_data.items():
-            # Get content and normalize it exactly as stored (matching convert_guides.py)
-            raw_content = cell_info.get("content", "")
-            content = normalize_content_for_storage(raw_content)
-            existing_summary = cell_info.get("summary", "").strip()
-            
-            # Verify cell ID format matches expected pattern
-            if not re.match(r"table_\d+_row_\d+_col_\d+", cell_id):
-                print(f"  Warning: Unexpected cell ID format: {cell_id}", file=sys.stderr)
-            
-            # Skip if summary already exists and not forcing
-            # Also skip if it's marked as "no data" (we already tried and failed)
-            if existing_summary and not force:
-                skipped_count += 1
-                # Add to cache so we don't search duplicates
-                # Treat "no data" as None in cache (already tried and failed)
-                content_cache[content] = existing_summary if existing_summary != "no data" else None
-                continue
+        for content, cell_list in cells_by_content.items():
+            # Verify first cell ID format (they should all be similar)
+            first_cell_id = cell_list[0][0]
+            if not re.match(r"table_\d+_row_\d+_col_\d+", first_cell_id):
+                print(f"  Warning: Unexpected cell ID format: {first_cell_id}", file=sys.stderr)
             
             # Check if content looks like a drug name
             if not is_likely_drug_name(content):
-                skipped_count += 1
+                skipped_count += len(cell_list)
                 continue
             
-            # Check if we've already searched this exact content (duplicate from merged cell)
+            # Check if we already have a summary in cache
             if content in content_cache:
-                # Use the cached summary
                 cached_summary = content_cache[content]
                 normalized_display = normalize_drug_name(content)
+                
+                # Apply cached summary to all cells with this content
+                for cell_id, cell_info in cell_list:
+                    existing_summary = cell_info.get("summary", "").strip()
+                    
+                    # Skip if summary already exists and not forcing
+                    if existing_summary and not force:
+                        skipped_count += 1
+                        continue
+                    
+                    if cached_summary:
+                        cell_info["summary"] = cached_summary
+                        cell_info["lastUpdated"] = time.strftime("%Y-%m-%dT%H:%M:%S%z")
+                        if cell_info.get("content") != content:
+                            cell_info["content"] = content
+                        updated_count += 1
+                    else:
+                        # We already tried and failed, mark as "no data"
+                        cell_info["summary"] = "no data"
+                        cell_info["lastUpdated"] = time.strftime("%Y-%m-%dT%H:%M:%S%z")
+                        if cell_info.get("content") != content:
+                            cell_info["content"] = content
+                        updated_count += 1
+                        error_count += 1
+                
                 if cached_summary:
-                    cell_info["summary"] = cached_summary
-                    cell_info["lastUpdated"] = time.strftime("%Y-%m-%dT%H:%M:%S%z")
-                    updated_count += 1
-                    print(f"  Using cached summary for: {normalized_display} (duplicate cell)")
+                    print(f"  Using cached summary for: {normalized_display} ({len(cell_list)} duplicate cell(s))")
                 else:
-                    # We already tried and failed, skip it
-                    error_count += 1
-                    print(f"  Skipping (already tried): {normalized_display}")
+                    print(f"  Skipping (already tried): {normalized_display} ({len(cell_list)} duplicate cell(s))")
                 continue
             
-            # Normalize content for display and lookup (for Wikipedia)
+            # Check if any cell already has a summary (and we're not forcing)
+            if not force:
+                has_existing = any(
+                    cell_info.get("summary", "").strip() and cell_info.get("summary", "").strip() != "no data"
+                    for _, cell_info in cell_list
+                )
+                if has_existing:
+                    skipped_count += len(cell_list)
+                    continue
+            
+            # Fetch summary once for this unique content
             normalized_content = normalize_drug_name(content)
-            print(f"  Fetching summary for: {normalized_content} (cell: {cell_id}, content: '{content[:50]}...')")
+            print(f"  Fetching summary for: {normalized_content} ({len(cell_list)} cell(s) with this content)")
             summary = fetch_wikipedia_summary(content, delay)
             
             # Cache the result (even if None) to avoid re-searching duplicates
-            # Use normalized content as key for cache
             content_cache[content] = summary
             
-            if summary:
-                cell_info["summary"] = summary
-                cell_info["lastUpdated"] = time.strftime("%Y-%m-%dT%H:%M:%S%z")
+            # Apply summary to all cells with this content
+            for cell_id, cell_info in cell_list:
+                if summary:
+                    cell_info["summary"] = summary
+                    cell_info["lastUpdated"] = time.strftime("%Y-%m-%dT%H:%M:%S%z")
+                else:
+                    cell_info["summary"] = "no data"
+                    cell_info["lastUpdated"] = time.strftime("%Y-%m-%dT%H:%M:%S%z")
+                    error_count += 1
+                
                 # Ensure content is normalized and stored correctly
                 if cell_info.get("content") != content:
                     cell_info["content"] = content
                 updated_count += 1
-                print(f"    ✓ Found summary ({len(summary)} chars)")
+            
+            if summary:
+                print(f"    ✓ Found summary ({len(summary)} chars) - applied to {len(cell_list)} cell(s)")
             else:
-                # Store "no data" so we don't search again on next run
-                cell_info["summary"] = "no data"
-                cell_info["lastUpdated"] = time.strftime("%Y-%m-%dT%H:%M:%S%z")
-                # Ensure content is normalized and stored correctly
-                if cell_info.get("content") != content:
-                    cell_info["content"] = content
-                updated_count += 1  # Count as updated so it gets saved
-                error_count += 1
-                print(f"    ✗ No summary found (stored 'no data')")
+                print(f"    ✗ No summary found (stored 'no data' for {len(cell_list)} cell(s))")
     
     except KeyboardInterrupt:
         print(f"\n\n  ⚠ Interrupted by user (Ctrl+C)")
